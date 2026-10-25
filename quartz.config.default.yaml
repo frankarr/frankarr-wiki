@@ -37,6 +37,45 @@ configuration:
         highlight: "rgba(143, 159, 169, 0.15)"
         textHighlight: "#b3aa0288"
 
-plugins: []
+plugins:
+  - source: "github:quartz-community/obsidian-flavored-markdown"
+    enabled: true
+    order: 10
+  - source: "github:quartz-community/github-flavored-markdown"
+    enabled: true
+    order: 20
+  - source: "github:quartz-community/created-modified-date"
+    enabled: true
+    order: 30
+  - source: "github:quartz-community/syntax-highlighting"
+    enabled: true
+    order: 40
+  - source: "github:quartz-community/description"
+    enabled: true
+    order: 50
+  - source: "github:quartz-community/crawl-links"
+    enabled: true
+    order: 60
+  - source: "github:quartz-community/remove-drafts"
+    enabled: true
+    order: 70
+  - source: "github:quartz-community/content-page"
+    enabled: true
+    order: 100
+  - source: "github:quartz-community/folder-page"
+    enabled: true
+    order: 110
+  - source: "github:quartz-community/tag-page"
+    enabled: true
+    order: 120
+  - source: "github:quartz-community/content-index"
+    enabled: true
+    order: 130
+  - source: "github:quartz-community/alias-redirects"
+    enabled: true
+    order: 140
+  - source: "github:quartz-community/cname"
+    enabled: true
+    order: 150
 
 layout: {}
