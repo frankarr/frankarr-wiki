@@ -4,7 +4,7 @@ configuration:
   enableSPA: true
   enablePopovers: true
   analytics: null
-  locale: "en-AU"
+  locale: "en-GB"
   baseUrl: "wiki.frankarr.com"
   ignorePatterns: ["private", "templates", ".obsidian"]
   defaultDateType: "created"
