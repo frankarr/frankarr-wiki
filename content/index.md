@@ -12,11 +12,11 @@ A public archive of everything Frank Arrigo wrote across the web from 2003 to 20
 
 ## Browse by Platform
 
-- [[msdn/index|MSDN Blog]] — 1,709 posts (Dec 2003 → Sep 2013)
-- [[radio-userland/index|Radio UserLand]] — 1,421 posts (May 2003 → Jan 2008)
-- [[blogspot/index|Blogspot]] — 117 posts (Jun 2003 → Nov 2008)
-- [[linkedin/index|LinkedIn Articles]] — 18 articles (2017 → 2022)
-- [[frankarr-com/index|frankarr.com]] — 65 posts (2011 → 2026)
+- [[posts/msdn/index|MSDN Blog]] — 1,709 posts (Dec 2003 → Sep 2013)
+- [[posts/radio-userland/index|Radio UserLand]] — 1,421 posts (May 2003 → Jan 2008)
+- [[posts/blogspot/index|Blogspot]] — 117 posts (Jun 2003 → Nov 2008)
+- [[posts/linkedin/index|LinkedIn Articles]] — 18 articles (2017 → 2022)
+- [[posts/frankarr-com/index|frankarr.com]] — 65 posts (2011 → 2026)
 
 ## Browse by Era
 
