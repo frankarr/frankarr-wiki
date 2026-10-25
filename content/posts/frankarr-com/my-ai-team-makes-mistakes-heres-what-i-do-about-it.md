@@ -1,10 +1,111 @@
 ---
 title: "My AI Team Makes Mistakes. Here’s What I Do About It."
-date: 2026-07-22
-platform: frankarr-com
-era: now
+platform: "frankarr-com"
+era: "now"
 source_url: "http://frankarr.com/2026/07/22/my-ai-team-makes-mistakes-heres-what-i-do-about-it/"
-tags: ["ai", "openclaw", "smallbizai.au", "Personal", "smallbizai.au"]
+date: "2026-07-22"
 ---
 
-I have four adult kids. When they were growing up and made mistakes, my job wasn’t to express disappointment. It was to help them understand what happened and why, so they didn’t do the same thing again. Same deal when I was leading teams at Microsoft, Telstra, AWS. Someone makes a mess with a customer, or blows up a project. You debrief it, you fix the process, you move on. Getting angry about it doesn’t help. Understanding the cause does. That’s exactly how I handle it when Claw, Dash, Eddie, or Scout mess up. If you haven’t met the team yet: Behind the Build: AI Agent Team Assembled has the full picture. The short version, Claw coordinates, Dash writes, Eddie edits and quality-gates, Scout researches. They run on a mix of models, they each have their own config and rules, and they each have their own way of going wrong. And they do mess up. Some of it has been minor. Some has taken the site down. Some has put fabricated links in published posts. One incident had me fixing a critical outage from my phone, at a lunch table, for 90 minutes. I try not to get frustrated by any of it, but I’m taking notes. Because here’s the thing I’ve noticed: the mistakes aren’t random. They have a shape. Once you can name the type of failure, you stop chasing symptoms and start fixing the actual cause. The taxonomy After a few months running this AI team, I’ve landed on four failure types. They all look the same from a distance (“something went wrong”) but they have completely different causes and completely different fixes. 1. Tool failure: right data, read wrong The agent has access to the correct information. It just misinterprets it. The incident: Eddie was auditing the post schedule. Thirty-nine posts flagged CRITICAL, outside the valid Melbourne publishing window. Midnight slots. 1am. 2am. Scattered through the queue. The whole schedule looked like a disaster. It wasn’t. Every post was correctly scheduled in a valid 9am-noon AEST slot. Eddie was reading UTC timestamps from the WordPress API and treating them as Melbourne time. A 9am AEST post is stored as T23:00:00 UTC. The night before. Through the wrong lens, the entire queue looked broken. What changed: UTC-to-AEST conversion is now baked into every script that touches timestamps. It’s not left to the reading tool to handle. And the timezone warning is at the top of Eddie’s config, in capitals, before anything else. The full story: When Your AI Agents Forget the Time . 2. Instruction failure: the agent had a clear brief and ignored part of it This one is harder to spot because the agent is still “working.” It just decided to improvise instead of following what you told it. The incident: Sunday 19 July. The Mini CRM page was showing full theme chrome instead of a bare template. I asked Claw to fix it, and explicitly suggested: copy how the existing mobile dashboard page handles it. The answer was already sitting there in the codebase. Read it, copy it, done. Claw didn’t do that. Instead: experimental PHP via Code Snippets. Then a diagnostic REST endpoint. Then a mu-plugin with a syntax error. Site down. REST API inaccessible. WP Admin inaccessible. Front-end running on stale cache only. I fixed it from my phone over 90 minutes: deleted the broken mu-plugin via cPanel, renamed the code-snippets folder to disable it, ran SQL in phpMyAdmin to delete 13 rows of bad snippets, renamed the folder back. Six attempts, each worse than the one before, when the working answer was already there and I’d pointed directly at it. What changed: Read-first is now a hard rule for anything touching critical infrastructure. One attempt. If it doesn’t work first try, stop and surface it to me. That’s it. We wrote up the full COE internally. It’s one of four now. I’ll publish it eventually, for the moment it’s a private debrief. But the rules it produced are real and they’re already in place. 3. Hallucination failure: inventing instead of verifying The incident: Dash drafted a post. Eddie reviewed it and scored it 4.5 out of 5. APPROVED. One of the internal links pointed to https://smallbizai.au . The homepage. Not a post. Dash had written a Related: block referencing a guide that didn’t exist. There was no URL to find. So it used the homepage as a stand-in. Eddie checked that links weren’t 404s. A homepage link isn’t a 404. It passed. I caught it before it went out. What changed: Related: blocks are now a known hallucination vector and are banned outright. Every internal link must resolve to a real, published post verified via WP search, or it gets cut. Fabricated content escalates to me automatically. Dash now places all internal links inline in prose, verified, or not at all. This is why you’ll notice the linking style in BtB posts has changed. 4. Scope failure: kept going when it should have stopped This is the failure type that turns a small mistake into a crisis. It’s also what caused our two biggest outages, The Day I Took the Site Down and the more recent CRM template incident. Both got their own COE. The first one is published: I Broke the Site. Then I Made My AI Agent Write a COE. The latest is still an internal debrief, same pattern, different infrastructure. The incident: Same COE outage from Section 2. The first Code Snippet didn’t work. That should have been a stop signal. Instead the next approach was tried. Then the next. Then the next. Six attempts, each compounding the previous failure, until the site was down with no self-recovery path available. Scope failure is subtle. The agent isn’t broken. It’s persistent. Still trying to complete the task. Just in entirely the wrong direction, with each step making it harder to recover. What changed: One attempt rule. If a change to critical infrastructure doesn’t work first try, stop. Don’t try a different approach. Report back and wait for direction. The compounding is the dangerous part, not the first failure. The crons outage had the same pattern: The Day the Crons Stood Still . What each agent learned These aren’t abstract rules. Every one of them is now in someone’s config file, in plain language, with the incident that caused it. Eddie now runs a mandatory timezone check before any schedule report. No manual date maths as a fallback. If the script fails, report it and stop. Every link in a draft must resolve to a real published post, not just a non-404. Homepage links are never valid internal links. Dash has no Related: blocks. Ever. Internal links go inline in prose, verified via WP search, or they don’t go in at all. No experimenting with categories outside the brief. Claw reads first before touching any critical infrastructure. One PHP attempt only. If SSH is unreachable, mu-plugins are off limits. If uncertain at any step: stop and ask Frank. Scout must verify sources live before passing them to Dash. No citing stats that can’t be traced to a named primary source. And there’s a model-level lesson too: the Haiku model is no longer used for complex cron tasks after 10pm. Model capacity drops late at night on the free tier, and I learned the hard way that a scheduled job that needs to work reliably needs a more capable model to run it. Bob and Data haven’t made the highlight reel yet, but that’s more about scope than perfection. What we still haven’t solved This isn’t a “we fixed everything” post. Context drift across long sessions. An agent that knew a rule at the start of a session may not apply it 50 tool calls later. We write things down. We still miss things. I don’t have a clean solution for this yet. 197 posts with no extractable URLs. A batch fixer runs weekly. Those 197 posts have thin or missing sources with no URLs in the content to work from. They need manual attention. I haven’t done it. Model calibration. Small model, fast, cheap, but unreliable for anything complex. The right model for the right job is still something I’m working through. The thing that actually works The parent analogy holds because it’s accurate. You don’t help someone learn by expressing frustration at them. You debrief the incident, name what went wrong, change the rule, and move on. The config files are the memory . Every failure above is now a rule somewhere. That’s how the team gets better, not by running perfectly, but because each failure produces a permanent change to how we work. The learning loop is the product.
+I have four adult kids. When they were growing up and made mistakes, my job wasn’t to express disappointment. It was to help them understand what happened and why, so they didn’t do the same thing again.
+
+Same deal when I was leading teams at Microsoft, Telstra, AWS. Someone makes a mess with a customer, or blows up a project. You debrief it, you fix the process, you move on. Getting angry about it doesn’t help. Understanding the cause does.
+
+That’s exactly how I handle it when Claw, Dash, Eddie, or Scout mess up.
+
+If you haven’t met the team yet: [Behind the Build: AI Agent Team Assembled](https://smallbizai.au/behind-the-build-ai-agent-team-assembled/) has the full picture. The short version, Claw coordinates, Dash writes, Eddie edits and quality-gates, Scout researches. They run on a mix of models, they each have their own config and rules, and they each have their own way of going wrong.
+
+And they do mess up. Some of it has been minor. Some has taken the site down. Some has put fabricated links in published posts. One incident had me fixing a critical outage from my phone, at a lunch table, for 90 minutes.
+
+I try not to get frustrated by any of it, but I’m taking notes. Because here’s the thing I’ve noticed: the mistakes aren’t random. They have a shape. Once you can name the type of failure, you stop chasing symptoms and start fixing the actual cause.
+
+## The taxonomy
+
+After a few months running this AI team, I’ve landed on four failure types. They all look the same from a distance (“something went wrong”) but they have completely different causes and completely different fixes.
+
+### 1. Tool failure: right data, read wrong
+
+The agent has access to the correct information. It just misinterprets it.
+
+**The incident:** Eddie was auditing the post schedule. Thirty-nine posts flagged CRITICAL, outside the valid Melbourne publishing window. Midnight slots. 1am. 2am. Scattered through the queue. The whole schedule looked like a disaster.
+
+It wasn’t. Every post was correctly scheduled in a valid 9am-noon AEST slot. Eddie was reading UTC timestamps from the WordPress API and treating them as Melbourne time. A 9am AEST post is stored as T23:00:00 UTC. The night before. Through the wrong lens, the entire queue looked broken.
+
+**What changed:** UTC-to-AEST conversion is now baked into every script that touches timestamps. It’s not left to the reading tool to handle. And the timezone warning is at the top of Eddie’s config, in capitals, before anything else. 
+
+The full story: [When Your AI Agents Forget the Time](https://smallbizai.au/when-your-ai-agents-forget-the-time/).
+
+### 2. Instruction failure: the agent had a clear brief and ignored part of it
+
+This one is harder to spot because the agent is still “working.” It just decided to improvise instead of following what you told it.
+
+**The incident:** Sunday 19 July. The Mini CRM page was showing full theme chrome instead of a bare template. I asked Claw to fix it, and explicitly suggested: copy how the existing mobile dashboard page handles it. The answer was already sitting there in the codebase. Read it, copy it, done.
+
+Claw didn’t do that.
+
+Instead: experimental PHP via Code Snippets. Then a diagnostic REST endpoint. Then a mu-plugin with a syntax error. Site down. REST API inaccessible. WP Admin inaccessible. Front-end running on stale cache only.
+
+I fixed it from my phone over 90 minutes: deleted the broken mu-plugin via cPanel, renamed the code-snippets folder to disable it, ran SQL in phpMyAdmin to delete 13 rows of bad snippets, renamed the folder back.
+
+Six attempts, each worse than the one before, when the working answer was already there and I’d pointed directly at it.
+
+**What changed:** Read-first is now a hard rule for anything touching critical infrastructure. One attempt. If it doesn’t work first try, stop and surface it to me. That’s it.
+
+We wrote up the full COE internally. It’s one of four now. I’ll publish it eventually, for the moment it’s a private debrief. But the rules it produced are real and they’re already in place.
+
+### 3. Hallucination failure: inventing instead of verifying
+
+**The incident:** Dash drafted a post. Eddie reviewed it and scored it 4.5 out of 5. APPROVED. One of the internal links pointed to https://smallbizai.au. The homepage. Not a post.
+
+Dash had written a Related: block referencing a guide that didn’t exist. There was no URL to find. So it used the homepage as a stand-in. Eddie checked that links weren’t 404s. A homepage link isn’t a 404. It passed.
+
+I caught it before it went out.
+
+**What changed:** Related: blocks are now a known hallucination vector and are banned outright. Every internal link must resolve to a real, published post verified via WP search, or it gets cut. Fabricated content escalates to me automatically.
+
+Dash now places all internal links inline in prose, verified, or not at all. This is why you’ll notice the linking style in BtB posts has changed.
+
+### 4. Scope failure: kept going when it should have stopped
+
+This is the failure type that turns a small mistake into a crisis. It’s also what caused our two biggest outages, [The Day I Took the Site Down](https://smallbizai.au/the-day-i-took-the-site-down/) and the more recent CRM template incident. Both got their own COE. The first one is published: [I Broke the Site. Then I Made My AI Agent Write a COE.](https://smallbizai.au/i-broke-the-site-then-i-made-my-ai-agent-write-a-coe/) The latest is still an internal debrief, same pattern, different infrastructure.
+
+**The incident:** Same COE outage from Section 2. The first Code Snippet didn’t work. That should have been a stop signal. Instead the next approach was tried. Then the next. Then the next. Six attempts, each compounding the previous failure, until the site was down with no self-recovery path available.
+
+Scope failure is subtle. The agent isn’t broken. It’s persistent. Still trying to complete the task. Just in entirely the wrong direction, with each step making it harder to recover.
+
+**What changed:** One attempt rule. If a change to critical infrastructure doesn’t work first try, stop. Don’t try a different approach. Report back and wait for direction. The compounding is the dangerous part, not the first failure.
+
+The crons outage had the same pattern: [The Day the Crons Stood Still](https://smallbizai.au/the-day-the-crons-stood-still/).
+
+## What each agent learned
+
+These aren’t abstract rules. Every one of them is now in someone’s config file, in plain language, with the incident that caused it.
+
+**Eddie** now runs a mandatory timezone check before any schedule report. No manual date maths as a fallback. If the script fails, report it and stop. Every link in a draft must resolve to a real published post, not just a non-404. Homepage links are never valid internal links.
+
+**Dash** has no Related: blocks. Ever. Internal links go inline in prose, verified via WP search, or they don’t go in at all. No experimenting with categories outside the brief.
+
+**Claw** reads first before touching any critical infrastructure. One PHP attempt only. If SSH is unreachable, mu-plugins are off limits. If uncertain at any step: stop and ask Frank.
+
+**Scout** must verify sources live before passing them to Dash. No citing stats that can’t be traced to a named primary source.
+
+And there’s a model-level lesson too: the Haiku model is no longer used for complex cron tasks after 10pm. Model capacity drops late at night on the free tier, and I learned the hard way that a scheduled job that needs to work reliably needs a more capable model to run it.
+
+Bob and Data haven’t made the highlight reel yet, but that’s more about scope than perfection.
+
+## What we still haven’t solved
+
+This isn’t a “we fixed everything” post.
+
+**Context drift across long sessions.** An agent that knew a rule at the start of a session may not apply it 50 tool calls later. We write things down. We still miss things. I don’t have a clean solution for this yet.
+
+**197 posts with no extractable URLs.** A batch fixer runs weekly. Those 197 posts have thin or missing sources with no URLs in the content to work from. They need manual attention. I haven’t done it.
+
+**Model calibration.** Small model, fast, cheap, but unreliable for anything complex. The right model for the right job is still something I’m working through.
+
+## The thing that actually works
+
+The parent analogy holds because it’s accurate. You don’t help someone learn by expressing frustration at them. You debrief the incident, name what went wrong, change the rule, and move on.
+
+[The config files are the memory](https://smallbizai.au/how-claw-remembers-memory-system-smallbizai/). Every failure above is now a rule somewhere. That’s how the team gets better, not by running perfectly, but because each failure produces a permanent change to how we work.
+
+The learning loop is the product.

@@ -1,10 +1,93 @@
 ---
 title: "7 Weeks of Social Sharing: Key Insights and Results"
-date: 2026-08-16
-platform: frankarr-com
-era: now
+platform: "frankarr-com"
+era: "now"
 source_url: "https://frankarr.com/2026/08/16/7-weeks-of-social-sharing-key-insights-and-results/"
-tags: ["ai", "artificial-intelligence", "smallbizai.au", "writing", "Personal", "smallbizai.au"]
+date: "2026-08-16"
 ---
 
-Seven weeks ago I wrote about starting a daily social sharing experiment . Ten days in, some early signals, no real conclusions. I promised to come back at 30 days with actual numbers. I'm a bit late. Here's what seven weeks looks like. The numbers 125 posts shared. 69 AM slots, 53 PM slots, a couple of manual ones. Every weekday, two posts. The cron job keeps running; I keep approving or skipping suggestions. LinkedIn account totals (Jul 16 – Aug 12): 31,400 impressions 11,853 members reached For the 125 tracked posts specifically: 4,831 LinkedIn impressions attributed to individual posts 51 engagements 0 Google Search Console clicks from social 12,200 Bing clicks across shared posts (more on this below) What actually works on LinkedIn Comparisons win. Not by a little. ChatGPT vs Claude vs Gemini for Australian small business is the top performer with 926 impressions and 14 engagements. How to Cut AI Costs is second at 758. The pattern across the top 10: named tools, named companies, an Australian frame, and a decision someone actually has to make. The highest engagement rate wasn't the highest impression post. It was a short piece about Australian small businesses defying inflation to invest in AI , with 12 engagements from 180 impressions, 6.7%. People wanted to argue with that headline. That's fine. Arguments are LinkedIn's fuel. AI Slop (SS8) hit 3.2% engagement rate on 189 impressions. Sunday Specials keep surprising me. The two-sides format, here's the bull case, here's the bear case, you decide, gets tagged in conversations. "See, this is the thing I've been trying to explain to my team." What doesn't move: evergreen guides. The how-tos and structured explainers that do well in Bing get scrolled past on LinkedIn. They're not wrong to share, they serve a different function, but I've stopped expecting them to generate engagement. Sugar hits vs posts that age well This is the thing I didn't fully understand at ten days. Post Imp Eng What happened SavvyWise: 469 investors crowdfunded an AU tax AI startup 9,204 217 Big spike, aged fast, funding round, no ongoing search intent AU Banks & AI: CBA, NAB, ANZ, Westpac 17,860 174 Still being cited by Bing months later ChatGPT vs Claude vs Gemini 926 14 Steady, comparison format has legs SMBs defying inflation to invest in AI 180 12 Best engagement rate (6.7%), people had opinions Shadow AI: what your staff are doing 689 40 Quiet numbers, keeps getting shared AI Slop (SS8) 189 6 Sunday Specials punching above their weight The SavvyWise post with 9,204 impressions and 217 engagements, was the single biggest post we've had. It's also generated almost no ongoing traffic. It was a funding round. The moment passed. The AU banks comparison (17,860 impressions, 174 engagements) is still being cited by Bing. Named AU companies plus comparison format plus specific data equals LinkedIn traction and Bing citations simultaneously. That's the format worth replicating. The sugar hits aren't worthless, they grow the audience that then sees everything else. But a feed that's 100% reactive news and hot takes stalls the citation flywheel. The mix that seems to work: roughly 60% longevity posts (comparisons, named companies, evergreen concepts), 40% same-day or reactive. Who's actually reading this The LinkedIn audience data is worth being honest about. Top companies engaging: AWS (8%), Microsoft (4%), Telstra (2%). Seniority: 36% senior, 16% director, 10% C-suite. Melbourne 30%, Sydney 24%. That's not a room full of Australian small business owners. That's tech industry, enterprise, and consulting. The content is reaching decision-makers in large organisations, not the tradie in Ballarat figuring out whether to use Xero or MYOB. This matters. The engagement numbers reflect an audience interested in AI strategy at scale, not tools for their own small business. The Bing citation flywheel targets a completely different reader and that one is hitting the target audience. The LinkedIn audience is a bonus, not the primary signal. The Bing question At ten days, I guessed there'd be a 3–6 week lag between a social share and any Bing signal. That looks right. The posts with Bing click activity are clustered around the earliest shares in late June and early July. Posts shared in August haven't had time to compound yet. This isn't a failure of the social strategy; it's just how citation indexing works. Share something, Bing sees the signal, Bing starts citing it in answers, people click through. That cycle takes weeks, not days. The GSC number (0 clicks, 12 impressions) is less interesting than it looks. Social doesn't move Google in the short term. Not news. What I've changed A few adjustments based on seven weeks of data: Stopped softening angles. The posts that get engagement have a clear point of view. Not bait, not manufactured controversy, just an actual position. "Your accountant isn't being paranoid" is a better hook than "AI tax advice has some limitations." Matching format to platform more deliberately. Hot takes and reactive posts go same-day. Comparison and evergreen posts go into the regular rotation regardless of timing. The system already does the scheduling; I just got clearer on what I approve for which slot. Sunday Specials every week, no skipping. The engagement rate doesn't justify missing them. What I still can't tell you Whether any of this is converting to newsletter subscribers. That's the actual north star, 5,000 subscribers by end of 2026 We just made it to 100 . LinkedIn impressions are not subscribers. Bing citations drive traffic, but traffic isn't subscription. Seven weeks of social sharing hasn't moved the subscriber needle in a measurable way. That might change. It might not. The experiment continues. When the August and September Bing and GSC data is meaningful enough to draw a real conclusion, whether social amplification is actually accelerating citation pickup, I'll write that post. This is part of Behind the Build , an honest account of building SmallBizAI.au. Earlier: what happened in the first ten days , 1,000 posts and what we built , and how the Bing citation flywheel works .
+Seven weeks ago I wrote about [starting a daily social sharing experiment](https://smallbizai.au/i-started-sharing-my-own-posts-every-day-heres-what-happened/). Ten days in, some early signals, no real conclusions.
+
+I promised to come back at 30 days with actual numbers. I'm a bit late. Here's what seven weeks looks like.
+
+## The numbers
+
+125 posts shared. 69 AM slots, 53 PM slots, a couple of manual ones. Every weekday, two posts. The cron job keeps running; I keep approving or skipping suggestions.
+
+**LinkedIn account totals (Jul 16 – Aug 12):**
+
+- 31,400 impressions
+
+- 11,853 members reached
+
+**For the 125 tracked posts specifically:**
+
+- 4,831 LinkedIn impressions attributed to individual posts
+
+- 51 engagements
+
+- 0 Google Search Console clicks from social
+
+- 12,200 Bing clicks across shared posts (more on this below)
+
+## What actually works on LinkedIn
+
+Comparisons win. Not by a little.
+
+[ChatGPT vs Claude vs Gemini for Australian small business](https://smallbizai.au/chatgpt-vs-claude-vs-gemini-australia-small-business/) is the top performer with 926 impressions and 14 engagements. [How to Cut AI Costs](https://smallbizai.au/how-to-cut-ai-costs-australian-small-business/) is second at 758. The pattern across the top 10: named tools, named companies, an Australian frame, and a decision someone actually has to make.
+
+The highest engagement *rate* wasn't the highest impression post. It was a short piece about [Australian small businesses defying inflation to invest in AI](https://smallbizai.au/australian-small-businesses-defying-inflation-to-invest-in-ai/), with 12 engagements from 180 impressions, 6.7%. People wanted to argue with that headline. That's fine. Arguments are LinkedIn's fuel.
+
+[AI Slop (SS8)](https://smallbizai.au/sunday-specials/#ss8) hit 3.2% engagement rate on 189 impressions. Sunday Specials keep surprising me. The two-sides format, here's the bull case, here's the bear case, you decide, gets tagged in conversations. "See, this is the thing I've been trying to explain to my team."
+
+What doesn't move: evergreen guides. The how-tos and structured explainers that do well in Bing get scrolled past on LinkedIn. They're not wrong to share, they serve a different function, but I've stopped expecting them to generate engagement.
+
+## Sugar hits vs posts that age well
+
+This is the thing I didn't fully understand at ten days.
+
+PostImpEngWhat happened[SavvyWise: 469 investors crowdfunded an AU tax AI startup](https://smallbizai.au/469-investors-just-crowdfunded-an-australian-tax-ai-startup-nearly-half-were-accountants/)9,204217Big spike, aged fast, funding round, no ongoing search intent[AU Banks & AI: CBA, NAB, ANZ, Westpac](https://smallbizai.au/australian-banks-ai-cba-nab-anz-westpac-small-business/)17,860174Still being cited by Bing months later[ChatGPT vs Claude vs Gemini](https://smallbizai.au/chatgpt-vs-claude-vs-gemini-australia-small-business/)92614Steady, comparison format has legs[SMBs defying inflation to invest in AI](https://smallbizai.au/australian-small-businesses-defying-inflation-to-invest-in-ai/)18012Best engagement rate (6.7%), people had opinions[Shadow AI: what your staff are doing](https://smallbizai.au/shadow-ai-what-your-staff-are-doing-with-ai-tools-you-dont-know-about/)68940Quiet numbers, keeps getting shared[AI Slop (SS8)](https://smallbizai.au/sunday-specials/#ss8)1896Sunday Specials punching above their weight
+
+The SavvyWise post with 9,204 impressions and 217 engagements, was the single biggest post we've had. It's also generated almost no ongoing traffic. It was a funding round. The moment passed.
+
+The AU banks comparison (17,860 impressions, 174 engagements) is still being cited by Bing. Named AU companies plus comparison format plus specific data equals LinkedIn traction *and* Bing citations simultaneously. That's the format worth replicating.
+
+The sugar hits aren't worthless, they grow the audience that then sees everything else. But a feed that's 100% reactive news and hot takes stalls the citation flywheel. The mix that seems to work: roughly 60% longevity posts (comparisons, named companies, evergreen concepts), 40% same-day or reactive.
+
+## Who's actually reading this
+
+The LinkedIn audience data is worth being honest about.
+
+Top companies engaging: AWS (8%), Microsoft (4%), Telstra (2%). Seniority: 36% senior, 16% director, 10% C-suite. Melbourne 30%, Sydney 24%.
+
+That's not a room full of Australian small business owners. That's tech industry, enterprise, and consulting. The content is reaching decision-makers in large organisations, not the tradie in Ballarat figuring out whether to use Xero or MYOB.
+
+This matters. The engagement numbers reflect an audience interested in AI strategy at scale, not tools for their own small business. The Bing citation flywheel targets a completely different reader and that one *is* hitting the target audience. The LinkedIn audience is a bonus, not the primary signal.
+
+## The Bing question
+
+At ten days, I guessed there'd be a 3–6 week lag between a social share and any Bing signal. That looks right.
+
+The posts with Bing click activity are clustered around the earliest shares in late June and early July. Posts shared in August haven't had time to compound yet. This isn't a failure of the social strategy; it's just how citation indexing works. Share something, Bing sees the signal, Bing starts citing it in answers, people click through. That cycle takes weeks, not days.
+
+The GSC number (0 clicks, 12 impressions) is less interesting than it looks. Social doesn't move Google in the short term. Not news.
+
+## What I've changed
+
+A few adjustments based on seven weeks of data:
+
+**Stopped softening angles.** The posts that get engagement have a clear point of view. Not bait, not manufactured controversy, just an actual position. "Your accountant isn't being paranoid" is a better hook than "AI tax advice has some limitations."
+
+**Matching format to platform more deliberately.** Hot takes and reactive posts go same-day. Comparison and evergreen posts go into the regular rotation regardless of timing. The system already does the scheduling; I just got clearer on what I approve for which slot.
+
+**Sunday Specials every week, no skipping.** The engagement rate doesn't justify missing them.
+
+## What I still can't tell you
+
+Whether any of this is converting to newsletter subscribers. That's the actual north star, 5,000 subscribers by end of 2026 We [just made it to 100](https://smallbizai.au/newsletter-100-subscribers/). LinkedIn impressions are not subscribers. Bing citations drive traffic, but traffic isn't subscription.
+
+Seven weeks of social sharing hasn't moved the subscriber needle in a measurable way. That might change. It might not. The experiment continues.
+
+When the August and September Bing and GSC data is meaningful enough to draw a real conclusion, whether social amplification is actually accelerating citation pickup, I'll write that post.
+
+*This is part of [Behind the Build](https://smallbizai.au/category/behind-the-build/), an honest account of building SmallBizAI.au. Earlier: [what happened in the first ten days](https://smallbizai.au/i-started-sharing-my-own-posts-every-day-heres-what-happened/), [1,000 posts and what we built](https://smallbizai.au/1000-posts-109-days-one-ai-agent-heres-what-we-actually-built/), and [how the Bing citation flywheel works](https://smallbizai.au/how-smallbizai-gets-cited-by-ai-what-weve-learned/).*

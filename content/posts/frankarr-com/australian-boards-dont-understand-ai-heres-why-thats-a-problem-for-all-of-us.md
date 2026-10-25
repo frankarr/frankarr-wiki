@@ -1,10 +1,52 @@
 ---
 title: "Australian Boards Don’t Understand AI. Here’s Why That’s A Problem For All Of Us."
-date: 2026-04-21
-platform: frankarr-com
-era: now
+platform: "frankarr-com"
+era: "now"
 source_url: "http://frankarr.com/2026/04/21/australian-boards-dont-understand-ai-heres-why-thats-a-problem-for-all-of-us/"
-tags: ["ai", "artificial-intelligence", "chatgpt", "technology", "writing", "Geek", "Personal", "smallbizai.au"]
+date: "2026-04-21"
 ---
 
-I ve spent 40 years in technology. Starting at Aspect Computing in the 80s as a graduate, then 22 years at Microsoft both in Australia and Seattle, 4 years at Telstra, and finally 6 years at AWS covering Australia and APJ. I ve sat in boardrooms, executive briefings, and strategy sessions across Australia, the US, and the Asia-Pacific region. And I ll tell you what I ve noticed: the people making technology decisions at most Australian companies often understand finance, law, and general management very well. They understand technology considerably less well. New research from Queensland University of Technology has put numbers to something I ve experienced firsthand. Out of the 500 largest ASX-listed companies, more than half have zero directors with STEM expertise. Over 15 years — covering smartphones, cloud, and now generative AI — that number moved from 8% to 13%. Meanwhile, accountants, bankers and lawyers still hold 42% of board seats. I don t think these are bad directors. Many are excellent at what they do. But technology is no longer a back-office function. It s strategy. And you can t set strategy for something you don t understand. What I saw at Microsoft and AWS At Microsoft, I spent years as a technical evangelist — explaining technology to businesses, developers, and yes, executives. The best executive conversations I had were with people who had at least some technical background. They asked better questions. They made faster decisions. They weren t paralysed by the fear of making the wrong choice because they didn t understand the options. At AWS, I ran teams focused on helping Australian organisations adopt cloud and AI. Again: the organisations that moved fastest had at least one person close to the top who genuinely understood what they were adopting. Not necessarily an engineer — but someone who had shipped software, run a tech team, or built something with technology. A former colleague of mine who focused specifically on AI governance and board-level education at AWS put it well: boards tend to either dismiss AI as an IT problem or panic about it as an existential threat. Very few engage with it as what it actually is — a general-purpose capability that changes what s possible across every function of the business. Why this is urgent now The QUT research only goes to 2022. AI as we know it today — ChatGPT, Claude, Copilot, Gemini — arrived after that. The urgency has increased dramatically since then. ASIC has told Australian boards that cybersecurity is their responsibility, not the IT department s. AI brings similar responsibilities: data privacy, algorithmic bias, liability when AI systems make mistakes, regulatory compliance under an evolving Privacy Act. The Australian government signed an MOU with Anthropic in April 2026 — the first arrangement under the National AI Plan. Billions are flowing into data centres. Anthropic is opening a Sydney office. The investment appetite is real. But investment without governance is how you get expensive technology initiatives that deliver nothing, or worse, that create serious legal and reputational risk. The question I keep asking myself I m on a career break right now. Building SmallBizAI.au — a practical guide to AI for Australian small business owners. It s been a fascinating experiment in what one person can build with the right AI tools and infrastructure. But the boards research made me think about what s next. Not just for me personally — though if you re looking for someone who s spent 40 years in technology, led teams across Microsoft, Telstra and AWS, and is now building AI-native products, I m worth a conversation. But more broadly: what does Australia lose when the people overseeing our biggest companies don t understand the most important technology shift of our lifetimes? The research has an answer. Companies with more STEM expertise on their boards invest more in innovation and are valued more highly. That held even in low-tech industries. The boardroom gap isn t just a governance problem. It s a competitiveness problem. What good looks like I m not arguing every board needs a software engineer. I m arguing boards need at least one person who has operated at the intersection of technology and business — who can ask the right questions, interrogate vendor claims, understand the real risks, and push management to move faster when the opportunity is clear. That person exists in Australia. There are thousands of us — people who came up through technology, moved into leadership, and understand both sides. We re not all in boardrooms. Some of us are on career breaks building websites about AI for small business owners. That might need to change. Sources Elms, N. & Weerasinghe, A. (2025). STEM expertise on Australian ASX 500 boards, 2007–2022. Journal of Accounting Literature . doi:10.1108/JAL-07-2025-0373 StartupDaily: The weird thing about Australian boards is how few directors have tech expertise in the AI age 2025 Watermark Board Diversity Index — AICD Australian Government MOU with Anthropic
+I've spent 40 years in technology. Starting at Aspect Computing in the 80s as a graduate, then 22 years at Microsoft both in Australia and Seattle, 4 years at Telstra, and finally 6 years at AWS covering Australia and APJ. I've sat in boardrooms, executive briefings, and strategy sessions across Australia, the US, and the Asia-Pacific region.
+
+And I'll tell you what I've noticed: the people making technology decisions at most Australian companies often understand finance, law, and general management very well. They understand technology considerably less well.
+
+[New research from Queensland University of Technology](https://www.startupdaily.net/advice/business-strategy/the-weird-thing-about-australian-boards-is-how-few-directors-have-tech-expertise-in-the-ai-age/) has put numbers to something I've experienced firsthand. Out of the 500 largest ASX-listed companies, more than half have zero directors with STEM expertise. Over 15 years — covering smartphones, cloud, and now generative AI — that number moved from 8% to 13%. Meanwhile, accountants, bankers and lawyers still hold 42% of board seats.
+
+I don't think these are bad directors. Many are excellent at what they do. But technology is no longer a back-office function. It's strategy. And you can't set strategy for something you don't understand.
+
+## What I saw at Microsoft and AWS
+At Microsoft, I spent years as a technical evangelist — explaining technology to businesses, developers, and yes, executives. The best executive conversations I had were with people who had at least some technical background. They asked better questions. They made faster decisions. They weren't paralysed by the fear of making the wrong choice because they didn't understand the options.
+
+At AWS, I ran teams focused on helping Australian organisations adopt cloud and AI. Again: the organisations that moved fastest had at least one person close to the top who genuinely understood what they were adopting. Not necessarily an engineer — but someone who had shipped software, run a tech team, or built something with technology.
+
+A former colleague of mine who focused specifically on AI governance and board-level education at AWS put it well: boards tend to either dismiss AI as an IT problem or panic about it as an existential threat. Very few engage with it as what it actually is — a general-purpose capability that changes what's possible across every function of the business.
+
+## Why this is urgent now
+The QUT research only goes to 2022. AI as we know it today — ChatGPT, Claude, Copilot, Gemini — arrived after that. The urgency has increased dramatically since then.
+
+ASIC has told Australian boards that cybersecurity is their responsibility, not the IT department's. AI brings similar responsibilities: data privacy, algorithmic bias, liability when AI systems make mistakes, regulatory compliance under an evolving Privacy Act.
+
+The Australian government signed an MOU with Anthropic in April 2026 — the first arrangement under the National AI Plan. Billions are flowing into data centres. Anthropic is opening a Sydney office. The investment appetite is real.
+
+But investment without governance is how you get expensive technology initiatives that deliver nothing, or worse, that create serious legal and reputational risk.
+
+## The question I keep asking myself
+I'm on a career break right now. Building [SmallBizAI.au](https://smallbizai.au) — a practical guide to AI for Australian small business owners. It's been a fascinating experiment in what one person can build with the right AI tools and infrastructure.
+
+But the boards research made me think about what's next. Not just for me personally — though if you're looking for someone who's spent 40 years in technology, led teams across Microsoft, Telstra and AWS, and is now building AI-native products, I'm worth a conversation. But more broadly: what does Australia lose when the people overseeing our biggest companies don't understand the most important technology shift of our lifetimes?
+
+The research has an answer. Companies with more STEM expertise on their boards invest more in innovation and are valued more highly. That held even in low-tech industries. The boardroom gap isn't just a governance problem. It's a competitiveness problem.
+
+## What good looks like
+I'm not arguing every board needs a software engineer. I'm arguing boards need at least one person who has operated at the intersection of technology and business — who can ask the right questions, interrogate vendor claims, understand the real risks, and push management to move faster when the opportunity is clear.
+
+That person exists in Australia. There are thousands of us — people who came up through technology, moved into leadership, and understand both sides. We're not all in boardrooms. Some of us are on career breaks building websites about AI for small business owners.
+
+That might need to change.
+
+## Sources
+
+- Elms, N. & Weerasinghe, A. (2025). STEM expertise on Australian ASX 500 boards, 2007–2022. *Journal of Accounting Literature*. [doi:10.1108/JAL-07-2025-0373](https://doi.org/10.1108/JAL-07-2025-0373)
+- [StartupDaily: The weird thing about Australian boards is how few directors have tech expertise in the AI age](https://www.startupdaily.net/advice/business-strategy/the-weird-thing-about-australian-boards-is-how-few-directors-have-tech-expertise-in-the-ai-age/)
+- [2025 Watermark Board Diversity Index — AICD](https://www.aicd.com.au/about-aicd/governance-and-policy-leadership/board-diversity/2025-board-diversity-index.html)
+- [Australian Government MOU with Anthropic](https://www.industry.gov.au/news/australian-government-has-signed-memorandum-understanding-mou-global-ai-innovator-anthropic)

@@ -1,10 +1,9 @@
 ---
 title: "Daily Fitbit stats"
-date: 2013-01-02
-platform: frankarr-com
-era: microsoft
+platform: "frankarr-com"
+era: "microsoft"
 source_url: "http://frankarr.com/2013/01/02/daily-fitbit-stats-6/"
-tags: ["Fitbit"]
+date: "2013-01-02"
 ---
 
-My fitbit #fitstats for 1/02/2013: 7,043 steps and 5.1 km traveled. http://www.fitbit.com/user/229VLQ
+My fitbit #fitstats for 1/02/2013: 7,043 steps and 5.1 km traveled. [http://www.fitbit.com/user/229VLQ](http://www.fitbit.com/user/229VLQ)

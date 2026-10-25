@@ -1,10 +1,73 @@
 ---
 title: "From One Sale to Twelve Products: How We Built the SmallBizAI.au Prompt Packs"
-date: 2026-06-12
-platform: frankarr-com
-era: now
+platform: "frankarr-com"
+era: "now"
 source_url: "http://frankarr.com/2026/06/12/from-one-sale-to-twelve-products-how-we-built-the-smallbizai-au-prompt-packs/"
-tags: ["gumroad", "openclaw", "smallbizai.au", "smallbizai.au"]
+date: "2026-06-12"
 ---
 
-The first prompt pack sale happened on a Sunday in April. AU$9. Someone in professional services bought the Bill Time, Not Admin Time pack. Fifty AI prompts for accountants, lawyers and consultants. I messaged Claw. “We sold something.” The reply came back in about two seconds: “Nice. Now let’s sell more.” That was The First Sale — AU$9 and What It Meant . We had a few packs live, others being built, and no real idea whether anyone would pay for this stuff. Six weeks later, we have twelve products, a dedicated /prompt-packs/ page, and a proper system for building them. Here’s how we got there. Why Prompt Packs at All The free prompts page (50 prompts behind an email gate) was always the lead magnet. The paid packs were the upsell. The logic was simple enough: if someone’s already using AI in their café or their tradie business, a pack of 200 purpose-built prompts for that specific industry is worth more to them than a generic guide. We’d already written hundreds of how-to posts across different industries. That content was sitting there showing us what people searched for. The packs were a natural extension of what we were already doing. How We Decided Which Ones to Build Wave 1 was instinct: tradies , cafés , allied health , professional services . Those industries had the strongest existing content on SmallBizAI.au and readers who want practical, specific help rather than a general introduction to ChatGPT. Wave 2 got more deliberate. Three filters: Which industries had strong Bing AI citation counts but no pack yet? Finance and accounting kept appearing in the citation data. Retail too. People were finding us for those topics but we weren’t selling anything related to them. Which categories had real content depth on the site? Beauty and wellness had grown quietly into one of our stronger clusters. Agriculture was underserved in the AI tools space generally, but Australian farmers are earlier AI adopters than most people expect. What was missing from the professional services cluster? We had a general professional services pack. But accountants and bookkeepers have specific problems: BAS, payroll, reconciliation, client reporting. Distinct enough to deserve their own product. The six Wave 2 packs: Retail , eCommerce , Finance and Accounting , Accountants and Bookkeepers , Beauty and Wellness , Agriculture . How We Knew Which Packs to Build Next Claw built a script that automatically added upsell blocks to relevant posts. The tradie how-to posts got a “50 AI prompts for tradies” block at the bottom. The café posts got the café pack. Every industry cluster got its own upsell. That did two things. It drove actual sales. And it told us which industries were clicking through but not finding what they needed yet. Finance and accounting upsells were getting clicks before we had a finance pack. That’s a data signal, not a guess. It turned the content library into a product research tool. The Cover and Icon Pipeline Every product needs a cover and an icon. Twelve covers, twelve icons, all consistent. Claw built a PIL script. Python Imaging Library. Dark green background, gold text, SmallBizAI.au branding. One script, parameterised by product title. The whole batch took about eight minutes to generate. One thing to know: Gumroad’s API doesn’t accept direct image file uploads, but cover images can be set via the preview_url parameter, passing a public image URL. We discovered this after the fact. For the first batch, we generated all twelve covers programmatically and uploaded them through the dashboard. Less elegant than we’d hoped, but done in one sitting. The other thing we learned the hard way: Gumroad silently rejects WebP images. No error, just nothing. Stick with PNG, JPG or GIF per the documentation. The covers are also the featured images on the /prompt-packs/ page, uploaded to WordPress media and baked into the page layout. The Gumroad CLI While writing this post I found the Gumroad CLI . It’s described as “built for humans and AI agents alike”, which is exactly what we are. The basic workflow: gumroad files upload ./pack.pdf , then gumroad products update <id> --file ./pack.pdf --file-name "Pack Name.pdf" . Combined with the preview_url API parameter for covers, that’s a complete pipeline: generate prompts, create product via API, upload PDF via CLI, set cover image, publish. No Gumroad dashboard needed at all. Waves 1 and 2 were already done manually. Wave 3 onwards will be fully automated. The /prompt-packs/ Page Before /prompt-packs/ existed, the products were listed on the Resources page and under “Practical Resources” on the homepage. Easy to miss unless you knew where to look. This was our first proper digital products listing on the site. It just didn’t have a home that matched what it was. We built the dedicated page: all twelve products in one place, grouped by audience type, with covers, descriptions, and direct Gumroad links. The Resources page and the homepage both now point to it. It s similar to the actual Gumroad product page , but shows the covers rather than icons. The path is now: homepage → prompt-packs → individual product. That’s how it should have been from the start. It s also been added to the menu navigation, so it s in plain sight. What We’re Tracking Now UTM (Urchin Tracking Module) links were added for each product across three sources: the site itself, the newsletter, and social. These will tell us which channel is actually driving sales rather than guessing. The first sale was a guess that paid off. Twelve products is something closer to a system. The data will tell us which packs resonate, which industries convert, and where to put energy next. One thing is already clear: the people most likely to buy are the ones who’ve already found us through a specific industry post. They know what they need. They just needed a product that matched.
+The first prompt pack sale happened on a Sunday in April. AU$9. Someone in professional services bought the [Bill Time, Not Admin Time](https://gum.co/u/arazcjg9) pack. Fifty AI prompts for accountants, lawyers and consultants.
+
+I messaged Claw. “We sold something.” The reply came back in about two seconds: “Nice. Now let’s sell more.”
+
+That was [The First Sale — AU$9 and What It Meant](https://smallbizai.au/the-first-sale-a9-and-what-it-meant/). We had a few packs live, others being built, and no real idea whether anyone would pay for this stuff. Six weeks later, we have twelve products, a dedicated [/prompt-packs/](https://smallbizai.au/prompt-packs/) page, and a proper system for building them. Here’s how we got there.
+
+## Why Prompt Packs at All
+
+The [free prompts page](https://smallbizai.au/free-ai-prompts/) (50 prompts behind an email gate) was always the lead magnet. The paid packs were the upsell. The logic was simple enough: if someone’s already using AI in their café or their tradie business, a pack of 200 purpose-built prompts for that specific industry is worth more to them than a generic guide.
+
+We’d already written hundreds of how-to posts across different industries. That content was sitting there showing us what people searched for. The packs were a natural extension of what we were already doing.
+
+## How We Decided Which Ones to Build
+
+Wave 1 was instinct: [tradies](https://gum.co/u/0yrqsewo), [cafés](https://gum.co/u/qfdnlu7m), [allied health](https://gum.co/u/fllk0wts), [professional services](https://gum.co/u/arazcjg9). Those industries had the strongest existing content on SmallBizAI.au and readers who want practical, specific help rather than a general introduction to ChatGPT.
+
+Wave 2 got more deliberate. Three filters:
+
+**Which industries had strong Bing AI citation counts but no pack yet?** Finance and accounting kept appearing in the citation data. Retail too. People were finding us for those topics but we weren’t selling anything related to them.
+
+**Which categories had real content depth on the site?** Beauty and wellness had grown quietly into one of our stronger clusters. Agriculture was underserved in the AI tools space generally, but Australian farmers are earlier AI adopters than most people expect.
+
+**What was missing from the professional services cluster?** We had a general professional services pack. But accountants and bookkeepers have specific problems: BAS, payroll, reconciliation, client reporting. Distinct enough to deserve their own product.
+
+The six Wave 2 packs: [Retail](https://gum.co/u/53ysfysg), [eCommerce](https://gum.co/u/niuhzmt7), [Finance and Accounting](https://gum.co/u/ikcap3jp), [Accountants and Bookkeepers](https://gum.co/u/dljrb6bj), [Beauty and Wellness](https://gum.co/u/plc3e5eu), [Agriculture](https://gum.co/u/mmezhxzn).
+
+## How We Knew Which Packs to Build Next
+
+Claw built a script that automatically added upsell blocks to relevant posts. The tradie how-to posts got a “50 AI prompts for tradies” block at the bottom. The café posts got the café pack. Every industry cluster got its own upsell.
+
+That did two things. It drove actual sales. And it told us which industries were clicking through but not finding what they needed yet. Finance and accounting upsells were getting clicks before we had a finance pack. That’s a data signal, not a guess. It turned the content library into a product research tool.
+
+## The Cover and Icon Pipeline
+
+Every product needs a cover and an icon. Twelve covers, twelve icons, all consistent.
+
+Claw built a PIL script. Python Imaging Library. Dark green background, gold text, SmallBizAI.au branding. One script, parameterised by product title. The whole batch took about eight minutes to generate.
+
+One thing to know: Gumroad’s API doesn’t accept direct image file uploads, but cover images can be set via the preview_url parameter, passing a public image URL. We discovered this after the fact. For the first batch, we generated all twelve covers programmatically and uploaded them through the dashboard. Less elegant than we’d hoped, but done in one sitting.
+
+The other thing we learned the hard way: Gumroad silently rejects WebP images. No error, just nothing. Stick with PNG, JPG or GIF per the documentation.
+
+The covers are also the featured images on the [/prompt-packs/](https://smallbizai.au/prompt-packs/) page, uploaded to WordPress media and baked into the page layout.
+
+## The Gumroad CLI
+
+While writing this post I found the [Gumroad CLI](https://github.com/antiwork/gumroad-cli). It’s described as “built for humans and AI agents alike”, which is exactly what we are.
+
+The basic workflow: gumroad files upload ./pack.pdf, then gumroad products update --file ./pack.pdf --file-name "Pack Name.pdf". Combined with the preview_url API parameter for covers, that’s a complete pipeline: generate prompts, create product via API, upload PDF via CLI, set cover image, publish. No Gumroad dashboard needed at all.
+
+Waves 1 and 2 were already done manually. Wave 3 onwards will be fully automated. 
+
+## The /prompt-packs/ Page
+
+Before [/prompt-packs/](https://smallbizai.au/prompt-packs/) existed, the products were listed on the [Resources page](https://smallbizai.au/resources/) and under “Practical Resources” on the homepage. Easy to miss unless you knew where to look. This was our first proper digital products listing on the site. It just didn’t have a home that matched what it was.
+
+We built the dedicated page: all twelve products in one place, grouped by audience type, with covers, descriptions, and direct Gumroad links. The Resources page and the homepage both now point to it. It's similar to the actual [Gumroad product page](https://smallbizaiau.gumroad.com/), but shows the covers rather than icons.
+
+The path is now: homepage → prompt-packs → individual product. That’s how it should have been from the start. It's also been added to the menu navigation, so it's in plain sight.
+
+## What We’re Tracking Now
+
+UTM (Urchin Tracking Module) links were added for each product across three sources: the site itself, the newsletter, and social. These will tell us which channel is actually driving sales rather than guessing. The first sale was a guess that paid off. Twelve products is something closer to a system. The data will tell us which packs resonate, which industries convert, and where to put energy next.
+
+One thing is already clear: the people most likely to buy are the ones who’ve already found us through a specific industry post. They know what they need. They just needed a product that matched.

@@ -8,23 +8,4 @@ tags:
   - "My Organization"
 ---
 
-Thursday, 10 February 2005
-ninemsn - Class of '98/'99 Catchup
-[listening to: The Loco-Motion [7 -
-Kylie Minogue
-]
-4:50:06 PM
-comment [
-]
-trackback [
-]
-G!
-
-My Organization
-© Copyright 
-     2006
-     Frank Arrigo.
-A Geek Microsoft Blogger
-Last update: 
-     8/07/2006; 10:20:38 AM
-     .
+Thursday, 10 February 2005 ninemsn - Class of '98/'99 Catchup [listening to: The Loco-Motion [7 - Kylie Minogue ] 4:50:06 PM comment [ ] trackback [ ] G!  My Organization © Copyright 2006 Frank Arrigo. A Geek Microsoft Blogger Last update: 8/07/2006; 10:20:38 AM.

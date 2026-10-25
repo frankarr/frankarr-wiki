@@ -6,30 +6,4 @@ source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/nyt-micros
 date: "2006-11-09"
 ---
 
-Note
-signing in
-or
-changing directories
-.
-changing directories
-.
-NYT: Microsoft Strikes Deal for Music
-Excerpt from
-New York Times
-Article:
-Microsoft Strikes Deal for Music
-https://www.nytimes.com/2006/11/09/technology/09music.html
-In a rare move, Microsoft said yesterday that it had agreed to pay a percentage of the sales of its new portable media player to the Universal Music Group.
-To download the Times Reader, click
-here
-.
-Published with
-BlogMailr
-Comments
-Anonymous
-June 08, 2009
-PingBack from
-http://toenailfungusite.info/story.php?id=9669
-Additional resources
-Last updated on
-2006-11-09
+NYT: Microsoft Strikes Deal for Music Excerpt from New York Times Article: Microsoft Strikes Deal for Music https://www.nytimes.com/2006/11/09/technology/09music.html In a rare move, Microsoft said yesterday that it had agreed to pay a percentage of the sales of its new portable media player to the Universal Music Group. To download the Times Reader, click here. Published with BlogMailr Comments Anonymous June 08, 2009 PingBack from http://toenailfungusite.info/story.php?id=9669 Additional resources Last updated on 2006-11-09

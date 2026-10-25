@@ -6,31 +6,4 @@ source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/nyt-wirele
 date: "2007-02-04"
 ---
 
-Note
-signing in
-or
-changing directories
-.
-changing directories
-.
-NYT: Wireless Internet for All, Without the Towers
-Excerpt from
-New York Times
-Article:
-Wireless Internet for All, Without the Towers
-https://www.nytimes.com/2007/02/04/business/yourmoney/04digi.html
-THESE still are early days for the Internet, globally speaking. One billion people online; five billion to go.
-MY COMMENT:
-Mesh WiFi â now that Iâld like to see!
-To download the Times Reader, click
-here
-.
-Published with
-BlogMailr
-Comments
-Anonymous
-February 04, 2007
-The comment has been removed
-Additional resources
-Last updated on
-2007-02-04
+NYT: Wireless Internet for All, Without the Towers Excerpt from New York Times Article: Wireless Internet for All, Without the Towers https://www.nytimes.com/2007/02/04/business/yourmoney/04digi.html THESE still are early days for the Internet, globally speaking. One billion people online; five billion to go. MY COMMENT: Mesh WiFi â now that Iâld like to see! To download the Times Reader, click here. Published with BlogMailr Comments Anonymous February 04, 2007 The comment has been removed Additional resources Last updated on 2007-02-04

@@ -6,27 +6,4 @@ source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/nyt-a-high
 date: "2007-06-17"
 ---
 
-Note
-signing in
-or
-changing directories
-.
-changing directories
-.
-NYT: A High-Definition Media PC That Evokes Legendary Technology
-Excerpt from
-New York Times
-Article:
-A High-Definition Media PC That Evokes Legendary Technology
-https://www.nytimes.com/2007/06/14/technology/14alien.html
-According to urban legend, aliens crash-landed in the desert outside Roswell, N.M., and their remains are hidden in the Air Forceâs Hangar 18. Inside Alienwareâs Hangar 18, however, you will find only high-end PC components and high-definition video playback systems.
-MY COMMENT:
-rigo wants this. So do I â¦â¦â¦
-To download the Times Reader, click
-here
-.
-Published with
-BlogMailr
-Additional resources
-Last updated on
-2007-06-17
+NYT: A High-Definition Media PC That Evokes Legendary Technology Excerpt from New York Times Article: A High-Definition Media PC That Evokes Legendary Technology https://www.nytimes.com/2007/06/14/technology/14alien.html According to urban legend, aliens crash-landed in the desert outside Roswell, N.M., and their remains are hidden in the Air Forceâs Hangar 18. Inside Alienwareâs Hangar 18, however, you will find only high-end PC components and high-definition video playback systems. MY COMMENT: rigo wants this. So do I â¦â¦â¦ To download the Times Reader, click here. Published with BlogMailr Additional resources Last updated on 2007-06-17

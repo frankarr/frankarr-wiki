@@ -6,18 +6,4 @@ source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/got-griden
 date: "2006-07-25"
 ---
 
-Note
-signing in
-or
-changing directories
-.
-changing directories
-.
-Got Gridenvy ?
-Mitch piqued my interest.
-I'm now on the grid
-!
-[ Currently Playing : Yah Mo Be There - James Ingram & Michael McDonald - Billboard Top 100 of 1984 (04:32) ]
-Additional resources
-Last updated on
-2006-07-25
+Got Gridenvy ? Mitch piqued my interest. I'm now on the grid! [ Currently Playing : Yah Mo Be There - James Ingram & Michael McDonald - Billboard Top 100 of 1984 (04:32) ] Additional resources Last updated on 2006-07-25

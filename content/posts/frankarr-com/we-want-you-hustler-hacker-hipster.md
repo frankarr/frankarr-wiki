@@ -1,10 +1,21 @@
 ---
 title: "We Want You! Hustler, Hacker, Hipster"
-date: 2016-12-05
-platform: frankarr-com
-era: telstra
+platform: "frankarr-com"
+era: "telstra"
 source_url: "http://frankarr.com/2016/12/05/we-want-you-hustler-hacker-hipster/"
-tags: ["Telstra"]
+date: "2016-12-05"
 ---
 
-I just passed my 90 days in Telstra’s Chief Technology Office (CTO) based out of the Gurrowa Innovation Lab in Melbourne. It’s been a full-on period which included revisiting our WHY (thank you Simon Sinek ) So now that we have a better idea of our WHY, we’re looking for a few special folks to come join us. We are on the hunt for a community manager , who will be “our face” to the community. From running tours, to hosting events and making the connections between all the diverse communities that Telstra is part of; and they need a bit of hustle. We also need an innovation hacker , a cross between a “hacker” and a “hipster”, who can use digital marketing tools and techniques to drive rapid experimentation, which will help test & validate ideas. These folks will be joining a growing team of entrepreneurial minded people, including Facilitation and Design specialists who believe that by working together, we can discover the insights and technologies that will pay dividends back to Australian businesses, and reaffirm our nation’s position on the world stage as a bold and vital innovator. So if you think you’re part of this dream team , based in Melbourne, reach out and tell us why.
+I just passed my 90 days in Telstra’s Chief Technology Office (CTO) based out of the Gurrowa Innovation Lab in Melbourne.
+
+It’s been a full-on period which included revisiting our WHY (thank you [Simon Sinek](https://www.startwithwhy.com/))
+
+So now that we have a better idea of our WHY, we’re looking for a few special folks to come join us.
+
+We are on the hunt for a [community manager](https://careers.telstra.com/Search#page=/search/97/575303&filter=), who will be “our face” to the community. From running tours, to hosting events and making the connections between all the diverse communities that Telstra is part of; and they need a bit of hustle.
+
+We also need an [innovation hacker](https://careers.telstra.com/search/97/575304), a cross between a “hacker” and a “hipster”, who can use digital marketing tools and techniques to drive rapid experimentation, which will help test & validate ideas.
+
+These folks will be joining a growing team of entrepreneurial minded people, including [Facilitation](https://careers.telstra.com/Search?keywords=10051545-001&#9%3B=&category=&worktype=&location=&page=/search/97/574245&filter=*) and [Design specialists](https://careers.telstra.com/search/97/574246) who believe that by working together, we can discover the insights and technologies that will pay dividends back to Australian businesses, and reaffirm our nation’s position on the world stage as a bold and vital innovator.
+
+So if you think you’re part of [this dream team](http://www.forbes.com/sites/andyellwood/2012/08/22/the-dream-team-hipster-hacker-and-hustler/#580ef6d168a8), based in Melbourne, reach out and tell us why.

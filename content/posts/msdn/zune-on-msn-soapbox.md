@@ -6,28 +6,4 @@ source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/zune-on-ms
 date: "2006-11-09"
 ---
 
-Note
-signing in
-or
-changing directories
-.
-changing directories
-.
-Zune On MSN Soapbox
-Zune On MSN Soapbox
-Technorati tags:
-Micrsosoft Zune
-,
-MSN Soapbox
-[
-Current Listening to
-:
-Blue Sky Mine
-by
-Midnight Oil
-from
-20,000 Watt R.S.L.: Greatest Hits
-]
-Additional resources
-Last updated on
-2006-11-09
+Zune On MSN Soapbox Zune On MSN Soapbox Technorati tags: Micrsosoft Zune, MSN Soapbox [ Current Listening to: Blue Sky Mine by Midnight Oil from 20,000 Watt R.S.L.: Greatest Hits ] Additional resources Last updated on 2006-11-09

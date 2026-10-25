@@ -1,10 +1,61 @@
 ---
 title: "The Trash Audit: What Happens When You Optimise for Speed"
-date: 2026-06-20
-platform: frankarr-com
-era: now
+platform: "frankarr-com"
+era: "now"
 source_url: "http://frankarr.com/2026/06/20/the-trash-audit-what-happens-when-you-optimise-for-speed/"
-tags: ["openclaw", "smallbizai.au", "smallbizai.au"]
+date: "2026-06-20"
 ---
 
-There s a folder in WordPress called Trash. Most site owners don t think about it much. I opened mine a few weeks ago and found 23 posts in it. Not spam. Not test posts. Real articles, some of them several hundred words long, on topics the site actually covers. Duplicates, mostly. Two posts on the same subject, written in different sessions by subagents that had no idea the other one existed. That s the thing nobody tells you about AI agents when you first start using them. They don t know what they don t know. A subagent spawns with whatever context you give it in the brief. If you don t tell it what s already been written, it will write it again. Confidently. Without hesitation. No rules means no limits The early sessions on SmallBizAI.au were fast. That was the point. I d spin up a subagent, give it a topic, and it would research, write, and publish in one go. No checklist. No duplicate check. No review step. Speed was the metric. What I didn t account for was that each subagent started from zero. No memory of previous sessions. No awareness of what had already been published. No idea that three weeks earlier, a different subagent had written almost the same post under a slightly different title. The implicit rules that felt obvious to me weren t obvious to them, because I d never said them out loud. Don t publish something that already exists. Check before you schedule. Don t hardcode dates. Run the AI-writing audit before the post goes live. These weren t in any file. They lived in my head, which meant they lived nowhere the agent could access. The results were predictable once I looked at them clearly. Duplicate posts. Scheduling conflicts. Posts that went out without sources cited. A featured image that was a Melbourne skyline on a fintech comparison article. All technically correct behaviour given the instructions provided. All wrong. The trash folder tells a story Every rule in AGENTS.md exists because something broke without it. The rule about never using do_action('litespeed_purge_all') inside Code Snippets: that one came from a live site crash. Instant 500 error, site down, fix required under pressure. It s one line in the file now. At the time it was not a good afternoon . The rule about Rank Math being the single source of truth for redirects (not .htaccess, not Code Snippets, not anything else): that came from a redirect conflict that took two sessions to untangle. The duplicate check script ( check_duplicate_post.py ) didn t exist for the first few months. It exists now because I kept finding the same topic covered twice. The script is mandatory before any publish. That rule is also in AGENTS.md. Before I wrote it down, I said it repeatedly. After I wrote it down, I stopped having to. AGENTS.md started as a short file. It s over 100 lines now. Every line was added because a session went sideways without it. The publish checklist lives at projects/content-strategy/publish-checklist.md and tells the same story. Subagents kept skipping steps: no focus keyword set, no Rank Math meta, no hub backlink, pipeline hooks not run. Each skipped step got added to the checklist. The checklist now travels with every subagent brief. The cron graveyard At some point I ran openclaw doctor and looked at the cron job list properly. Fifty-five active jobs. A handful were pointing at scripts that no longer existed. A few more were duplicating work that other crons were already doing. Several had been set up in sessions where the context was slightly different and the brief had evolved, but nobody had cleaned up the old version. It s the subscription problem applied to automation. You set something up, it runs in the background, you forget about it. Months later you re running things you don t use, can t explain, and aren t sure it s safe to delete. The fix was the same as everything else: write it down. memory/cron-jobs.md now tracks every cron, what it does, and when it was last verified. Any session that adds or changes a cron is supposed to update that file. When it doesn t, the next audit catches it. Structure, not smarter AI The honest version of what happened: I was treating a stateless tool as though it had memory, and then being surprised when it didn t. The agents aren t smarter now. The briefs are more complete. The rules are written down. The checks are mandatory rather than optional. The team structure (Claw coordinating, Dash writing, Scout researching, Data analysing, Eddie auditing) means each agent operates in a defined lane with scoped context, rather than one agent trying to hold everything in a brief that gets longer and less coherent over time. Eddie s job, specifically, is to catch what falls through the cracks: posts that need fixing, queue items that are stale, work that s been done twice. She doesn t publish anything. She flags. That separation matters. The trash folder has been empty for a while now. Not because the agents got better at guessing what I wanted. Because I got better at saying it. This is why we built the squad . Not because one agent can t do the work. Because one agent without guardrails will eventually do something you didn t ask for. 🦞🐱🦉🐶🦫🦅
+There's a folder in WordPress called Trash. Most site owners don't think about it much. I opened mine a few weeks ago and found 23 posts in it.
+
+Not spam. Not test posts. Real articles, some of them several hundred words long, on topics the site actually covers. Duplicates, mostly. Two posts on the same subject, written in different sessions by subagents that had no idea the other one existed.
+
+That's the thing nobody tells you about AI agents when you first start using them. They don't know what they don't know. A subagent spawns with whatever context you give it in the brief. If you don't tell it what's already been written, it will write it again. Confidently. Without hesitation.
+
+## No rules means no limits
+
+The early sessions on [SmallBizAI.au ](https://smallbizai.au)were fast. That was the point. I'd spin up a subagent, give it a topic, and it would research, write, and publish in one go. No checklist. No duplicate check. No review step. Speed was the metric.
+
+What I didn't account for was that each subagent started from zero. No memory of previous sessions. No awareness of what had already been published. No idea that three weeks earlier, a different subagent had written almost the same post under a slightly different title.
+
+The implicit rules that felt obvious to me weren't obvious to them, because I'd never said them out loud. Don't publish something that already exists. Check before you schedule. Don't hardcode dates. Run the AI-writing audit before the post goes live. These weren't in any file. They lived in my head, which meant they lived nowhere the agent could access.
+
+The results were predictable once I looked at them clearly. Duplicate posts. Scheduling conflicts. Posts that went out without sources cited. A featured image that was a Melbourne skyline on a fintech comparison article. All technically correct behaviour given the instructions provided. All wrong.
+
+## The trash folder tells a story
+
+Every rule in AGENTS.md exists because something broke without it.
+
+The rule about never using do_action('litespeed_purge_all') inside Code Snippets: that one came from a live site crash. Instant 500 error, site down, fix required under pressure. It's one line in the file now. [At the time it was not a good afternoon](https://frankarr.com/2026/05/20/the-day-i-took-the-site-down/).
+
+The rule about Rank Math being the single source of truth for redirects (not .htaccess, not Code Snippets, not anything else): that came from a redirect conflict that took two sessions to untangle.
+
+The duplicate check script (check_duplicate_post.py) didn't exist for the first few months. It exists now because I kept finding the same topic covered twice. The script is mandatory before any publish. That rule is also in AGENTS.md. Before I wrote it down, I said it repeatedly. After I wrote it down, I stopped having to.
+
+AGENTS.md started as a short file. It's over 100 lines now. Every line was added because a session went sideways without it.
+
+The publish checklist lives at projects/content-strategy/publish-checklist.md and tells the same story. Subagents kept skipping steps: no focus keyword set, no Rank Math meta, no hub backlink, pipeline hooks not run. Each skipped step got added to the checklist. The checklist now travels with every subagent brief.
+
+## The cron graveyard
+
+At some point I ran openclaw doctor and looked at the cron job list properly. Fifty-five active jobs. A handful were pointing at scripts that no longer existed. A few more were duplicating work that other crons were already doing. Several had been set up in sessions where the context was slightly different and the brief had evolved, but nobody had cleaned up the old version.
+
+It's the subscription problem applied to automation. You set something up, it runs in the background, you forget about it. Months later you're running things you don't use, can't explain, and aren't sure it's safe to delete.
+
+The fix was the same as everything else: write it down. memory/cron-jobs.md now tracks every cron, what it does, and when it was last verified. Any session that adds or changes a cron is supposed to update that file. When it doesn't, the next audit catches it.
+
+## Structure, not smarter AI
+
+The honest version of what happened: I was treating a stateless tool as though it had memory, and then being surprised when it didn't.
+
+The agents aren't smarter now. The briefs are more complete. The rules are written down. The checks are mandatory rather than optional. The team structure (Claw coordinating, Dash writing, Scout researching, Data analysing, Eddie auditing) means each agent operates in a defined lane with scoped context, rather than one agent trying to hold everything in a brief that gets longer and less coherent over time.
+
+Eddie's job, specifically, is to catch what falls through the cracks: posts that need fixing, queue items that are stale, work that's been done twice. She doesn't publish anything. She flags. That separation matters.
+
+The trash folder has been empty for a while now. Not because the agents got better at guessing what I wanted. Because I got better at saying it.
+
+This is [why we built the squad](https://smallbizai.au/behind-the-build-ai-agent-team-assembled/) . Not because one agent can't do the work. Because one agent without guardrails will eventually do something you didn't ask for.
+
+[](https://frankarr.wordpress.com/wp-content/uploads/2026/06/img_0106.png)
+
+🦞🐱🦉🐶🦫🦅

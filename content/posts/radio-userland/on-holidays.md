@@ -8,28 +8,4 @@ tags:
   - "Family"
 ---
 
-Friday, 7 July 2006
-On Holidays
-I'm taking a week off.
-It's school holiday's here in NSW, so it's time for me to spend some time with the kids.
-No email.
-No blogs.
-No computer
-A return to more simple things.
-We've got a bunch of board games, a deck of cards and lots of lego. If the weather is fine, we may even go outside for a walk.
-See you in a week or so
-11:22:08 PM
-comment [
-]
-trackback [
-]
-G!
-
-Family
-© Copyright 
-     2006
-     Frank Arrigo.
-A Geek Microsoft Blogger
-Last update: 
-     1/08/2006; 3:43:36 PM
-     .
+Friday, 7 July 2006 On Holidays I'm taking a week off. It's school holiday's here in NSW, so it's time for me to spend some time with the kids. No email. No blogs. No computer A return to more simple things. We've got a bunch of board games, a deck of cards and lots of lego. If the weather is fine, we may even go outside for a walk. See you in a week or so 11:22:08 PM comment [ ] trackback [ ] G!  Family © Copyright 2006 Frank Arrigo. A Geek Microsoft Blogger Last update: 1/08/2006; 3:43:36 PM.

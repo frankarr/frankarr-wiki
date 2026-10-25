@@ -1,10 +1,57 @@
 ---
 title: "Why I Was Wrong About Prompt Packs"
-date: 2026-09-04
-platform: frankarr-com
-era: now
+platform: "frankarr-com"
+era: "now"
 source_url: "https://frankarr.com/2026/09/04/why-i-was-wrong-about-prompt-packs/"
-tags: ["gumroad", "openclaw", "smallbizai.au", "Personal", "smallbizai.au"]
+date: "2026-09-04"
 ---
 
-In March I launched a free pack of 50 AI prompts for Australian small businesses. Then a 200-prompt flagship pack for $19. Then 18 industry-specific packs at $9 each, tradies, cafes, accountants, real estate agents, gyms, you name it. The traffic came. People downloaded the free pack. They browsed the industry packs. And then, mostly, they didn't buy. We sold one industry pack. One. Professional services. I wrote about what that first AU$9 sale meant at the time, and I meant it. But one sale across 18 packs is data, and the data was telling me something. No support emails. No complaints. No questions. Just silence. That's actually harder to interpret than a complaint. A complaint tells you what's wrong. Silence just tells you something isn't working. The thing I got wrong I started asking people I knew. Not a formal survey, just conversations. People who run small businesses, people who'd looked at the packs, people who understood the space. The feedback wasn't "the prompts aren't useful." It was closer to: "I wouldn't know when to use them." Someone who runs a cafe doesn't have spare mental bandwidth to sit down and figure out how 50 prompts fit into their week. They're up at 5am, they're managing staff, they're dealing with suppliers, they're counting covers at close. A PDF of prompts, even good prompts, is just one more thing that requires effort they don't have. A prompt is a tool. A good prompt is a sharp tool. But handing someone a sharp tool and walking away isn't a product. It's a starting point that assumes the person on the other end has time to figure out the rest. They don't. That's kind of the whole problem AI is supposed to solve. What needed to change The prompts weren't wrong. The scaffolding around them was missing. What a cafe owner actually needs isn't 50 prompts. It's: here's which three prompts to use on Monday morning. Here's how to set up a GPT that does this automatically. Here's a template for the staff comms you're writing every week anyway. Here's how to handle a bad Google review without it taking 45 minutes. A system. Not a library. Once I saw it that way, the repackaging was obvious. This wasn't a price increase, it was finishing the product we should have built from the start. The tradie pack became a 33-page bundle: the original 50 prompts, plus a weekly AI workflow doc, a GPT setup guide, a Fair Work-aware AI policy template, a quote-to-invoice email sequence, and a review management playbook. The cafe and hospitality pack got the same treatment. Both went from $9 to $49. The $9 packs still exist for people who want a prompt library. The $49 products are something different, they're the scaffolding included. Where this is going The honest version of what I learned: I was building for people like me. Someone who sees a list of 50 prompts and immediately starts mapping them to their workflow. Most people aren't like that. Most people need the workflow handed to them alongside the prompts. So that's the direction. Every industry pack gets a similar treatment. After that, the next step is deeper, AI systems tailored to specific business types, not just prompt libraries with better packaging. I've already started going there with Beyond Prompting , the ebook I wrote with my AI agent team about building an agent-based workflow for your business. That came out of the same realisation: prompts are an entry point, not a destination. We've actually sold a few so far, so the approach is working. The destination is a business that runs differently because of AI. Not one with a PDF sitting in a downloads folder, untouched after week one. That's what I got wrong. And it's what's shaping everything we build next.
+In March I launched a [free pack of 50 AI prompts](https://smallbizaiau.gumroad.com/l/czrbj) for Australian small businesses. Then a [200-prompt flagship pack](https://smallbizaiau.gumroad.com/l/ligbqo) for $19. Then [18 industry-specific packs](https://smallbizai.au/prompt-packs/) at $9 each, tradies, cafes, accountants, real estate agents, gyms, you name it.
+
+The traffic came. People downloaded the free pack. They browsed the industry packs.
+
+And then, mostly, they didn't buy.
+
+We sold one industry pack. One. Professional services. I wrote about [what that first AU$9 sale meant](https://smallbizai.au/the-first-sale-a9-and-what-it-meant/) at the time, and I meant it. But one sale across 18 packs is data, and the data was telling me something.
+
+No support emails. No complaints. No questions. Just silence.
+
+That's actually harder to interpret than a complaint. A complaint tells you what's wrong. Silence just tells you something isn't working.
+
+## The thing I got wrong
+
+I started asking people I knew. Not a formal survey, just conversations. People who run small businesses, people who'd looked at the packs, people who understood the space.
+
+The feedback wasn't "the prompts aren't useful." It was closer to: "I wouldn't know when to use them."
+
+Someone who runs a cafe doesn't have spare mental bandwidth to sit down and figure out how 50 prompts fit into their week. They're up at 5am, they're managing staff, they're dealing with suppliers, they're counting covers at close. A PDF of prompts, even good prompts, is just one more thing that requires effort they don't have.
+
+A prompt is a tool. A good prompt is a sharp tool. But handing someone a sharp tool and walking away isn't a product. It's a starting point that assumes the person on the other end has time to figure out the rest.
+
+They don't. That's kind of the whole problem AI is supposed to solve.
+
+## What needed to change
+
+The prompts weren't wrong. The scaffolding around them was missing.
+
+What a cafe owner actually needs isn't 50 prompts. It's: here's which three prompts to use on Monday morning. Here's how to set up a GPT that does this automatically. Here's a template for the staff comms you're writing every week anyway. Here's how to handle a bad Google review without it taking 45 minutes.
+
+A system. Not a library.
+
+Once I saw it that way, the repackaging was obvious. This wasn't a price increase, it was finishing the product we should have built from the start.
+
+The tradie pack became a 33-page bundle: the original 50 prompts, plus a weekly AI workflow doc, a GPT setup guide, a Fair Work-aware AI policy template, a quote-to-invoice email sequence, and a review management playbook. The cafe and hospitality pack got the same treatment.
+
+Both went from $9 to $49. The $9 packs still exist for people who want a prompt library. The $49 products are something different, they're the scaffolding included.
+
+## Where this is going
+
+The honest version of what I learned: I was building for people like me. Someone who sees a list of 50 prompts and immediately starts mapping them to their workflow. Most people aren't like that. Most people need the workflow handed to them alongside the prompts.
+
+So that's the direction. Every industry pack gets a similar treatment. After that, the next step is deeper, AI systems tailored to specific business types, not just prompt libraries with better packaging.
+
+I've already started going there with [Beyond Prompting](https://smallbizaiau.gumroad.com/l/lqhoxo), the [ebook I wrote with my AI agent team about building an agent-based workflow](https://frankarr.com/2026/08/05/why-i-wrote-a-book-on-building-an-ai-team/) for your business. That came out of the same realisation: prompts are an entry point, not a destination. We've actually sold a few so far, so the approach is working.
+
+The destination is a business that runs differently because of AI. Not one with a PDF sitting in a downloads folder, untouched after week one.
+
+That's what I got wrong. And it's what's shaping everything we build next.

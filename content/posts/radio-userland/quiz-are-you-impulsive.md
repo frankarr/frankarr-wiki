@@ -8,28 +8,4 @@ tags:
   - "Random"
 ---
 
-Tuesday, 5 September 2006
-Quiz: Are You Impulsive?
-You Are 75% Impulsive
-You are impulsive, which at times leads to irresponsibility.
-It's hard for you to say no to all but the most insane propositions.
-But you could care less. While your impulsive ways have gotten you in a little trouble - they've made for a very exciting life!
-Are You Impulsive?
-[listening to: Everything Will Be Alright -
-The Killers
-]
-3:20:57 PM
-comment [
-]
-trackback [
-]
-G!
-
-Random
-© Copyright 
-     2006
-     Frank Arrigo.
-A Geek Microsoft Blogger
-Last update: 
-     1/10/2006; 5:07:32 PM
-     .
+Tuesday, 5 September 2006 Quiz: Are You Impulsive? You Are 75% Impulsive You are impulsive, which at times leads to irresponsibility. It's hard for you to say no to all but the most insane propositions. But you could care less. While your impulsive ways have gotten you in a little trouble - they've made for a very exciting life! Are You Impulsive? [listening to: Everything Will Be Alright - The Killers ] 3:20:57 PM comment [ ] trackback [ ] G!  Random © Copyright 2006 Frank Arrigo. A Geek Microsoft Blogger Last update: 1/10/2006; 5:07:32 PM.

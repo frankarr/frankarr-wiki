@@ -6,18 +6,4 @@ source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/darren-sho
 date: "2006-08-09"
 ---
 
-Note
-signing in
-or
-changing directories
-.
-changing directories
-.
-Darren Shows Me His, So I'll Show You Mine
-Darren
-Neimke shows us the sessions he's attending
-Here's the one's I
-would *LIKE* to attend
-Additional resources
-Last updated on
-2006-08-09
+Darren Shows Me His, So I'll Show You Mine Darren Neimke shows us the sessions he's attending Here's the one's I would *LIKE* to attend Additional resources Last updated on 2006-08-09

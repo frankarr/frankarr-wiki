@@ -6,23 +6,4 @@ source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/msdn-conne
 date: "2004-05-24"
 ---
 
-Note
-signing in
-or
-changing directories
-.
-changing directories
-.
-MSDN Connection Welcome Packs being distributed
-Woohoo!
-The cards have been printed, the boxes packed and we have finally sent all the
-MSDN Connection Welcome Kits
-.
-I'm pretty sure the system works because I received mine today!
-Comments
-Anonymous
-May 27, 2004
-Yay!
-Additional resources
-Last updated on
-2004-05-24
+MSDN Connection Welcome Packs being distributed Woohoo! The cards have been printed, the boxes packed and we have finally sent all the MSDN Connection Welcome Kits. I'm pretty sure the system works because I received mine today! Comments Anonymous May 27, 2004 Yay! Additional resources Last updated on 2004-05-24

@@ -1,10 +1,43 @@
 ---
 title: "1337 Posts FTW!"
-date: 2026-08-13
-platform: frankarr-com
-era: now
+platform: "frankarr-com"
+era: "now"
 source_url: "https://frankarr.com/2026/08/13/1337-posts-ftw/"
-tags: ["Geek", "Personal", "smallbizai.au"]
+date: "2026-08-13"
 ---
 
-SmallBizAI.au hit 1,337 posts today. If you know, you know. 1337 is leet speak. The hacker number. The one you hit when you've been at something long enough that the universe decides to reward you with a nerdy milestone instead of a round one. I'll take it. I've been running SmallBizAI.au since March 2026, AI tools and strategy for Australian small businesses. 1,337 posts later, I thought it was worth looking at what all those titles actually say about what I've been writing about. So I pulled every title from the WordPress API and ran a word cloud. Twice, actually. Once with all words, once with the geographic terms stripped out, because "Australian" showing up huge in a site called SmallBizAI.au tells you nothing interesting. The full picture Without the geography What jumps out The word that appears most in my titles, after stripping out obvious ones like "AI", "business", and "Australian", is "actually" . It shows up in 119 post titles. That's roughly 1 in every 9 posts. I don't think I noticed I was doing it. But apparently my editorial instinct is to position things as corrections to conventional wisdom. "What AI actually costs." "What actually changes." "What small businesses actually need." The word is doing work, it's signalling that the post is going to push back on something. Good instinct, probably. Worth knowing about myself as a writer. Top 10 terms (excluding AI/business/Australian) # Word Posts 1 australian 694 2 businesses 170 3 australia 168 4 here 120 5 actually 119 6 news 105 7 recap 98 8 tools 89 9 sydney 88 10 platform 87 The other thing I notice: "Sydney" (in the geo-heavy cloud) beats "Melbourne" by a wide margin, even though I'm Melbourne-based. That's because the news and company stories I cover skew toward where the tech money concentrates. Not a judgment. Just a pattern. What 1,337 posts actually means It means I've shipped something almost every day for the better part of six months. It means there's a body of work now, indexed, cited, referenced by AI systems that are answering small business owners' questions. That's the bet I made when I started the site, and the numbers say it's paying off. 1,337 is a hacker number. So is building something this systematically, this consistently, in a space that's moving this fast. On to 1,338. SmallBizAI.au covers AI tools and strategy for Australian small businesses. 1,337 posts and counting.
+SmallBizAI.au hit 1,337 posts today. If you know, you know.
+
+1337 is leet speak. The hacker number. The one you hit when you've been at something long enough that the universe decides to reward you with a nerdy milestone instead of a round one. I'll take it.
+
+I've been running SmallBizAI.au since March 2026, AI tools and strategy for Australian small businesses. 1,337 posts later, I thought it was worth looking at what all those titles actually say about what I've been writing about.
+
+So I pulled every title from the WordPress API and ran a word cloud. Twice, actually. Once with all words, once with the geographic terms stripped out, because "Australian" showing up huge in a site called SmallBizAI.au tells you nothing interesting.
+
+## The full picture
+
+## Without the geography
+
+## What jumps out
+
+The word that appears most in my titles, after stripping out obvious ones like "AI", "business", and "Australian", is **"actually"**. It shows up in 119 post titles. That's roughly 1 in every 9 posts.
+
+I don't think I noticed I was doing it. But apparently my editorial instinct is to position things as corrections to conventional wisdom. "What AI actually costs." "What actually changes." "What small businesses actually need." The word is doing work, it's signalling that the post is going to push back on something.
+
+Good instinct, probably. Worth knowing about myself as a writer.
+
+## Top 10 terms (excluding AI/business/Australian)
+
+#WordPosts1australian6942businesses1703australia1684here1205actually1196news1057recap988tools899sydney8810platform87
+
+The other thing I notice: "Sydney" (in the geo-heavy cloud) beats "Melbourne" by a wide margin, even though I'm Melbourne-based. That's because the news and company stories I cover skew toward where the tech money concentrates. Not a judgment. Just a pattern.
+
+## What 1,337 posts actually means
+
+It means I've shipped something almost every day for the better part of six months. It means there's a body of work now, indexed, cited, referenced by AI systems that are answering small business owners' questions. That's the bet I made when I started the site, and the numbers say it's paying off.
+
+1,337 is a hacker number. So is building something this systematically, this consistently, in a space that's moving this fast.
+
+On to 1,338.
+
+*SmallBizAI.au covers AI tools and strategy for Australian small businesses. 1,337 posts and counting.*

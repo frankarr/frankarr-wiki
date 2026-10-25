@@ -6,34 +6,4 @@ source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/microsoft-
 date: "2008-11-05"
 ---
 
-Note
-signing in
-or
-changing directories
-.
-changing directories
-.
-Microsoft /web : Web AI & Web PI
-There were two announcements from a few weeks back
-, which may have been missed amidst the news of Azure, Windows 7, etc
-Microsoft Web Platform Installer
-The Web Platform Installer Beta (Web PI) provides a single, free package for installing and configuring Microsoft's entire Web Platform, including IIS7, Visual Web Developer 2008 Express Edition, SQL Server 2008 Express Edition and the .NET Framework. Using the Web Platform Installerâs simple user interface, you can select specific components or install the entire Microsoft Web Platform onto your computer. To help you stay up-to-date with product releases, the Web Platform Installer always contains the most current versions and new additions to the Microsoft Web Platform.
-Microsoft Web Application Installer
-The Web Application Installer (Web AI) is the smoothest way to install the freely available PHP and ASP.NET applications on the IIS Web Server. Simply select the applications you want, enter your personal configuration, and click a button. Web AI provides support for popular ASP.Net and PHP Web applications including Graffiti, DotNetNuke, WordPress, Drupal, OSCommerce and more. With just a few simple clicks, Web AI will check your machine for the necessary pre-requisites, download these applications from their source location in the community, walk you through basic configuration items and then install them on your computer.
-Pretty big, and this isnât the end of the newsâ¦
-Technorati Tags:
-WebAI
-,
-WebPI
-,
-PHP
-,
-Windows
-Comments
-Anonymous
-May 29, 2009
-PingBack from
-http://paidsurveyshub.info/story.php?title=frankarr-an-aussie-microsoft-blogger-microsoft-web-web-ai-amp-web-pi
-Additional resources
-Last updated on
-2008-11-05
+Microsoft /web : Web AI & Web PI There were two announcements from a few weeks back , which may have been missed amidst the news of Azure, Windows 7, etc Microsoft Web Platform Installer The Web Platform Installer Beta (Web PI) provides a single, free package for installing and configuring Microsoft's entire Web Platform, including IIS7, Visual Web Developer 2008 Express Edition, SQL Server 2008 Express Edition and the .NET Framework. Using the Web Platform Installerâs simple user interface, you can select specific components or install the entire Microsoft Web Platform onto your computer. To help you stay up-to-date with product releases, the Web Platform Installer always contains the most current versions and new additions to the Microsoft Web Platform. Microsoft Web Application Installer The Web Application Installer (Web AI) is the smoothest way to install the freely available PHP and ASP.NET applications on the IIS Web Server. Simply select the applications you want, enter your personal configuration, and click a button. Web AI provides support for popular ASP.Net and PHP Web applications including Graffiti, DotNetNuke, WordPress, Drupal, OSCommerce and more. With just a few simple clicks, Web AI will check your machine for the necessary pre-requisites, download these applications from their source location in the community, walk you through basic configuration items and then install them on your computer. Pretty big, and this isnât the end of the newsâ¦ Technorati Tags: WebAI, WebPI, PHP, Windows Comments Anonymous May 29, 2009 PingBack from http://paidsurveyshub.info/story.php?title=frankarr-an-aussie-microsoft-blogger-microsoft-web-web-ai-amp-web-pi Additional resources Last updated on 2008-11-05

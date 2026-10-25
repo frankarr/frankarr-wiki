@@ -6,18 +6,4 @@ source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/linux-deve
 date: "2005-02-07"
 ---
 
-Note
-signing in
-or
-changing directories
-.
-changing directories
-.
-Linux Developers Beware!
-Looks
-like Simon has worked out the grand plan
-[ Currently Playing : Winding Road
-- Bonnie Somerville - Garden State (03:27) ]
-Additional resources
-Last updated on
-2005-02-07
+Linux Developers Beware! Looks like Simon has worked out the grand plan [ Currently Playing : Winding Road - Bonnie Somerville - Garden State (03:27) ] Additional resources Last updated on 2005-02-07

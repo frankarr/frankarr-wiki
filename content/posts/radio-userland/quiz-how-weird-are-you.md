@@ -8,27 +8,4 @@ tags:
   - "Random"
 ---
 
-Thursday, 28 July 2005
-Quiz: How Weird Are You?
-Silly quiz time -- This one makes me laugh
-You Are 80% Weird
-You're more than quirky, you're downright strange. But you're also strangely compelling, like a cult leader.
-How Weird Are You?
-[listening to: Motherless Child -
-Portishead
-]
-3:21:44 PM
-comment [
-]
-trackback [
-]
-G!
-
-Random
-© Copyright 
-     2006
-     Frank Arrigo.
-A Geek Microsoft Blogger
-Last update: 
-     8/07/2006; 10:26:35 AM
-     .
+Thursday, 28 July 2005 Quiz: How Weird Are You? Silly quiz time -- This one makes me laugh You Are 80% Weird You're more than quirky, you're downright strange. But you're also strangely compelling, like a cult leader. How Weird Are You? [listening to: Motherless Child - Portishead ] 3:21:44 PM comment [ ] trackback [ ] G!  Random © Copyright 2006 Frank Arrigo. A Geek Microsoft Blogger Last update: 8/07/2006; 10:26:35 AM.

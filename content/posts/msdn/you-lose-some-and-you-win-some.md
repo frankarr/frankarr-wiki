@@ -6,31 +6,4 @@ source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/you-lose-s
 date: "2003-12-05"
 ---
 
-Note
-signing in
-or
-changing directories
-.
-changing directories
-.
-You lose some and You win some!
-Financial Times
-December 5, 2003
-DoCoMo setback for Microsoft
-By Michiyo Nakamoto and Robert Budden
-https://search.ft.com/search/article.html?id=031205000990&query=Microsoft&vsc_appId=totalSearch&state=Form
-- DoCoMo, Japan's largest mobile operator, yesterday dealt a further blow to Microsoft's ambitions to dominate the market for operating systems in third-generation mobile telephony by announcing that it favoured alternative technologies. The mobile operator said it would promote the use of rival software from Symbian and open-source Linux systems to help cut development costs for suppliers and ensure handsets were compatible with other operators using the same W-CDMA 3G Network standard.
-Reuters
-December 5, 2003, 01:42 AM ET
-Microsoft Wins Asian Allies for Smartphones Push
-By Baker Li
-https://www.reuters.com/newsArticle.jhtml?type=technologyNews&storyID=3942930
-- Asia's fast-growing mobile phone makers are embracing Microsoft Corp's (MSFT.O: Quote, Profile, Research) new software for sophisticated handsets, boosting the U.S. company's efforts to expand beyond its hegemony in the computer industry. The entry of Taiwan's electronics makers into the market for "smartphones," which offer sophisticated email, Internet and music and video functions, promises the software giant further support in its battle against UK-based rival Symbian and PalmSource Inc (PSRC.O: Quote, Profile, Research) of the United States.
-Comments
-Anonymous
-June 07, 2009
-PingBack from
-http://greenteafatburner.info/story.php?id=4246
-Additional resources
-Last updated on
-2003-12-05
+You lose some and You win some! Financial Times December 5, 2003 DoCoMo setback for Microsoft By Michiyo Nakamoto and Robert Budden https://search.ft.com/search/article.html?id=031205000990&query=Microsoft&vsc_appId=totalSearch&state=Form - DoCoMo, Japan's largest mobile operator, yesterday dealt a further blow to Microsoft's ambitions to dominate the market for operating systems in third-generation mobile telephony by announcing that it favoured alternative technologies. The mobile operator said it would promote the use of rival software from Symbian and open-source Linux systems to help cut development costs for suppliers and ensure handsets were compatible with other operators using the same W-CDMA 3G Network standard. Reuters December 5, 2003, 01:42 AM ET Microsoft Wins Asian Allies for Smartphones Push By Baker Li https://www.reuters.com/newsArticle.jhtml?type=technologyNews&storyID=3942930 - Asia's fast-growing mobile phone makers are embracing Microsoft Corp's (MSFT.O: Quote, Profile, Research) new software for sophisticated handsets, boosting the U.S. company's efforts to expand beyond its hegemony in the computer industry. The entry of Taiwan's electronics makers into the market for "smartphones," which offer sophisticated email, Internet and music and video functions, promises the software giant further support in its battle against UK-based rival Symbian and PalmSource Inc (PSRC.O: Quote, Profile, Research) of the United States. Comments Anonymous June 07, 2009 PingBack from http://greenteafatburner.info/story.php?id=4246 Additional resources Last updated on 2003-12-05

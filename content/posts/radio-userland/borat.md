@@ -8,26 +8,4 @@ tags:
   - "Family"
 ---
 
-Saturday, 25 November 2006
-Borat!
-I took the big boys to see
-Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan
-We like very much
-[listening to: Marseilles -
-Angels
-]
-6:34:25 PM
-comment [
-]
-trackback [
-]
-G!
-
-Family
-© Copyright 
-     2006
-     Frank Arrigo.
-A Geek Microsoft Blogger
-Last update: 
-     2/12/2006; 9:00:05 PM
-     .
+Saturday, 25 November 2006 Borat! I took the big boys to see Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan We like very much [listening to: Marseilles - Angels ] 6:34:25 PM comment [ ] trackback [ ] G!  Family © Copyright 2006 Frank Arrigo. A Geek Microsoft Blogger Last update: 2/12/2006; 9:00:05 PM.

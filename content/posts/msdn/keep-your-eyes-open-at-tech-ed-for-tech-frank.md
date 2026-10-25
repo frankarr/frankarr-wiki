@@ -6,21 +6,4 @@ source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/keep-your-
 date: "2007-07-22"
 ---
 
-Note
-signing in
-or
-changing directories
-.
-changing directories
-.
-Keep your eyes open at Tech.Ed for Tech.Frank
-Comments
-Anonymous
-July 22, 2007
-Is Frank going to be in a purple ball, like Super Monkey Ball? :o
-Anonymous
-July 22, 2007
-The comment has been removed
-Additional resources
-Last updated on
-2007-07-22
+Keep your eyes open at Tech.Ed for Tech.Frank Comments Anonymous July 22, 2007 Is Frank going to be in a purple ball, like Super Monkey Ball? :o Anonymous July 22, 2007 The comment has been removed Additional resources Last updated on 2007-07-22

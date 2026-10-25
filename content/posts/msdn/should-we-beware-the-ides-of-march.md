@@ -6,26 +6,4 @@ source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/should-we-
 date: "2008-03-15"
 ---
 
-Note
-signing in
-or
-changing directories
-.
-changing directories
-.
-Should We Beware the Ides of March ?
-A day to beware
-:
-Ides of March: Why worrry?
-Technorati Tags:
-Ides of March
-,
-3/15
-Comments
-Anonymous
-March 15, 2008
-PingBack from
-http://msdnrss.thecoderblogs.com/2008/03/15/
-Additional resources
-Last updated on
-2008-03-15
+Should We Beware the Ides of March ? A day to beware: Ides of March: Why worrry? Technorati Tags: Ides of March, 3/15 Comments Anonymous March 15, 2008 PingBack from http://msdnrss.thecoderblogs.com/2008/03/15/ Additional resources Last updated on 2008-03-15

@@ -1,10 +1,77 @@
 ---
 title: "Seven attempts, zero deliveries: my week with Dragonfly Shipping"
-date: 2026-10-22
-platform: frankarr-com
-era: now
+platform: "frankarr-com"
+era: "now"
 source_url: "https://frankarr.com/2026/10/22/seven-attempts-zero-deliveries-my-week-with-dragonfly-shipping/"
-tags: ["agentic", "ai", "amazon", "artificial-intelligence", "dragonfly", "instinct", "writing", "Personal"]
+date: "2026-10-22"
 ---
 
-I'm disappointed. That's the honest summary, so I'll put it first. I ordered something on Amazon. Amazon handed it to Dragonfly Shipping . Dragonfly had it on 12 October 2026. By 22 October it had "attempted" delivery seven times, and I had received nothing, apart from a headache dealing with something that should be a solved problem. The facts The delivery address is a PO Box Plus at a major Australia Post office on Collins Street, Melbourne, allowing for online shopping deliveries. It's open 8:30am to 5:30pm. The address is right. I added the information about the opening and closing time. I assumed it would be a slam dunk delivery experience. The failed attempts: 14, 15, 16, 19, 20, 21 and 22 October. I phoned Dragonfly after every failed attempt and confirmed the address each time. That's my record, from my own emails and calls. The people on each call confirmed the address was correct, that they can indeed deliver to the locations, and would make sure the service depot knows all the details. It's in their CRM, they can see the repeated failures, they told me so on each call. Didnt really make a different though. Three attempts after closing time Dragonfly's own notices log three of the attempts after the post office had closed: 14 Oct at 5:47pm 15 Oct at 5:36pm 20 Oct at 5:43pm Closing time is 5:30pm. Those could never have worked. I can't tell you why they were logged that way. I asked. I assume the driver was running late. The email that never changed Every failure notice says there " may be a mistake in the delivery address ". The address is correct, and I would confirm it by phone after each failed attempt. The notice never changed. It puts the blame on me, rather than on the delivery driver who was either late or couldn't find a parking spot in the busy CBD. That shouldn't be my problem! Yet the messages implies I may have made a mistake with the address. Gas lighters! The emails come from a no-reply address, so I couldn't answer them. They do point to Dragonfly's customer service page , so I used that, a form with prefilled items submitted via a button. No idea where it went. I got an automatic "We received your message!" on 22 October. That's all I have from them so far, and I suspect that will be the last message I get from them. What I did, with an AI agent in the mix I turned to Instinct, one of the agents in my rotation to help, because why not. The agent pulled my notices into one timeline, spotted the after-hours attempts, and drafted a complaint with the times and four specific questions: why the address is flagged, why attempts happened after closing, when it will be delivered in opening hours, and what remedy they'll offer. I sent that complaint to Dragonfly via email, from an email we were able to track down after a bit of effort. I got another automated reply, and I suspect that will also be the last message I get from them. Am I the only one? No, though I'd be careful with what that means. I looked at public complaints, and here is how far I'd trust each source: ProductReview rates Dragonfly 1.2 out of 5 from 800+ reviews. Reviews are self-selected and mostly unverified, so it shows a pattern, not a failure rate. Trustpilot rates it 4.1 out of 5 from about 519 reviews. That page mixes countries, and companies can invite reviews there. It disagrees with ProductReview, and I'd rather say so than pick the number I like. Reddit is anecdote. Still, the stories rhyme with mine. One r/amazonprime thread has people describing attempts logged outside business hours at workplaces that were open, and parcels marked delivered that weren't. A r/melbourne thread shows plenty of local frustration. I found no regulator finding or news report about Dragonfly in Australia. So I'm not claiming anything official here. These are my experience and other people's accounts. What worked Going through Amazon, not Dragonfly. I complained to Amazon, they sent a replacement to the same address and it was delivered without issue. Cheers Amazon for being so Customer Obsessed and focused on Delivering Results . Boo on Insisting on Higher Standards . People in those public threads report the same route working. I found nobody reporting a fix from Dragonfly's own inbox or form. If you're stuck in the same loop, there are other routes: Consumer Affairs Victoria and other state bodies are free and can help work out a fix with the business. The ACCC doesn't settle individual disputes but takes reports and points you to the right agency. Where I've landed The failure wasn't the courier being slow, it was the process having no way to hear "the address is right." No reply path, a template that never changed, and attempts that ignored opening hours. A local person reading one email would have fixed it (maybe). Countless calls to the Dragonfly customer support team only aggravated me more with their faux helpfulness and inability to actually fix the problem. Their CRM documents the failures, and I suspect they are hidden from any lessons learnt, or ability to fix these systemic failures. Do Better Dragonfly Shipping. Amazon review their performance and demand they do better. I'll update this post if Dragonfly replies, which IMHO is unlikely.
+I'm disappointed. That's the honest summary, so I'll put it first.
+
+I ordered something on Amazon. Amazon handed it to [Dragonfly Shipping](https://dragonflyshipping.com.au/). Dragonfly had it on 12 October 2026. By 22 October it had "attempted" delivery seven times, and I had received nothing, apart from a headache dealing with something that should be a solved problem.
+
+## The facts
+
+The delivery address is a PO Box Plus at a major Australia Post office on Collins Street, Melbourne, allowing for online shopping deliveries. It's open 8:30am to 5:30pm. The address is right. I added the information about the opening and closing time. I assumed it would be a slam dunk delivery experience.
+
+The failed attempts: 14, 15, 16, 19, 20, 21 and 22 October. I phoned Dragonfly after every failed attempt and confirmed the address each time. That's my record, from my own emails and calls. The people on each call confirmed the address was correct, that they can indeed deliver to the locations, and would make sure the service depot knows all the details. It's in their CRM, they can see the repeated failures, they told me so on each call. Didnt really make a different though. 
+
+## Three attempts after closing time
+
+Dragonfly's own notices log three of the attempts after the post office had closed:
+
+- 14 Oct at 5:47pm
+
+- 15 Oct at 5:36pm
+
+- 20 Oct at 5:43pm
+
+Closing time is 5:30pm. Those could never have worked. I can't tell you why they were logged that way. I asked. I assume the driver was running late.
+
+## The email that never changed
+
+Every failure notice says there "*may be a mistake in the delivery address*". The address is correct, and I would confirm it by phone after each failed attempt. The notice never changed. It puts the blame on me, rather than on the delivery driver who was either late or couldn't find a parking spot in the busy CBD. That shouldn't be my problem! Yet the messages implies I *may *have made a mistake with the address. Gas lighters! 
+
+The emails come from a no-reply address, so I couldn't answer them. They do point to [Dragonfly's customer service page](https://dragonflyshipping.com.au/support/), so I used that, a form with prefilled items submitted via a button. No idea where it went. I got an automatic "We received your message!" on 22 October. That's all I have from them so far, and I suspect that will be the last message I get from them.
+
+## What I did, with an AI agent in the mix
+
+I turned to Instinct, [one of the agents in my rotation](https://frankarr.com/2026/10/12/the-agents-im-using-right-now-part-1-setup-early-results/) to help, because why not. 
+
+The agent pulled my notices into one timeline, spotted the after-hours attempts, and drafted a complaint with the times and four specific questions: why the address is flagged, why attempts happened after closing, when it will be delivered in opening hours, and what remedy they'll offer. I sent that complaint to Dragonfly via email, from an email we were able to track down after a bit of effort. I got another automated reply, and I suspect that will also be the last message I get from them.
+
+## Am I the only one?
+
+No, though I'd be careful with what that means. I looked at public complaints, and here is how far I'd trust each source:
+
+- [ProductReview](https://www.productreview.com.au/listings/dragonfly) rates Dragonfly 1.2 out of 5 from 800+ reviews. Reviews are self-selected and mostly unverified, so it shows a pattern, not a failure rate.
+
+- [Trustpilot](https://au.trustpilot.com/review/dragonflyshipping.com.au) rates it 4.1 out of 5 from about 519 reviews. That page mixes countries, and companies can invite reviews there. It disagrees with ProductReview, and I'd rather say so than pick the number I like.
+
+- Reddit is anecdote. Still, the stories rhyme with mine. One [r/amazonprime thread](https://www.reddit.com/r/amazonprime/comments/1bk2a1i/dragonfly_shipping_australia/) has people describing attempts logged outside business hours at workplaces that were open, and parcels marked delivered that weren't. A [r/melbourne thread](https://www.reddit.com/r/melbourne/comments/1l8n3dw/amazon_wtf/) shows plenty of local frustration.
+
+I found no regulator finding or news report about Dragonfly in Australia. So I'm not claiming anything official here. These are my experience and other people's accounts.
+
+## What worked
+
+Going through Amazon, not Dragonfly. I complained to Amazon, they sent a replacement to the same address and it was delivered without issue. Cheers Amazon for being so ***Customer Obsessed ***and focused on ***Delivering Results***. Boo on ***Insisting on Higher Standards***.
+
+People in those public threads report the same route working. I found nobody reporting a fix from Dragonfly's own inbox or form.
+
+If you're stuck in the same loop, there are other routes:
+
+- [Consumer Affairs Victoria and other state bodies](https://consumer.gov.au/consumers/consumer-protection-agencies) are free and can help work out a fix with the business.
+
+- The [ACCC](https://www.accc.gov.au/consumers/problem-with-a-product-or-service-you-bought/where-to-go-for-consumer-help) doesn't settle individual disputes but takes reports and points you to the right agency.
+
+## Where I've landed
+
+The failure wasn't the courier being slow, it was the process having no way to hear "the address is right." No reply path, a template that never changed, and attempts that ignored opening hours. A local person reading one email would have fixed it (maybe).
+
+Countless calls to the Dragonfly customer support team only aggravated me more with their faux helpfulness and inability to actually fix the problem. Their CRM documents the failures, and I suspect they are hidden from any lessons learnt, or ability to fix these systemic failures. 
+
+**Do Better Dragonfly Shipping.**
+
+**Amazon review their performance and demand they do better. **
+
+I'll update this post if Dragonfly replies, which IMHO is unlikely.

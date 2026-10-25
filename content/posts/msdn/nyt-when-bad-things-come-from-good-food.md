@@ -6,34 +6,4 @@ source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/nyt-when-b
 date: "2007-01-04"
 ---
 
-Note
-signing in
-or
-changing directories
-.
-changing directories
-.
-NYT: When Bad Things Come From 'Good' Food
-Excerpt from
-New York Times
-Article:
-When Bad Things Come From âGoodâ Food
-https://www.nytimes.com/2007/01/02/health/nutrition/02seco.html
-People in the United States have gotten used to the repulsive fact that raw chicken, meat and eggs are often contaminated with dangerous bacteria. Scrub the cutting board, we are warned, donât nibble the cookie dough, donât eat burgers rare. In other words, handle meat like a biohazard â and then eat it.
-MY COMMENT:
-To download the Times Reader, click
-here
-.
-Published with
-BlogMailr
-Comments
-Anonymous
-January 04, 2007
-The comment has been removed
-Anonymous
-January 04, 2007
-Until you get e-coli from your spinach or lettuce...
-Grow your own food. That's about the only way to know for certain what's in it.
-Additional resources
-Last updated on
-2007-01-04
+NYT: When Bad Things Come From 'Good' Food Excerpt from New York Times Article: When Bad Things Come From âGoodâ Food https://www.nytimes.com/2007/01/02/health/nutrition/02seco.html People in the United States have gotten used to the repulsive fact that raw chicken, meat and eggs are often contaminated with dangerous bacteria. Scrub the cutting board, we are warned, donât nibble the cookie dough, donât eat burgers rare. In other words, handle meat like a biohazard â and then eat it. MY COMMENT: To download the Times Reader, click here. Published with BlogMailr Comments Anonymous January 04, 2007 The comment has been removed Anonymous January 04, 2007 Until you get e-coli from your spinach or lettuce... Grow your own food. That's about the only way to know for certain what's in it. Additional resources Last updated on 2007-01-04

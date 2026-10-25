@@ -1,10 +1,47 @@
 ---
 title: "When Online Work Meets the Real World"
-date: 2026-05-22
-platform: frankarr-com
-era: now
+platform: "frankarr-com"
+era: "now"
 source_url: "http://frankarr.com/2026/05/22/when-online-work-meets-the-real-world/"
-tags: ["Personal", "smallbizai.au"]
+date: "2026-05-22"
 ---
 
-I didn t expect the site to do this. SmallBizAI.au was, in my head, an online project. I d write posts, Claw 🦞 would automate the infrastructure, traffic would come from Google. The whole thing would exist on the internet, for the internet, read by people I d never meet. That s not what happened. Over the past few months, former colleagues have been getting in touch. Not cold outreach. Not recruiters. People I know, from Microsoft, from Telstra, from AWS, who ve seen a LinkedIn post, or found the site, or read something I wrote and wanted to talk about it. People who work in adjacent spaces and had questions. People I hadn t spoken to in a while who had things to share. So far that s resulted in five face-to-face meetings and two Zoom calls. Seven real conversations I wouldn t have had otherwise. This surprised me more than it probably should have. When you spend 40+ years building a career in tech, you accumulate a network. But networks go quiet. People change roles, move cities, get busy. The connections are still there, they just don t activate without a reason. The site turned out to be a reason. I don t think it s about the content specifically. It s that the content signals something: that I m thinking about this stuff, that I have a point of view, that I m still in it. People who work in similar spaces see that and have something to respond to. That s different from a LinkedIn post saying open to opportunities. That s about you. A post about AI adoption trends for Australian businesses, or how an agentic AI system runs a 700-post site, is about a thing that matters to them too. I ve thought about why this keeps happening. The most honest answer is that publishing forces you to have an opinion. You can t just say AI is interesting and publish a post, you have to say something specific. And specific things give people something to agree or disagree with, something to respond to, something to bring up over coffee. The conversations have been good. Some of them are exploring similar territory. Some have domain expertise I don t have. A couple have led to ongoing exchanges that I expect will keep going. None of this was planned. It s a side effect of doing the work. There s a version of this that applies to any small business owner publishing online. You re probably not trying to reconnect with former colleagues. But you are trying to signal something to your industry: that you understand it, that you have experience, that you re worth talking to. The people most likely to respond to that aren t strangers — they re people who already know you, who just needed a reason to get back in touch. Publishing gives them the reason. I built SmallBizAI.au expecting the internet. What I got was my phone.
+I didn't expect the site to do this.
+
+[SmallBizAI.au](https://smallbizai.au) was, in my head, an online project. I'd write posts, Claw 🦞 would automate the infrastructure, traffic would come from Google. The whole thing would exist on the internet, for the internet, read by people I'd never meet.
+
+That's not what happened.
+
+Over the past few months, former colleagues have been getting in touch.
+
+Not cold outreach. Not recruiters. People I know, from Microsoft, from Telstra, from AWS, who've seen a LinkedIn post, or found the site, or read something I wrote and wanted to talk about it. People who work in adjacent spaces and had questions. People I hadn't spoken to in a while who had things to share.
+
+So far that's resulted in five face-to-face meetings and two Zoom calls.
+
+Seven real conversations I wouldn't have had otherwise.
+
+This surprised me more than it probably should have.
+
+When you spend 40+ years building a career in tech, you accumulate a network. But networks go quiet. People change roles, move cities, get busy. The connections are still there, they just don't activate without a reason.
+
+The site turned out to be a reason.
+
+I don't think it's about the content specifically. It's that the content signals something: that I'm thinking about this stuff, that I have a point of view, that I'm still in it. People who work in similar spaces see that and have something to respond to.
+
+That's different from a LinkedIn post saying "open to opportunities." That's about you. A post about AI adoption trends for Australian businesses, or how an agentic AI system runs a 700-post site, is about a thing that matters to them too.
+
+I've thought about why this keeps happening.
+
+The most honest answer is that publishing forces you to have an opinion. You can't just say "AI is interesting" and publish a post, you have to say something specific. And specific things give people something to agree or disagree with, something to respond to, something to bring up over coffee.
+
+The conversations have been good. Some of them are exploring similar territory. Some have domain expertise I don't have. A couple have led to ongoing exchanges that I expect will keep going.
+
+None of this was planned. It's a side effect of doing the work.
+
+There's a version of this that applies to any small business owner publishing online.
+
+You're probably not trying to reconnect with former colleagues. But you are trying to signal something to your industry: that you understand it, that you have experience, that you're worth talking to. The people most likely to respond to that aren't strangers — they're people who already know you, who just needed a reason to get back in touch.
+
+Publishing gives them the reason.
+
+I built [SmallBizAI.au](https://smallbizai.au) expecting the internet. What I got was my phone.

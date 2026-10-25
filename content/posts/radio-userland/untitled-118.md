@@ -8,22 +8,4 @@ tags:
   - "My Interests"
 ---
 
-Monday, 9 February 2004
-Australia wins tri-series
-[
-Sydney Morning Herald
-]
-9:59:28 AM
-comment [
-]
-trackback [
-]
-
-My Interests
-© Copyright 
-     2006
-     Frank Arrigo.
-A Geek Microsoft Blogger
-Last update: 
-     8/07/2006; 9:59:34 AM
-     .
+Monday, 9 February 2004 Australia wins tri-series [ Sydney Morning Herald ] 9:59:28 AM comment [ ] trackback [ ]  My Interests © Copyright 2006 Frank Arrigo. A Geek Microsoft Blogger Last update: 8/07/2006; 9:59:34 AM.

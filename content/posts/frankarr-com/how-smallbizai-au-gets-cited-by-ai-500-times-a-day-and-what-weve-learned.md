@@ -1,10 +1,109 @@
 ---
 title: "How SmallBizAI.au Gets Cited by AI 500+ Times a Day and What We ve Learned"
-date: 2026-06-03
-platform: frankarr-com
-era: now
+platform: "frankarr-com"
+era: "now"
 source_url: "http://frankarr.com/2026/06/03/how-smallbizai-au-gets-cited-by-ai-500-times-a-day-and-what-weve-learned/"
-tags: ["smallbizai.au", "technology", "writing", "Personal", "smallbizai.au"]
+date: "2026-06-03"
 ---
 
-We launched SmallBizAI.au on March 6, 2026. In the first week, Bing Copilot cited us 13 times. By late May, it was citing us over 500 times a day. We didn t build an SEO strategy around AI citations. We didn t know that was a thing yet. But after tracking 20,000+ citations across three months, some clear patterns have emerged. And they repeat. What content AI models actually pull from is pretty specific. Most sites aren t getting cited even though they probably should be. The short version AI citation systems are not Google. They don t reward age, domain authority, or backlink counts the same way. What they reward is specificity. A page that directly answers Zeller vs Square for a café in Melbourne beats a page titled Best payment tools for small business every time. Most sites are still optimising for Google. That s the wrong target. What actually gets cited Here s our top cited content as of June 2026: Page Citations Flare HR profile 1,548 Zeller profile 1,529 Rippling vs BambooHR vs Workday 1,431 Australian Banks AI guide 1,427 Stripe vs Square vs Tyro 1,050 How to Handle Customer Complaints with AI 742 ChatGPT Cost in Australia 531 Deputy vs Tanda 483 Notice what s not there. No ultimate guide to AI for small business. No broad overview posts. The highest-cited content is either a dedicated company profile or a direct comparison between named tools. Why AI cites comparison posts When someone asks Bing Copilot should I use Zeller or Square for my business, the AI needs a source that directly answers that question. A post called Zeller vs Square is an obvious candidate. A post called Best Payment Tools is not. Too broad to cite with confidence. This is the core difference between traditional SEO and AI citation. Google rewards comprehensive coverage. AI rewards direct answers to specific questions. The query that drives citations is usually a comparison or a company lookup. Not what is AI but is Rippling worth it for a 10-person business in Australia. The Zeller effect One post on Zeller has been cited across roughly 25 different query variants. Not 25 clicks, 25 different questions that all route to the same page. Queries like: zeller business account review zeller vs square australia is zeller good for small business zeller fees australia how does zeller work All pointing to one URL. This happens when a post answers multiple angles of the same topic, the company overview, the pricing, the comparison, the use case. Bing learns that this page is the reliable answer for anything Zeller-related and starts routing all those queries there. We call this cluster anchoring. One strong post becomes the hub for an entire query cluster, worth more than 10 thin posts on the same topic. What doesn t get cited Our grants post gets consistent human traffic, people actively searching for Australian small business grants, clicking through, reading it properly. Bing barely touches it. Maybe 60–80 citations total. Why? Because AI assistants don t answer where can I get a grant by citing a directory. They either tell you to check the government website directly, or they summarise. Our page doesn t fit the format of an answer AI can pull from. Content humans search for isn t automatically content AI will cite. The format matters as much as the topic. Content AI cites well: Direct tool comparisons ( X vs Y vs Z ) Company profiles with clear factual structure (what it does, what it costs, who it s for) How much does X cost in Australia specific country context with a real number Best X for [specific use case] named tools, named context Content AI cites poorly: Broad overviews with no specific answer Lists of 20+ tools without clear recommendations News recaps (cites the original source instead) Content that requires context from other pages to make sense The format that works Our top-cited posts share a structure. They open with the direct answer. Not in this post we ll explore the actual answer in the first two paragraphs. If someone asks is Zeller good for small business, the page answers that in the first 100 words. They use named tools throughout. Not payment platforms Zeller, Square, Stripe. AI systems index on entity names. If your post discusses payment tools without naming them, it won t get pulled for queries about those tools. They include Australian context. Fees in Australia, available to Australian businesses, works with Xero Australia. Bing s AI is serving Australian users. Pages that signal Australian relevance get pulled for Australian queries. They have a clear verdict. Not it depends , an actual recommendation, with the caveat folded in. Zeller is the better pick if you re a hospitality business taking in-person payments at volume. Square makes more sense if you also sell online. The numbers don t equal traffic Flare HR has 1,548 Bing AI citations. In the same period, it had 23 page views from human visitors. Bing Copilot is citing our content to answer user questions, but those users aren t clicking through to our site. They re getting the answer from the AI, which pulled it from us, and moving on. Citations build brand recognition even without clicks. And some pages do both, Stripe vs Square vs Tyro has over 1,000 citations and meaningful human traffic. Those are the sweet spot posts. But if you re building a content strategy purely for AI citations expecting traffic to follow, you ll be disappointed. Citations are exposure, not visits. The sites that do well publish enough citation-worthy content that AI systems start treating them as a default source, then drive human traffic through practical posts on the same topics. The pace matters We published consistently from day one. Not perfectly (some weeks were heavier than others), but the volume was always there. The citations didn t grow linearly with the post count. There was an inflection around April 13, roughly six weeks after launch, where the daily citation count jumped from 77 to 214 overnight. Nothing specific triggered it. We d just reached a point where there was enough content surface area that Bing started treating us as a default source for Australian business AI queries. That inflection happens faster if your content is specific and consistent. It probably doesn t happen at all if your output is infrequent or generic. What you can take from this If you want AI systems to cite your site, here s what s actually working for us. Pick a topic cluster where you can own the comparison. Not AI tools broadly, something specific. AI tools for Australian tradies. HR software for hospitality businesses. Something you can publish 10–20 posts on without running dry. Write the comparison posts. Name the tools. Give verdicts. Include Australian context where relevant. Write the company profiles. A dedicated page for each major tool in your cluster. Structured clearly: what it is, what it costs, who it s for, how it compares. Answer the cost questions. How much does X cost in Australia is a query type AI pulls from constantly. If you don t have that page, someone else s answer gets cited instead of yours. Do this consistently for six to eight weeks. The inflection we hit in April, citations jumping from 77 to 214 overnight, happened without us doing anything special that day. There was just enough on the site by then. Related reading 16,000 Citations and Counting: How a 10-Week-Old Site Became Bing Copilot s Go-To Source : the data behind this post What Australian Small Businesses Are Asking Bing AI Right Now : the actual queries driving citations
+We launched [SmallBizAI.au](http://smallbizai.au) on March 6, 2026. In the first week, Bing Copilot cited us 13 times. By late May, it was citing us over 500 times a day. We didn't build an SEO strategy around AI citations. We didn't know that was a thing yet. But after tracking 20,000+ citations across three months, some clear patterns have emerged. And they repeat. What content AI models actually pull from is pretty specific. Most sites aren't getting cited even though they probably should be.
+
+## The short version
+
+AI citation systems are not Google. They don't reward age, domain authority, or backlink counts the same way. What they reward is specificity. A page that directly answers "Zeller vs Square for a café in Melbourne" beats a page titled "Best payment tools for small business" every time. Most sites are still optimising for Google. That's the wrong target.
+
+## What actually gets cited
+
+Here's our top cited content as of June 2026:
+
+PageCitations[Flare HR profile](https://smallbizai.au/flare-hr-sydney-ai-employee-benefits-australia/)1,548[Zeller profile](https://smallbizai.au/zeller-melbourne-ai-business-banking-payments-australia/)1,529[Rippling vs BambooHR vs Workday](https://smallbizai.au/rippling-vs-bamboohr-vs-workday-australia/)1,431[Australian Banks AI guide](https://smallbizai.au/australian-banks-ai-cba-nab-anz-westpac-small-business/)1,427[Stripe vs Square vs Tyro](https://smallbizai.au/stripe-vs-square-vs-tyro-australia/)1,050[How to Handle Customer Complaints with AI](https://smallbizai.au/how-to-use-ai-to-handle-difficult-customers/)742[ChatGPT Cost in Australia](https://smallbizai.au/how-much-does-chatgpt-cost-australia-2026/)531[Deputy vs Tanda](https://smallbizai.au/deputy-vs-tanda-right-to-disconnect-award-compliance-australia-2026/)483
+
+Notice what's not there. No "ultimate guide to AI for small business." No broad overview posts. The highest-cited content is either a dedicated company profile or a direct comparison between named tools.
+
+## Why AI cites comparison posts
+
+When someone asks Bing Copilot "should I use Zeller or Square for my business," the AI needs a source that directly answers that question. A post called "[Zeller vs Square](https://smallbizai.au/zeller-melbourne-ai-business-banking-payments-australia/)" is an obvious candidate. A post called "Best Payment Tools" is not. Too broad to cite with confidence. This is the core difference between traditional SEO and AI citation. Google rewards comprehensive coverage. AI rewards direct answers to specific questions. The query that drives citations is usually a comparison or a company lookup. Not "what is AI" but "is [Rippling](https://smallbizai.au/rippling-vs-bamboohr-vs-workday-australia/) worth it for a 10-person business in Australia."
+
+## The Zeller effect
+
+One post on [Zeller ](https://smallbizai.au/zeller-melbourne-ai-business-banking-payments-australia/)has been cited across roughly 25 different query variants. Not 25 clicks, 25 different questions that all route to the same page.
+
+Queries like:
+
+- "zeller business account review"
+
+- "zeller vs square australia"
+
+- "is zeller good for small business"
+
+- "zeller fees australia"
+
+- "how does zeller work"
+
+All pointing to one URL.
+
+This happens when a post answers multiple angles of the same topic, the company overview, the pricing, the comparison, the use case. Bing learns that this page is the reliable answer for anything Zeller-related and starts routing all those queries there. We call this cluster anchoring. One strong post becomes the hub for an entire query cluster, worth more than 10 thin posts on the same topic.
+
+## What doesn't get cited
+
+Our [grants post](https://smallbizai.au/australian-small-business-grants-ai-technology-2026/) gets consistent human traffic, people actively searching for Australian small business grants, clicking through, reading it properly. Bing barely touches it. Maybe 60–80 citations total. Why? Because AI assistants don't answer "where can I get a grant" by citing a directory. They either tell you to check the government website directly, or they summarise. Our page doesn't fit the format of an answer AI can pull from. Content humans search for isn't automatically content AI will cite. The format matters as much as the topic.
+
+Content AI cites well:
+
+- Direct tool comparisons ("X vs Y vs Z")
+
+- Company profiles with clear factual structure (what it does, what it costs, who it's for)
+
+- "How much does X cost in Australia" – specific country context with a real number
+
+- "Best X for [specific use case]" – named tools, named context
+
+Content AI cites poorly:
+
+- Broad overviews with no specific answer
+
+- Lists of 20+ tools without clear recommendations
+
+- News recaps (cites the original source instead)
+
+- Content that requires context from other pages to make sense
+
+## The format that works
+
+Our top-cited posts share a structure. They open with the direct answer. Not "in this post we'll explore" the actual answer in the first two paragraphs. If someone asks "is Zeller good for small business," the page answers that in the first 100 words. They use named tools throughout. Not "payment platforms" Zeller, Square, Stripe. AI systems index on entity names. If your post discusses payment tools without naming them, it won't get pulled for queries about those tools. They include Australian context. "Fees in Australia," "available to Australian businesses," "works with Xero Australia." Bing's AI is serving Australian users. Pages that signal Australian relevance get pulled for Australian queries. They have a clear verdict. Not "it depends", an actual recommendation, with the caveat folded in. "[Zeller](https://smallbizai.au/zeller-melbourne-ai-business-banking-payments-australia/) is the better pick if you're a hospitality business taking in-person payments at volume. Square makes more sense if you also sell online."
+
+## The numbers don't equal traffic
+
+[Flare HR](https://smallbizai.au/flare-hr-sydney-ai-employee-benefits-australia/) has 1,548 Bing AI citations. In the same period, it had 23 page views from human visitors. Bing Copilot is citing our content to answer user questions, but those users aren't clicking through to our site. They're getting the answer from the AI, which pulled it from us, and moving on. Citations build brand recognition even without clicks. And some pages do both, [Stripe vs Square vs Tyro](https://smallbizai.au/stripe-vs-square-vs-tyro-australia/) has over 1,000 citations and meaningful human traffic. Those are the sweet spot posts. 
+
+But if you're building a content strategy purely for AI citations expecting traffic to follow, you'll be disappointed. Citations are exposure, not visits. The sites that do well publish enough citation-worthy content that AI systems start treating them as a default source, then drive human traffic through practical posts on the same topics.
+
+## The pace matters
+
+We published consistently from day one. Not perfectly (some weeks were heavier than others), but the volume was always there.
+
+The citations didn't grow linearly with the post count. There was an inflection around April 13, roughly six weeks after launch, where the daily citation count jumped from 77 to 214 overnight. Nothing specific triggered it. We'd just reached a point where there was enough content surface area that Bing started treating us as a default source for Australian business AI queries.
+
+That inflection happens faster if your content is specific and consistent. It probably doesn't happen at all if your output is infrequent or generic.
+
+## What you can take from this
+
+If you want AI systems to cite your site, here's what's actually working for us. 
+
+- Pick a topic cluster where you can own the comparison. Not "AI tools" broadly, something specific. "AI tools for Australian tradies." "HR software for hospitality businesses." Something you can publish 10–20 posts on without running dry.
+
+- Write the comparison posts. Name the tools. Give verdicts. Include Australian context where relevant.
+
+- Write the company profiles. A dedicated page for each major tool in your cluster. Structured clearly: what it is, what it costs, who it's for, how it compares.
+
+- Answer the cost questions. "How much does X cost in Australia" is a query type AI pulls from constantly. If you don't have that page, someone else's answer gets cited instead of yours.
+
+- Do this consistently for six to eight weeks. 
+
+The inflection we hit in April, citations jumping from 77 to 214 overnight, happened without us doing anything special that day. There was just enough on the site by then.
+
+## Related reading
+
+- [16,000 Citations and Counting: How a 10-Week-Old Site Became Bing Copilot's Go-To Source](https://smallbizai.au/16000-citations-and-counting-how-a-10-week-old-site-became-bing-copilots-go-to-source-for-australian-business/) : the data behind this post
+
+- [What Australian Small Businesses Are Asking Bing AI Right Now](https://smallbizai.au/what-australian-small-business-owners-are-asking-bing-ai-right-now/) : the actual queries driving citations

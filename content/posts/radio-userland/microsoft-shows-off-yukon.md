@@ -8,22 +8,4 @@ tags:
   - "My Organization"
 ---
 
-Wednesday, 29 October 2003
-Microsoft shows off Yukon
-Microsoft's Yukon got its moment in the spotlight at the company's Professional Developers Conference with public demonstrations of the product's built-in development and debugging capabilities
-more
-5:19:58 PM
-comment [
-]
-trackback [
-]
-G!
-
-My Organization
-© Copyright 
-     2006
-     Frank Arrigo.
-A Geek Microsoft Blogger
-Last update: 
-     8/07/2006; 9:49:30 AM
-     .
+Wednesday, 29 October 2003 Microsoft shows off Yukon Microsoft's Yukon got its moment in the spotlight at the company's Professional Developers Conference with public demonstrations of the product's built-in development and debugging capabilities more 5:19:58 PM comment [ ] trackback [ ] G!  My Organization © Copyright 2006 Frank Arrigo. A Geek Microsoft Blogger Last update: 8/07/2006; 9:49:30 AM.

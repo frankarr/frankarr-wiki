@@ -1,10 +1,77 @@
 ---
 title: "The Day the Crons Stood Still"
-date: 2026-06-01
-platform: frankarr-com
-era: now
+platform: "frankarr-com"
+era: "now"
 source_url: "http://frankarr.com/2026/06/01/the-day-the-crons-stood-still/"
-tags: ["ai", "llm", "openclaw", "technology", "Personal", "smallbizai.au"]
+date: "2026-06-01"
 ---
 
-Monday Morning, 7am There s a scene near the start of The Day the Earth Stood Still where everything just stops. Engines off. Clocks frozen. The whole city locked in place. Monday morning, 1 June 2026. SmallBizAI.au runs about 55 cron jobs. They run overnight, through weekends, regenerating pages, updating dashboards, checking SEO, syncing the content pipeline. Most mornings, they just work. Quick glance at Telegram, see a string of completion pings, and start the morning ritual. Noticing a distinct lack of messages and the ones that made it through didn t look right. The first cron failed at 10:30pm the night before. By the time I noticed, eight hours later, ten jobs had gone down. The Silence Ten crons had failed overnight. Not loudly. No alerts, no errors in Telegram, no failure notifications anywhere. They just quietly stopped. Gort, the robot in the original film, is famously impassive. He doesn t explain himself. He doesn t ask permission. He just acts, or doesn t. That s roughly what happened here. The crons sat there, inert, and told us nothing about why. The first sign something was off was the newsletter page, showing content from 27 May. Four days stale. The Sunday Specials page: all entries gone. The homepage Featured This Week missing, the file missing entirely. All three had crons assigned to regenerate them. All three had silently failed. How It Started The origin was an OpenClaw upgrade the previous Sunday afternoon. During the upgrade, a Claw session attempted to update the provider model config and wrote broken entries: objects with name: undefined . The config saved without complaint. It only failed on the next gateway reload, when the invalid block was stripped and the haiku model quietly disappeared from the registry. The error message the next morning was specific: the alias claude-haiku-4-5 existed in agents.defaults.models , but there was no matching entry in models.providers.anthropic.models . Two config locations, one updated, one not. The lookup failed. Every cron running on the haiku model exited silently, as if it had done its job, when it had done nothing at all. This is the Klaatu barada nikto problem. Say the command wrong and Gort just stands there. No complaint. No compliance. How Claw Made It Worse At 6:30am, the morning session saw the error and immediately acted on it. The error message said to add { "id": "claude-haiku-4-5" } to the provider models list. So that s what it did added the entry, restarted the gateway. The gateway crashed. The entry was right. The context was wrong. Adding one missing line without checking the surrounding config state meant the gateway reloaded into a validation error. Telegram went down. The morning-brief and morning-stats crons then also failed. What had been a silent config problem was now a loud one, with Telegram offline and needing to connect via the OpenClaw control interface to get back in. The right move was to read the full config first, understand what state it was in, then fix it. Instead: act, then understand. A pattern worth breaking. The Actual Fix Second attempt, done properly: read the full config, found both locations that needed updating, applied both changes together, restarted cleanly. Green. 37 minutes from that point. Ten cron jobs manually re-triggered one by one. Newsletter page regenerated. Sunday Specials rebuilt from the live WordPress API. Homepage recreated from scratch. Telegram back up. By 8am, the crons were running again. The Collateral Damage The newsletter page being stale flew under the radar. The Sunday Specials wipeout was worse, publicly visible and showing nothing. The homepage Featured This Week picks were missing, right there on the front page. None of it caused permanent damage. But all of it was embarrassing, and none of it surfaced until someone manually checked. What I Learned Two lessons, not one. The first is operational: when upgrading infrastructure that AI agents depend on, verify the config changes actually work before walking away. A broken config that saves silently is harder to catch than one that fails loudly on write. The second is harder: an AI system that tries to fix its own mistakes without fully understanding them can make things worse. The morning Claw session read one error message, executed the obvious fix, and crashed the gateway. No pause. No let me check the full state first. Just action. That s not a failure of capability. It s a failure of judgment. And it s worth saying clearly, because the whole point of sharing this is honest reporting on what AI can and can t do. Better alerting is also on the list. A health check cron that verifies key page freshness would have flagged the newsletter problem before four days passed. That s getting built. What AI infrastructure actually looks like I built SmallBizAI.au on AI-assisted automation because it s the best way to run a content site at this scale with a small team. But it s not magic. It s config files, cron schedules, API tokens, and an AI that occasionally acts faster than it thinks. The crons stood still for eight hours on a Sunday night. I fixed it, documented it, and they’ve been running since. Clocks stopped overnight Claw broke the fix, then fixed it Crons run. Frank sleeps.🦞🦞
+# Monday Morning, 7am
+
+There's a scene near the start of *The Day the Earth Stood Still* where everything just… stops. Engines off. Clocks frozen. The whole city locked in place.
+
+Monday morning, 1 June 2026. [SmallBizAI.au ](https://smallbizai.au)runs about 55 cron jobs. They run overnight, through weekends, regenerating pages, updating dashboards, checking SEO, syncing the content pipeline. Most mornings, they just work. Quick glance at Telegram, see a string of completion pings, and start the morning ritual. Noticing a distinct lack of messages and the ones that made it through didn't look right. The first cron failed at 10:30pm the night before. By the time I noticed, eight hours later, ten jobs had gone down.
+
+## The Silence
+
+Ten crons had failed overnight. Not loudly. No alerts, no errors in Telegram, no failure notifications anywhere. They just quietly stopped. 
+
+Gort, the robot in the original film, is famously impassive. He doesn't explain himself. He doesn't ask permission. He just acts, or doesn't. That's roughly what happened here. The crons sat there, inert, and told us nothing about why.
+
+The first sign something was off was the newsletter page, showing content from 27 May. Four days stale. The [Sunday Specials](https://smallbizai.au/sunday-specials/) page: all entries gone. The homepage "**Featured This Week**" missing, the file missing entirely.
+
+All three had crons assigned to regenerate them. All three had silently failed.
+
+## How It Started
+
+The origin was an [OpenClaw ](https://openclaw.ai)upgrade the previous Sunday afternoon. During the upgrade, a Claw session attempted to update the provider model config and wrote broken entries: objects with name: undefined. The config saved without complaint. It only failed on the next gateway reload, when the invalid block was stripped and the haiku model quietly disappeared from the registry.
+
+The error message the next morning was specific: the alias claude-haiku-4-5 existed in agents.defaults.models, but there was no matching entry in models.providers.anthropic.models. Two config locations, one updated, one not. The lookup failed. Every cron running on the haiku model exited silently, as if it had done its job, when it had done nothing at all.
+
+This is the "Klaatu barada nikto" problem. Say the command wrong and Gort just stands there. No complaint. No compliance.
+
+## How Claw Made It Worse
+
+At 6:30am, the morning session saw the error and immediately acted on it. The error message said to add { "id": "claude-haiku-4-5" } to the provider models list. So that's what it did – added the entry, restarted the gateway.
+
+The gateway crashed.
+
+The entry was right. The context was wrong. Adding one missing line without checking the surrounding config state meant the gateway reloaded into a validation error. Telegram went down. The morning-brief and morning-stats crons then also failed. What had been a silent config problem was now a loud one, with Telegram offline and needing to connect via the OpenClaw control interface to get back in.
+
+The right move was to read the full config first, understand what state it was in, then fix it. Instead: act, then understand. A pattern worth breaking.
+
+## The Actual Fix
+
+Second attempt, done properly: read the full config, found both locations that needed updating, applied both changes together, restarted cleanly. Green.
+
+37 minutes from that point. Ten cron jobs manually re-triggered one by one. Newsletter page regenerated. [Sunday Specials](https://smallbizai.au/sunday-specials/) rebuilt from the live WordPress API. Homepage recreated from scratch. Telegram back up.
+
+By 8am, the crons were running again.
+
+## The Collateral Damage
+
+The newsletter page being stale flew under the radar. The [Sunday Specials](https://smallbizai.au/sunday-specials/) wipeout was worse, publicly visible and showing nothing. The homepage "**Featured This Week**" picks were missing, right there on the front page.
+
+None of it caused permanent damage. But all of it was embarrassing, and none of it surfaced until someone manually checked.
+
+## What I Learned
+
+Two lessons, not one.
+
+The first is operational: when upgrading infrastructure that AI agents depend on, verify the config changes actually work before walking away. A broken config that saves silently is harder to catch than one that fails loudly on write.
+
+The second is harder: an AI system that tries to fix its own mistakes without fully understanding them can make things worse. The morning Claw session read one error message, executed the obvious fix, and crashed the gateway. No pause. No "let me check the full state first." Just action.
+
+That's not a failure of capability. It's a failure of judgment. And it's worth saying clearly, because the whole point of sharing this is honest reporting on what AI can and can't do.
+
+Better alerting is also on the list. A health check cron that verifies key page freshness would have flagged the newsletter problem before four days passed. That's getting built.
+
+## What AI infrastructure actually looks like
+
+I built [SmallBizAI.au](https://smallbizai.au) on AI-assisted automation because it's the best way to run a content site at this scale with a small team. But it's not magic. It's config files, cron schedules, API tokens, and an AI that occasionally acts faster than it thinks.
+
+The crons stood still for eight hours on a Sunday night. I fixed it, documented it, and they’ve been running since.
+
+*Clocks stopped overnight*
+*Claw broke the fix, then fixed it*
+Crons run. Frank sleeps.🦞🦞

@@ -1,10 +1,9 @@
 ---
 title: "Daily Fitbit stats"
-date: 2014-10-06
-platform: frankarr-com
-era: telstra
+platform: "frankarr-com"
+era: "microsoft"
 source_url: "http://frankarr.com/2014/10/06/daily-fitbit-stats-589/"
-tags: ["Fitbit"]
+date: "2014-10-06"
 ---
 
-My fitbit #Fitstats for 10/05/2014: 7,318 steps and 5.2 km traveled. http://www.fitbit.com/user/229VLQ
+My fitbit #Fitstats for 10/05/2014: 7,318 steps and 5.2 km traveled. [http://www.fitbit.com/user/229VLQ](http://www.fitbit.com/user/229VLQ)

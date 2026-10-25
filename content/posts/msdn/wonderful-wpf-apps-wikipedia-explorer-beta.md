@@ -6,32 +6,4 @@ source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/wonderful-
 date: "2007-02-03"
 ---
 
-Note
-signing in
-or
-changing directories
-.
-changing directories
-.
-Wonderful WPF Apps : Wikipedia Explorer (BETA)
-I spotted this over on
-James Senior's blog
-:
-Wikipedia Explorer
-Wikipedia Explorer
-can be run as a ClickOnce application via this link:
-Wikipedia Explorer
-.
-I think I've spent the last 2 hours playing with this little app.
-Technorati tags:
-WPF
-,
-Wikipedia Explorer
-Comments
-Anonymous
-February 05, 2007
-PingBack from
-http://blog.mrees.biz/myblog/?p=142
-Additional resources
-Last updated on
-2007-02-03
+Wonderful WPF Apps : Wikipedia Explorer (BETA) I spotted this over on James Senior's blog: Wikipedia Explorer Wikipedia Explorer can be run as a ClickOnce application via this link: Wikipedia Explorer. I think I've spent the last 2 hours playing with this little app. Technorati tags: WPF, Wikipedia Explorer Comments Anonymous February 05, 2007 PingBack from http://blog.mrees.biz/myblog/?p=142 Additional resources Last updated on 2007-02-03

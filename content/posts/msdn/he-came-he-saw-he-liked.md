@@ -6,21 +6,4 @@ source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/he-came-he
 date: "2004-02-26"
 ---
 
-Note
-signing in
-or
-changing directories
-.
-changing directories
-.
-He Came. He Saw. He Liked.
-Justin King
-went to the recent
-MSDN Update
-and
-liked what he saw
-.
-I love reading stuff like this.
-Additional resources
-Last updated on
-2004-02-26
+He Came. He Saw. He Liked. Justin King went to the recent MSDN Update and liked what he saw. I love reading stuff like this. Additional resources Last updated on 2004-02-26

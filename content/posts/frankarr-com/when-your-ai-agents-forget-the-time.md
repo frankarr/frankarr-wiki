@@ -1,10 +1,73 @@
 ---
 title: "When Your AI Agents Forget The Time"
-date: 2026-07-11
-platform: frankarr-com
-era: now
+platform: "frankarr-com"
+era: "now"
 source_url: "http://frankarr.com/2026/07/11/when-your-ai-agents-forget-the-time/"
-tags: ["openclaw", "smallbizai.au", "Personal", "smallbizai.au"]
+date: "2026-07-11"
 ---
 
-At 7am on Saturday, July 11, our AI editor sent a CRITICAL alert. Thirty-nine posts scheduled outside the 9am–noon Melbourne window. Midnight batches. Posts at 1am, 2am. The queue was apparently in pieces. It wasn’t. Every one of those 39 posts was correctly scheduled in a valid morning slot. The editor was reading UTC timestamps from the WordPress API and treating them as Melbourne time. A post at 9am AEST is stored as T23:00:00 UTC, the previous night. Seen through the wrong lens, the whole queue looked like a disaster. Thirty-nine false alarms. CRITICAL. Fix immediately. We fixed the editor’s instructions. The report had already landed. This keeps happening That morning’s audit also found two posts that were genuinely wrong. Two Zero Dollar Fix posts in September, actually scheduled at 1:30am AEST. Not UTC confusion, the slot calculator had written T01:30:00 local. We moved them to 11:30am while we were in there. One audit, two different classes of bug, fixed the same morning. That’s the pattern. Time and dates are where things quietly go wrong, and they go wrong in ways that look similar on the surface but have completely different causes. The UTC incident was a tool failure: the right data, read wrong. The 1:30am slots were a data failure: the data itself was wrong. Both showed up as “posts scheduled at the wrong time.” Only one of them was. The rule that had to be written down There’s a standing instruction in our system now: before writing any date into a JSON file, a cron, or a filename, run a clock check. Do not calculate. Do not reason from context. Check. That rule exists because we got it wrong enough times for it to need writing down. An AI agent calculating “next Monday” from session context instead of calling the actual clock will get it wrong. Not every time, often enough. The agent “knows” it’s Thursday. It knows the post is going out “next week.” It does the arithmetic. The arithmetic is right. The starting date was wrong by two days because the session context was stale. Wrong dates in state files cascade. A post scheduled for the wrong week. A cron set to fire on the wrong day. A content queue entry dated a week ahead of where it should be. None of it obvious until something breaks downstream. The migration that broke time During our migration from AWS in April, two Sunday Specials published on the same day, off-schedule and out of sequence. The automation assumed a clean timeline. Migration weekends don’t have clean timelines. It took weeks to properly resolve the numbering confusion in the series. Not because the system failed, it hadn’t. Because the assumption failed. The system assumed that time would behave. Migration weekend time does not behave. Dead links with a clean paper trail We have another rule: always fetch the real post URL from the WordPress API using the post ID. Never construct a URL from the title. That rule exists because we did it wrong twice. Titles get truncated. Words get dropped. Slugs don’t always match what you’d expect from the title. Our social sharing log had two entries pointing at URLs that didn’t exist. Posts “confirmed as shared” to audiences that clicked dead links. The system had logged success. The links were 404s. What we changed The clock check before any date write is now explicit in the agent instructions, not implied. UTC-to-AEST conversion is baked into every script that touches timestamps, it’s not something we expect the reading tool to handle correctly by default. The editor’s timezone note moved from the bottom of its config doc to the top, in capitals, before anything else. The URL rule is the same pattern: the fix was to stop trusting inference and start requiring a verified lookup. The post ID goes in. The canonical URL comes out. No guessing. The Telstra footnote On July 8, 2026, Telstra’s SyncServer S300 reset the network clock and knocked Triple Zero offline for parts of the country. The device stopped being manufactured around 2016 and had been flagged for replacement for years. A firmware patch that would have cost less than $30,000 was available. They knew. The scale is different from what we’re dealing with here, obviously. But the failure mode is the same: a system that assumed it knew what time it was, and didn’t check. Questions worth asking about your own setup Is your payroll software set to Melbourne time or UTC? If a shift worker clocks in at midnight and your system stores timestamps in UTC, someone’s getting paid for a shift that looks like it happened yesterday. Does your booking tool handle the AEST/AEDT transition in October and April? That one-hour shift catches systems that hardcode UTC+10 instead of using a proper timezone library. If your AI assistant tells you “today is Thursday”, does it actually check, or does it reason from the last thing it was told? These aren’t hypothetical edge cases. They’re the class of failure that looks like a data problem, a scheduling problem, or a person problem, until you trace it back to a system that guessed at the time instead of measuring it. Still at it We’re still making these mistakes. The UTC/AEST incident was recent. The slot calculator error was sitting in the queue for weeks before the audit found it. The difference now is that we write them down, fix the rule, and move on. That’s the whole log. No tidy conclusion. The next one will probably be something we haven’t thought of yet.
+At 7am on Saturday, July 11, our AI editor sent a CRITICAL alert. Thirty-nine posts scheduled outside the 9am–noon Melbourne window. Midnight batches. Posts at 1am, 2am. The queue was apparently in pieces.
+
+It wasn’t. Every one of those 39 posts was correctly scheduled in a valid morning slot. The editor was reading UTC timestamps from the WordPress API and treating them as Melbourne time. A post at 9am AEST is stored as T23:00:00 UTC, the previous night. Seen through the wrong lens, the whole queue looked like a disaster.
+
+Thirty-nine false alarms. CRITICAL. Fix immediately.
+
+We fixed the editor’s instructions. The report had already landed.
+
+## This keeps happening
+
+That morning’s audit also found two posts that were genuinely wrong. Two Zero Dollar Fix posts in September, actually scheduled at 1:30am AEST. Not UTC confusion, the slot calculator had written T01:30:00 local. We moved them to 11:30am while we were in there. One audit, two different classes of bug, fixed the same morning.
+
+That’s the pattern. Time and dates are where things quietly go wrong, and they go wrong in ways that look similar on the surface but have completely different causes.
+
+The UTC incident was a tool failure: the right data, read wrong. The 1:30am slots were a data failure: the data itself was wrong. Both showed up as “posts scheduled at the wrong time.” Only one of them was.
+
+## The rule that had to be written down
+
+There’s a standing instruction in our system now: before writing any date into a JSON file, a cron, or a filename, run a clock check. Do not calculate. Do not reason from context. Check.
+
+That rule exists because we got it wrong enough times for it to need writing down.
+
+An AI agent calculating “next Monday” from session context instead of calling the actual clock will get it wrong. Not every time, often enough. The agent “knows” it’s Thursday. It knows the post is going out “next week.” It does the arithmetic. The arithmetic is right. The starting date was wrong by two days because the session context was stale.
+
+Wrong dates in state files cascade. A post scheduled for the wrong week. A cron set to fire on the wrong day. A content queue entry dated a week ahead of where it should be. None of it obvious until something breaks downstream.
+
+## The migration that broke time
+
+During our migration from AWS in April, two Sunday Specials published on the same day, off-schedule and out of sequence. The automation assumed a clean timeline. Migration weekends don’t have clean timelines.
+
+It took weeks to properly resolve the numbering confusion in the series. Not because the system failed, it hadn’t. Because the assumption failed. The system assumed that time would behave. Migration weekend time does not behave.
+
+## Dead links with a clean paper trail
+
+We have another rule: always fetch the real post URL from the WordPress API using the post ID. Never construct a URL from the title.
+
+That rule exists because we did it wrong twice. Titles get truncated. Words get dropped. Slugs don’t always match what you’d expect from the title. Our social sharing log had two entries pointing at URLs that didn’t exist. Posts “confirmed as shared” to audiences that clicked dead links.
+
+The system had logged success. The links were 404s.
+
+## What we changed
+
+The clock check before any date write is now explicit in the agent instructions, not implied. UTC-to-AEST conversion is baked into every script that touches timestamps, it’s not something we expect the reading tool to handle correctly by default. The editor’s timezone note moved from the bottom of its config doc to the top, in capitals, before anything else.
+
+The URL rule is the same pattern: the fix was to stop trusting inference and start requiring a verified lookup. The post ID goes in. The canonical URL comes out. No guessing.
+
+## The Telstra footnote
+
+On July 8, 2026, Telstra’s SyncServer S300 reset the network clock and knocked Triple Zero offline for parts of the country. The device stopped being manufactured around 2016 and had been flagged for replacement for years. A firmware patch that would have cost less than $30,000 was available. They knew. The scale is different from what we’re dealing with here, obviously. But the failure mode is the same: a system that assumed it knew what time it was, and didn’t check.
+
+## Questions worth asking about your own setup
+
+Is your payroll software set to Melbourne time or UTC? If a shift worker clocks in at midnight and your system stores timestamps in UTC, someone’s getting paid for a shift that looks like it happened yesterday.
+
+Does your booking tool handle the AEST/AEDT transition in October and April? That one-hour shift catches systems that hardcode UTC+10 instead of using a proper timezone library.
+
+If your AI assistant tells you “today is Thursday”, does it actually check, or does it reason from the last thing it was told?
+
+These aren’t hypothetical edge cases. They’re the class of failure that looks like a data problem, a scheduling problem, or a person problem, until you trace it back to a system that guessed at the time instead of measuring it.
+
+## Still at it
+
+We’re still making these mistakes. The UTC/AEST incident was recent. The slot calculator error was sitting in the queue for weeks before the audit found it. The difference now is that we write them down, fix the rule, and move on.
+
+That’s the whole log. No tidy conclusion. The next one will probably be something we haven’t thought of yet.

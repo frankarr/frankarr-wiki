@@ -8,27 +8,4 @@ tags:
   - "Random"
 ---
 
-Sunday, 15 February 2004
-Orkut Update
-I'm now connected to
-26363
-people through
-26
-friends
-.
-If you too want to be part of the fun, let me know
-10:26:19 AM
-comment [
-]
-trackback [
-]
-G!
-
-Random
-© Copyright 
-     2006
-     Frank Arrigo.
-A Geek Microsoft Blogger
-Last update: 
-     8/07/2006; 10:01:06 AM
-     .
+Sunday, 15 February 2004 Orkut Update I'm now connected to 26363 people through 26 friends. If you too want to be part of the fun, let me know 10:26:19 AM comment [ ] trackback [ ] G!  Random © Copyright 2006 Frank Arrigo. A Geek Microsoft Blogger Last update: 8/07/2006; 10:01:06 AM.

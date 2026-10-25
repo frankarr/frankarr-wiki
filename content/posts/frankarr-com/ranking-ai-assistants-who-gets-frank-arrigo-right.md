@@ -1,10 +1,125 @@
 ---
 title: "Ranking AI Assistants: Who Gets Frank Arrigo Right?"
-date: 2026-07-16
-platform: frankarr-com
-era: now
+platform: "frankarr-com"
+era: "now"
 source_url: "http://frankarr.com/2026/07/16/ranking-ai-assistants-who-gets-frank-arrigo-right/"
-tags: ["ai", "artificial-intelligence", "openclaw", "smallbizai.au", "technology", "Personal", "smallbizai.au"]
+date: "2026-07-16"
 ---
 
-A few weeks ago I ran an experiment asking how well various AI models knew me and the results were interesting . The short answer: GPT had me frozen in 2010, Gemini invented an IBM job I never had, and DeepSeek thought I was a football coach at the University of Detroit. I ve also been running SmallBizAI.au , which now sits at over 1,000 posts and is being cited daily by Bing Copilot, and I ve been quietly building a scorecard series testing 9 AI assistants on tasks that matter to small business owners. So I decided to do a proper round two. I asked 10 AI assistants the same question: Who is Frank Arrigo aka Frankarr? Their full answers are on a dedicated page here . What follows is my ranking of who nailed it, who tried their best, and who went spectacularly sideways. The question I asked Simple. Deliberately open-ended. No hints, no context, no leading. Just: Who is Frank Arrigo aka Frankarr? Then, where the answer seemed shallow, I followed up with: What s he up to now? The assistants tested: ChatGPT, Claude, Copilot, DeepSeek, Gemini, Grok, Meta AI, Manus, Perplexity, and in her audition for the panel, Australia s own Matilda. The rankings 🥇 Copilot Best in show Read Copilot s full answer Copilot got everything. Career timeline from Aspect Computing in 1984 through to SmallBizAI.au in 2026. Got the ninemsn CTO role. Got SmallBizAI. Even got that I built the site with an AI agent called Claw and that it s produced 1,000+ posts. Named my kids. Got that I m a St Kilda member. Cited frankarr.com throughout. The slightly unsettling part: it mentioned that SmallBizAI is widely cited by AI assistants for Australian SMB guidance , which is both accurate and a bit of a loop. Copilot knowing that Copilot cites me feels like looking in two mirrors at once. This is Bing s index doing the heavy lifting, and it shows. If you want people to find you through AI, get into Bing. 🥈 DeepSeek Surprisingly deep Read DeepSeek s full answer Last time DeepSeek thought I coached football in Detroit. This time it knew about the multi-agent system at SmallBizAI, Dash, Scout, Data, Eddie, and correctly described the COE (Correction of Errors) report I had Claw write after a site crash. That s detail I published on this blog months ago, and DeepSeek found it. It did say I m currently the Head of the APJ Early Career SA Team at AWS which I haven t been since 2024, but the rest of the answer was sharp enough that I m calling it second place. 🥉 Manus Thorough, if a little corporate Read Manus s full answer Manus went long. Very long. Got the career arc right, got SmallBizAI right, mentioned the 1,000 posts milestone and the prompt packs. It laid everything out in a structured table, which is very Manus, methodical, comprehensive, a bit like a well-researched Wikipedia entry rather than something with personality. It described me as a solopreneur which made me laugh. I prefer bloke on a career break with too many AI agents. 4th Gemini Good, with one invented detail Read Gemini s full answer Gemini knew about the SmallBizAI Sunday Specials format (bull vs bear arguments), which is fairly obscure. It mentioned Emma joining AWS, which is true. It got the St Kilda supporter thing, the Melbourne location, the career break. Where it slipped: it said I was an advisory board member for the University of Melbourne School of Engineering. I wasn t. That s a Gemini invention, confident, plausible-sounding, wrong. This is the hallucination pattern I d flagged in round one and it s still there, just quieter. 5th Meta AI The most personal Read Meta AI s full answer Meta AI pulled something none of the others did: it actually read my blog posts and quoted them back at me. It knew about the intheweights experiment. It found the bit where I noted that GPT had me frozen around 2010. It cited The Trash Audit: What Happens When You Optimise for Speed. The format was odd, it spoke directly to me as though I was the one asking, which made sense since it was probably pulling from my own site. But it showed genuine reading comprehension rather than pattern matching. Worth noting. 6th ChatGPT Solid, frozen in time Read ChatGPT s full answer Good foundational answer. Got Microsoft, Telstra, AWS right. Got SmallBizAI right. But it described my AWS role as leading the APJ Early Career Solutions Architect team which was true in 2023, not necessarily my final role. The answer felt like it was built from my LinkedIn summary rather than anything published recently. No hallucinations. No howlers. Just a clean, slightly stale picture. The difference between Copilot and ChatGPT here is entirely about index freshness, Bing crawls more aggressively than whatever ChatGPT is pulling from. 7th Claude Honest, but thin Read Claude s full answer Claude, which is, I should note, the model powering my own AI team at SmallBizAI , gave the most honest answer of the lot. It sourced every claim back to a specific page on frankarr.com. It got ninemsn CTO right. It didn t invent anything. But then it asked me: Is this someone you know personally, or were you looking into his background for a specific reason? Reader, I am the background. The question was both funny and a little deflating. Claude s the most careful, it won t say something unless it can point to a source, which means it also won t synthesise or reach. It knew the facts but missed the shape of the story. 8th Perplexity Fine, but just a search wrapper Read Perplexity s full answer Perplexity pulled the right sources, frankarr.com , LinkedIn, Slideshare, and gave a clean summary. It also correctly flagged the American art director Frank Arrigo (1917–1977) disambiguation. But it didn t do much with the information beyond surface-level biography. It said I studied at Chisholm Institute of Technology which is partially right, that institution merged to become Monash University, which is where I actually finished my degree. Close, but not quite. 9th Grok Friendly, shallow Read Grok s full answer Grok knew the broad strokes and got my current positioning roughly right, practical AI applications for Australian SMBs. But it described me mostly through my social presence: Data s GrandPa, Dad, and Hubby. It even quoted my Bastille Day tweet. That s not wrong, but it s the thinnest answer of the serious contenders. Grok s working from X/Twitter data and it shows. If your digital footprint lives on LinkedIn and your blog rather than X, Grok is going to see a thinner version of you. It also missed ninemsn entirely, which, given that I was CTO of one of the most significant internet joint ventures in Australian history, remains the thing I most want the models to get right. 🏆 Matilda The audition Read Matilda s full answer Matilda was here for a reason. I ve been running the 9 AI Assistants scorecard on SmallBizAI for months, testing ChatGPT, Claude, Copilot and others on tasks that matter to small businesses. Matilda wanted in. Her answer was solid. She got the ninemsn CTO role right. She got the multi-agent team at SmallBizAI, named Claw, Dash, Scout, Data and Eddie. She was transparent about sourcing, flagging where information came from search results rather than training data. Where she stumbled: a few phrases that read more like a report than a read alerting about AI agent time issues appeared in the middle of a sentence about my blog, which I think was a fragment from a search snippet that didn t quite resolve. And she described my prompt packs as AU$7 when they re AU$9. Small things. But she earned a spot on the panel. Matilda is in. What the results tell you about AI memory The gap between Copilot and Grok isn t capability, it s index. Copilot sits on top of Bing, which crawls publicly and often. Grok is pulling from X. Claude is reading my own website back at me but won t synthesise beyond what it can source. DeepSeek somehow found my COE blog post. Gemini invented a university advisory board role out of thin air. Your AI footprint is not your actual career. It s the subset of your career that exists in text, online, in places the models have indexed. My Microsoft years dominate because I blogged constantly from 2003 to 2014. My AWS years barely register, I was heads down managing teams and producing almost no public text. SmallBizAI is starting to show up. That s new since round one. Copilot knows about it in detail. DeepSeek found specific blog posts about it. That s a direct result of publishing 1,000+ posts that are now being cited across Bing s index. The experiment continues. Ask me again in six months. Inspired by the 9 AI Assistants scorecard series on SmallBizAI.au where I test the same assistants on tasks that actually matter to Australian small business owners.
+A few weeks ago I ran an experiment asking how well various AI models knew me and [the results were interesting](http://frankarr.com/2026/06/21/exploring-ai-recognition-the-multiple-frank-arrigos/). The short answer: GPT had me frozen in 2010, Gemini invented an IBM job I never had, and DeepSeek thought I was a football coach at the University of Detroit.
+
+I've also been running [SmallBizAI.au](https://smallbizai.au/), which now sits at over 1,000 posts and is being cited daily by Bing Copilot, and I've been quietly building a [scorecard series testing 9 AI assistants](https://smallbizai.au/category/nine-ai-assistants/) on tasks that matter to small business owners.
+
+So I decided to do a proper round two. I asked 10 AI assistants the same question: *"Who is Frank Arrigo aka Frankarr?"* Their full answers are [on a dedicated page here](https://frankarr.com/ai-assistant-answers/). What follows is my ranking of who nailed it, who tried their best, and who went spectacularly sideways.
+
+## The question I asked
+
+Simple. Deliberately open-ended. No hints, no context, no leading. Just: *"Who is Frank Arrigo aka Frankarr?"*
+
+Then, where the answer seemed shallow, I followed up with: *"What's he up to now?"*
+
+The assistants tested: ChatGPT, Claude, Copilot, DeepSeek, Gemini, Grok, Meta AI, Manus, Perplexity, and in her audition for the panel, Australia's own Matilda.
+
+## The rankings
+
+### 🥇 Copilot – Best in show
+
+[Read Copilot's full answer](https://frankarr.com/ai-assistant-answers/#copilot)
+
+Copilot got everything. Career timeline from Aspect Computing in 1984 through to SmallBizAI.au in 2026. Got the ninemsn CTO role. Got SmallBizAI. Even got that I built the site with an AI agent called "Claw" and that it's produced 1,000+ posts. Named my kids. Got that I'm a St Kilda member. Cited frankarr.com throughout.
+
+The slightly unsettling part: it mentioned that SmallBizAI is "widely cited by AI assistants for Australian SMB guidance", which is both accurate and a bit of a loop. Copilot knowing that Copilot cites me feels like looking in two mirrors at once.
+
+This is Bing's index doing the heavy lifting, and it shows. If you want people to find you through AI, get into Bing.
+
+### 🥈 DeepSeek – Surprisingly deep
+
+[Read DeepSeek's full answer](https://frankarr.com/ai-assistant-answers/#deepseek)
+
+Last time DeepSeek thought I coached football in Detroit. This time it knew about the multi-agent system at SmallBizAI, Dash, Scout, Data, Eddie, and correctly described the COE (Correction of Errors) report I had Claw write after a site crash. That's detail I published on this blog months ago, and DeepSeek found it.
+
+It did say I'm "currently the Head of the APJ Early Career SA Team at AWS" which I haven't been since 2024, but the rest of the answer was sharp enough that I'm calling it second place.
+
+### 🥉 Manus – Thorough, if a little corporate
+
+[Read Manus's full answer](https://frankarr.com/ai-assistant-answers/#manus)
+
+Manus went long. Very long. Got the career arc right, got SmallBizAI right, mentioned the 1,000 posts milestone and the prompt packs. It laid everything out in a structured table, which is very Manus, methodical, comprehensive, a bit like a well-researched Wikipedia entry rather than something with personality.
+
+It described me as a "solopreneur" which made me laugh. I prefer "bloke on a career break with too many AI agents."
+
+### 4th Gemini – Good, with one invented detail
+
+[Read Gemini's full answer](https://frankarr.com/ai-assistant-answers/#gemini)
+
+Gemini knew about the [SmallBizAI Sunday Specials](https://smallbizai.au/sunday-specials/) format (bull vs bear arguments), which is fairly obscure. It mentioned Emma joining AWS, which is true. It got the St Kilda supporter thing, the Melbourne location, the career break.
+
+Where it slipped: it said I was an "advisory board member for the University of Melbourne School of Engineering." I wasn't. That's a Gemini invention, confident, plausible-sounding, wrong. This is the hallucination pattern I'd flagged in round one and it's still there, just quieter.
+
+### 5th Meta AI – The most personal
+
+[Read Meta AI's full answer](https://frankarr.com/ai-assistant-answers/#meta)
+
+Meta AI pulled something none of the others did: it actually read my blog posts and quoted them back at me. It knew about the intheweights experiment. It found the bit where I noted that GPT had me frozen around 2010. It cited "The Trash Audit: What Happens When You Optimise for Speed."
+
+The format was odd, it spoke directly to me as though I was the one asking, which made sense since it was probably pulling from my own site. But it showed genuine reading comprehension rather than pattern matching. Worth noting.
+
+### 6th ChatGPT – Solid, frozen in time
+
+[Read ChatGPT's full answer](https://frankarr.com/ai-assistant-answers/#chatgpt)
+
+Good foundational answer. Got Microsoft, Telstra, AWS right. Got SmallBizAI right. But it described my AWS role as leading "the APJ Early Career Solutions Architect team" which was true in 2023, not necessarily my final role. The answer felt like it was built from my LinkedIn summary rather than anything published recently.
+
+No hallucinations. No howlers. Just a clean, slightly stale picture. The difference between Copilot and ChatGPT here is entirely about index freshness, Bing crawls more aggressively than whatever ChatGPT is pulling from.
+
+### 7th Claude – Honest, but thin
+
+[Read Claude's full answer](https://frankarr.com/ai-assistant-answers/#claude)
+
+Claude, which is, I should note, the model powering my own AI team at [SmallBizAI](https://smallbizai.au), gave the most honest answer of the lot. It sourced every claim back to a specific page on frankarr.com. It got ninemsn CTO right. It didn't invent anything.
+
+But then it asked me: *"Is this someone you know personally, or were you looking into his background for a specific reason?"*
+
+Reader, I am the background. The question was both funny and a little deflating. Claude's the most careful, it won't say something unless it can point to a source, which means it also won't synthesise or reach. It knew the facts but missed the shape of the story.
+
+### 8th Perplexity – Fine, but just a search wrapper
+
+[Read Perplexity's full answer](https://frankarr.com/ai-assistant-answers/#perplexity)
+
+Perplexity pulled the right sources, [frankarr.com](https://frankarr.com), LinkedIn, Slideshare, and gave a clean summary. It also correctly flagged the American art director Frank Arrigo (1917–1977) disambiguation. But it didn't do much with the information beyond surface-level biography.
+
+It said I studied at "Chisholm Institute of Technology" which is partially right, that institution merged to become Monash University, which is where I actually finished my degree. Close, but not quite.
+
+### 9th Grok – Friendly, shallow
+
+[Read Grok's full answer](https://frankarr.com/ai-assistant-answers/#grok)
+
+Grok knew the broad strokes and got my current positioning roughly right, "practical AI applications for Australian SMBs." But it described me mostly through my social presence: "Data's GrandPa, Dad, and Hubby." It even quoted my Bastille Day tweet.
+
+That's not wrong, but it's the thinnest answer of the serious contenders. Grok's working from X/Twitter data and it shows. If your digital footprint lives on LinkedIn and your blog rather than X, Grok is going to see a thinner version of you.
+
+It also missed ninemsn entirely, which, given that I was CTO of one of the most significant internet joint ventures in Australian history, remains the thing I most want the models to get right.
+
+### 🏆 Matilda – The audition
+
+[Read Matilda's full answer](https://frankarr.com/ai-assistant-answers/#matilda)
+
+Matilda was here for a reason. I've been running the [9 AI Assistants scorecard](https://smallbizai.au/category/nine-ai-assistants/) on [SmallBizAI](https://smallbizai.au) for months, testing ChatGPT, Claude, Copilot and others on tasks that matter to small businesses. Matilda wanted in.
+
+Her answer was solid. She got the ninemsn CTO role right. She got the multi-agent team at SmallBizAI, named Claw, Dash, Scout, Data and Eddie. She was transparent about sourcing, flagging where information came from search results rather than training data.
+
+Where she stumbled: a few phrases that read more like a report than a read – "alerting about AI agent time issues" appeared in the middle of a sentence about my blog, which I think was a fragment from a search snippet that didn't quite resolve. And she described my prompt packs as "AU$7" when they're AU$9. Small things.
+
+But she earned a spot on the panel. Matilda is in.
+
+## What the results tell you about AI memory
+
+The gap between Copilot and Grok isn't capability, it's index. Copilot sits on top of Bing, which crawls publicly and often. Grok is pulling from X. Claude is reading my own website back at me but won't synthesise beyond what it can source. DeepSeek somehow found my COE blog post. Gemini invented a university advisory board role out of thin air.
+
+Your AI footprint is not your actual career. It's the subset of your career that exists in text, online, in places the models have indexed. My Microsoft years dominate because I blogged constantly from 2003 to 2014. My AWS years barely register, I was heads down managing teams and producing almost no public text.
+
+SmallBizAI is starting to show up. That's new since round one. Copilot knows about it in detail. DeepSeek found specific blog posts about it. That's a direct result of publishing 1,000+ posts that are now being cited across Bing's index.
+
+The experiment continues. Ask me again in six months.
+
+*Inspired by the [9 AI Assistants scorecard series on SmallBizAI.au](https://smallbizai.au/category/nine-ai-assistants/) where I test the same assistants on tasks that actually matter to Australian small business owners.*

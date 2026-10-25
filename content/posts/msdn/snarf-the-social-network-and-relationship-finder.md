@@ -6,36 +6,4 @@ source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/snarf-the-
 date: "2005-12-04"
 ---
 
-Note
-signing in
-or
-changing directories
-.
-changing directories
-.
-SNARF, the Social Network and Relationship Finder
-I've been SNARFed this weekend.
-I downloaded the
-MSR
-application called
-SNARF
-(Social Network and Relationship Finder).
-Microsoft Researchâs Community Technology presents SNARF, the Social Network and Relationship Finder.
-SNARF was built around the notion that social network information that is already available to the computer system can be usefully reflected to the user: a message from a manager might be seen differently than a message from a stranger, for example. SNARF applies this idea to email triage: handling the flow of messages when time is short and mail is long.
-The SNARF UI is designed to provide a quick overview of unread mail, organized by its importance. The UI shows a series of different panes with unread mail in them; each pane shows a list of authors of messages. Clicking on a name shows all messages involving that person.
-People use a variety of strategies to handle triage; there is no single âbestâ ordering of email messages to produce an optimal outcome.
-SNARF gives the user the freedom to build their own ordering. Each person in their inbox is assigned a set of meta-information: ânumber of emails sent in the last month,â for example. These metrics can, in turn, be combined to create an ordering across all contacts. For more information, check out the CEAS paper on SNARF.
-I have almost 1,000,000 messages in about 20gb worth of PST files. It has taken a while for SNARF to examine and index my social network. As I write this post, it's still going. Cant wait to see what it tells me.
-[ Currently Playing : DSC-290-2005-12-02 - Adam Curry - Daily Source Code (48:33) ]
-Comments
-Anonymous
-December 04, 2005
-I
-love
-the threaded view, Looking forward to you blooging about your findings.  (20Gb of PST - WOW)
-Anonymous
-December 04, 2005
-Frank, I suspect it will tell you that you have too much email :)
-Additional resources
-Last updated on
-2005-12-04
+SNARF, the Social Network and Relationship Finder I've been SNARFed this weekend. I downloaded the MSR application called SNARF (Social Network and Relationship Finder). Microsoft Researchâs Community Technology presents SNARF, the Social Network and Relationship Finder. SNARF was built around the notion that social network information that is already available to the computer system can be usefully reflected to the user: a message from a manager might be seen differently than a message from a stranger, for example. SNARF applies this idea to email triage: handling the flow of messages when time is short and mail is long. The SNARF UI is designed to provide a quick overview of unread mail, organized by its importance. The UI shows a series of different panes with unread mail in them; each pane shows a list of authors of messages. Clicking on a name shows all messages involving that person. People use a variety of strategies to handle triage; there is no single âbestâ ordering of email messages to produce an optimal outcome. SNARF gives the user the freedom to build their own ordering. Each person in their inbox is assigned a set of meta-information: ânumber of emails sent in the last month,â for example. These metrics can, in turn, be combined to create an ordering across all contacts. For more information, check out the CEAS paper on SNARF. I have almost 1,000,000 messages in about 20gb worth of PST files. It has taken a while for SNARF to examine and index my social network. As I write this post, it's still going. Cant wait to see what it tells me. [ Currently Playing : DSC-290-2005-12-02 - Adam Curry - Daily Source Code (48:33) ] Comments Anonymous December 04, 2005 I love the threaded view, Looking forward to you blooging about your findings.  (20Gb of PST - WOW) Anonymous December 04, 2005 Frank, I suspect it will tell you that you have too much email :) Additional resources Last updated on 2005-12-04

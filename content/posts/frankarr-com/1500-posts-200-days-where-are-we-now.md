@@ -1,10 +1,93 @@
 ---
 title: "1,500 Posts. 200 Days. Where are we now?"
-date: 2026-09-22
-platform: frankarr-com
-era: now
+platform: "frankarr-com"
+era: "now"
 source_url: "https://frankarr.com/2026/09/22/1500-posts-200-days-where-are-we-now/"
-tags: ["ai", "openclaw", "smallbizai.au", "Personal", "smallbizai.au"]
+date: "2026-09-22"
 ---
 
-1,500 posts. 200 days. That’s 7.5 posts per day, every day, since 6 March 2026. That number is what it is and what it isn’t needs saying. It’s a lot of content. Not a guarantee of anything. Traffic isn’t linear. Newsletter growth isn’t linear. Revenue from Gumroad isn’t linear. The number just tells you the operation kept running. At 1,000 posts I wrote: “The experiment is over. This is just how the site works.” That’s still true. 200 days in, this doesn’t feel like an experiment anymore. It feels like a business, with all the tedium and momentum that implies. Where we’ve been This is the fourth post in a series tracking what’s actually happened, milestone by milestone. At 100 posts , the site was 13 days old. Content was working. Infrastructure was creaking. I hadn’t started the newsletter yet and had no clear sense whether any of it would stick. At 666 posts / 6 weeks , something had shifted. The site found its voice. Sunday Specials locked in. The agent team came together. It stopped feeling like a hobby and started feeling like a project with shape. At 850 posts / 90 days , I was honest about what hadn’t worked. The volume was there. The audience was small but real. The post was a reckoning as much as a recap. At 1,000 posts / 115 days , I closed the chapter on “experiment” and opened one on “operation.” The infrastructure had matured. The team had structure. The question shifted from “can this work?” to “what does it produce?” Now 1,500. Here’s what the next 85 days actually added. What changed between 1,000 and 1,500 The big one: the agent team stopped being a set of tools and became something closer to a real team. Claw coordinates. Dash (the writer) produces drafts and milestone posts. Scout does research. Data pulls stats and watches for anomalies. Bob builds pages and site infrastructure. Eddie edits and gates quality before anything goes live. This sounds tidy in retrospect. It wasn’t. Getting six agents to work in sequence without stepping on each other took months of scaffolding. There were days when Eddie would approve something, Bob would format it, and the final post would look nothing like what Eddie had seen. That’s a handoff problem, not an agent problem. It took three rewrites of the pipeline to fix. The hub pages went from 2 to 8+. Hospitality , Sole Traders , Tradies , Retail , Finance , Hiring and HR , AgTech , Allied Health . Each hub is a structured entry point into the relevant content for that industry. They’re built to answer the specific questions someone in that industry actually types into Bing, not just serve as category pages. The matrix project finished. 48 cells across every major Australian industry, mapping AI use cases systematically. It took longer than expected and produced some thin content that Eddie flagged for expansion. But it’s done. And it means the site has a structural answer for almost any “AI for [industry]” query. Bing AI citations went from around 20,000 at the 90-day post to 49,000+ now. The peak was 3,586 in a single day on 25 August. Those numbers have compounding logic: the more the site gets cited, the more it gets used as a training reference, which means more citations. I don’t understand the mechanism fully, but the pattern is clear. The newsletter found its cadence. Weekly, Tuesday, ~56% open rate, 111 subscribers. That open rate would be the envy of most newsletters at any size. The audience is small and actually reads it, which is the only version of a newsletter worth having. 23 Gumroad products are live. The “Beyond Prompting” ebook launched and sold. It’s not a business yet by most definitions, but it’s proof the content has commercial gravity. The Sunday Specials hit 27 episodes. Bull and bear format: two views on one topic, honest about the tension between them. It’s the most distinct thing on the site and the format I’m most proud of. What the agent team actually does The question I get most often is: what does the AI actually do? Claw runs the daily schedule. It reads the morning brief, checks cron health, queues posts, and flags anything that needs human attention. When something goes sideways (a timeout, a failed publish, a post that scored badly on Eddie’s quality check), Claw is first to know and routes the problem to whoever can fix it. Scout researches topics and company profiles . When a new AU AI company gets funding or launches, Scout finds it, builds a profile brief, and passes it to Dash. When a series needs a new angle, Scout surfaces the data. Dash writes. Drafts, milestone posts, Sunday Specials , series installments. The voice is consistent because it’s trained on the same source material across 200 days. But consistent doesn’t mean good on every outing. There are days where the draft is flat and Eddie sends it back. Eddie is the gate. Nothing goes out without a quality pass. Eddie checks for AI-isms, checks that claims are specific enough, flags thin content, and either approves or escalates. The escalation rate has dropped over the past two months as the other agents learned what Eddie would and wouldn’t pass. That’s the right direction. Bob builds and maintains. Hub pages , internal link structures, schema markup, image handling. Bob’s work is mostly invisible but its absence would be immediately obvious. Data watches the numbers. Open rates, citations, Gumroad conversions, traffic anomalies. When the citation count drops two days in a row, Data flags it. When a post is outperforming expectations, Data surfaces it for a follow-up. What still doesn’t work Agent timeouts are still a problem. When a task runs long (a big research job, a complex hub rebuild), agents sometimes drop the context mid-task and the job stalls. The workaround is breaking long tasks into smaller checkpointed segments. That’s not always possible, and when it isn’t, the task fails silently and needs a human to notice the gap. There was one site outage. A configuration change that I thought was safe. It wasn’t. The site went down for long enough to affect a Bing crawl cycle. The citations dipped that week and I still can’t prove causation, but the timing was bad. The rule now: no infrastructure changes without a staged rollback plan. Content quality slipped on one full week in August. The agents kept running, Eddie kept approving, but looking back at what went live that week, it was thinner than it should have been. I don’t know exactly what changed. My best guess is that a prompt update in Dash’s brief shifted the default toward brevity too hard. It’s been corrected, but it was a week I’d rather not have published. Phantom posts. Twice now, a post has appeared in the CMS that no agent claims to have written. The content was fine: on-topic, formatted correctly. But neither Claw, Dash, nor any other agent had a record of creating it. Still don’t know how that happened. Probably a cron collision. It’s in the audit backlog. Newsletter growth is slow. 111 subscribers after 200 days is not impressive by any measure. The open rate is great; the list size is not. I’ve put basically no effort into growing it beyond the site itself, and that shows. It’s the thing I’ve most consistently deprioritised and the one I’d most regret not fixing. What’s next The next 200 days have a different shape. The foundation is built. The matrix is complete. The hub pages exist. The agent team has a working rhythm. The question now is depth, not volume. That means fewer new posts, more updating and expanding the ones that already exist. It means the newsletter actually getting worked on as a product. It means Gumroad products that go beyond ebooks: proper guides, templates, toolkits that someone would pay $49 for instead of $9. I'm still on a career break. This is what a career break looks like when you build with AI: 200 days, 1,500 posts, a team of six agents, and a site that covers the Australian AI and small business space better than most publications that have full staff. That’s not a boast. It’s just a datapoint about what’s now possible for one person who’s willing to put in the direction work. The experiment ended at 1,000. At 1,500, what’s ending is the proving phase. The next post in this series, whenever it comes, will be about something harder to measure than post count. Related reading 100 Posts: What We’ve Learned Building SmallBizAI.au from Zero , 13 March 2026 6 Weeks, 666 Posts, 1 AI Agent: What I Actually Learned , 1 May 2026 90 Days, 850 Posts, 1 AI Agent, What Actually Happened , 5 June 2026 1,000 Posts. 115 Days. One AI Agent. Here’s What We Actually Built. , 29 June 2026
+1,500 posts. 200 days. That’s 7.5 posts per day, every day, since 6 March 2026.
+
+That number is what it is and what it isn’t needs saying. It’s a lot of content. Not a guarantee of anything. Traffic isn’t linear. Newsletter growth isn’t linear. Revenue from Gumroad isn’t linear. The number just tells you the operation kept running.
+
+At 1,000 posts I wrote: “The experiment is over. This is just how the site works.” That’s still true. 200 days in, this doesn’t feel like an experiment anymore. It feels like a business, with all the tedium and momentum that implies.
+
+## Where we’ve been
+
+This is the fourth post in a series tracking what’s actually happened, milestone by milestone.
+
+At [100 posts](https://smallbizai.au/100-posts-lessons-building-smallbizai/), the site was 13 days old. Content was working. Infrastructure was creaking. I hadn’t started the newsletter yet and had no clear sense whether any of it would stick.
+
+At [666 posts / 6 weeks](https://smallbizai.au/6-weeks-666-posts-1-ai-agent-what-i-actually-learned/), something had shifted. The site found its voice. Sunday Specials locked in. The agent team came together. It stopped feeling like a hobby and started feeling like a project with shape.
+
+At [850 posts / 90 days](https://smallbizai.au/90-days-850-posts-1-ai-agent-what-actually-happened/), I was honest about what hadn’t worked. The volume was there. The audience was small but real. The post was a reckoning as much as a recap.
+
+At [1,000 posts / 115 days](https://smallbizai.au/1000-posts-109-days-one-ai-agent-heres-what-we-actually-built/), I closed the chapter on “experiment” and opened one on “operation.” The infrastructure had matured. The team had structure. The question shifted from “can this work?” to “what does it produce?”
+
+Now 1,500. Here’s what the next 85 days actually added.
+
+## What changed between 1,000 and 1,500
+
+The big one: the agent team stopped being a set of tools and became something closer to a real team. Claw coordinates. Dash (the writer) produces drafts and milestone posts. Scout does research. Data pulls stats and watches for anomalies. Bob builds pages and site infrastructure. Eddie edits and gates quality before anything goes live.
+
+This sounds tidy in retrospect. It wasn’t. Getting six agents to work in sequence without stepping on each other took months of scaffolding. There were days when Eddie would approve something, Bob would format it, and the final post would look nothing like what Eddie had seen. That’s a handoff problem, not an agent problem. It took three rewrites of the pipeline to fix.
+
+The hub pages went from 2 to 8+. [Hospitality](https://smallbizai.au/hospitality-hub/), [Sole Traders](https://smallbizai.au/sole-traders-hub/), [Tradies](https://smallbizai.au/tradies-hub/), [Retail](https://smallbizai.au/retail-hub/), [Finance](https://smallbizai.au/finance-hub/), [Hiring and HR](https://smallbizai.au/hiring-hr-hub/), [AgTech](https://smallbizai.au/agtech-hub/), [Allied Health](https://smallbizai.au/allied-health-ai-hub/). Each hub is a structured entry point into the relevant content for that industry. They’re built to answer the specific questions someone in that industry actually types into Bing, not just serve as category pages.
+
+The [matrix project](https://smallbizai.au/how-australian-businesses-use-ai-by-industry-function/) finished. 48 cells across every major Australian industry, mapping AI use cases systematically. It took longer than expected and produced some thin content that Eddie flagged for expansion. But it’s done. And it means the site has a structural answer for almost any “AI for [industry]” query.
+
+Bing AI citations went from around 20,000 at the 90-day post to 49,000+ now. The peak was 3,586 in a single day on 25 August. Those numbers have compounding logic: the more the site gets cited, the more it gets used as a training reference, which means more citations. I don’t understand the mechanism fully, but the pattern is clear.
+
+The [newsletter](https://smallbizai.au/newsletter/) found its cadence. Weekly, Tuesday, ~56% open rate, 111 subscribers. That open rate would be the envy of most newsletters at any size. The audience is small and actually reads it, which is the only version of a newsletter worth having.
+
+23 Gumroad products are live. The [“Beyond Prompting” ebook](https://smallbizaiau.gumroad.com/l/lqhoxo) launched and sold. It’s not a business yet by most definitions, but it’s proof the content has commercial gravity.
+
+The [Sunday Specials](https://smallbizai.au/sunday-specials/) hit 27 episodes. Bull and bear format: two views on one topic, honest about the tension between them. It’s the most distinct thing on the site and the format I’m most proud of.
+
+## What the agent team actually does
+
+The question I get most often is: what does the AI actually do?
+
+Claw runs the daily schedule. It reads the morning brief, checks cron health, queues posts, and flags anything that needs human attention. When something goes sideways (a timeout, a failed publish, a post that scored badly on Eddie’s quality check), Claw is first to know and routes the problem to whoever can fix it.
+
+Scout researches topics and [company profiles](https://smallbizai.au/australian-ai-companies/). When a new AU AI company gets funding or launches, Scout finds it, builds a profile brief, and passes it to Dash. When a series needs a new angle, Scout surfaces the data.
+
+Dash writes. Drafts, milestone posts, [Sunday Specials](https://smallbizai.au/sunday-specials/), series installments. The voice is consistent because it’s trained on the same source material across 200 days. But consistent doesn’t mean good on every outing. There are days where the draft is flat and Eddie sends it back.
+
+Eddie is the gate. Nothing goes out without a quality pass. Eddie checks for AI-isms, checks that claims are specific enough, flags thin content, and either approves or escalates. The escalation rate has dropped over the past two months as the other agents learned what Eddie would and wouldn’t pass. That’s the right direction.
+
+Bob builds and maintains. [Hub pages](https://smallbizai.au/topics/), internal link structures, schema markup, image handling. Bob’s work is mostly invisible but its absence would be immediately obvious.
+
+Data watches the numbers. Open rates, citations, Gumroad conversions, traffic anomalies. When the citation count drops two days in a row, Data flags it. When a post is outperforming expectations, Data surfaces it for a follow-up.
+
+## What still doesn’t work
+
+Agent timeouts are still a problem. When a task runs long (a big research job, a complex hub rebuild), agents sometimes drop the context mid-task and the job stalls. The workaround is breaking long tasks into smaller checkpointed segments. That’s not always possible, and when it isn’t, the task fails silently and needs a human to notice the gap.
+
+There was one site outage. A configuration change that I thought was safe. It wasn’t. The site went down for long enough to affect a Bing crawl cycle. The citations dipped that week and I still can’t prove causation, but the timing was bad. The rule now: no infrastructure changes without a staged rollback plan.
+
+Content quality slipped on one full week in August. The agents kept running, Eddie kept approving, but looking back at what went live that week, it was thinner than it should have been. I don’t know exactly what changed. My best guess is that a prompt update in Dash’s brief shifted the default toward brevity too hard. It’s been corrected, but it was a week I’d rather not have published.
+
+Phantom posts. Twice now, a post has appeared in the CMS that no agent claims to have written. The content was fine: on-topic, formatted correctly. But neither Claw, Dash, nor any other agent had a record of creating it. Still don’t know how that happened. Probably a cron collision. It’s in the audit backlog.
+
+Newsletter growth is slow. 111 subscribers after 200 days is not impressive by any measure. The open rate is great; the list size is not. I’ve put basically no effort into growing it beyond the site itself, and that shows. It’s the thing I’ve most consistently deprioritised and the one I’d most regret not fixing.
+
+## What’s next
+
+The next 200 days have a different shape. The foundation is built. The matrix is complete. The hub pages exist. The agent team has a working rhythm. The question now is depth, not volume.
+
+That means fewer new posts, more updating and expanding the ones that already exist. It means the [newsletter](https://smallbizai.au/newsletter/) actually getting worked on as a product. It means Gumroad products that go beyond ebooks: proper guides, templates, toolkits that someone would pay $49 for instead of $9.
+
+I'm still on a career break. This is what a career break looks like when you build with AI: 200 days, 1,500 posts, a team of six agents, and a site that covers the Australian AI and small business space better than most publications that have full staff. That’s not a boast. It’s just a datapoint about what’s now possible for one person who’s willing to put in the direction work.
+
+The experiment ended at 1,000. At 1,500, what’s ending is the proving phase. The next post in this series, whenever it comes, will be about something harder to measure than post count.
+
+## Related reading
+
+- [100 Posts: What We’ve Learned Building SmallBizAI.au from Zero](https://smallbizai.au/100-posts-lessons-building-smallbizai/), 13 March 2026
+
+- [6 Weeks, 666 Posts, 1 AI Agent: What I Actually Learned](https://smallbizai.au/6-weeks-666-posts-1-ai-agent-what-i-actually-learned/), 1 May 2026
+
+- [90 Days, 850 Posts, 1 AI Agent, What Actually Happened](https://smallbizai.au/90-days-850-posts-1-ai-agent-what-actually-happened/), 5 June 2026
+
+- [1,000 Posts. 115 Days. One AI Agent. Here’s What We Actually Built.](https://smallbizai.au/1000-posts-109-days-one-ai-agent-heres-what-we-actually-built/), 29 June 2026

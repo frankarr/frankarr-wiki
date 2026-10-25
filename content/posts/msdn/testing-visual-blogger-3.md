@@ -6,16 +6,4 @@ source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/testing-vi
 date: "2004-05-19"
 ---
 
-Note
-signing in
-or
-changing directories
-.
-changing directories
-.
-Testing Visual Blogger
-It would help if I enabled the plugin on my windows media
-player!
-Additional resources
-Last updated on
-2004-05-19
+Testing Visual Blogger It would help if I enabled the plugin on my windows media player! Additional resources Last updated on 2004-05-19

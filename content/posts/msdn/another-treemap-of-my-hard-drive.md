@@ -6,30 +6,4 @@ source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/another-tr
 date: "2006-02-23"
 ---
 
-Note
-signing in
-or
-changing directories
-.
-changing directories
-.
-ANOTHER treemap of *my* hard drive.
-Last year,
-I posted a
-treemap of my hard drive
-.
-A hard
-drive that died last year
-New year, new treemap, thanks to
-SequoiaView
-.
-[ Currently Playing : UberTablet
-Geek Hugo Ortega meets with Doug Mulray - Hugo Ortega - Aussie Tablet Talk
-(23:29) ]
-Comments
-Anonymous
-May 10, 2006
-The comment has been removed
-Additional resources
-Last updated on
-2006-02-23
+ANOTHER treemap of *my* hard drive. Last year, I posted a treemap of my hard drive. A hard drive that died last year New year, new treemap, thanks to SequoiaView. [ Currently Playing : UberTablet Geek Hugo Ortega meets with Doug Mulray - Hugo Ortega - Aussie Tablet Talk (23:29) ] Comments Anonymous May 10, 2006 The comment has been removed Additional resources Last updated on 2006-02-23
