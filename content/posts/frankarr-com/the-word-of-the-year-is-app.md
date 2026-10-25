@@ -1,9 +1,10 @@
 ---
 title: "The word of the year is &rdquo;App&rdquo;! ?"
-platform: "frankarr-com"
-era: "microsoft"
+date: 2011-03-21
+platform: frankarr-com
+era: microsoft
 source_url: "http://frankarr.com/2011/03/21/the-word-of-the-year-is-app/"
-date: "2011-03-21"
+tags: ["Windows Phone"]
 ---
 
 I saw a news article recently that the word of the year for 2010 was “App ”, as voted by the American Dialect Society So true. I picked up a Windows Phone 7 when it launched back in November. I’m a loyal (some say foolish) T-Mobile customer, so I went with the T-Mobile HTC HD7 I must admit I have been pretty happy with the phone (anyone surprised to hear that) apart from one thing. It was reset by one of my kids when they tried to unlock the phone. He put in the wrong pin a few times, which got an policy enforced to do a remote wipe. I must admit, I did loose my cool for a while. I almost ruined christmas for my family a second time, but cooler heads prevailed. The experience taught me a few things, which brings me back to apps. The one most relevant to this is that I need a way to remember what apps I have installed on the phone. Since I had installed most of my apps “Over The Air”, there is no way to “automagically” restore the installed apps. If I had installed them via the desktop client (aka Zune Client) they would have be reinstalled. Now, the good thing when I do ‘re-install’ the apps, is that the the marketplace tells me that I have already purchased them so I don’t have to buy them again.Phew! So, how do I remember what apps I have installed? It seems there is no easy way. However, I found a great little site, developed by an italian MVP, called WP7Applist . It a pretty cool site that is full of reviews, updates, news of new apps etc, but the one thing i L-O-V-E about it is the ability to tag an app you have installed and it creates the My WP7A library. I took a look at the page, did some scrapping and voila – the apps I have installed on my phone! Yeah, it’s a bunch of apps isn’t it and I haven’t gotten to games yet!!! I’ll save that for another post.
