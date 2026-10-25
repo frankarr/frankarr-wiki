@@ -38,6 +38,13 @@ configuration:
         textHighlight: "#b3aa0288"
 
 plugins:
+  - source: "github:quartz-community/note-properties"
+    enabled: true
+    order: 5
+    options:
+      hidePropertiesView: true
+      delimiters: "---"
+      language: yaml
   - source: "github:quartz-community/obsidian-flavored-markdown"
     enabled: true
     order: 10
