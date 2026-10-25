@@ -1,0 +1,92 @@
+---
+title: "wow - everyone wants to talk to me again"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/wow-everyone-wants-to-talk-to-me-again"
+date: "2007-05-10"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+wow - everyone wants to talk to me again
+The last few days have been pretty hectic for me. And there's been a recurring theme -
+Silverlight
+.
+Seems the announcements from
+MIX07
+last week have broken through (
+Microsoft Lights Way for Next-Generation Web Development and Design at MIX07
+) and now folks want to know more.
+I've been contact by lots people who I used to talk to many, many years ago, and they are all after info on
+Silverlight
+.
+Cool.
+So, what do I tell them?
+First, I point them to these :
+Silverlight Home
+Get Started
+White Papers
+Quick Starts
+Silverlight Streaming
+Then I tell them to watch the
+MIX07 Session Recordings
+.
+Then I point to some of the video interviews from
+MIX07
+Hanselman and Harsh -- What is Silverlight?
+Ryan Stewart Interviews Silverlight Guys
+Gavin Gear Demonstrates Ink Support in Silverlight
+Neil Hunt of Netflix on Silverlight
+Then I list out some videos of the cool demos from
+MIX07
+Disney Keynote Demo
+Nissan/National Geographic Keynote Demo
+BBC Radio One Keynote Demo
+CBS MIX07 Keynote Demo
+Major League Baseball MIX07 Demo
+Netflix Uses Silverlight for Video on Demand
+Then I send a summary of the announcements from
+MIX07
+The beta of Microsoft Silverlight 1.0 is now available
+The CTP of Microsoft Silverlight 1.1 is now available
+Expression Studio now shipping
+Microsoft Silverlight Streaming
+Windows Live Platform Terms of Use
+Finally I them that the need to get to
+ReMix
+And from now on, I'm going to link my old friends to this post - LOL
+Technorati tags:
+Silverlight
+,
+ASP.NET
+,
+Mix07
+,
+auremix07
+[
+Current Listening to
+:
+Take a Long Line
+by
+Angels
+from
+Wasted Sleepless Nights: Definitive Greatest Hits
+]
+Comments
+Anonymous
+May 09, 2007
+A moins que vous n'ayez passÃ© le derniÃ¨re semaine dans une grotte ou en plein milieu de la forÃªt Amazonienne,
+Anonymous
+May 21, 2007
+I had Josh Gliddon , IT Editor from the Australian Financial Review , visit last week, after we exchanged
+Anonymous
+May 29, 2007
+I spoke to Noelle Waugh from B &amp; T today. It was the first time I had spoken to anyone from B &amp;
+Additional resources
+Last updated on
+2007-05-10

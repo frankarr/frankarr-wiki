@@ -1,0 +1,86 @@
+---
+title: "IE7Pro : An ultimate Add-On for IE7"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/ie7pro-an-ultimate-add-on-for-ie7"
+date: "2007-04-24"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+IE7Pro : An ultimate Add-On for IE7
+I've been using
+IE7Pro
+for a few weeks and I really really like it.
+Some would say it brings some of the Firefox goodness to IE7.
+IE7Pro's Features
+Enhance Internet Explorer's Tabbed Browsing Capabilities
+1. Double click to close tab.
+2. Open new tab from address bar.
+3. Enable/disable tab browse history manager.
+4. Enable/disable crash recovery
+5. Move the IE menu bar above the address bar
+6. Hide search bar.
+7. Modify the maxium number of parallel connections to the web server.
+8. Select the external program to view page source
+AD Blocker
+Blocks all forms of advertising, including Flash ads, rich media, fly-ins, slide-ins, pop-ups, pop-unders, spyware and adware ads, and messenger ads.
+Super Drag and Drop
+With '
+Super Drag and Drop
+' enabled, you can open new links by simply dragging and dropping the link on the page. You can also
+Drag and Drop
+to search selected words with the default search engine or save the selected photo when Shift is held down.
+Mouse Gesture
+Mouse Gesture
+allow the user to execute commonly performed tasks (open/close a tab, go back, go forward , print , scrolling page etc.) by drawing a simple symbol on the screen.
+Crash Recovery
+Crash Recovery
+automatically restores all opened pages after a crash happened.
+Save Page to Image
+Flexible and easy-to-use tool that converts html page from any URL to image. It captures the whole web page's content into JPG, BMP , GIF , PNG or TIFF on the fly.
+Quick Proxy Switcher
+Different internet connections do often require completely different proxy server settings and it's a real pain to change them manually.
+Greasymonkey alike User Script
+IE7Pro Script is to Internet Explorer7 as Greasemonkey is to Firefox. It lets you remix the Web via scripts.
+Technorati tags:
+IE7
+,
+IE7Pro
+Currently Listening to
+Mika
+Love Today
+Life In Cartoon Motion
+Comments
+Anonymous
+April 23, 2007
+Ð¡Ð¿Ð¾ÑÐ°ÑÐºÑ Ñ Ð±ÑÐ² ÑÐ°Ð½Ð¾Ð¼ Ð¾Ð¿ÐµÑÐ¸, Ð¿Ð¾ÑÑÐ¼ Firefox, Ð° Ð· Ð¿ÐµÑÑÐ¾Ñ Ð±ÐµÑÐ¸ IE7 - IE7. Ð Ð¿ÐµÑÐµÑÐ¾Ð´Ð¾Ð¼ Ð½Ð° IE7 Ð±ÑÐ»Ð¾ Ð¿Ð¾Ð²'ÑÐ·Ð°Ð½Ð¾,
+Anonymous
+April 24, 2007
+An cool addon, Its adblock feature are awesome!
+Anonymous
+April 25, 2007
+Thanks for the post. Useful recommendation. I got it installed on my personal machine at home.
+Anonymous
+April 25, 2007
+Agree with you on the IE7Pro plugin Frank, I've been using it for a few weeks.
+Anonymous
+April 25, 2007
+IE7Pro : An ultimate Add-On for IE7
+I've been using IE7Pro for a few weeks and I really really like it.
+Some would say it brings some of the Firefox goodness to IE7.
+ie7pro is a cool add on for ie7.
+Anonymous
+May 02, 2007
+Another cool find by Frank - IE7 Pro is an extension to IE7 that provides tonnes of cool tweaks. My 2
+Anonymous
+May 07, 2007
+No toolbar is perfect. I enjoy Quero but it's got one or two little weirdnesses so I was looking for
+Additional resources
+Last updated on
+2007-04-24

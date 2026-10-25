@@ -1,0 +1,94 @@
+---
+title: "CodeCampSA 7th-8th July programme"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/codecampsa-7th-8th-july-programme"
+date: "2007-07-03"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+CodeCampSA 7th-8th July programme
+I got a note this week from Peter Griffith (no, not the dude from Family Guy) about the upcoming CodeCampSA.
+Nice to see the SA gang getting into the code camp spirit
+It's a good mix of local speakers, with a few out of towners.
+If you're in SA and want to get the good stuff, get along
+From:
+Peter Griffith
+Sent:
+Monday, 2 July 2007 1:48 PM
+To:
+Frank Arrigo
+Subject:
+CodeCampSA 7th-8th July programme
+Hi Frank,
+CodeCampSA is on this weekend 7
+th
+-8
+th
+July at
+UniSA, Theatre HH4-08 Hans Heysen Building, North Terrace, ADELAIDE SA
+Hans Heysen Building is closest to Register St off Hindley St (near BBQ Inn)
+8.30 for 8.45 start.
+The vison of CodeCampSA is to bring to you a significant CodeCamp event for which you would normally have to travel interstate. See the outstanding programme below.
+We have assembled 15 presenters who are experts in their fields to speak to you over the weekend. That is the equivalent of over 12 months attendance at normal ADNUG meetings.
+A bonus is that attendance is FREE thanks to sponsorship of UniSA, ADNUG, ACS and K2.net.
+A number of these presenters are traveling from interstate to share with you their knowledge and experience. They are people not usually seen in Adelaide. You will have the opportunity to network with these people while they are here.
+Whilst aimed primarily at the Dot Net world, there are presentations that transcend these boundaries and are applicable to software development generally. Check out the detailed program for events of interest to you.
+To register for Saturday
+https://www.acs.org.au/index.cfm?action=event&temID=eventdetails&eveID=2093
+for Sunday.
+https://www.acs.org.au/index.cfm?action=event&temID=eventdetails&eveID=2094
+**Note - if you are going to attend both Saturday and Sunday, please book for both days.**
+See the programme for info on presentations and Bioâs.
+https://www.adnug.com/news.htm
+..
+The Programme Summary
+SATURDAY 7
+th
+July
+8.30 Registrations
+8.45 KEYNOTE SPEAKER. Che Metcalfe â Kukan Studio and mEgaSA
+9:45 Allan Baird - UniSA - Welcome delegates
+10:00 Morning tea
+10:15 David Gardiner â UniSA â LINQ to SQL
+11.00 Michael Baker â Design by Contract
+11:45 Dave Glover - Microsoft Silverlight
+12.30 Lunch
+13.00 Mike Duhne - SA Branch Manager Microsoft
+13.05 Jey Srikantha â K2.net - Blessings of the blackpearl â K2[blackpearl] and .NET
+14.00 Mitch Denny â Readify -
+TFS Virtualization and Advanced Build Techniques
+14.45 Afternoon Tea
+15.00 Paul Turner â Readify - Microsoft Dynamics CRM
+15.45 Jeff Headley â SDM - Microsoft Expression Web
+16.30 Close
+SUNDAY 8
+th
+July
+8:30 Ben Mackie B.Sc, CDSP - Object-Relational Mapping and Data Access Patterns in C#
+9.15 Dave Glover â Microsoft - Windows Mobile 6.0
+10.00 Morning Tea
+10.15 Peter Cornish - SuccinctIdeas - Digital Marketing âTune your website for salesâ
+11.00 Jey Srikantha â k2.net - MOSSâing around with blackpearl â k2[blackpearl] and MOSS
+12.00 Lunch
+12.30 Dr. Greg Low MVP â Readify â âAn Introduction to Dynamic Management Views in SQL Server 2005â.
+13.30 James Chapman-Smith â Enigmativity - NHibernate ORM framework
+14.15 Greg Linwod MVP - Solid Quality Learning â âAnalysing Execution Plansâ
+15.00 Darren Neimke â Readify - Enterprise 2.0.
+15.45 Close
+Technorati tags:
+CodeCampSA
+Comments
+Anonymous
+July 03, 2007
+PingBack from
+http://www.universityupdate.com/Technology/Microsoft_Silverlight/3590715.aspx
+Additional resources
+Last updated on
+2007-07-03

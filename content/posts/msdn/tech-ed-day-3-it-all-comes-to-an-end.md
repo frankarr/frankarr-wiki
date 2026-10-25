@@ -1,0 +1,57 @@
+---
+title: "Tech.Ed : Day 3 : It All Comes to an End"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/tech-ed-day-3-it-all-comes-to-an-end"
+date: "2005-09-02"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+Tech.Ed : Day 3 : It All Comes to an End
+Friday at Tech.Ed I continued my stint at the booth,
+as I had on Day 2
+. However, on this day I was manning the Information Worker booth. I use Office 2003, so I guess that qualifies me as an expert. Fortunately I was able to deal with most questions, including how to
+change default opening folder in windows explorer
+.
+The Exhibit Hall closed at 2.30pm, which allowed me to go along and watch some of the final sessions. I hadn't seen any of my team present (apart from the keynote), so it was good that I could attend one of their sessions. I could sense my boys were all keen to have me attend and see/hear them do their stuff. I found myself at the session entitled .NET Framework: What's New in the Framework for V2.0 by
+Paul Glavich
+and
+Dave Glover
+. Dave took a different twist to this and turned it into a grok talk whicj included 6 of the leading developer MVPs -
+Darren Neimke
+,
+Mitch Denny
+,
+Greg Low
+,
+Bill Chesnut
+,
+Phil Beadle
+and
+Adam Cogan
+. Each speaker had 10 minutes to present their top feature of .NET Framework v2.0 and the attendees voted via SMS for the best session. The votes were collated by an app Dave had written and had running on his Smart Phone - very slick demo. Congrats to Glav for winning the popular vote.
+The evening I was fortunate to be invited to a dinner hosted by the team at
+Readify
+. Since there were so many Readify folks up for Tech.Ed,
+the company *really* did have a company meeting at the Gold Coast
+.I was honoured to be one of the special guest. I used this as a chance to meet all the Readify folks who have joined the company in the past year, which is a rather long list. I've had trouble keeping up with them. And again, I had the experience where pretty much everyone in the room knew me, but I didn't know them. Spooky!
+So, Tech.Ed has come to a close for another year. Time for me to get back to the real world, get up to date on the latest developments in the world (I just can't believe the news from New Orleans - it's like that Simpsons episode when Homer flooded Springfield, but so much more serious) and for me to rejoin the land of the normal as I head back home on Virgin Blue (why oh why did I choose to fly with them)
+Signing off from the Gold Coast, I'm heading home
+[ Currently Playing : I'm Going Slightly Mad - Queen - Greatest Hits, Vol. 2 (04:08) ]
+Comments
+Anonymous
+September 05, 2005
+Tech.Ed's
+over, so best to get back to normal activities, as I try and feature an ASP.NET site each...
+Anonymous
+September 05, 2005
+Tech.Ed's over, so best to get back to normal activities, as I try and feature an ASP.NET site each day...
+Additional resources
+Last updated on
+2005-09-02

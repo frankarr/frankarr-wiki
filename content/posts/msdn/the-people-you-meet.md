@@ -1,0 +1,78 @@
+---
+title: "The People You Meet"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/the-people-you-meet"
+date: "2007-12-10"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+The People You Meet
+Last week
+I was in Texas
+, facilitating a workshop on Evangelism Excellence.
+It was an internal audience and I got to meet a great group of evangelists from across the US, as well as Latin America.
+One of the topics we covered was blogging and we had a really good discussion of the pros, cons and other gotchas in the world of new media.
+Twitter even got a mention
+!
+I told some of my
+blogging stories
+from my days in Australia
+builderAU : Talking blogs with Frank Arrigo
+Lessons from the AMP Innovation and Thought Leadership Festival
+The AMP Innovation & Thought Leadership Festival
+overexposed? Moi?
+Slides from my Search Engine Room Presentation
+Hello to attendees of Frocomm's 2nd Annual Public Relations & Corporate Communications Summit
+Me at the Public Relations and Corporate Communications Summit 2007 ?
+Hello if you were a Search Engine Room attendee
+Search Engine Room : Blog Marketing and Optimisation
+A Coffee and a Chat with Foad Fadaghi from BRW
+AFR : Blogger takes free laptop in his stride
+Josh Gliddon tackles the Windows Vista, Ferrari, Blogger story
+SOCAP and Blogging
+MIS Magazine : Building blogs
+Now, I meant to do this last week, but things got a bit hectic for me. I wanted to give a shout out (as well as some link love) to the folks I met last week
+Alfred Thompson
+Beth Humphreys
+Cy Khormaee
+Dan Waters
+Denny Boynton
+Edwin Guarin
+Eric Bowen
+Gautam Reddy
+Hilary Pike
+John Mullinax
+Jon Box
+Martin Cabrera
+Robin Mestre
+Ronald Armas
+William Zack
+For the others on the course - I tried to find your blogs but I failed. Leave me a comment and I will update the list.
+It was a pleasure working with y'all.
+Technorati Tags:
+Evangelism Excellence
+,
+Blogging
+Comments
+Anonymous
+December 10, 2007
+Whoa. While writing the last post , I just realised I passed a BIG milestone. Just over FOUR years ago
+Anonymous
+December 10, 2007
+Whoa. While writing the last post , I just realised I passed a BIG milestone. Just over FOUR years ago
+Anonymous
+December 11, 2007
+Thanks for the link. It was sure great to finally meet you in person. It was a good event with a lot of great people. Thanks for your work on it.
+Anonymous
+December 13, 2007
+Jeremiah Owyang wrote recently Some Conversations have shifted to Twitter I felt this happening to me
+Additional resources
+Last updated on
+2007-12-10

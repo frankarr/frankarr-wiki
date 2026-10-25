@@ -1,0 +1,172 @@
+---
+title: "St Kilda flys the flag for Victoria"
+platform: "radio-userland"
+era: "microsoft"
+source_url: "http://radio-weblogs.com/0124955/2006/08/18.html#a1305"
+date: "2006-08-18"
+tags:
+  - "My Hobbies"
+  - "TV"
+  - "Random"
+  - "TV"
+---
+
+Friday, 18 August 2006
+St Kilda flys the flag for Victoria
+Go Sainters!!!!!!!!!!!!!!!!!!! Fly That Flag
+sportal.com.au
+St Kilda ready to fly flag for Victoria
+The Age, Australia -
+2 hours ago
+St Kilda coach Grant Thomas says the Saints are building towards their best form as September approaches and are ready to "fly the flag for Victoria" in the AFL finals series.
+Dockers looking for seven-straight
+ABC Online
+Never a dull moment when Saints play Freo
+The Australian
+New aim for Dockers is to keep it simple
+The Australian
+The Age
+-
+AFL
+-
+all 15 related »
+sportal.com.au
+Saints fly Vic flag
+sportal.com.au, Australia -
+4 hours ago
+With St Kilda poised for another finals assault, Grant Thomas has urged his players to dig deep and take their game to the next level - even drawing up battlelines along state borders
+[listening to: Andy, You're a Star -
+The Killers
+]
+9:39:02 PM
+comment [
+]
+trackback [
+]
+G!
+
+My Hobbies
+David Tench Tonight. It Stinks!
+The
+viral marketing campaign
+should have been a warning.
+David Tench - More like David
+Stench
+(sorry couldn't resist the terrible pun)
+The show
+was a big disappointment,
+despite the talk of a world first
+. It wasn't funny. It was banal.
+Too much like what has come before. A poor copy of orignal shows such as Max Headroom and Space Ghost.
+And I reckon the man behind the voice of
+David Tench
+is infact
+Tim Ferguson
+- former member of
+Doug Anthony AllStars
+.
+[listening to: Andy, You're a Star -
+The Killers
+]
+9:03:25 PM
+comment [
+]
+trackback [
+]
+G!
+
+TV
+On This Day : Aug 18
+August 18
+:
+293 BC
+- The oldest known
+Roman temple
+to
+Venus
+was founded, starting the institution of
+Vinalia Rustica
+.
+1572
+-
+French Wars of Religion
+:
+Marguerite de Valois
+(pictured)
+was married to
+Huguenot
+King
+Henry of Navarre
+, in a supposed attempt to reconcile
+Protestants
+and
+Catholics
+in
+France
+.
+1868
+-
+Pierre Janssen
+discovered
+helium
+while analyzing the
+chromosphere
+during a
+total eclipse
+of the
+sun
+. This was the first
+element
+detected in
+space
+before being found on
+Earth
+.
+1941
+- The
+T-4 Euthanasia Program
+in
+Nazi Germany
+was temporarily halted due to public resistance.
+1966
+-
+Vietnam War
+: A
+company
+of the
+Royal Australian Regiment
+fought a much larger
+North Vietnamese
+unit in the
+Battle of Long Tan
+.
+4:51:07 PM
+comment [
+]
+trackback [
+]
+G!
+
+Random
+Mr Al Kyder and Mr Terry Wrist - you're flight is boarding
+Those Chaser Boys are at it again.
+Another week and
+another prank
+. This time on airport security.
+The Chasers War on Everything
+is on tonight.
+4:48:09 PM
+comment [
+]
+trackback [
+]
+G!
+
+TV
+© Copyright 
+     2006
+     Frank Arrigo.
+A Geek Microsoft Blogger
+Last update: 
+     1/09/2006; 9:28:51 AM
+     .

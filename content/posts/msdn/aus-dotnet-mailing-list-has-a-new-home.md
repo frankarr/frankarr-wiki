@@ -1,0 +1,77 @@
+---
+title: "aus-dotnet mailing list has a new home"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/aus-dotnet-mailing-list-has-a-new-home"
+date: "2005-09-08"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+aus-dotnet mailing list has a new home
+The
+aus-dotnet mailing list
+, that wonder from downunder which is helping 1000's of local developers,
+has moved mail servers
+. The new mailing list is supported by the good folks at
+ICO
+- thanks Ben, you're a champ!
+Dr Pete
+sent a note out this evening to let the subscribers know about the new system
+From:
+Peter Stanski
+Sent:
+Thursday, 8 September 2005 9:14 PM
+To:
+dotnet@stanski.com
+Subject:
+[aus-dotnet] The List is FINALLY back online again! The story so far....
+Hi Guys!
+Yes we are live again! So what happened?
+Our previous ISP's systems were no longer able to cope with the levels of emails we generate on their server. Also, apparently we were clogging up their anti-spam systems which impacted on their other customers.
+Having 1000+ members means that every time you send an email out you touch someone's inbox. So each day if we have 30+ posts we're generating 30K+ emails.
+Basically, we got told that we would have to get off their server onto a more higher end system which was going to cost 10x times more. AND, their new mail platform would not be able to support the mailing list - which was the deal breaker. Also, the server became unstable over the last 4 weeks which explains why sometimes the mailing list would not deliver emails, and then deliver them all out in one hit causing more bottlenecks in their mail servers. So things started to spiral out of control.
+In the last few days it got to the point where their system stopped several times and the SMTP service kept stopping as a result. And we got told to get off the platform, so much so that they shut down the mail system before they were supposed to. I sent out an email a few days ago telling you all that we were moving to a new server, and that it would be seamless.
+As you know this was not the case. The ISP shut down the mail system without telling us about which resulted in the list stopping all together. Had they kept it going, you would have not seen any issues with the list. So we are no longer with them 8-)
+It just so happens that I had been chatting with Ben Sudbry from ICO the a few weeks ago about all things .Net and their hosting platform. Last week when things really hit the fan, I called Ben and we had a chat about their hosting infrastructure supporting locked down lists mailing - ie. can't post to list without being a subscriber. You'd be surprised how much spam we block every day. AND while I am on the topic, there is someone in Singapore trying to send phishing emails to the list stating that Stanski Consulting wants you to give us your personal details. Please be careful should such email ever make their way onto the list.
+Back to the story, so Ben and I talked about the list and he kindly offered for ICO.com.au to sponsor the mailing list. If you guys need a .Net hosting platform have a chat to them about it. My experience has been excellent and they have promised that if we ever start to need more grunt for the mailing list- they can crank it up for us.
+So we're on the new platform as of now. The DNS MX records are pointing at the correct SMTP mail server and life should be good for all.
+Finally, the list is going strong due to your involvement and I hope that you continue to gain benefit from its usage as a community as a whole.
+Happy Coding!
+Peter Stanski
+[ Currently Playing : The Unloved One - INXS - Stay Young 1979-1982 Disc 2 (03:58) ]
+Comments
+Anonymous
+September 08, 2005
+How do you always stay on top of things Frank? i found out seconds before Thunderbird let me know what you added this post.
+Anonymous
+September 08, 2005
+ICO are excellent to deal with and I would recommend them hands down.
+Good on the Sudbury boys to pull through for the list - it's just like them.
+Anonymous
+September 12, 2005
+is the new
+aus-dotnet mailer given me a subtle message??
+-----Original Message-----From: dotnet@stanski.com...
+Anonymous
+September 12, 2005
+is the new aus-dotnet mailer given me a subtle message??
+-----Original Message-----From: dotnet@stanski.com...
+Anonymous
+October 19, 2006
+Mitch Denny sent the following email to the Australian "dotnet" mailing list . -----Original Message-----
+Anonymous
+December 11, 2006
+The Australian "dotnet" mailing list has had a good thread recently about ASP.NET + SQL Hosting in Australia.
+Anonymous
+June 08, 2009
+PingBack from
+http://insomniacuresite.info/story.php?id=362
+Additional resources
+Last updated on
+2005-09-08

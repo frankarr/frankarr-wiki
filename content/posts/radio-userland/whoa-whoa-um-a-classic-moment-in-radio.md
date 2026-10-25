@@ -1,0 +1,76 @@
+---
+title: "\"Whoa, whoa. Um ...\" : A classic moment in radio"
+platform: "radio-userland"
+era: "microsoft"
+source_url: "http://radio-weblogs.com/0124955/2006/06/02.html#a1129"
+date: "2006-06-02"
+tags:
+  - "Random"
+  - "My Hobbies"
+---
+
+Friday, 2 June 2006
+"Whoa, whoa. Um ..." : A classic moment in radio
+I was listen to
+Nova 96.9 Breakfast Show
+this morning while I was driving into work. The boys had been talking about the book "
+Red Velvet
+", a memoir in three parts by former call girl Lisa Lou.
+They had a caller who identified herself as "anonymous" who said she was a sex worker. They were having a little chat, when Merrick asked about the code of ethics when it comes to keeping secret the names of clients.
+Well, she named a high profile person
+They guys were lost for words and then cut to a song.
+Classic!!
+The SMH has it all -
+What the beep! Prostitute names politician on air
+, including the audio:
+What she said
+&
+Nova's apology
+Sydney Morning Herald
+Nova's red-light blooper
+Daily Telegraph, Australia -
+20 hours ago
+NOVA 96.9 morning boys
+Merrick
+and
+Rosso
+had a nasty surprise during a live-to-air interview with a lady of the night this morning after she named a NSW
+...
+Prostitute names pollie on air
+Sydney Morning Herald
+Prostitute names politician on-air
+The Australian
+all 12 related »
+[listening to: She's an Angel -
+They Might Be Giants
+]
+5:14:00 PM
+comment [
+]
+trackback [
+]
+G!
+
+Random
+Preview : Melbourne V St Kilda  MCG Sunday 4/6/6
+I subscribe to
+a mailing list which has the AFL Previews & Reviews
+. It's always an entertaining read, as it's written by fans for fans. I had to share the preview of the upcoming game.
+Melbourne V St Kilda  MCG Sunday
+This game is definitely the second best of the round with an in-form Melbourne against a more talented but out of form St Kilda. The Saints are not helped by the loss of Lenny Hayes and his weekly 20 plus possessions for the season. I cannot work out what the problem is with the Saints this year but unless they throw off their ordinary form they will not be playing in the grand final. The Demons looked pretty good against the Eagles last week and but for a tired looking last quarter they were right there almost to the end. I must admit I find this game a coin toss to work out a winner. Apparently Neitz will be breaking Robbie Flowers playing record although I cant see a great deal of motivation in that. Both teams boast useful forward lines with Neitz and Robbo against Reiwoldt and Gehrig so it will up to the midfields to provide the opportunities. Im tipping the Demons to come back from their disappointing loss last week to the ladder leaders while I think the Saints might flounder for a week without the drive of Hayes until they work out how to fill the gap.
+Melbourne by 11
+9:39:48 AM
+comment [
+]
+trackback [
+]
+G!
+
+My Hobbies
+© Copyright 
+     2006
+     Frank Arrigo.
+A Geek Microsoft Blogger
+Last update: 
+     8/07/2006; 10:41:17 AM
+     .

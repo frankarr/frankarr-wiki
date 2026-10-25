@@ -1,0 +1,74 @@
+---
+title: "What a surprise - Mr dominate the attendees at Tech.Ed"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/what-a-surprise-mr-dominate-the-attendees-at-tech-ed"
+date: "2005-08-21"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+What a surprise - Mr dominate the attendees at Tech.Ed
+I've been wallowing around in data over the weekend, and out of curiousity I thought I would look at the split between boy geeks and girl geeks attending
+Tech.Ed
+. I was partly inspired by some of the creative flair that was sent into the
+Tech.Ed Flair contest
+.
+I based my analysis on the Salutation field, which does introduce some ambiguity in relation to Dr & Prof, but it gives a good indicative view.
+Salutation
+Total
+Mr
+93.29%
+Ms
+3.83%
+Mrs
+1.53%
+Miss
+0.82%
+Dr
+0.41%
+Prof
+0.12%
+Grand Total
+100.00%
+*Sigh* really no surprises here, is there?
+Technorati Tags :
+TechEdAU2005
+,
+TechEdAU
+[ Currently Playing : Jan's Song - INXS - Shabooh Shoobah (03:18) ]
+Comments
+Anonymous
+August 21, 2005
+All this data mining
+of Tech.Ed
+registations has prompted someone to ask the question - what the...
+Anonymous
+August 21, 2005
+All this data mining of Tech.Ed registations has prompted someone to ask the question - what the most...
+Anonymous
+August 22, 2005
+All this data mining of Tech.Ed registations has prompted someone to ask the question - what the most...
+Anonymous
+July 26, 2006
+Last year I had a bit of fun with the Tech.Ed registration stats
+What a
+surprise - Mr dominate...
+Anonymous
+July 27, 2006
+Time to look at some more data. Yesterday,
+I went through the top 10 names. Did you notice that they...
+Anonymous
+July 14, 2007
+More data surfing. On Friday, I looked at the Names of Tech.Ed 2007 I had a few comments for the top
+Anonymous
+July 14, 2007
+More data surfing. On Friday, I looked at the Names of Tech.Ed 2007 I had a few comments for the top
+Additional resources
+Last updated on
+2005-08-21

@@ -1,0 +1,103 @@
+---
+title: "OMG. South Africa win the greatest game"
+platform: "radio-userland"
+era: "microsoft"
+source_url: "http://radio-weblogs.com/0124955/2006/03/13.html#a1033"
+date: "2006-03-13"
+tags:
+  - "TV"
+---
+
+Monday, 13 March 2006
+OMG. South Africa win the greatest game
+So, I went to bed feeling pretty content
+that Australia was going to win the fifth one day international after watching their amazing innings
+in which they scored
+434 runs.
+When I woke up, I checked the results and I couldn't believe what happened. South Africa chased the score down and
+WON
+Unbelievable
+ODI # 2349
+Australia in South Africa, 2005-06, 5th One-Day International
+South Africa v Australia
+New Wanderers Stadium, Johannesburg
+12 March 2006 (50-over match)
+Result:
+South Africa won by 1 wicket
+Series:
+South Africa wins the 5-ODI series 3-2
+Toss:
+Australia
+Umpires:
+Aleem Dar (Pak) and BG Jerling
+TV Umpire:
+KH Hurter
+Match Referee:
+BC Broad (Eng)
+Man of the Match:
+HH Gibbs and RT Ponting
+Player of the Series:
+SM Pollock (SA)
+Australia innings (50 overs maximum)                            R   M   B  4 6
++AC Gilchrist         c Hall             b Telemachus          55  68  44  9 0
+SM Katich             c Telemachus       b Ntini               79 138  90  9 1
+*RT Ponting           c Dippenaar        b Telemachus         164 154 105 13 9
+MEK Hussey            c Ntini            b Hall                81  75  51  9 3
+A Symonds             not out                                  27  23  13  3 1
+B Lee                 not out                                   9  13   7  0 0
+Extras                (lb 4, w 5, nb 10)                       19
+Total                 (4 wickets, 50 overs, 234 mins)         434
+DNB: DR Martyn, MJ Clarke, NW Bracken, SR Clark, ML Lewis.
+FoW: 1-97 (Gilchrist, 15.2 ov), 2-216 (Katich, 30.3 ov),
+     3-374 (Hussey, 46.1 ov), 4-407 (Ponting, 47.4 ov).
+Bowling                      O      M      R      W
+Ntini                        9      0     80      1 (1w)
+Hall                        10      0     80      1 (2nb)
+van der Wath                10      0     76      0 (1nb, 1w)
+Telemachus                  10      1     87      2 (7nb, 3w)
+Smith                        4      0     29      0
+Kallis                       6      0     70      0
+Kemp                         1      0      8      0
+South Africa innings (target: 435 runs from 50 overs)           R   M   B  4 6
+*GC Smith             c Hussey           b Clarke              90 100  55 13 2
+HH Dippenaar                             b Bracken              1   6   7  0 0
+HH Gibbs              c Lee              b Symonds            175 142 111 21 7
+AB de Villiers        c Clarke           b Bracken             14  43  20  1 0
+JH Kallis                            c & b Symonds             20  22  21  1 0
++MV Boucher           not out                                  50  79  43  4 0
+JM Kemp               c Martyn           b Bracken             13  20  17  0 0
+JJ van der Wath       c Ponting          b Bracken             35  20  18  1 3
+R Telemachus          c Hussey           b Bracken             12  10   6  2 0
+AJ Hall               c Clarke           b Lee                  7   9   4  1 0
+M Ntini               not out                                   1   3   1  0 0
+Extras                (b 4, lb 8, w 4, nb 4)                   20
+Total                 (9 wickets, 49.5 overs, 228 mins)       438
+FoW: 1-3 (Dippenaar, 1.2 ov), 2-190 (Smith, 22.1 ov),
+     3-284 (de Villiers, 30.5 ov), 4-299 (Gibbs, 31.5 ov),
+     5-327 (Kallis, 37.4 ov), 6-355 (Kemp, 42.1 ov),
+     7-399 (van der Wath, 46.3 ov), 8-423 (Telemachus, 48.2 ov),
+     9-433 (Hall, 49.3 ov).
+Bowling                      O      M      R      W
+Lee                          7.5    0     68      1 (3nb, 1w)
+Bracken                     10      0     67      5
+Clark                        6      0     54      0
+Lewis                       10      0    113      0 (1nb, 1w)
+Symonds                      9      0     75      2
+Clarke                       7      0     49      1
+Australia full substitute: GB Hogg (unused).
+South Africa full substitute: RJ Peterson (unused).
+9:00:17 AM
+comment [
+]
+trackback [
+]
+G!
+
+TV
+© Copyright 
+     2006
+     Frank Arrigo.
+A Geek Microsoft Blogger
+Last update: 
+     8/07/2006; 10:36:43 AM
+     .

@@ -1,0 +1,51 @@
+---
+title: "Analyst Programmer /Developers - C#, SQL, ASP.NET,VS.NET, Biztalk"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/analyst-programmer-developers-c-sql-asp-netvs-net-biztalk"
+date: "2005-03-25"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+Analyst Programmer /Developers - C#, SQL, ASP.NET,VS.NET, Biztalk
+Analyst Programmer /Developers - C#, SQL, ASP.NET,VS.NET, Biztalk
+â¢  Permanent & Contract Opportunities in Sydney, Canberra, Melbourne & Brisbane
+â¢  Training & Career Opportunities
+â¢  Global Microsoft Integrator
+MitchelLake Consulting is currently representing Avanade which is a world leading Systems Integration group. A joint venture between Accenture And Microsoft, Avanade operates through out the world delivering Microsoft based solutions to large enterprise clients and is currently seeking a number of entry level & mid level contract and permanent Microsoft Developers with core skills in C#, ASP.NET, VS.NET, XML & SQL.
+For the successful applicant our client is willing to offer an attractive base salary, benefits, travel, and extensive training and development. This package is aimed to attract individuals who are passionate about technology and seek to be the best in their field. A highly desired working environment, a global brand which is backed by international strategic alliances, fortune 500 clients, amazing technical team and a passion for leading the industry through innovation.
+Description :
+â¢ Participate in business requirements gathering and rules definition.
+â¢ Participate in design of desktop and web-based application architecture.
+â¢ Develop components/modules/scripts implementing business process rules.
+â¢ Perform code walk-through of software components.
+â¢ Document software components sufficient for on-going support and enhancement.
+â¢ Effectively communicate status of tasks and projects
+Minimum Requirements:
+â¢ Solid communication skills
+â¢ 1 year + commercial experience with C#, ASP.NET, VS.NET, XML
+â¢  Full lifecycle experience developing large scale, scaleable applications
+â¢ Willing to travel to customer locations
+â¢ BS Computer Science
+Desirable Requirements:
+â¢ Biztalk & Sharepoint Servers
+â¢ MCSD certification
+If you are aligned to the above specification and want the opportunity to work with some of the most talented and passionate technologists in the industry and have a structured career management program then please forward you CV in MS Word format to
+lisa@mitchellake.com
+or to find out more call on 02 8356 2901
+MitchelLake Consulting
+www.mitchellake.com
+Identify Engage Inspire
+Comments
+Anonymous
+April 01, 2005
+Adelaide :-(
+Additional resources
+Last updated on
+2005-03-25

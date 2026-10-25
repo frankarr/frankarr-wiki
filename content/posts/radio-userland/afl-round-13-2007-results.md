@@ -1,0 +1,295 @@
+---
+title: "AFL Round 13 2007 : Results."
+platform: "radio-userland"
+era: "microsoft"
+source_url: "http://radio-weblogs.com/0124955/2007/07/01.html#a1502"
+date: "2007-07-01"
+---
+
+Sunday, 1 July 2007
+AFL Round 13 2007 : Results.
+It's always good round when the Saints win. Plus I got 5 correct in my tipping. The Saints continue their winning streak against the Tigers
+Week 13
+(Tip ratio)
+Home
+Draw
+Away
+(Tip ratio)
+(77%)
+Bombers
+(19.11 125)
+Demons
+(18.15 123)
+(23%)
+(87%)
+Cats
+(13.9 87)
+Swans
+(10.9 69)
+(12%)
+(89%)
+Dockers
+(27.11 173)
+Blues
+(13.18 96)
+(11%)
+(43%)
+Lions
+(15.15 105)
+Power
+(17.10 112)
+(56%)
+(80%)
+Saints
+(17.15 117)
+Tigers
+(15.10 100)
+(20%)
+(60%)
+Crows
+(10.14 74)
+Eagles
+(14.11 95)
+(39%)
+(49%)
+Kangaroos
+(17.9 111)
+Bulldogs
+(11.19 85)
+(51%)
+(37%)
+Magpies
+(12.15 87)
+Hawks
+(15.5 95)
+(63%)
+The only sour note was the injury to Max Hudghton.
+sportal.com.au
+Saints
+hang on for Harvs
+Melbourne Herald Sun, Australia -
+5 hours ago
+ST Kilda
+honoured Robert Harvey again last night, holding on in the last term to beat Richmond by 17 points in their AFL match at Telstra Dome.
+Saints
+win in style, find extra gear
+The West Australian
+Harvey rolls back the years for a belated celebration
+Real Footy
+Terry content with Tigers
+sportal.com.au
+Real Footy
+-
+Real Footy
+all 32 news articles Â»
+Saints
+receive some good injury news
+The Age, Australia -
+2 hours ago
+Saints
+ruck-forward Justin Koschitzke was also ruled out last week with a hamstring injury.
+St Kilda
+will confirm on Monday how long Hudghton will need for his latest setback.
+Woozy Bartel in doubt for Bombers clash
+ABC Online
+all 7 news articles Â»
+Saints
+snatch victory from Richmond
+ABC Online, Australia -
+22 hours ago
+After going into the break trailing by four points,
+St Kilda
+hit the ground with determination in the second half, eventually prevailing by 17 points.
+Gehrig in straight swap for Koschitzke
+ABC Online
+all 4 news articles Â»
+Saints
+v Tigers snippets
+sportal.com.au, Australia -
+18 hours ago
+St Kilda
+led by just four points at three-quarter time but a five-goal-to-one burst to open the final term effectively ended Richmond's chances of claiming just their second win of the season.
+Still one game out of the top 8.  The Saints need to keep on winning
+Team
+W
+D
+L
+For
+Agn
+Stk
+Chg
+Pts
+%
+Geelong
+10
+0
+3
+1445
+943
+8W
+-
+40
+153.23
+Hawthorn
+9
+0
+4
+1252
+1032
+2W
+-
+36
+121.32
+West Coast
+9
+0
+4
+1195
+986
+1W
+-
+36
+121.20
+Collingwood
+8
+0
+5
+1207
+1138
+1L
+-
+32
+106.06
+Essendon
+8
+0
+5
+1326
+1285
+1W
+U1
+32
+103.19
+Port Adelaide
+8
+0
+5
+1239
+1235
+2W
+U2
+32
+100.32
+Kangaroos
+8
+0
+5
+1212
+1222
+1W
+U2
+32
+99.18
+Adelaide
+7
+0
+6
+1063
+980
+1L
+D3
+28
+108.47
+Western Bulldogs
+7
+0
+6
+1308
+1333
+1L
+D2
+28
+98.12
+Sydney
+6
+0
+7
+1068
+991
+2L
+-
+24
+107.77
+Fremantle
+6
+0
+7
+1328
+1284
+1W
+-
+24
+103.43
+St Kilda
+6
+0
+7
+1030
+1132
+2W
+-
+24
+90.99
+Brisbane Lions
+4
+1
+8
+1063
+1188
+3L
+-
+18
+89.48
+Carlton
+4
+0
+9
+1335
+1697
+2L
+-
+16
+78.67
+Melbourne
+2
+0
+11
+1061
+1370
+2L
+-
+8
+77.45
+Richmond
+1
+1
+11
+1149
+1465
+1L
+-
+6
+78.43
+9:58:56 PM
+comment [
+]
+trackback [
+]
+G!
+© Copyright 
+     2007
+     Frank Arrigo.
+A Geek Microsoft Blogger
+Last update: 
+     31/07/2007; 4:33:21 PM
+     .

@@ -1,0 +1,149 @@
+---
+title: "aussie .net developer OPML"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/aussie-net-developer-opml"
+date: "2004-02-05"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+aussie .net developer OPML
+I put out
+the call a while back for Aussie .net developer bloggers to show me their RSS
+. Well I wasn't disappointed.
+Many hardy souls responded to the request, so I present to you now the
+australian .net developer blogger opml
+.
+One kind soul showed how we can do some amazing things with this
+OPML
+, such as creating a
+web page
+, and a
+rss link of the last 30 posts
+-- thanks for this
+Alex
+.
+Comments
+Anonymous
+February 07, 2004
+Hi Frank!
+Great work putting together this opml list -- i've been looking for other Aussie dev blogs myself.
+my (Aussie .Net) RSS feed is:
+http://www16.brinkster.com/messydesk/db/RSS.XML
+cheers
+Leon (secretGeek)
+Anonymous
+February 10, 2004
+thx for contributing secret geek - you're in the OPML
+Anonymous
+June 25, 2004
+Community Rocks !!
+Anonymous
+December 22, 2004
+Updated BlogRoll
+Anonymous
+April 02, 2005
+Elaine van Bergen sent me a note asking to be added to the Aussie .NET Blogger list.
+I met Elaine at...
+Anonymous
+June 28, 2005
+I've just looked and noticed it's been
+months since I have updated the Aussie .NET
+Blogger list....
+Anonymous
+June 28, 2005
+I've just looked and noticed it's been months since I have updated the Aussie .NET Blogger list.
+I have...
+Anonymous
+June 29, 2005
+Updating
+the list spurs more updates, as I&amp;nbsp;add the aptly named Paul Webb to the Aussie .NET...
+Anonymous
+June 29, 2005
+Updating the list spurs more updates, as I&amp;nbsp;add the aptly named Paul Webb to the Aussie .NET Blogger...
+Anonymous
+July 12, 2005
+Inspired by my TagCloud
+mania, Grant
+Holliday created a Readify Tag
+Cloud which give me motivation...
+Anonymous
+July 12, 2005
+Inspired by my TagCloud mania, Grant Holliday created a Readify Tag Cloud which give me motivation to...
+Anonymous
+July 19, 2005
+TristanK realizes that he can just ask where the Aussie IT Pro bloggers are, and they might actually tell him...
+Anonymous
+July 19, 2005
+TristanK realizes that he can just ask where the Aussie IT Pro bloggers are, and they might actually tell him...
+Anonymous
+July 21, 2005
+TristanK realizes that he can just ask where the Aussie IT Pro bloggers are, and they might actually tell him...
+Anonymous
+August 07, 2005
+It's that time of the month (no, not THAT time) when I tidy up the Aussie .NET
+blogger list.
+I've...
+Anonymous
+August 07, 2005
+It's that time of the month (no, not THAT time) when I tidy up the Aussie .NET blogger list.
+I've got...
+Anonymous
+September 04, 2005
+I spotted this post last week from David
+Kean, in which he announced his new
+job over at Microsoft.&amp;nbsp;...
+Anonymous
+September 04, 2005
+I spotted this post last week from David Kean, in which he announced his new job over at Microsoft.&amp;nbsp;...
+Anonymous
+September 05, 2005
+Tech.Ed's
+over, so best to get back to normal activities, as I try and feature an ASP.NET site each...
+Anonymous
+September 05, 2005
+Tech.Ed's over, so best to get back to normal activities, as I try and feature an ASP.NET site each day...
+Anonymous
+February 12, 2006
+I have not been able to get around to updating the Aussie .NET blogger list for
+months and&amp;nbsp;months...
+Anonymous
+February 12, 2006
+Well, I have made it onto the Aussie.NET Blogger list. Does this mean that I am now famous? (Probably...
+Anonymous
+February 13, 2006
+Whenever I update the Aussie .NET blogger list, I
+get a spate of new requests as well as updates to...
+Anonymous
+February 14, 2006
+I spotted&amp;nbsp;a trackback this morning to this post - The brrreeeport report
+I followed the link to...
+Anonymous
+February 23, 2006
+I've been meaning to post this particular item for a few weeks and keep
+forgetting to, but seeing a...
+Anonymous
+May 29, 2008
+PingBack from
+http://www.deepakkapoor.net/blog/2008/05/30/what-are-your-rss-habits/
+Anonymous
+June 02, 2009
+PingBack from
+http://portablegreenhousesite.info/story.php?id=32451
+Anonymous
+June 09, 2009
+PingBack from
+http://toenailfungusite.info/story.php?id=8750
+Anonymous
+June 15, 2009
+PingBack from
+http://einternetmarketingtools.info/story.php?id=15748
+Additional resources
+Last updated on
+2004-02-05

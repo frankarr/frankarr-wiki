@@ -1,0 +1,67 @@
+---
+title: "Made In Express Contest : An Aussie Finalist"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/made-in-express-contest-an-aussie-finalist"
+date: "2006-05-23"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+Made In Express Contest : An Aussie Finalist
+Dan Fernandez
+gives
+an update on the Made in Express Contest
+I had a quick look and noticed an Aussie was a finalist!
+Neil Bamber
+Rockingham, Western AustraliaAustraliaProject: A relationship tracking system
+More about the solution direct from the author
+"An application that tracks the relationships between friends and business associates. Each person would be represented by a circle which would change size based on a point value determined by factors such as the amount of interactions and the importance of these interactions. Linking the circles would be a line that also conveys the strength of the relationship; based on a combination of the last interaction date and the relationship length to give the user an indication of how healthy the relationship currently is. There could be as many links as the user wantedâfor example, I know someone called Matt, Matt has a friend named James that Iâve seen around but not too often. I wouldnât say I know James but I know of him. The program could link James to Matt, who is linked to me. I could then update Jamesâs circle when I learned something about him or we ran into each other. The application would allow the user to enter as much data about the person as they saw fit."
+-Neil Bamber
+Neil
+- we're all cheering an
+Aussie chant
+just for you!!!
+Aussie! Aussie! Aussie! Oi! Oi! Oi!
+Aussie! Aussie! Aussie! Oi! Oi! Oi!
+Aussie! Oi!
+Aussie! Oi!
+Aussie! Aussie! Aussie! Oi! Oi! Oi!
+[ Currently Playing : Moja Stikla (Croatia) - Severina - Eurovision Song Contest-Athens 2006 (02:56) ]
+Comments
+Anonymous
+May 23, 2006
+PingBack from
+http://www.centplus.com/microsoft-to-contractors-take-a-short-hikemicrosoft-has-suspended-at/
+Anonymous
+May 24, 2006
+Thanks for the publicity Frank, I'll be doing my best to make Australia proud :)
+Anonymous
+May 24, 2006
+Thanks for the recognition Frank, I'll be doing my best to make AU proud :)
+Anonymous
+August 16, 2006
+The Made In
+Express Contest finalists have built and submitted their projects.
+It's time for YOU,...
+Anonymous
+September 21, 2006
+Dan Fernandez&amp;nbsp;tells us that&amp;nbsp;the Made in Express Winners were announced this week Great news...
+Anonymous
+May 30, 2008
+Dan Fernandez gives an update on the Made in Express Contest I had a quick look and noticed an Aussie was a finalist! Neil Bamber Rockingham, Western Australia Australia Project: A relationship tracking system More about the solution direct from the autho
+Anonymous
+June 05, 2008
+Dan Fernandez gives an update on the Made in Express Contest I had a quick look and noticed an Aussie was a finalist! Neil Bamber Rockingham, Western Australia Australia Project: A relationship tracking system More about the solution direct from the autho
+Anonymous
+June 16, 2009
+PingBack from
+http://topalternativedating.info/story.php?id=3958
+Additional resources
+Last updated on
+2006-05-23

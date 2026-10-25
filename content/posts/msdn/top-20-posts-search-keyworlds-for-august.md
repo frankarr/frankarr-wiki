@@ -1,0 +1,120 @@
+---
+title: "Top 20 Posts & Search Keyworlds for August"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/top-20-posts-search-keyworlds-for-august"
+date: "2006-09-01"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+Top 20 Posts & Search Keyworlds for August
+As I did last month
+, I looked back on
+BlogBeat
+for my top 20 posts for the month of
+August
+.
+Not surprisingly TechEd featured a lot, but again Interesting to see those old posts in there again.
+Post
+First Posted
+1.
+Ready, Set, Download : Windows Vista Beta 1 on MSDN
+28 July 05
+2.
+Tech.Ed MeeGo Infoporn
+10 Aug 06
+3.
+Australia now has full Live Local Support
+26 Jul 06
+4.
+Top 10 Things I learnt at the TechEd Sydney Party
+25 Aug 06
+5.
+Sydney TechEd Closing Party
+25 Aug 06
+6.
+I'm web 2.0
+16 Aug 06
+7.
+Got My Latest Gadget : iRiver Clix
+02 Aug 06
+8.
+Where are all the developers??
+01 Aug 06
+9.
+Photosynth : The Coolest thing I've seen in ages
+29 Jul 06
+10.
+K-JAM, Microsoft Voice Command, Bluetooth Headset and a registry hack
+17 Jan 06
+11.
+Mr, Ms, Mrs, Miss, Dr and Prof : All together at Tech.Ed
+28 Jul 06
+12.
+Mark's New Laptop
+26 Aug 06
+13.
+Podcasts Podcasts Podcasts from TechEd Sydney
+25 Aug 06
+14.
+TechEd Sydney Student Day
+22 Aug 06
+15.
+DirectX8, DirectX9, DirectX10 -- What's the Diff??
+26 Jul 06
+16.
+TechEd Sydney : The Passions of the Attendees
+28 Aug 06
+17.
+A new member of the family
+08 Aug 06
+18.
+The Dude who took my shirt - Spotted!! Do you know this man??
+30 Aug 06
+19.
+I-Mate K-Jam AKU2 Update : Done!
+10 Mar 06
+20.
+Responses from Where are all the developers??
+08 Aug 06
+My top 20 search keywords are really interesting too. Notice the recurring theme.
+download windows vista
+frank arrigo
+Vista beta download
+IRiver clix
+download windows vista beta
+download vista beta
+frankarr
+DIRECTX9
+frank arrigo blog
+windows vista download
+mathletics
+Microsoft Vista download
+directx10
+natuzzi
+MSFT
+Anne Kirah
+august 22nd
+how to build a robot
+voice command bluetooth
+windows live writer plugin
+[
+Current Listening to
+:
+Snakes on a Plane (Bring It)
+-
+Cobra Starship
+]
+Comments
+Anonymous
+September 30, 2006
+As I did in last month, I looked back on BlogBeat for my top 20 posts for the month of September.  Installing...
+Additional resources
+Last updated on
+2006-09-01

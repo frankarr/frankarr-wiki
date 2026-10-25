@@ -1,0 +1,132 @@
+---
+title: "Calling all Australian .net developer bloggers"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/calling-all-australian-net-developer-bloggers"
+date: "2004-02-01"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+Calling all Australian .net developer bloggers
+I am keen to create a list of Australian .net bloggers and make an
+OPML
+file (OPML is "a file format that can be used to exchange subscription lists between programs that read RSS files, such as feed readers and aggregators.")  available for anyone who wants to add this list their own rss readers AND i will get a summary RSS feed created that incorporates all these bloggers â thatâs the wonders of rss, the stuff doesnât need to be hosted in the same place.
+So, if you are an Australian who is blogging about .net development, please leave your details in the comments of this post
+Comments
+Anonymous
+February 01, 2004
+Great idea Frank... chalk up 2 for the S.A. :)
+http://weblogs.asp.net/DNeimke
+http://blogs.regexadvice.com/DNeimke
+Anonymous
+February 01, 2004
+Here is mine.
+http://weblogs.asp.net/pglavich
+Anonymous
+February 01, 2004
+I'm a research student (read: dev wannabe) who implements in .NET. My blog is at
+http://www.dcooney.com
+Anonymous
+February 01, 2004
+Hi Frank, my blog is at
+http://notgartner.com
+, great idea!
+Anonymous
+February 01, 2004
+Frank, my blog is at
+www.madtechnology.net/blog
+.
+Anonymous
+February 02, 2004
+http://dotnetjunkies.com/WebLog/ClarkeScott/
+Anonymous
+February 02, 2004
+Always happy to talk about .Net and anything geeky :)
+http://geekswithblogs.net/jking/
+Anonymous
+February 02, 2004
+http://blogs.worldnomads.com.au/matthewb/
+Anonymous
+February 02, 2004
+http://www.lucaslabs.net/blogs/mccullochs/
+Anonymous
+February 02, 2004
+this.Nationality = Aussie;
+this.Geek = true;
+Anonymous
+February 02, 2004
+Hi Frank, my new one is at:
+http://www.thespoke.net/MyBlog/greg/RssFeed.aspx
+Regards,
+Greg
+Anonymous
+February 02, 2004
+I'm not sure how .NETish it is just yet, what with that whole "no work = nothing to do" situation, and it's hosted on "the other side", but here's mine. :)
+http://www.jroller.com/page/phloggy
+Anonymous
+February 02, 2004
+Not much activity last month, but still here
+Anonymous
+February 02, 2004
+Hi Frank,
+Here's mine...
+http://william.bartholomew.com.au/DotBlog/
+Regards,
+William
+Anonymous
+February 03, 2004
+Hi Frank,
+You probably got mine from the mailing-list, but just in case:
+http://weblogs.asp.net/TWalters/
+Cheers,
+Tim
+Anonymous
+February 26, 2004
+Please add me to the Aussie .Net blog list...
+Anonymous
+February 27, 2004
+I'm an Aussie, originally from Brisbane!
+http://blogs.msdn.com/joelpob/
+Anonymous
+February 27, 2004
+Count me in :)
+Maybe we should organise a blogger get together at the security summits ?
+Damian
+Anonymous
+March 01, 2004
+My blog is a bit of a mix between personal and .NET related stuff, but if you subscribe to the work category (
+http://httpcode.com/blogs/Rss.aspx?CategoryID=1
+) you can filer out all the personal stuff.
+Anonymous
+March 09, 2004
+Again, a mix of personal + .net - but choose the "professional" link and you'll lose the social side.
+Currently the .net area is rather bare - only just uploaded it 2 days ago - but i'll start putting up copies of my presentations, etc as soon as they are ready for release.
+Anonymous
+June 23, 2004
+Yeah, I've been meaning to do this for a while...
+Anonymous
+June 24, 2004
+Hi Frank,
+I'm a .Net developer based in Melbourne, Australia.  My weblog is at
+http://weblogs.asp.net/acampbell
+.  I work at David Trewern Design (
+http://www.dtdesign.com.au
+).
+Is there an RSS feed for Aussie bloggers that I have missed?
+Alex
+Anonymous
+January 22, 2008
+Yesterday, Coatsie blogged a good list of links to the blogs of DPE Team Members, you can see the list
+Anonymous
+June 18, 2009
+PingBack from
+http://wheelbarrowstyle.info/story.php?id=76
+Additional resources
+Last updated on
+2004-02-01

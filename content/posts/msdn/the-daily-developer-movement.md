@@ -1,0 +1,46 @@
+---
+title: "The Daily Developer Movement"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/the-daily-developer-movement"
+date: "2006-09-06"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+The Daily Developer Movement
+David Lemphers
+is on a mission.
+He announced his intentions a while back with a post outlining the idea
+Then he thought about events
+and today he launched a wiki
+Welcome to Daily Developers!
+What is Daily Developers? It's a wiki for developers to share information, tips and tricks on all things non-technical!
+Why!? Well, most of us develop to pay the bills (not exclusively though), and while there is an abundance of information on the web to navigate an API or object model, there isn't much information on how to navigate your career!
+So the idea behind Daily Developers is to provide a place where developers (or anyone involved in software development) can add information on how to get ahead, whether it be getting a raise, getting a promotion, or just getting the job done!
+As the site evolves, we will add functionality to rate content, so all the stuff that works percolates to the top, and the stuff that doesn't, quietly goes to wiki page heaven ;)
+So spread the word, let's start sharing the good oil, and help each other get ahead!
+I'm doing my bit in spreading the word.
+BTW - It's a Windows SharePoint Services-based wiki site. That's cool too.
+Comments
+Anonymous
+September 06, 2006
+This is great! Thanks for the heads up Frank, will go and check it out. :)
+Anonymous
+September 06, 2006
+PingBack from
+http://notgartner.wordpress.com/2006/09/07/daily-developers/
+Anonymous
+September 07, 2006
+Franky let the cat out of the bag a little too early, so I thought I better clarify the current position...
+Anonymous
+September 07, 2006
+That's an excellent idea - will definitely go and check that out!!
+Additional resources
+Last updated on
+2006-09-06

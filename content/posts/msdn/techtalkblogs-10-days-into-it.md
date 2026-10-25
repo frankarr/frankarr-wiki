@@ -1,0 +1,129 @@
+---
+title: "TechTalkBlogs ... 10 days into it"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/techtalkblogs-10-days-into-it"
+date: "2006-03-05"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+TechTalkBlogs ... 10 days into it
+TechTalkBlogs
+has been alive for 10
+days, give or take.
+I looked at
+some stats last week
+, so let's do an update:
+System Summary
+Active Feeds:
+196
+Feed Items:
+1,486
+Votes:
+1,068
+Not too shabby. Another 13 folks added since the last update.
+One thing that folks may not have noticed is the "
+Group Blog
+" part of
+TechTalkBlogs
+, this is where we
+have a guest blogger posting on assorted topics. For our first guest blogger, we
+have
+Rocky Heckman
+, local Security MVP.
+Some of his posts include:
+Security News
+Roundup
+,
+Security Seminar
+Picture Site
+&
+Adelaide
+Security Seminar Day
+.
+Since Rocky is on the the
+Security
+tour
+at the moment, he will be posing questions of all the speakers and
+posting them to the
+TechTalkBlogs' Group Blog
+,
+such as this interview with
+Andrew
+McMurray
+.
+So, do yourself a favour, and check out
+TechTalkBlogs' Group
+Blog
+[ Currently Playing : Ring of Fire
+- Johnny Cash - The Legend of Johnny Cash (02:37) ]
+Comments
+Anonymous
+March 12, 2006
+TechTalkBlogs has been alive for 17
+days, give or take. Time to look at some other stats:
+...
+Anonymous
+March 12, 2006
+Looks like the infamous (and fellow Aussie) Frank Arrigo will be stopping by as a result of TechTalkBlogs.&amp;nbsp;...
+Anonymous
+March 19, 2006
+TechTalkBlogs continues to motor on. Time for my weekly look at the stats:
+System Summary
+...
+Anonymous
+March 26, 2006
+It's been a month
+since&amp;nbsp;we launched TechTalkBlogs
+Let's review the stats from the systems:...
+Anonymous
+April 02, 2006
+It's Monday, which means I need to do an update on TechTalkBlogs, as it moves into it's fifth
+week...
+Anonymous
+April 09, 2006
+Six
+weeks since launch, we're bubbling along nicely with TechTalkBlogs. Here's the system
+status:...
+Anonymous
+May 02, 2006
+I haven't looked at the TechTalkBlog stats for a
+few weeks now, due to my
+break, so let's take...
+Anonymous
+May 08, 2006
+TechTalkBlogs has been
+kicking around for a bit over 10 weeks now, infact for those of you keeping...
+Anonymous
+May 17, 2006
+Time to check in on the health of TechTalkBlogs. It's been alive 83
+days. Feb 24 was
+when I first...
+Anonymous
+May 24, 2006
+I
+might be at home sick but that's not going to stop me doing the update on TechTalkBlogs for the...
+Anonymous
+May 31, 2006
+We're getting close to 100 days of TechTalkBlogs. That's quite
+exciting.
+Let's do a quick health...
+Anonymous
+June 05, 2006
+Well, we past 100 days of TechTalkBlogs, and since today's
+date is so special (6/6/6 for
+those...
+Anonymous
+June 29, 2006
+We're at the end of financial year and TechTalkBlogs, has been around for
+126 days.
+I didn't do...
+Additional resources
+Last updated on
+2006-03-05

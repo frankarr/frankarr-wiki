@@ -1,0 +1,45 @@
+---
+title: "Licensing the 2007 Microsoft Office User Interface"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/licensing-the-2007-microsoft-office-user-interface"
+date: "2006-11-23"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+Licensing the 2007 Microsoft Office User Interface
+There had been some speculation about this in the local press
+SMH : Office offers to untie the ribbon
+Microsoft may freely license parts of its revolutionary new user interface for its Office 2007 software suite. On the eve of the Office release, the software giant's lawyers are wrestling with ways to protect their intellectual property in what they consider a major innovation, while avoiding a repeat of the costly and drawn-out legal wars it experienced in the early 1990s. The software giant has radically redesigned its user interface for the popular Word, Excel and PowerPoint programs to be released next week. Gone is the traditional "menu and taskbar" GUI (graphical user interface), replaced by a new feature dubbed the "ribbon", which melds the two.
+The definitive post is by Jensen Harris -
+Licensing the 2007 Microsoft Office User Interface
+More Information
+2007 Microsoft Office System User Interface Licensing web site
+User Interface Guidelines Preview
+Channel 9 video discussion with more about the UI and the UI license
+Press release and Q & A about the licensing announcement
+Frequently asked questions
+For ISVs this is great news. Build applications using the advanced features of the new Office User Interface
+Technorati tags:
+Office 2007
+,
+User Interface
+Comments
+Anonymous
+November 29, 2006
+One of the first things that happens when a new version of Office appears is that people start to use
+Anonymous
+December 08, 2006
+I finally was able to logon to my BlogBeat account this weekend, following a PEBKAC sitution. Normally,
+Anonymous
+December 31, 2006
+Here's something I havent featued before, the top 20 referrers to articles on my blog. I sense a theme
+Additional resources
+Last updated on
+2006-11-23

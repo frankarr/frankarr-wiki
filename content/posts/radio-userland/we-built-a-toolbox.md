@@ -1,0 +1,136 @@
+---
+title: "We Built A ToolBox"
+platform: "radio-userland"
+era: "microsoft"
+source_url: "http://radio-weblogs.com/0124955/2006/08/31.html#a1331"
+date: "2006-08-31"
+tags:
+  - "Family"
+  - "Family"
+  - "My Interests"
+  - "Family"
+  - "Family"
+  - "Random"
+  - "My Hobbies"
+---
+
+Thursday, 31 August 2006
+We Built A ToolBox
+We went along to Bunnings for the
+Dad and Kids Night.
+We came home with a
+special Father's Day Gift
+[listening to: Remember to Feel Real [Machine Shop Remix] [Mix] -
+Armor for Sleep
+]
+8:08:01 PM
+comment [
+]
+trackback [
+]
+G!
+
+Family
+Yumm, Cannoli
+We've finally found a good place for Cannoli in Sydney -
+Pasticceria Papa
+Pasticceria Papa
+145 Ramsay Street Haberfield
+www.pasticceriapapa.com.au
+Open:
+Sun-Thur 7am-10pm,
+Fri & Sat 7am-12 Midnight
+There is a common thread that runs through the local businesses of Haberfield, a timeless formula of quality, hard work, tradition and community. Each business, be it coffee or cake, has its own story, and remains faithful to its roots.
+Pasticceria Papa is perhaps Haberfields greatest example of this. Its Sicilian born owner Salvatore Papa migrated to Australia 17 years ago and for the last 13 years has been sharing with us his homemade recipes.
+Pasticceria Papa is a patisserie, bakery and a café. Its display cabinet is longer than the eye can see and filled with fresh cannoli, profiteroles, biscotti and more. It also sells savoury food like pizza, as well as gelato and large cakes.
+A world unto itself, Pasticceria Papa offers something genuinely unique. The atmosphere is always lively and bustling, and the quality of the food, consistently excellent. Perhaps this is why there is no better place for indulgences, however big or small.
+Yummmmmmmmmmmmmmmm
+[listening to: Wine Red [Tommie Sunshine's Brooklyn Fire Retouch] [Mix] -
+The Hush Sound
+]
+4:08:13 PM
+comment [
+]
+trackback [
+]
+G!
+
+Family
+
+My Interests
+Emma in Costume
+I went to see Emma perform in a play today. Isn't she cute!
+[listening to: Wine Red [Tommie Sunshine's Brooklyn Fire Retouch] [Mix] -
+The Hush Sound
+]
+3:55:16 PM
+comment [
+]
+trackback [
+]
+G!
+
+Family
+From the Mouth of babes
+Yesterday,
+while I was visiting Brice's classroom
+, I spotted the following on the class room notice board.
+I so wanted to grab an eraser......
+[listening to: Hey Now Now -
+Michael Franti
+]
+3:42:40 PM
+comment [
+]
+trackback [
+]
+G!
+
+Family
+
+Random
+news about upcoming Saints V Lions
+Some news in the lead up to the big game.
+Hamill to face Lions, and more game time
+The Age, Australia -
+14 hours ago
+ST KILDA forward Aaron Hamill trained solidly yesterday alongside fellow forwards Fraser Gehrig, Nick Riewoldt and Justin Koschitzke and looks certain to line up against the Brisbane Lions at the Gabba on Saturday night.
+Hamill set to tackle Lions
+AFL
+Saints star in doubt
+Courier Mail
+Hamill set to play, despite injury worry
+The Age
+AFL
+-
+Border Mail
+all 10 news articles »
+Voss keeps retirement decision quiet
+The Age, Australia -
+20 hours ago
+Brisbane Lions skipper Michael Voss may play his last AFL game against St Kilda at the Gabba on Saturday but he won't make it official until after the grand final.
+It's all in the timing
+AFL, Australia -
+22 hours ago
+Although St Kilda is yet to get on any great run this season, coach Grant Thomas is well aware it's all about timing your run heading into finals.
+Crackers' Rant
+sportal.com.au
+all 2 news articles »
+[listening to: Hey Now Now -
+Michael Franti
+]
+3:32:30 PM
+comment [
+]
+trackback [
+]
+G!
+
+My Hobbies
+© Copyright 
+     2006
+     Frank Arrigo.
+A Geek Microsoft Blogger
+Last update: 
+     1/09/2006; 9:29:30 AM
+     .

@@ -1,0 +1,80 @@
+---
+title: "Sinusitis returns - Change of plans ahead"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/sinusitis-returns-change-of-plans-ahead"
+date: "2007-02-11"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+Sinusitis returns - Change of plans ahead
+The last few days, I've been feeling really achy again. I went to see my local GP and confirmed that my
+Sinusitis flared up again.
+The last 2 days, I've been running a fever of 38 Â°C (that's 100.4 Â°F for my metric challenged friends).  I'm also on stronger
+antibiotics
+.
+So, I face a dilemma - do I cancel my session tomorrow at the
+Microsoft Unlimited Potential (UP) Community Conference
+or do I drag myself from my sick bed and present?
+My wife wants me to stay home. I am thinking to err on the side of caution and let the organisers know that I am sick.
+What would you do?
+Technorati tags:
+upconf2007
+,
+blogging
+,
+Frank Arrigo
+Comments
+Anonymous
+February 11, 2007
+My opinion... everyone of us will understand, and encourage you to stay home and treat your body well. :)
+Anonymous
+February 11, 2007
+STAY IN BED!  Reschedule.
+Anonymous
+February 11, 2007
+The comment has been removed
+Anonymous
+February 11, 2007
+Franky,
+Your health is one 1!
+Stay home...get well...then we can all see you again at TechEd :)
+Anonymous
+February 11, 2007
+Listen to your wife and stay at home! There will be plenty of conferences, but just the one Frank.
+Anonymous
+February 11, 2007
+Opps, no wonder no twitter updates from you lately.
+Knowing you it will be a shame if you can't go to the conference. But 104 Â°F is a lot of temperature. In my wisdom it would be best for everybody if you just relax. I don't see how you can be full of energy on the stage with that kind of temperature.
+Well there are many ways to convey the message at the conference and I am sure organizers there will be able to do that easily.
+Anonymous
+February 11, 2007
+On a purely selfish note - stay home, if its contagious the delegates wont want it.
+Sorry we will miss a quiet cup of tea with you and UncleNick.
+Get well
+Stay in touch.
+Fang
+Anonymous
+February 11, 2007
+Hey Frank, I know you got lots of goodness to share during the conference. But I reckon you should sit on this occasion.
+Hope you will get well soon, Franky.
+Anonymous
+February 11, 2007
+Hi Frank!
+We're currently doing our demo, except we decided to do it on your blog. heh heh. Everyone is sooo very sorry you're not well. But they also think I've done such a fabulous job you won't be asked to present ever again :)
+Admins taking over the world.
+:)
+Seriously get better soon, you owe me a huge latte for this one.
+Jill and all the delegates from the UP (approx 50 of them watching me write this!)
+Anonymous
+February 13, 2007
+I've been at home for the past few days dealing with my Sinusitis . Moira has been busy doing her daily
+Additional resources
+Last updated on
+2007-02-11

@@ -1,0 +1,76 @@
+---
+title: "Vista Screencasts by Long Zheng"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/vista-screencasts-by-long-zheng"
+date: "2006-06-14"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+Vista Screencasts by Long Zheng
+I got the following email recently
+From:
+long.zheng
+Sent: Tuesday, 13 June 2006 9:25 PM
+To: Frank Arrigo
+Subject: (frankarr - an aussie microsoft blogger) : Vidcast of Vista on M400 tablet
+Importance: High
+Hey Frank,
+My name's Long and I'm an aussie blogger.
+I just did a screencast of Windows Vista running on the Toshiba Portege M400 tablet PC. This is my second ever produced video, so I'm still getting into the whole video blogging business.
+There's a few segments focusing on different cool features, and one dedicated especially to the tablet.
+Check it out at
+https://www.istartedsomething.com/20060613/windows-vista-screencasts/
+Hope you find it interesting.
+Regards,
+Long
+I tried to have a look at the
+Vista screen casts
+yesterday,  but the site was a bit sluggish.
+Turns out
+Long
+had been on
+DIGG
+(606 Diggs as of writing this) and
+was on TechMeme
+all day too. But that's not all -
+ZDNET blogger Richard MacManus wrote an article about it too
+.
+They guy is only 18, at UNI
+and he's getting a bunch of attention!!! Check out his traffic stats from yesterday!
+He has more over at his blog
+I've never been on
+DIGG
+. Or on
+TechMeme
+.
+Anyways, I finally got a chance to watch the screen casts, and they are great.
+I used the
+Quicktime Alternative 1.70 codec pack
+, as I didn't have Quicktime installed.
+The screencasts have been mirrored all over the place, so here's a set of links to them
+https://www.istartedsomething.com.nyud.net:8080/uploads/aero.mov
+https://www.istartedsomething.com.nyud.net:8080/uploads/filecopy.mov
+https://www.istartedsomething.com.nyud.net:8080/uploads/guidedhelp.mov
+https://www.istartedsomething.com.nyud.net:8080/uploads/tablet.mov
+https://www.istartedsomething.com.nyud:net:8080/uploads/sidebar.mov
+https://www.istartedsomething.com.nyud.net:8080/uploads/search.mov
+https://www.istartedsomething.com.nyud.net:8080/uploads/media.mov
+Great work
+Long
+. We'll be watching you're career with interest.
+[ Currently Playing : Looking for a Wall - Smash Mouth - Get the Picture? (03:18) ]
+Comments
+Anonymous
+July 30, 2006
+For the past few years, we have run a Student Day during Tech.Ed. We've held
+this on the day before...
+Additional resources
+Last updated on
+2006-06-14

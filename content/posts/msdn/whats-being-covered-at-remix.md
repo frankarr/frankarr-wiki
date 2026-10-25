@@ -1,0 +1,70 @@
+---
+title: "What's being covered at ReMix ?"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/whats-being-covered-at-remix"
+date: "2007-05-13"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+What's being covered at ReMix ?
+I spotted an email floating around about the two tracks at
+ReMix Australia.
+Design Track
+Australian Launch of Microsoft Expression Studio
+Build your own video site. Bringing together Expression, ASP .NET AJAX, Silverlight and Media Server to build your own video site.
+Interactive advertising through Media Centre
+âSecret Case Studyâ
+Panel: Next Design
+Vista Gadgets
+Developer/Designer workflow with Expression
+Panel: Designers are from Venus, Developers are from Mars.
+Wireframing and prototyping in Expression Blend
+Designing with Microsoft Expression Web: Today and Tomorrow
+Keynote Address: Australian Interactive Media Industry Association(AIMIA) National Executive, Guy Gagney
+Developer Track
+Australian Launch of Microsoft Expression Studio
+Building Silverlight Applications with .NET (Part One)
+Go Deep with AJAX
+Building Rich Web Experiences with Silverlight and JavaScript
+WPF Fundamentals: Developing Rich Interactive Applications
+Windows Live Mashups
+Building a Real, Money-Making Business Application Using Virtual Earth
+Building Rich Web Experiences with Silverlight and JavaScript Panel: Designers are from Venus, Developers are from Mars.
+Extending the reach of your applications
+Whatâs new in Visual Studio Orcas for Web Developers
+Technorati tags:
+auremix07
+,
+Microsoft Australia
+,
+Mix07
+[
+Current Listening to
+:
+Visionary dream (Georgia)
+by
+Sopho
+from
+Eurovision Song Contest 2007
+]
+Comments
+Anonymous
+May 14, 2007
+PingBack from
+http://bernardoh.wordpress.com/2007/05/15/au-remix-07-our-first-silverlight-video/
+Anonymous
+May 29, 2007
+I spoke to Noelle Waugh from B &amp; T today. It was the first time I had spoken to anyone from B &amp;
+Anonymous
+May 29, 2007
+I spoke to Noelle Waugh from B &amp; T today. It was the first time I had spoken to anyone from B &amp;
+Additional resources
+Last updated on
+2007-05-13

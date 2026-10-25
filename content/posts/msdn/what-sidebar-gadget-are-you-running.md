@@ -1,0 +1,73 @@
+---
+title: "What Sidebar Gadget Are You Running?"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/what-sidebar-gadget-are-you-running"
+date: "2006-11-21"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+What Sidebar Gadget Are You Running?
+I was asked what gadgets I had installed on my Sidebar.
+IMHO, a perfect response to put in a blog post.
+Well, here's a snap shot of the installed gadgets on one of my machines.
+On my sidebar, I have the following running
+Feedr
+date v6
+Digital Clock
+Weather (standard Gadget)
+Wifi Gadget
+Battery Information
+Windows Vista Rewards (an internal one)
+ABC Radio (a sample we knocked up)
+Multi Meter
+Feed Headlines (standard Gadget)
+Stocks (standard Gadget)
+So, what gadgets are you running in your sidebar?
+Technorati tags:
+Windows Vista
+,
+Sidebar
+,
+Gadgets
+[
+Current Listening to
+:
+Sleep
+by
+My Chemical Romance
+from
+The Black Parade
+]
+Comments
+Anonymous
+November 21, 2006
+Is the ABC Radio one ever going to be released. Jeff teased us with it at the last BIG meeting that we had. he didn't know whether it would be or not... especially with the Cricket and AFL broadcasts, this would be fantastic!!!
+Anonymous
+November 21, 2006
+Ah, now this is sweet - especially for such a sidebar freak such as me . Lester's Flickr Slideshow gadget
+Anonymous
+November 21, 2006
+http://gallery.live.com/liveitemdetail.aspx?li=ef2ae17c-b57b-46ea-acea-52900c3d5bb7&l=1
+Anonymous
+November 21, 2006
+I'll add this one too
+http://gallery.live.com/liveItemDetail.aspx?li=a7a1a635-5acb-479f-a5fd-01a50e38f437&l=1
+Anonymous
+November 28, 2006
+Is it me or is it a common problem that all these gadgets are not very useful. I do use sidebar cause I am an early adopter, but I still can't see a gadget that I would really NEED
+Anonymous
+December 08, 2006
+I finally was able to logon to my BlogBeat account this weekend, following a PEBKAC sitution. Normally,
+Anonymous
+June 06, 2008
+I was asked what gadgets I had installed on my Sidebar. IMHO, a perfect response to put in a blog post. Well, here's a snap shot of the installed gadgets on one of my machines. On my sidebar, I have the following running Feedr date v6 Digital Clock Weathe
+Additional resources
+Last updated on
+2006-11-21

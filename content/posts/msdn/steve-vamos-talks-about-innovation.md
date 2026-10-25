@@ -1,0 +1,45 @@
+---
+title: "Steve Vamos talks about Innovation"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/steve-vamos-talks-about-innovation"
+date: "2006-11-23"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+Steve Vamos talks about Innovation
+Spotted this piece online, penned by
+Microsoft Australia CEO, Steve Vamos
+A new approach to innovation depends on much stronger collaboration
+.
+Here's a chunk of the piece:
+Developments in information and communications technology over the past ten to fifteen years in particular, have connected people in new ways and made the world a much smaller place.
+Whilst most of us have come to terms with using email, browsing the internet for information and wrapping our thumbs around a mobile phone to send a text message, many of the consequences of being part of a more "connected" global economy are yet to be fully embraced. One such area is the importance of our capacity to innovate to future economic prosperity and social well being.
+Innovation is creating and doing new things or finding new and better ways to develop or provide products, services and processes.
+Innovation is an important capability if we are to ensure Australia maximises the knowledge and contribution of our most valuable resource - our people - to economic and social progress and prosperity.
+At a time when demographics suggest that our work force will remain constrained, a commitment to innovation means a commitment to ensuring every person is developed and enabled to contribute more in their workplace, improving productivity as a result. This is important because as we look to the future our economic growth and living standards will depend very much on our capacity, as a nation, to increase productivity.
+Innovation is also critical to our relative competitiveness in a global economy where other nations are investing heavily to take advantage of the potential for knowledge and relationships people create to have economic impact and be scaled to produce significant value.
+Australia's innovation performance relies on;
+Leaders and managers to creating the right environment for innovation.
+People at all levels collaborating within and between organisations.
+Bridging "silos" inside and between organisations including the public and private sector.
+Building skills, knowledge and a work place culture that support innovation.
+The right public policy settings to encourage innovation by business and the research and education sectors
+Maybe it's time I start bugging Steve again to start a blog.
+Technorati tags:
+Steve Vamos
+,
+Innovation
+Comments
+Anonymous
+December 20, 2006
+The comment has been removed
+Additional resources
+Last updated on
+2006-11-23

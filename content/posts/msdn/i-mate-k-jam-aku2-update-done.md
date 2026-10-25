@@ -1,0 +1,147 @@
+---
+title: "I-Mate K-Jam AKU2 Update : Done!"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/i-mate-k-jam-aku2-update-done"
+date: "2006-03-10"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+I-Mate K-Jam AKU2 Update : Done!
+For the
+past week,
+I've
+been reading about the I-Mate K-Jam AKU2 update
+, and I have been itching to
+apply
+the update
+to
+*
+MY
+*
+little K-Jam
+.
+Today, I had a meeting cancel on me, so I scored some bonus time, in which to
+make it so!
+I
+grabbed the the
+new
+ROM
+which includes
+AKU2 with
+Direct Push E-mail
+from
+Club
+i-mate
+and ran the update.
+I am now running
+the updated
+K-Jam
+and it feels so much better. It's snappier.  The
+Direct Push E-mail
+is really cool
+too.
+Time now to go
+re-install
+some of my favorite apps
+-
+Egress
+,
+Pocket Sudoku
+,
+King Sol
+and
+Voice
+Command
+[ Currently Playing : One Piece at
+a Time - Johnny Cash - The Legend of Johnny Cash (04:02) ]
+Comments
+Anonymous
+March 11, 2006
+The comment has been removed
+Anonymous
+March 12, 2006
+The comment has been removed
+Anonymous
+March 12, 2006
+The comment has been removed
+Anonymous
+March 12, 2006
+One really exciting side benefit of the AKU2 Update&amp;nbsp;has been seeing ActiveSync over Bluetooth actually...
+Anonymous
+March 13, 2006
+Frank, glad it's working for ya. Very satisfying when something you want/need actually works. Personally I've no need for push email and have had AS sync on BT for a while (when I want it).
+However I'm still in the dark as to whether WM5 will auto-answer an incoming call on a BT haedset WITHOUT pressing a button. (ref:
+http://blogs.msdn.com/frankarr/archive/2006/01/17/513622.aspx#515138
+)
+Dave
+Anonymous
+March 15, 2006
+Hey Dave
+I have good news now
+Following my update to AKU2, I have subsedquently re-paired my bt headset, re-installed voice command
+AND
+I have set the phone to auto pickup after 1 rin
+AND
+It answers
+AND
+It is picked up by my Bluetooth headset
+No buttons were pressed to answer the call
+w00t!!!!
+Anonymous
+March 23, 2006
+None of our K-JAMs (upgraded of course) will do Direct Push with our Exchange server, but our SP5 will! The K-JAMs do not offer the 'As Items Arrive' option in ActiveSync but the SP5 does. What could be wrong?
+Anonymous
+March 23, 2006
+David
+that sounds weird - are you sure they are upgraded?
+have you checked in thes comms manager app and made sure that direct push is activated
+Anonymous
+April 03, 2006
+I'm still exploring the data provided by BlogBeat. Yes, I have subscribed to the service,
+as I...
+Anonymous
+April 10, 2006
+Last
+week I looked at my top 5 posts&amp;nbsp;as reported by BlogBeat
+Now, I've expanded this to the...
+Anonymous
+May 03, 2006
+I've been looking at registry tweaks for the K-Jam and found a wonderful one
+recently.
+Just add...
+Anonymous
+August 03, 2006
+My K-JAM
+had been performing poorly lately. Each day I would get some weird intermittent
+problem....
+Anonymous
+August 31, 2006
+As I did last month, I looked back on BlogBeat for my top 20 posts for the month of August. Not surprisingly...
+Anonymous
+October 20, 2006
+I've had my iMate K-JAM for 12 months now. I've updated the ROM a few times during the year I've got
+Anonymous
+November 02, 2006
+As I do each month , let's look back on BlogBeat for my top 20 posts for the month of October . October
+Anonymous
+December 08, 2006
+I finally was able to logon to my BlogBeat account this weekend, following a PEBKAC sitution. Normally,
+Anonymous
+December 31, 2006
+As is usual for this time of the year, we look back a bit. Here's my top 20 posts for December 2006 .
+Anonymous
+December 31, 2006
+As is usual for this time of the year, we look back a bit. Here's my top 20 posts for December 2006 .
+Anonymous
+February 01, 2007
+TaDa!, top 20 posts for January 2007 . Old posts continue to be popular. My Elfamorphosis Windows Vista
+Additional resources
+Last updated on
+2006-03-10

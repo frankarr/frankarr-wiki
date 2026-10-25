@@ -1,0 +1,140 @@
+---
+title: "New word - colorectal"
+platform: "radio-userland"
+era: "microsoft"
+source_url: "http://radio-weblogs.com/0124955/2005/01/14.html#a765"
+date: "2005-01-14"
+tags:
+  - "Geek"
+  - "Health"
+  - "My Interests"
+  - "Family"
+  - "Health"
+---
+
+Friday, 14 January 2005
+New word - colorectal
+I learnt a new word
+while I was in hospital recently
+-
+colorectal
+.
+I had never heard it before, but I will be hearing a lot more of it from now on.
+I did  bit of poking around the web and found that there is a
+Society of Colorectal Surgeons in Australia
+. A society! How many of them are there??
+These guys have a
+website
+and they even have a cute logo for their society - which I have produced here on the right.
+The logo is a scalpel surrounded by these little brown things winding up (or is it down?) the scalpel. Are the brown things meant to represent anything?? Like maybe little spherical pellets of ..... (I realy cant say that can I?). They do on their website as they describe
+diverticular disease
+Anyway, I am now learning way to much about this particular
+subject
+. Way much much more than I ever expected.
+[listening to: Can't Get Enough of You Baby -
+Smash Mouth
+]
+1:15:59 PM
+comment [
+]
+trackback [
+]
+G!
+
+Geek
+
+Health
+Books I read while I was in Hospital
+While
+I was in hospital recently
+, I had the pleasure to read a few books. There's always an upside!
+I finally started
+AND
+finished
+State of Fear
+by
+Michael Crichton
+, as well as I got to read two of the books from the
+Covert-ONE series
+by
+Robert Lodlum
+-
+The Hade's Factor
+and
+The Cassandra Compact
+.
+State of Fear
+was excellent - a thriller regarding a global conspiracy (is there anyother kind) and the threat of global warming. The tsunami reference was chilling. It was a LONG read but really enjoyable.
+The Hade's Factor
+was the first of a series of books that
+Robert Lodlum
+has been producing. It features a classic hero Jon Smith who gets embroilled in a global conspiracy (really? another one) regarding a killer virus outbreak. I liked the characters that popped up in the story, such as Marty Zellerbach, the computer genious who has
+Asperger's Syndrome
+. Hmmm, now I know why
+Antony
+suggested I read this book.
+The Cassandra Compact
+is the second of the series and introduces us to the secretive Covert-ONE organisation, while pitting our hero in a global conspiracy (again?) regarding an outbreak of smllpox and the use of biological weapons. Hmmmm.
+Actually, I can't wait to read the other's in the series as they were a good read. I found it a good way to pass the time while I was lying in bed.
+[listening to: Pet Names -
+Smash Mouth
+]
+11:43:00 AM
+comment [
+]
+trackback [
+]
+G!
+
+My Interests
+Back from hospital *AGAIN*
+Yesterday
+I came out of hospital
+, after spending 6 nights connected to a IV for the treatmeant of
+my recuriung problem
+. Yes,
+I was admitted back in October 2004
+for the same problem. You think the
+nerd god king
+would learn by now.
+During my stay I took
+some photos
+with my "illegally smuggled into the room"
+XDA II
+. The funniest one was the
+Windows XP Channel I found when I was swapping channels on the inroom telly
+. How about the
+dodgy warning on the equiment
+and everybody's favorite the
+"NIL BY MOUTH" sign
+.
+How many of you have had an IV? It's not pleasant. They stick in this thing called a
+cannula
+, which had a really long pointy needle, into a vein and then they add tubes, tape and god knows what else to complete the system. I had 4 different cannulas during my 6 night stay, as well as 4 failed attempts. My arms look like an Iraqi battlefield. The doctor who botched it all, who shall remain nameless but I know who you are mate, made a real mess of it all. I finally met the hospital's IV maestro who sole job is to look after these IV installations. He was the Jedi Master of
+intravenous cannulas. I never felt the needle go in, and in one fell swope he plugged me, taped me and was gone.
+During my stay I noticed so many inefficiencies in the day to day business of treating patients - technology could really a HUGE difference and I am sure there are medical facilities out there using lots of great stuff. I hope NOT to stay in any of them in the near future.
+Anyways, I am now out of hospital and sitting at home recouperating. I'm sitting in my bedroom, blogging,
+listening to music
+and the
+odd podcasts
+, drinking my 2 litres of water a day and looking forward to my next high fibre meal.
+[listening to: Walking Contradiction -
+Green Day
+]
+10:42:51 AM
+comment [
+]
+trackback [
+]
+G!
+
+Family
+
+Health
+© Copyright 
+     2006
+     Frank Arrigo.
+A Geek Microsoft Blogger
+Last update: 
+     8/07/2006; 10:19:47 AM
+     .

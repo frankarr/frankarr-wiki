@@ -1,0 +1,106 @@
+---
+title: "Quiz: My Hillbilly Name Is..."
+platform: "radio-userland"
+era: "microsoft"
+source_url: "http://radio-weblogs.com/0124955/2006/02/03.html#a981"
+date: "2006-02-03"
+tags:
+  - "Random"
+  - "Random"
+  - "talking boony"
+  - "Family"
+  - "Geek"
+  - "TV"
+  - "Family"
+  - "Geek"
+  - "TV"
+---
+
+Friday, 3 February 2006
+Quiz: My Hillbilly Name Is...
+It's been far too long since I did one of this things
+Your Hillbilly Name Is...
+Buster Farmer
+Hillbilly Name Generator
+11:07:16 PM
+comment [
+]
+trackback [
+]
+G!
+
+Random
+An Appeal from Michael Moore
+Michael Moore is making a new movie. Looking foward to see what he cooks up.
+From:
+maillist@michaelmoore.com
+[
+mailto:maillist@michaelmoore.com
+]
+Sent:
+Friday, 3 February 2006 8:50 PM
+To:
+Frank Arrigo
+Subject:
+Send Me Your Health Care Horror Stories... An Appeal from Michael Moore
+2/3/06
+Friends,
+How would you like to be in my next movie? I know you've probably heard I'm making a documentary about the health care industry (but the HMOs don't know this, so don't tell them -- they think I'm making a romantic comedy).
+If you've followed my work over the years, you know that I keep a pretty low profile while I'm making my movies. I don't give interviews, I don't go on TV and I don't defrost my refrigerator. I do keep my website updated on a daily basis (there's been something like 4,000,000 visitors just this week alone) and the rest of the time I'm... well, I can't tell you what I'm doing, but you can pretty much guess. It gets harder and harder sneaking into corporate headquarters, but I've found that just dying my hair black and wearing a skort really helps.
+Back to my invitation to be in my movie. Have you ever found yourself getting ready to file for bankruptcy because you can't pay your kid's hospital bill, and then you say to yourself, "Boy, I sure would like to be in Michael Moore's health care movie!"?
+Or, after being turned down for the third time by your HMO for an operation they should be paying for, do you ever think to yourself, "Now THIS travesty should be in that 'Sicko' movie!"?
+Or maybe you've just been told that your father is going to have to just, well, die because he can't afford the drugs he needs to get better -- and it's then that you say, "Damn, what did I do with Michael Moore's home number?!"
+OK, here's your chance. As you can imagine, we've got the goods on these crooks. All we need now is to put a few of you in the movie and let the world see what the greatest country ever in the history of the universe does to its own people, simply because they have the misfortune of getting sick. Because getting sick, unless you are rich, is a crime -- a crime for which you must pay, sometimes with your own life.
+About four hundred years from now, historians will look back at us like we were some sort of barbarians, but for now we're just the laughing stock of the Western world.
+So, if you'd like me to know what you've been through with your insurance company, or what it's been like to have no insurance at all, or how the hospitals and doctors wouldn't treat you (or if they did, how they sent you into poverty trying to pay their crazy bills) ...if you have been abused in any way by this sick, greedy, grubby system and it has caused you or your loved ones great sorrow and pain, let me know.
+Send me a short, factual account of what has happened to you -- and what IS happening to you right now if you have been unable to get the health care you need. Send it to
+michael@michaelmoore.com
+. I will read every single one of them (even if I can't respond to or help everyone, I will be able to bring to light a few of your stories).
+Thank you in advance for sharing them with me and trusting me to try and do something about a very corrupt system that simply has to go.
+Oh, and if you happen to work for an HMO or a pharmaceutical company or a profit-making hospital and you have simply seen too much abuse of your fellow human beings and can't take it any longer -- and you would like the truth to be told -- please write me at
+michael@michaelmoore.com
+. I will protect your privacy and I will tell the world what you are unable to tell. I am looking for a few heroes with a conscience. I know you are out there.
+Thank you, all of you, for your help and your continued support through the years. I promise you that with "Sicko" we will do our best to give you not only a great movie, but a chance to bring down this evil empire, once and for all.
+In the meantime, stay well. I hear fruits and vegetables help.
+Yours,
+Michael Moore
+michael@michaelmoore.com
+www.michaelmoore.com
+10:36:36 PM
+comment [
+]
+trackback [
+]
+G!
+
+Random
+Talking Boony : VB Series Game 10
+I took
+talking boony
+to work again today. I missed his little smile and his witty comments.
+I also did some surfing around and found some amazing community research that had been posted, including the
+Facts of Boonie
+and the
+Reverse Boonjaneering
+project. unreal.
+Here's what I recorded today:
+time (aest)
+Talking Boony Said...
+1:30pm
+get me a vb the crickets about to start
+2:15pm
+anyone seen my thongs
+3:30pm
+have a swing mate
+4:55pm
+when's the drinks break
+6:45pm
+grab a vb the cricket's about to start
+7:15pm
+where's my beer
+7:45pm
+he's seeing them like watermelons
+8:00pm
+is it time for a beer yet
+9:00pm
+today's code word is

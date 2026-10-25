@@ -1,0 +1,138 @@
+---
+title: "Untitled"
+platform: "radio-userland"
+era: "microsoft"
+source_url: "http://radio-weblogs.com/0124955/2003/11/26.html#a225"
+date: "2003-11-26"
+tags:
+  - "Random"
+  - "My Organization"
+  - "My Interests"
+---
+
+Wednesday, 26 November 2003
+Australia is killing its koalas, scientists warn government
+Australia is killing its koalas, scientists warn government (AFP)
+. AFP - Australia is killing off its koalas at the rate of 20,000 a year through land-clearing, more than 400 scientists warned in an appeal to its political leaders. [
+Yahoo! News - Reader Ratings
+]
+That is a lot of Koalas
+[listening to: Polka Power! -
+Weird Al Yankovic
+]
+8:21:29 AM
+comment [
+]
+trackback [
+]
+G!
+
+Random
+Partner event - end of day
+Back after a busy day at the
+Microsoft Australia & New Zealand Partner Conference
+.
+My job was to 'swan around' and talk to the partners and sponsors in the
+exhibition area
+. Yes, I can do that!
+I spoke to lots of people from companies, such as
+computercorp
+,
+eword development
+,
+informex
+,
+ems
+,
+ipex
+,
+competesolutions
+,
+thinprint
+,
+infotronics
+,
+open systems technology
+,
+pay global
+,
+dexterra
+,
+wirelessip
+,
+avanade
+,
+data3
+,
+volante systems
+and
+Magic Macros
+- and these are just the guys who I grab business cards from.
+A funny story -- I met a guy who had saved an SMS that I had sent him over 12 months ago. He was saving it for the day he would meet me, just to show me that he had received the message. My wife tells me that this is weird. I think it's kinda sweet. I wonder how many other people have saved an SMS that I have sent them. I've got other stories, but now's not the time.
+I then presented a
+session
+(PRTCM02) on the
+Microsoft ISV partner program
+. It appeared to be well attended and I got a bunch of challenging questions from the floor. I think I managed to duck them all :)
+Prior to dinner, we hosted the ISVs who are attending the conference to a pre dinner (obviously) cocktail party. we even had a 4 string quartet! As one of the folks at the event said, it was quite appropriate for the evangelist to be having an event at the chapel!
+We finished the night with dinner and a
+terrific comedy set
+by
+Vince Sorrenti
+.
+Vince
+is a very funny guy with a
+slick routine
+.
+I'm not going to post a transcript, as I'm sure that will contravene heaps of copyright laws!  but take me word for it - he was funny.
+[listening to: Mambo Italiano -
+Rosemary Clooney
+]
+1:35:25 AM
+comment [
+]
+trackback [
+]
+G!
+
+My Organization
+The Xbox Celebrity PlayOff
+The
+Xbox Celebrity PlayOff
+event at
+Westfield
+Miranda, Sydney on Thursday November 27th 2003
+The spectacular Xbox Experience has been touring Westfield centres in QLD &  VIC and is kicking off the NSW leg of the tour at Westfield Miranda this week. Get down to Westfield and kick back playing one of the hot new games like Project Gotham Racing 2, Amped 2 and Top Spin; try out your karaoke style on the new Xbox Music Mixer; show the rest of the world that Aussies do still have that winning edge on Xbox Live; or play against celebrities at the launch event on Thursday November 27th from 5.00pm  6.30pm.   MTV will be there all day filming the action for various MTV shows.
+The hi-tech set up is an Australian first, featuring Xbox consoles and chill-out areas, Xbox challenges, playoffs, giveaways, prizes, and a state of the art Dynascan 360° screen.   The Dynascan is the only one in the country and is a massive 15ft high circular TV.
+If you cant make it to Miranda for the launch event you can still catch the tour at other
+Sydney locations
+on the dates below.  Feel free to bring your family or friends  great opportunity for them to see Xbox Live in action!
+NSW
+Miranda
+Parramatta
+Burwood
+Chatswood
+Eastgardens
+Mon 24 Nov - Sat 6 Dec
+Tue 9 Dec - Tue 23 Dec
+Sat 27 Dec - Sat 3 Jan
+Tue 6 Jan - Sat 17 Jan
+Tue 20 Jan - 31 Jan
+[listening to: Love My Way -
+The Psychedelic Furs
+]
+12:34:59 AM
+comment [
+]
+trackback [
+]
+G!
+
+My Interests
+© Copyright 
+     2006
+     Frank Arrigo.
+A Geek Microsoft Blogger
+Last update: 
+     8/07/2006; 9:52:12 AM
+     .

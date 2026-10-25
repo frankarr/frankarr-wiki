@@ -1,0 +1,38 @@
+---
+title: "Is the Well Dry? Not Yet!"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/is-the-well-dry-not-yet"
+date: "2007-01-10"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+Is the Well Dry? Not Yet!
+My posting frequency
+is down at the moment - other things are taking my attention at the moment.
+In the meantime - some more stuff about
+The Vanishing Point
+CNN: Online game mystery revealed
+A mysterious online countdown. USB drives containing cipher keys. Notes and videos from a woman who calls herself Loki. Bloggers' reports of extravagant gifts, marked with a return address for Microsoft's headquarters. And all trails leading to a Web site for something called Vanishing Point. After weeks of sifting through clues, bloggers, gamers and technology enthusiasts got some relief this week when Microsoft Corp. revealed that Vanishing Point is part of a viral-marketing campaign for Vista, the new PC operating system set for a consumer launch later this month.
+Microsoft's Vista launch promoted with space ride prize
+LAS VEGAS, Nevada - A Microsoft online puzzle game launched this week is promising to send the winner on a rocket ride into orbit around the Earth. The Washington-based software giant has teamed with computer chip maker Advanced Micro Devices to promote the new Vista operating system with Vanishing Point, a "large-scale online and offline collaborative puzzle game." Microsoft is to launch the home version of Vista in US on January 30. The home version also is expected to be launched in Australia in January.
+Technorati tags:
+Blogging
+,
+Vanishing Point Game
+Comments
+Anonymous
+January 10, 2007
+I feel your pain but on a somewhat smaller scale. I have completed one of my attention-hogging tasks. we have launched our WSS 3.0 Intranet as of today.
+Check out the Post for more details:
+http://chapmans.spaces.live.com/blog/cns
+!291E3B86A03ABC84!568.entry
+Additional resources
+Last updated on
+2007-01-10

@@ -1,0 +1,78 @@
+---
+title: "How to Pitch Windows Vista & Office 2007 to GenY"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/how-to-pitch-windows-vista-office-2007-to-geny"
+date: "2006-09-04"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+How to Pitch Windows Vista & Office 2007 to GenY
+Today I had the opportunity to sit and listen to presentations from 5 teams of
+Marketing students
+from
+UNSW
+, (with support from their lecturer
+Mark Uncles
+.)
+The brief was "How to market Vista and Office to the youth market" and the teams were
+(winner) Team Zeitgeist
+(runner up) Team Underpaid Super Heros
+(runner up) Team Chal
+Team Impact
+Team WiFi
+It was great to see these 'future marketers' tackle
+Gen-Y
+and come up ideas and strategies to appeal to this group of consumers.
+There were some great ideas, some wacky ideas, some realistic things and some things that would cost a lof of money to implement. But most importantly, they were all ideas from members of
+Gen-Y
+for
+Gen-Y
+.
+A couple of the teams proposed online 'viral' compaigns which reminded me of
+Long Zheng's recent How To Sell Vista post
+.
+Another common theme was making Vista available for download using Bittorrent. Now, this reminded me of the ill-fated
+Vista Torrent
+site, which was set up by Chris Pirillo but then shut down pretty quickly.
+The runner's-up got XBOX games and the winners got an XBOX 360 console each, and I reckon the experiece they had in working on this and pitching to Microsoft has been invaluable.
+Anyways thanks guys and good luck with the rest of your studies. Looking forward to seeing you unleased into the real world soon.
+[
+Current Listening to
+:
+Alphabet St.
+-
+Prince
+]
+Comments
+Anonymous
+September 03, 2006
+Are you sure you watched my vid? :P
+I'm pretty sure it wasn't "viral".
+Anonymous
+September 03, 2006
+Are you sure you watched my vid? :P
+I'm pretty sure it wasn't "viral".
+Anonymous
+September 03, 2006
+ive watched it.
+santa is so hip
+you've gotten 17 diggs
+remember, viral doesnt mean good.
+Anonymous
+June 09, 2009
+PingBack from
+http://quickdietsite.info/story.php?id=15043
+Anonymous
+June 17, 2009
+PingBack from
+http://thebasketballhoop.info/story.php?id=3660
+Additional resources
+Last updated on
+2006-09-04

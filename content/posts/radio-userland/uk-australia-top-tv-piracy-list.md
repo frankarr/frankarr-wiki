@@ -1,0 +1,56 @@
+---
+title: "UK, Australia top TV piracy list"
+platform: "radio-userland"
+era: "microsoft"
+source_url: "http://radio-weblogs.com/0124955/2005/02/18.html#a791"
+date: "2005-02-18"
+tags:
+  - "TV"
+---
+
+Friday, 18 February 2005
+UK, Australia top TV piracy list
+I spotted this in
+Australian IT
+today. Hmmmmmmmm.
+UK, Australia top TV piracy list
+AUSTRALIA and Britain have been revealed as the world's biggest markets for pirate TV downloads.
+The trend is being driven by tech-savvy fans who are unwilling to wait for popular US shows such as 24 and Desperate Housewives.
+Australia ranked as second largest downloader of TV programs after Britain in a study of the phenomenon by UK technology consultancy Envisional. The US was in third position.
+According to Envisional, Britain accounts for about one-fifth of TV downloads through file-sharing networks such as BitTorrent and eDonkey.
+"Because there's such a demand for US TV, the UK is going to be the main downloader," Envisional research consultant David Price said.
+Popular US television shows such as The West Wing, The Sopranos and Friends usually air in Britain and Australia months after they are broadcast in the United States. For impatient fans, the internet offers bootleg, advertisement-free programs that can be downloaded in a few hours over a high-speed connection.
+Episodes of the espionage drama 24 show up on the popular file-trading network BitTorrent within minutes after they air in the US, according to Envisional, and a typical episode is downloaded by about 100,000 users.
+The company said that 24 is the most pirated show online, with The Simpsons, The OC and a host of sci-fi programs including Stargate SG-1 and Enterprise also popular.
+UK broadcasters Sky and Channel 4, which air large blocks of US shows, say they are monitoring the growing popularity of online TV downloads.
+If the situation worsens, it may result in lower prices paid by broadcasters for shows such as the Friends spin-off Joey, which went to the UK's Channel Five after an intense bidding war.
+For the moment no one in the UK or Australian television sectors will admit to losing any sleep over TV downloads.
+"Unless you're a pretty big cybergeek, people are generally happy to watch it on TV," said an executive at one UK broadcaster who asked to remain anonymous.
+Nevertheless, Hollywood is not standing by idly. Fearful of a repeat of the rampant downloading that crippled the music industry, the Motion Picture Association of America (MPAA) has forced the closure of several sites that provide the links needed to download movies and television shows.
+Lawsuits are also being used.
+When the MPAA shut down a site called LokiTorrent last week, they seized reams of data including logs of user data that could enable legal action against individual users.
+"I'm not sure if the MPAA are going to follow that route," Mr Price said:
+"The MPAA have found a very worthwhile technique, which is to go after the tracker sites and shut those down, which means the users don't have anywhere to go to get what they need."
+But there is little evidence that Hollywood's counter-offensive has had any effect, according to web analysis firm CacheLogic, which estimates that BitTorrent accounts for a staggering one-third of all internet traffic.
+"We've seen very little change, and in some cases we've actually seen an increase," CacheLogic chief technology officer Andrew Parker said.
+"The MPAA has had no impact."
+Reuters
+AAP
+[listening to: Don't Let the Man Get You Down -
+Fat Boy Slim
+]
+7:48:09 PM
+comment [
+]
+trackback [
+]
+G!
+
+TV
+© Copyright 
+     2006
+     Frank Arrigo.
+A Geek Microsoft Blogger
+Last update: 
+     8/07/2006; 10:21:12 AM
+     .

@@ -1,0 +1,84 @@
+---
+title: "MSDN Flash Bumper Editon : It's all about Tech.Ed"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/msdn-flash-bumper-editon-its-all-about-tech-ed"
+date: "2005-08-04"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+MSDN Flash Bumper Editon : It's all about Tech.Ed
+The next edition of the MSDN Flash is due real soon now. It's a bumber edition, revealing lots of info about
+Tech.Ed 2005
+, including the
+special rates for MSDN Connection member or MSDN Subscriptions ($600 off!!)
+, but I wanted to hilight some of the social activities.
+Welcome Party: Powered by Xbox - Tuesday 30 August
+Soak in the Xbox buzz at the official Tech.Ed Welcome Party. This is your chance to mingle with the exhibitors, rub shoulders with Xbox characters, watch a show or demo and race a car. Take on
+Dean Loaney, Australian Halo 2 champ
+, in the ultimate Frag Fest. I played Dean this week and he whipped my butt.
+Experts Forum - Wednesday 31 August
+A chance to speak with our keynote speakers one-on-one? Meet with industry experts, exhibitors and other notable personalities at the Tech.Ed Experts Forum. Come and mingle socially, or start a debate with an expert in a specific field, as you enjoy drinks and a bite to eat.
+Tech.Ed 2005 Party - Thursday 1 September
+A night out at
+Warner Bros Movie World
+. A BIG night of food, drinks, rides and live entertainment awaits. Geeks, rollercoasters and booze - what a combination
+What are you waiting for -
+register now
+Technorati Tag :
+TechEdAU2005
+TechEdAU
+[ Currently Playing : Lebanese Blonde - Thievery Corporation - Garden State (04:47) ]
+Comments
+Anonymous
+August 03, 2005
+I was asked to give my top 5 sessions to attend at this Tech.Ed
+2005, for inclusion in the upcoming...
+Anonymous
+August 03, 2005
+I was asked to give my top 5 sessions to attend at this Tech.Ed 2005, for inclusion in the upcoming MSDN...
+Anonymous
+August 19, 2005
+I was asked to give my top 5 sessions to attend at this Tech.Ed 2005, for inclusion in the upcoming MSDN...
+Anonymous
+August 30, 2005
+Tuesday was Student Day
+at Tech.Ed. We had buses deliver students from QUT, UQ, KHS, Griffith's ...
+Anonymous
+August 30, 2005
+Tuesday was Student Day at Tech.Ed. We had buses deliver students from QUT, UQ, KHS, Griffith's University,...
+Anonymous
+August 30, 2005
+Tuesday was Student Day at Tech.Ed. We had buses deliver students from QUT, UQ, KHS, Griffith's University,...
+Anonymous
+September 01, 2005
+Thursday at Tech.Ed was booth day.
+I spent the whole day manning the booth out on the exhibition...
+Anonymous
+September 01, 2005
+Thursday at Tech.Ed was booth day.
+I spent the whole day manning the booth out on the exhibition floor....
+Anonymous
+March 24, 2008
+The comment has been removed
+Anonymous
+March 27, 2008
+The comment has been removed
+Anonymous
+April 04, 2008
+The comment has been removed
+Anonymous
+April 06, 2008
+The comment has been removed
+Anonymous
+June 11, 2009
+The comment has been removed
+Additional resources
+Last updated on
+2005-08-04

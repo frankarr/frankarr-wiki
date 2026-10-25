@@ -1,0 +1,78 @@
+---
+title: "Behind the Scenes of the BillG Breakfast"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/behind-the-scenes-of-the-billg-breakfast"
+date: "2004-07-01"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+Behind the Scenes of the BillG Breakfast
+Hopefully this wont be a
+CLM
+, but I thought I would share some of the experience of being involved in the recent
+BillG breakfast
+.
+I've listed the major activities, based on MY involvement. I am sure others were engaged earlier, but this is my timeline and activities
+T-45
+Told about event
+T-42
+Start Building invite list
+T-40
+Add my comments to Briefing Doc
+T-39
+Review Speech Notes
+T-33
+Group get together. Review Briefing Doc. Review invite list
+T-28
+2nd Draft Briefing Document
+T-27
+Final Briefing Document
+T-26
+Send Invite list to PR team
+T-24
+Scrub details on lists
+T-23
+Scrub more details on lists
+T-21
+Invites prepared to be sent
+T-19
+People getting invites & press knows about event. I get my first call about changes to the list
+T-18
+I get my first call about NOT being invited.
+T-07
+Review of presentation - add local content
+T-06
+Call downs of guests. Confirm those who havent registered. Review Presentation
+T-05
+Table Assignments: We are working on assumption 10 per table - 1 Host and 9 Guests
+T-04
+Review slides with SV and provide speaking notes for local content
+T-03
+Table Shuffles : 8 per table: Review Presentation.
+T-02
+Table Scrub - notice problems. Some people invited dont have tables and some people on tables not invited!
+T-01
+Final Table Scrub
+T-00
+The Event
+Phew!
+[Now Playing: Rita Singers Williams - The Greatest Hits: This Is My Life - As Long as He Needs Me (03:00)]
+Comments
+Anonymous
+July 15, 2004
+Hi Frank,
+I still haven't seen the picture of us with 'the Bill'. Are you going to post it?
+Anonymous
+June 01, 2009
+PingBack from
+http://uniformstores.info/story.php?id=18203
+Additional resources
+Last updated on
+2004-07-01

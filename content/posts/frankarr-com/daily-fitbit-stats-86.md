@@ -1,0 +1,9 @@
+---
+title: "Daily Fitbit stats"
+platform: "frankarr-com"
+era: "microsoft"
+source_url: "http://frankarr.com/2013/03/31/daily-fitbit-stats-86/"
+date: "2013-03-31"
+---
+
+My fitbit #Fitstats_AU for 3/31/2013: 12,193 steps and 8.7 km traveled. http://www.fitbit.com/user/229VLQ

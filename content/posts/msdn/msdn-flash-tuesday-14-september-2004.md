@@ -1,0 +1,79 @@
+---
+title: "MSDN Flash - Tuesday, 14 September, 2004"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/msdn-flash-tuesday-14-september-2004"
+date: "2004-09-14"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+MSDN Flash - Tuesday, 14 September, 2004
+Visit the Microsoft Australia MSDN site
+|
+Sign up for other newsletters
+|
+Unsubscribe
+|
+Update your profile
+Frank Gives You VB at the Movies
+Hello there. There's no guest editor this week so it's my turn
+Firstly, let me welcome Pradeepa once again. Deeps brings a lot of energy to our academic area and is a great addition to the team. Spring is upon us and our attention turns to spring-cleaning: at home, work, or even with your code. And now's the perfect time to upgrade your skills or refresh your knowledge. There's a vast amount of information and resources available on the
+at
+Here are just a couple of highlights:
+1.
+Features 101 short films to give everyone from the beginner through to the advanced developer an opportunity to improve their Visual Basic skills.
+2.
+Each session has two components: a pre-recorded seminar led by an experienced trainer; and a hosted hands-on lab to practise your new skills. It only takes one or two hours to complete each session including the lab, so they're easy to fit into a busy schedule. The tutorials cover Visual Basic .NET development, focusing on upgrading applications from Visual Basic 6.0 to Visual Basic .NET, developing Microsoft Windows forms applications with Visual Basic.NET, and using data in Windows forms applications. And, for Web development, we look at migrating Active Server Pages applications to ASP.NET, building Web applications and data access for Windows and Web. There's a lot there.
+So take the plunge and do some spring-cleaning. You'll feel better for it. Happy Coding
+Remember, feedback is always welcome to us at
+Featured Articles in this Edition
+Be one of the first to experience the revolutionary new Imation Disc Stakka, the latest in disc storage. And just for MSDN Flash subscribers, Imation is offering a special discount of over 15 percent, PLUS you get a bonus 25 CDRs!
+.
+If you liked Quake II, you're going to love the new Quake II .NET. It's proof that you can take a large amount of code and push it through to Microsoft Visual C++ using Microsoft Visual Studio .NET 2003.
+And the best thing is, it's free!
+Download the Microsoft .NET Framework version now and take on the challenge. We can't give you any tips on how to defeat the bad guys on level 4, as there's no technical support for this free game. But do let us know how you go. We welcome your comments at
+Good luck!
+Microsoft joins forces with local user groups and brings you the DotNetNuke Development Team (Scott McCulloch and Phil Beadle). Don't miss this introduction to DotNetNuke and why this open source, solution kit portal application has become one of the most successful open source projects utilisng Microsoft
+.
+Your Future with Microsoft
+We'd all love to be the next Bill Gates, and make it big creating software with the power to change the world. Who knows, going out on your own might be a good place to start. Here's one man's inspirational story of becoming an Independent Software Vendor. You can also scroll down to learn more about Shareware.
+Ever released a code before testing it first? Didn't think so. At Microsoft, we believe our software should be given a test run, too. Now you can visit the Microsoft Trial Centre and sample whatever you like, from server software to Microsoft Visual Studio. And it's free. That way you can be sure you choose the right program for your needs.
+New on Microsoft .NET Technology
+Keep your customers on side and introduce them to SmartClient - offering technologies from the Microsoft .NET Compact Framework to Microsoft Office System applications. And that's not all. SmartClient also covers devices like the desktop, Tablet PC, and even a Microsoft Windows system-powered Smart Phone. But don't take our word for it.
+Link Microsoft Office Word 2003 to your Inbox data and save time and frustration. Now you can use smart tags in Word to create search queries on Exchange. Simply browse the message store, then import your data into the Word document.
+Can't get your menu button to work consistently? Wondering how Microsoft .NET technology manages the memory of COM objects using the Microsoft .NET Framework? Peter Vogel discusses some of the common issues that pop up when handling COM objects within the Microsoft .NET Framework, and gives you great tips on how to solve them.
+Fresh from the Web
+New to Web development? Learn how to design your own Web site with Microsoft Office FrontPage 2003. Discover how you can extend the functionality, and get pointers to detailed articles that walk you through each step. Easy.
+Whenever the Microsoft Visual C# team discovers something cool or fun in the product or language, they put together a sample code fragment just for you. Simply extract them and open the project from within Visual Studio .NET. Code comments will tell you what the sample does, and the document gives your more detailed information. That way, you'll always be a step ahead.
+Tuesday, 14 September, 2004
+In this Issue:
+Most Popular Downloads
+â¢
+â¢
+â¢
+â¢
+â¢
+â¢
+Hot Fixes
+â¢
+â¢
+â¢
+Security for Developers
+â¢
+â¢
+â¢
+â¢
+â¢
+To cancel your subscription to this newsletter, reply to this message with the word UNSUBSCRIBE in the Subject line. You can also unsubscribe at
+. You can manage all your Microsoft.com communication preferences at this site.
+This newsletter was sent by Microsoft Pty Ltd1 Epping RdNorth Ryde, NSW, Australia2113
+Comments
+Additional resources
+Last updated on
+2004-09-14

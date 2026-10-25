@@ -1,0 +1,95 @@
+---
+title: "Emma draws her a dad as Santa"
+platform: "radio-userland"
+era: "microsoft"
+source_url: "http://radio-weblogs.com/0124955/2004/12/09.html#a738"
+date: "2004-12-09"
+tags:
+  - "Family"
+  - "My Interests"
+---
+
+Thursday, 9 December 2004
+Emma draws her a dad as Santa
+My Daughter
+Emma
+does so many wonderful things. I asked her to draw a picture of me for the
+MSDN Flash
+, of which I am the editor. I have been using this picture everywhere - on
+feedster
+,
+technorati
+,
+orkut
+&
+flickr
+to name a few.
+For the Christmas edition of the newsletter, I asked her to draw me as Santa. Her work of art is below
+Thanks Emma - That's a terrific drawing!
+She drew it on my
+tablet pc
+, using one of the drawing programs already installed -
+Sketchbook Pro
+. I may have to fork out some $$ and buy it.
+[listening to: Original of the Species -
+U2
+]
+11:12:19 AM
+comment [
+]
+trackback [
+]
+G!
+
+Family
+Michael Moore's latest subscriber email
+So the People's Choice Awards Nominates "Fahrenheit 9/11" as "Favorite Film of the Year". Cool I would agree with that. They will get my  vote!
+From:
+Michael Moore [
+mailto:maillist@michaelmoore.com
+]
+Sent:
+Thursday, 9 December 2004 10:35 AM
+To:
+Frank Arrigo
+Subject:
+People's Choice Awards Nominates "Fahrenheit 9/11" as "Favorite Film of the Year"
+December 8, 2004
+Dear Friends,
+May I take a break from our post-election despair to share with you a little piece of happy/silly/cool news?
+"Fahrenheit 9/11" has been nominated by the People's Choice Awards as the American public's "Favorite Film of the Year." The five nominees were chosen from a poll of thousands of Americans in mid-to-late November. The other nominees for best film are "Spiderman 2," "The Incredibles," "Eternal Sunshine of the Spotless Mind" (with Jim Carrey), and "Shrek 2." It is the first time ever a documentary has been nominated for best film by the People's Choice Awards.
+The People's Choice Awards are considered, among all the awards shows, to be the one which most accurately reflects the "mainstream" public opinion in the United States.
+OK, now, here's the best part: YOU get to vote! Online. Now. Just go to
+http://www.pcavote.com/voting/film/f01.shtml
+, click on the little circle next to "Fahrenheit 9/11" in the "Favorite Movie" category and press the "vote" button. Voting is going on now and continues only through this coming Monday, December 13, at 3:00pm ET, so send an e-mail to your friends and let them know they can vote, too. Winners will accept their awards live on CBS on January 9.
+Now, normally I wouldn't make a very big deal out of something like this. It's nice and I'm honored, but it's not exactly the number one priority on any of our minds these days. In fact, when we found out we were nominated over a week ago, I didn't even think to tell you about it or put it up on our website.
+But then a group of top Republicans took out a full page ad in USA Today (and placed a similar one in the Hollywood trade magazine, Variety) proclaiming that "An election is over, but a war of ideas continues." The point of the ad was to say that while they, as right wing conservatives, were proud of getting rid of Kerry, there was still one more nuisance running around loose they had to deal with -- me! They also issued a not-so-subtle threat to the Academy Awards voters that, in essence, said don't even THINK about nominating "Fahrenheit 9/11" for Best Picture. And Bill O'Reilly recently bellowed that if the Oscars recognize my work this year, Middle America will boycott Hollywood.
+Oops. I guess he spoke too soon. Because now along comes Middle America's favorite awards show, the People's Choice, and the People's Choice this year, along with a Spiderman superhero and a lovable green ogre, is a film that apparently continues to resonate throughout the country. The truth about Iraq, Bush, terror and fear. The election has not altered or made irrelevant, unfortunately, a single one of these issues. That they (and the film that dealt with these issues) are still at the forefront of the majority of the public's minds should give serious pause to Mr. Bush as he brags about a nonexistent "mandate" and begins to spend his "political capital."
+He may have been (barely) the people's choice on November 2 (Ohio recount excluded), but now the people get to vote again, this time for a movie. It's about the best we can do right now, and, trust me, it won't be long before we start the real work we need to do to get our country back.
+Again, go to
+http://www.pcavote.com/voting/film/f01.shtml
+if you want to vote for our film. I promise, if we win, to give a nice and polite speech.
+Yours,
+Michael Moore
+www.michaelmoore.com
+mmflint@aol.com
+P.S. Please feel free to post or forward this to your friends...
+P.P.S.  Yes, it's true, I'm on the Barbara Walters people of the year special tonight. Did I cry? You'll have to watch to find out! :-)
+[listening to: Crumbs from Your Table -
+U2
+]
+10:45:53 AM
+comment [
+]
+trackback [
+]
+G!
+
+My Interests
+© Copyright 
+     2006
+     Frank Arrigo.
+A Geek Microsoft Blogger
+Last update: 
+     8/07/2006; 10:13:24 AM
+     .

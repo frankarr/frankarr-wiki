@@ -1,0 +1,105 @@
+---
+title: "Roll your own podcasting support for WMP 11"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/roll-your-own-podcasting-support-for-wmp-11"
+date: "2006-05-28"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+Roll your own podcasting support for WMP 11
+So, the feeling is that
+Microsoft's lack of
+action will slow Podcasting Growth
+.
+James O'Neill
+has put together
+a step
+by step guide to subscribe to Podcasts under Windows Vista
+Not to be outdone,
+Dominic Cooney
+has
+cut some code in
+F#
+to create
+a rough and ready podcasting
+app for WMP 11
+.
+But, what about
+the
+podcast client for Windows Media Center
+that
+Charlie
+Owen
+demonstrated at
+Mix06
+, aka "
+Q
+" ?? As
+Charlie says, "Q is not a shipping feature of Windows Vista -- it is a
+sample application
+for which source code will ship with the
+Windows Media Center Software Development Kit for Windows Vista."
+Source code? Cool!!!
+[ Currently Playing : Every Song Is
+A Cry For Love (Ireland) - Brian Kennedy - Eurovision Song Contest-Athens 2006
+(03:00) ]
+Comments
+Anonymous
+May 28, 2006
+Frank, with all due respect to James and Dominic (and yourself of course!), the issue that Todd and I are annoyed about isn't that people can't subscribe to podcasts in WMP11, it's that there is no native podcast DIRECTORY in WMP11. Microsoft could be helping drive podcasting into the mainstream instead of taking a backseat and letting Apple continue to take the lead.
+Anonymous
+May 28, 2006
+A directory?  sounds like a business opportunity for some to grab
+Anonymous
+May 28, 2006
+The comment has been removed
+Anonymous
+May 29, 2006
+The comment has been removed
+Anonymous
+May 29, 2006
+Dude, all I'm saying is that it's not Microsoft's job to build a podcast client.
+It's not Apple Vs Microsoft Vs Google Vs Yahoo et al. They all do different things and shouldn't all be playing the same game.
+What has Apple done for online search?
+Nothing?
+Well, they must be dropping the ball right?
+Search is huge! Bad Apple!
+Google, where are their podcasting tools?
+Nowhere?
+Ok, over-punctuation and one too many examples aside, you get my point right?
+MS is not responsible for contributing to the growth of podcasting and it seems that for selfish gains, that you want them to.
+Nothing wrong with that I guess. While we're at it, let's make Delicate Genius Blog the homepage on IE? Yeah, let's advocate that shall we? It works for me so it must be important.
+Surely you worked for them long enough to understand that almost everything they do is done to keep their platforms (server and client) alive.
+Bundling a music player helps make Windows an attractive proposition. As is providing great development tools, database servers etc.
+For clarity, I'm not saying that they shouldn't build a podcatcher. Maybe they should, and maybe they will. I'm just not sure that that's the biggest fish they have to fry (gotta love fish analogies) at the moment. Getting URGE and PlayForSure right is probably more important.
+If it's any consolation, I bought you another listener the other day. The TPN PSP show should now have one more set of ear buds :-)
+-dg
+Anonymous
+June 04, 2006
+Thanks!!!
+http://www.ringtones-dir.com
+/get/">
+http://www.ringtones-dir.com
+/get/ ringtones site. [URL=
+http://www.ringtones-dir.com
+]ringtones download[/URL]: Free nokia ringtones here, Download ringtones FREE, Best free samsung ringtones. Also [url=
+http://www.ringtones-dir.com
+]samsung ringtones[/url] From website .
+Anonymous
+June 04, 2006
+Hi!
+http://www.ringtones-dir.com/get/
+ringtones site. Free nokia ringtones here, Download ringtones FREE, Best free samsung ringtones. From website .
+Anonymous
+February 07, 2007
+I'll be speaking at the upcoming Microsoft Unlimted Potential (UP) Community Conference next week. I've
+Additional resources
+Last updated on
+2006-05-28

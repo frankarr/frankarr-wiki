@@ -1,0 +1,208 @@
+---
+title: "Dad and Kids Night"
+platform: "radio-userland"
+era: "microsoft"
+source_url: "http://radio-weblogs.com/0124955/2006/08/30.html#a1329"
+date: "2006-08-30"
+tags:
+  - "My Friends"
+  - "Geek"
+  - "Family"
+  - "My Hobbies"
+---
+
+Wednesday, 30 August 2006
+Dad and Kids Night
+Those guys from
+Bunnings Warehouse
+have
+a bunch of great ideas for Father's Day
+(which happens this Sunday, Sep 3)
+Dad and Kids Night
+Join in the fun and build a tool box together with dad at all Bunnings Warehouses on
+August 31
+st
+from 6pm  8pm.
+Download an invite for dad
+Colouring-in Competition
+Colour in the picture and if your entry is drawn you will be our winner.
+Colouring in Competition
+Colouring in Card
+Print off our father's day card, colour it in and give it to dad
+Colouring in Card
+My Dad is the Best Certificate
+My dad is the best because......
+Certificate
+I'll be at
+our local Bunnings
+with Bricey on Thursday. We have a
+ToolBox
+to build!!
+[listening to: Brown Sugar -
+The Rolling Stones
+]
+9:28:48 PM
+comment [
+]
+trackback [
+]
+G!
+
+My Friends
+On This Day : Aug 30
+August 30
+:
+St. Rose of Lima's Day
+in
+Peru
+;
+Victory Day
+in
+Turkey
+.
+1800
+-
+Gabriel Prosser
+attempted a
+slave rebellion
+in
+Virginia
+,
+United States
+.
+1813
+-
+Napoleonic Wars
+:
+French
+General
+Dominique Vandamme
+and thousands of his soldiers were captured in the
+Battle of Kulm
+by forces of the
+Sixth Coalition
+under
+Field Marshal
+Michael Andreas Barclay de Tolly
+(pictured)
+.
+1862
+-
+American Civil War
+:
+James Longstreet
+and
+Stonewall Jackson
+led their
+Confederate
+troops to a decisive victory in the
+Second Battle of Bull Run
+.
+1992
+-
+Michael Schumacher
+won his first
+Formula One
+race at the
+Belgian Grand Prix
+.
+1999
+- The people of
+East Timor
+voted for
+independence
+from
+Indonesia
+in a
+referendum
+.
+8:24:25 PM
+comment [
+]
+trackback [
+]
+G!
+
+Geek
+Father's Day Breakfast with Brice
+Today was one of those days that really brings me joy.
+I got to go to
+Brice's new school
+and be part of their Father's Day Breakfast. All the kids where there with their dads.
+Brice was happy to have me there with him too.
+I bought a ticket in the raffle and I won 3rd prize -
+a bottle of Irish Whiskey
+. Too Funny.
+[listening to: Snakes on a Plane (Bring It) -
+Cobra Starship
+]
+11:58:17 AM
+comment [
+]
+trackback [
+]
+G!
+
+Family
+FOX Footy Channel Program Listings 29 August  5 September 2006 NSW only
+The last round of the season is here. It's getting close. The
+Saints
+meet the
+Wounded Lions
+at the
+Gabba
+, which has not been a happy hunting ground for the team. They have only won there once.
+Overall, the Saints record againts the Lions hasn't been that good either, but we have won the last 2 games againts them!
+Since 1997
+All
+Games
+Last 5
+Games
+Highest
+Score
+Lowest
+Score
+Biggest
+Win
+Brisbane Lions
+12
+3
+154
+44
+97
+St Kilda
+6
+2
+186
+52
+139
+Wednesday 30/08/2006
+1.00p  Round 21 Western Bulldogs v St Kilda
+Thursday 31/08/2006
+1.00p  Last Time They Met 2006 Rnd 3 St Kilda v Brisbane Lions
+Friday 01/09/2006
+12.30a  Round 21 Western Bulldogs v St Kilda
+Saturday 02/09/2006
+10.30p  Round 22 Brisbane Lions v St Kilda
+Sunday 03/09/2006
+11.30a  Round 22 Brisbane Lions v St Kilda
+Monday 04/09/2006
+4.00p  Round 22 Brisbane Lions v St Kilda
+[listening to: The Boogie Monster -
+Gnarls Barkley
+]
+9:56:50 AM
+comment [
+]
+trackback [
+]
+G!
+
+My Hobbies
+© Copyright 
+     2006
+     Frank Arrigo.
+A Geek Microsoft Blogger
+Last update: 
+     1/09/2006; 9:29:28 AM
+     .

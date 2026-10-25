@@ -1,0 +1,85 @@
+---
+title: "MSDN Flash - Tuesday, 17 August, 2004"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/msdn-flash-tuesday-17-august-2004"
+date: "2004-08-17"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+MSDN Flash - Tuesday, 17 August, 2004
+Visit the Microsoft Australia MSDN site
+|
+Sign up for other newsletters
+|
+Unsubscribe
+|
+Update your profile
+Hi again. No guest editorial this edition, so it's time for me to do some work!
+I recently returned from the
+in Canberra. What a great time! It was terrific meeting with all the attendees, especially since we all agreed this year's event one of the best yet. We were lucky enough to have Eric Rudder as one of the many guest speakers. Eric is the Senior Vice President of Server & Tools at Microsoft and was the guest speaker for the closing keynote, where he covered the Microsoft technology roadmap for the next few years. However, the highlight for me was a dinner we arranged for our Regional Directors, MVPs, User Group Presidents, Student Ambassadors & other Dedicated Developers, at which Eric was the special guest. A number of folks have written about this in their blogs, which I have summarised
+. One of the big announcements at TechEd was the launch of Australian Maps for the
+. Mappoint has been around for over 2 years, but it hasn't really been of interest to us Aussies as there were no local maps. Well this has now changed. There was a very busy booth at TechEd showing off the local maps, and people were delighted. Even better news was the
+. One other item of interest from TechEd 2004 was the
+which was setup for
+members. There are plans to make this a regular feature at MSDN events in the future, so make sure you bring along your membership card. And for those of you who aren't part of
+,
+. That's enough rambling from me. For those of you who came to TechEd, I thank you. For those of you who didn't, I hope to see you at a future
+. Happy Coding.
+Remember, feedback is always welcome to us at
+The Future of Microsoft Software
+We're excited to announce the Visual Studio 2005 Beta Developer Center: the central place for you to find all the latest information about the beta versions of Visual Studio 2005.
+New on Microsoft .NET Technology
+This article demonstrates how to generate Rich Text Format (RTF) from Extensible Markup Language (XML) by using Microsoft Visual Basic .NET. Rich Text Format is a text-based format that encodes formatted text, document layout, and graphics.
+Security for Developers
+Microsoft has released an update for Microsoft Exchange Server that addresses newly discovered issues with Outlook Web Access technology.
+LEARN MORE
+To learn about this update and which software is affected, review the notice on Microsoft.com by
+.
+MS04-026 - Vulnerability in Exchange Server 5.5 Outlook Web Access Could Allow Cross Site Scripting and Spoofing Attacks (842436).
+Affected Software
+- Exchange Server 5.5 Service Pack 4
+Affected Components
+- Outlook Web Access
+Update Availability
+An update is available to address these issues. For additional information, including Technical Details, Workarounds, answers to Frequently Asked Questions, and Update Deployment Information please read the Microsoft Security Bulletin Summary for this month by
+.
+Security Support Resources
+Microsoft has created a free monthly e-mail newsletter containing valuable information to help you protect your network. This newsletter provides practical security tips, topical security guidance, useful resources and links, pointers to helpful community resources, and a forum for you to provide feedback and ask security-related questions. Also Microsoft has created a free e-mail notification service that serves as a supplement to the Security Notification Service (above). It provides timely notification of any minor changes or revisions to previously released Microsoft Security Bulletins. This new service provides notifications that are written for IT professionals, just like you, and contains technical information about the revisions to past security bulletins.Visit
+to subscribe to this service:- Click Subscribe at the top of the page.- This will direct you via Passport to the Subscription center.- Under Newsletter Subscriptions you can sign up for the "Microsoft Security Notification Service: Comprehensive Version".
+Tuesday, 17 August, 2004
+In this Issue:
+Events
+â¢
+â¢
+Security for Developers
+â¢
+â¢
+MSDN Top 5 Downloads
+1.
+2.
+3.
+4.
+5.
+Downloads
+â¢
+Resources
+â¢
+â¢
+To cancel your subscription to this newsletter, reply to this message with the word UNSUBSCRIBE in the Subject line. You can also unsubscribe at
+. You can manage all your Microsoft.com communication preferences at this site.
+This newsletter was sent by Microsoft Pty Ltd1 Epping RdNorth Ryde, NSW, Australia2113
+Comments
+Anonymous
+June 08, 2009
+PingBack from
+http://menopausereliefsite.info/story.php?id=619
+Additional resources
+Last updated on
+2004-08-17

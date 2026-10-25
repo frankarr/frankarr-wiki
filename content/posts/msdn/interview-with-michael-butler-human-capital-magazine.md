@@ -1,0 +1,77 @@
+---
+title: "Interview with Michael Butler, Human Capital Magazine"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/interview-with-michael-butler-human-capital-magazine"
+date: "2006-05-31"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+Interview with Michael Butler, Human Capital Magazine
+With
+all the excitement about my office move
+, I forget to post about my
+interview yesterday (Tuesday May 30) with Michael Butler,
+Human Capital Magazine
+.
+I first met Michael many many many years ago when he was at
+Microsoft
+CommuniquÃ© Magazine
+(anyone remember that)
+Anyways, Michael is doing a feature on Blogging, and he interviwed me to
+discuss the role and use of blogging at Microsoft. Since he is writing for a HR
+focused magazine, we also covered how blogging is used in a HR or recruitment
+context.
+Now this is a topic I have "some experience"  with, with
+coverage  in
+The
+Australian
+,
+The
+Bulletin
+,
+Computerworld
+, and
+Business
+Sunday
+.
+Now I wont spill the beans on what we covered (
+I've learnt
+my lesson
+).  I will leave that for Michael to do. Hopefully the article
+will be online at some stage.
+However, here some of the sites/blogs I mentioned during the interview
+Jobsblog - Technical Careers @
+Microsoft
+Mini-Microsoft
+Australian Microsoft
+Recruitment Web Log
+Naked
+Conversations
+All in all, a good interview and it was nice to catch up with Michael
+(dude, where's your blog?) again.
+[ Currently Playing : La Coco-Dance
+(Monaco) - Severine Ferrer - Eurovision Song Contest-Athens 2006 (03:00) ]
+Comments
+Anonymous
+June 01, 2006
+PingBack from
+http://www.specht.com.au/michael/2006/06/01/links-for-2006-06-01/
+Anonymous
+July 09, 2006
+PingBack from
+http://www.specht.com.au/michael/2006/07/10/welcome-to-human-capital-magazine-readers/
+Anonymous
+July 19, 2006
+Way
+back in May, I was interviewed by Michael Butler for an article he was writing
+for Human Capital...
+Additional resources
+Last updated on
+2006-05-31

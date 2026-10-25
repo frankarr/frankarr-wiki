@@ -1,0 +1,117 @@
+---
+title: "The dark side of Kerry Packer"
+platform: "radio-userland"
+era: "microsoft"
+source_url: "http://radio-weblogs.com/0124955/2005/12/27.html#a964"
+date: "2005-12-27"
+tags:
+  - "TV"
+  - "My Organization"
+  - "TV"
+  - "TV"
+---
+
+Tuesday, 27 December 2005
+The dark side of Kerry Packer
+This dude talks about the dark side of Kerry Packer
+, dumping all the dirt.
+The purpose of this web site is to reveal what the mainstream Australian media is failing to do. Quite simply an archive of some of the questionable actions of Australia's richest man, one Kerry Packer who died on
+26th December 2005
+.
+The mantle of this wealth is being shifted to heir-apparent James Packer who, from reports that you will read here, appears to be in the mould of his father.
+There are lots of links. They makes for fascinating reading.
+Packer and the unpaid Au$143 million tax bill
+Journalists conform to standards of owners
+Packer and the Optus Vision shareholders deal
+Packer and the prostitutes
+Packer destroys a loyal staff member
+- Posted October 2000
+Packer's secret lair
+- Posted November 2000
+Packer and the "special tax dispensation" for the Sydney casino
+Packer refuses to pay the ATO hundreds of million of dollars in tax
+- Sept 1999
+Packer v Keating
+- October 1999
+Nothing is certain on tax with our richest man
+- Nov 1999
+Next time you watch Packer's Channel 9 A Current Affair "exposing" someone - just gag
+- Oct  2003
+Kerry Packer behind banning of "Murder by Media" which exposed  how he avoids tax
+- January 1999
+Crikey on Mr Packer "The Goanna"
+Packer's Death - 26th December 2005
+[listening to: Push -
+Madonna
+]
+10:50:03 PM
+comment [
+]
+trackback [
+]
+G!
+
+TV
+My Memories of the late Kerry Packer
+The big news of the day has been
+the death of Kerry Packer
+.
+I posted earlier ths morning
+, before anything was online about the news.
+By the end of the day, that's all you can find
+.
+It's funny reading the news on all the media outlet - they are all being kind and respectful, like
+Australia's richest man, media mogul Kerry Packer, dead at 68
+I have my own experience of Mr Packer. It happened a few years back, during my time at ninemsn. I was the CTO of the newly formed venture and I would do the rounds, meeting the executives from our parents, which were mainly PBL executives.
+One project I was involved in, was setting up a demo of
+WebTV
+for Kerry Packer, back in 1998. Microsoft had just purchased
+WebTV
+and the local folks were keen to introduce it to Australia, BUT they wanted the seal of approval from the big man. I worked with engineers at both
+Channel 9
+and
+WebTV
+. We arranged a live satelite TV feed direct from Los Angeles. We tricked a modifed
+WebTV
+box to dial a local phone number and then connect back to the
+WebTV
+servers in Mountain View. We tested this over and over again. I spent a few long hours in the executive boardroom over at
+Channel 9
+in Willoughby getting this demo just right. We rehearsed a demo scenario and made sure the path through the demo worked flawlessly. After a few days, we were ready and a time and date was set for the demo to the big man.
+The demo was set for 1pm. I arrived at 10am to make sure all the bits were in place. I connected, refreshed the electronic program guide with the latest from LA, make sure it was in sych with what we were watching (which it was). We rehearshed again and again and it was perfect. We were ready.
+1pm rolled around. No Kerry Packer.
+2pm. Still no Kerry. A few frantic phone calls and we had a new ETA of 3pm. OK, we adjuted our demo to included the shows that were going to be on at that time - no problem, we could cope. While we were preparing, the catering arrived, including lamingtons, a big cream sponge cake with pink icing, sandwiches, cocktail franks, tea and coffee. It was quite surreal.
+3pm rolled on and still no Kerry. The phone rang. It was his driver. They were not far, and Kerry wanted a roast beef sandwich. We relayed the message to the catering folks and waited.
+3.30pm and Kerry arrived with his people. He sat down at the boardroom table, put his feet on the table and tucked into his roast beef sandwich, while we introduced ourselves and started the demo. It all worked as advertised, but he seemed more interested in his sandwich and whether it had mustard or horseradish.
+At the end of it, he wasn't impressed with what he and questioned the value of people being able to surf the web from their television. When I made the argument that it was about time shifted viewing of television, and putting people in control, he scoffed at the suggestion. When I said that an up to date electronic program guide (epg) would make this time shifted viewing possible, he yelled back - "Over my dead body".
+He then left to go to yet another late appointment and I was left to pack up from the demo.
+WebTV
+never did launch in Australia.  However a complete EPG is now a very real possibility.
+[listening to: Volare -
+Dean Martin
+]
+9:35:21 PM
+comment [
+]
+trackback [
+]
+G!
+
+My Organization
+
+TV
+KERRY PACKER passed away
+Just heard on the Today Show. Australia's richest man has passed away. Kerry Packer is dead.
+So far I haven't found anjything online.
+[listening to: Vogue -
+Madonna
+]
+9:11:44 AM
+comment [
+]
+trackback [
+]
+G!
+
+TV
+©

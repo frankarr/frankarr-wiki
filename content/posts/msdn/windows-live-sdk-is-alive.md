@@ -1,0 +1,74 @@
+---
+title: "Windows Live SDK is alive"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/windows-live-sdk-is-alive"
+date: "2007-01-27"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+Windows Live SDK is alive
+From
+Windows Live Dev News
+:
+What's In a Name? The Windows Live SDK
+Windows Live SDK
+The Windows Liveâ¢ Platform puts a deeper level of control into developers' hands by offering access to the core services and data through open, easily accessible APIs. Now you can build applications and mashups that combine your innovation with the power of Windows Live services and social relationships.
+Visit
+https://dev.live.com
+to learn more about other services and developer offerings from Windows Live.
+Windows Live Services
+The following software development kits and application programming interfaces are available to Windows Live developers:
+Microsoft adCenter API
+- The Microsoft adCenter application programming interface (API) enables you to create applications that create and manage adCenter campaigns, orders, keywords, and ads; obtain the status on orders, keywords and ads; pause and resume orders; generate keyword estimates; generate reports about campaign performance; and perform order targeting.
+Windows Liveâ¢ Search Web Service API
+- The Windows Liveâ¢ Search Web Service is an Extensible Markup Language (XML) Web service with a SOAP API. The Search Web Service enables you to submit queries to and return results from the Windows Live Search Engine. The Search section also features
+articles
+that cover a variety of technical topics and coding techniques for the Windows Live Search developer.
+Messenger Activity SDK
+- The Messenger Activity software development kit (SDK) contains technical information about how to develop and test single-user and multi-user applications by using the Activity object model. The SDK also provides detailed information about development and testing requirements that your Activity must meet and how to increase the usage of your Messenger Activity application.
+Windows Liveâ¢ Messenger Add-In API
+- By creating add-ins for the Windows Liveâ¢ Messenger 8.0 client, you can add new abilities to the client. This document explains how you can create add-ins and make them available to customers. This release of the Messenger Add-in API relies on the Microsoft .NET Framework as the hosting platform. Using the Code Access Security feature of the .NET Framework, you can isolate add-ins from the system on which they run.
+Windows Liveâ¢ Spaces MetaWeblog API
+- The MetaWeblog API programming interface enables external programs to get and set the text and attributes of Weblog posts. The API uses the XML-RPC protocol for communication between client applications and the Weblog server.
+Virtual Earth Map Control SDK, Version 4.0
+- Virtual Earth provides the power behind
+Live Maps
+, an online mapping service that enables users to search, discover, explore, plan, and share information about specific locations. By using traditional road maps, labeled aerial photo views, low-angle high-resolution aerial photos, and proximity searching capabilities, Virtual Earth provides unique opportunities for developers to incorporate both location and local search features into their Web applications. The Virtual Earth map control software development kit (SDK) consists of a set of conceptual topics about Virtual Earth and a complete set of reference topics that cover the Virtual Earth map control application programming interface (API).
+Version 3.2 of the Virtual Earth Map Control SDK
+is also provided to support those developers who are using the earlier version of the map control and have not yet migrated to version 4.0. In addition, the Virtual Earth section features
+articles
+that cover a wide variety of technical topics and coding techniques for the Virtual Earth developer.
+Windows Liveâ¢ Alerts SDK
+- The Windows Liveâ¢ Alerts SDK, version 2.5, enables developers familiar with Simple Object Access Protocol (SOAP) to programmatically integrate with the Alerts notification service and perform administrative tasks that are not available using the Windows Live Alerts web site.
+Windows Liveâ¢ Custom Domains SDK
+- The Windows Liveâ¢ Custom Domains software development kit (SDK), version 1.2, enables developers to programmatically manage their Windows Live Custom Domains user base by means of a Web service. This SDK is intended for customers and partners who want to programmatically accomplish many of the administration tasks that are available on the Windows Live Custom Domains Web site in addition to tasks that are not available on the Web site, such as importing and exporting user lists.
+Windows Liveâ¢ Expo (Beta) API
+- The Expo API defines a set of Web services enabling customers to programmatically access the Expo classifieds listings database, a collection of location-tagged classifieds listings in categories like merchandise, real estate, autos, jobs and commercial services.
+Windows Liveâ¢ ID Service
+- Read all about the evolution of Microsoft Passport into Windows Liveâ¢ ID and how it helps make life online better for both users and developers in this white paper, which describes the technology behind an upcoming release of a new service offering for Windows Live developers.
+Windows Liveâ¢ Toolbar Custom Button SDK
+- The Windows Liveâ¢ Toolbar Custom Button Software Development Kit (SDK) shows how you can extend Toolbar with custom buttons. This SDK provides a quick overview of how users can install publicly available buttons and create their own simple buttons. Most of this SDK, however, shows how you can use XML to create more sophisticated custom buttons, and how you can distribute those buttons to users.
+Windows Liveâ¢ Writer SDK
+- Two sets of APIs are provided in this beta version of the SDK: The Application API, for launching Writer to create new posts or "Blog This" items for links, snippets, images, and feed items; and the Content Source Plugin API, for extending the capabilities of Writer to insert, edit, and publish new types of content. The SDK documentation contained in this beta version of the SDK is preliminary. The documentation will be extended and improved in a subsequent release of the SDK.
+Technorati tags:
+Windows Live SDK
+,
+Windows Live
+Comments
+Anonymous
+January 28, 2007
+Via Frank:
+http://blogs.msdn.com/frankarr/archive/2007/01/27/windows-live-sdk-is-alive.aspx
+Anonymous
+January 28, 2007
+Two great blog entries are available: On Arlindo Alvers' blog a summary with the list of all Windows
+Additional resources
+Last updated on
+2007-01-27

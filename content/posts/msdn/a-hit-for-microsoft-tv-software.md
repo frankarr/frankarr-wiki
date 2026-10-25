@@ -1,0 +1,60 @@
+---
+title: "A hit for Microsoft TV software"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/a-hit-for-microsoft-tv-software"
+date: "2004-05-23"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+A hit for Microsoft TV software
+Back in 1995 I was part of the Microsoft iTV push. Some of the folks I worked
+with back then are still driving the vision and it is so fantastic to see a
+major cable operator go with the technology. If only we could get this here in
+Australia...
+A hit
+for Microsoft TV software
+5 million Comcast set-top boxes to use
+new program-guide system
+Comcast Corp., the largest cable
+operator in the nation, plans to put Microsoft Corp.'s digital television
+software in set-top boxes for as many as 5 million of its 21 million
+customers.
+**
+The deal, announced yesterday, is the biggest to date for the Redmond
+company's television software, dubbed the Microsoft TV Foundation Edition.
+Microsoft has been seeking to take market share from industry leader TV Guide
+Interactive.
+"The rest of the industry looks up to Comcast as the leader and often
+follows in their footsteps," said Ed Graczyk, director of marketing and
+communications for Microsoft TV. He called the agreement "a big deal" not only
+on its own, but also for the company's efforts to court other cable
+operators.
+Comcast had been testing the Microsoft software among a limited number of
+households in the Seattle market. The companies yesterday declined to say in
+which markets the software will be deployed more broadly, but they
+acknowledged that one of them is likely to be Seattle.
+In addition to an on-screen interactive program guide, the Microsoft
+technology includes behind-the-scenes software that cable companies can use to
+deliver digital cable services, such as video-on-demand and digital video
+recording.
+[
+more
+]
+[Now Playing: Elvis Presley - 2nd to None - I Need Your Love Tonight (02:06)]
+Comments
+Anonymous
+May 24, 2004
+could you please invite me to orkut??
+baladanetmarcello@hotmail.com
+after reading a little about you i can see that you're very important
+thanks mannn
+Additional resources
+Last updated on
+2004-05-23

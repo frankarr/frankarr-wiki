@@ -1,0 +1,102 @@
+---
+title: "Tech.Ed Flair T-Shirt Competition"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/tech-ed-flair-t-shirt-competition"
+date: "2005-07-27"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+Tech.Ed Flair T-Shirt Competition
+We have had some excellent entries in the
+Tech.Ed Flair T-Shirt competition
+.
+I had to put them all onto my blog. Great work all of you.
+Week 1 Winners
+Tuesday 19 July - Monday 25 July 2005
+Peter Mackay (20/07/05)
+Matthew Cosier (20/07/05)
+Rocky Heckman (20/07/05)
+Damian Edwards (20/07/05)
+David Prowse (20/07/05)
+Kieran Jacobsen (20/07/05)
+Roger Noble (20/07/05)
+Stephen Krauklis (20/07/05)
+George Gingell (20/07/05)
+Craig Cope (21/07/05)
+Amanda Konnceke (21/07/05)
+Michael Lyons (21/07/05)
+Rodney Hebels (21/07/05)
+Alastair Waddell (21/07/05)
+Neil Young (21/07/05)
+Luke Drumm (21/07/05)
+Grant Holliday (22/07/05)
+David Gardiner (22/07/05)
+Trevor Johnson (22/07/05)
+Jeff Headley (22/07/05)
+Mitch Denny (22/07/05)
+Greg Low (22/07/05)
+Greg Lipschitz (22/07/05)
+Luke Venables (22/07/05)
+Matthew Hooper (23/07/05)
+Ben Hoffman (23/07/05)
+Rob Farley (24/07/05)
+Vicki Argent (25/07/05)
+Quang-Dat Pham (25/07/05)
+Paul Glavich (25/07/05)
+Week 2 Winners
+Tuesday 26 July - Monday 01 August 2005
+Mark Zorzi (25/07/05)
+Angus Logan (25/07/05)
+Romy Soriano (25/07/05)
+Kristi Hogan (25/07/05)
+Jey Srikantha (26/07/05)
+Linda McKenna (26/07/05)
+Jason Nadal (26/07/05)
+Alan Stephensen (26/07/05)
+Chris Gabriel (26/07/05)
+Darren Gosbell (27/07/05)
+Geoff Appleby (27/07/05)
+David Pitt (27/07/05)
+Richard Loone (28/07/05)
+Aaron Fishlock (28/07/05)
+Aaron Green (28/07/05)
+Brendan Hart (28/07/05)
+Joel Rein (28/07/05)
+Bruce McLeod (28/07/05)
+Cameron Meindl (29/07/05)
+Ross Cockburn (29/07/05)
+Jonathon Lanzon (29/07/05)
+Mark Brennan (29/07/05)
+Ashish Kar (01/08/05)
+Technorati Tag:
+TechEdAU
+[ Currently Playing : American Music - Violent Femmes - Viva Wisconsin (04:03) ]
+Comments
+Anonymous
+July 27, 2005
+Love Clippy!!
+Anonymous
+August 17, 2005
+The Tech.Ed
+Flair contest has been providing
+some fantastic entries, but I couldn't resist posting...
+Anonymous
+August 17, 2005
+The Tech.Ed Flair contest has been providing some fantastic entries, but I couldn't resist posting this...
+Anonymous
+August 19, 2005
+The Tech.Ed Flair contest has been providing some fantastic entries, but I couldn't resist posting this...
+Anonymous
+June 08, 2009
+PingBack from
+http://hairgrowthproducts.info/story.php?id=6727
+Additional resources
+Last updated on
+2005-07-27

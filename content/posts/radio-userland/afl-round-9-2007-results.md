@@ -1,0 +1,302 @@
+---
+title: "AFL Round 9 2007 : Results"
+platform: "radio-userland"
+era: "microsoft"
+source_url: "http://radio-weblogs.com/0124955/2007/05/27.html#a1497"
+date: "2007-05-27"
+---
+
+Sunday, 27 May 2007
+AFL Round 9 2007 : Results
+Another "interesting" round. How could I get my tips SO wrong??
+I only picked 3 winners this week.
+Week 9
+(Tip ratio)
+Home
+Draw
+Away
+(Tip ratio)
+(86%)
+Dockers
+(15.11 101)
+Saints
+(6.19 55)
+(14%)
+(13%)
+Blues
+(12.14 86)
+Crows
+(15.15 105)
+(87%)
+(22%)
+Hawks
+(15.9 99)
+Eagles
+(8.16 64)
+(78%)
+(64%)
+Lions
+(13.9 87)
+Magpies
+(18.12 120)
+(36%)
+(16%)
+Tigers
+(12.12 84)
+Bombers
+(12.20 92)
+(84%)
+(52%)
+Bulldogs
+(8.9 57)
+Swans
+(15.10 100)
+(48%)
+(23%)
+Demons
+(11.12 78)
+Kangaroos
+(10.19 79)
+(77%)
+(71%)
+Power
+(8.11 59)
+Cats
+(16.19 115)
+(29%)
+The Saints were humbled over at Subiaco on Friday night and had a injury to the veteran, Robert Harvey.
+sportal.com.au
+St Kilda's
+Harvey out for four weeks
+The West Australian, Australia -
+1 hour ago
+St Kilda
+veteran Robert Harvey will have to wait a month to reach his 350-game AFL milestone. Tests showed he suffered a hamstring strain in Friday night's loss to Fremantle.
+St Kilda's
+costly night
+Courier Mail
+St Kilda's
+costly night
+Courier Mail
+all 48 news articles Â»
+Saints
+beaten, bruised
+Advertiser Adelaide, Australia -
+25 May 2007
+St Kilda
+was left without an interstate win for the year, and possibly without the inspirational Robert Harvey for a lengthy spell, after succumbing to Fremantle 15.11 (101) to 6.19 (55).
+Lennyâs return softens Harvey blow
+AFL
+Collard called up for Dockers debut
+Sydney Morning Herald
+all 7 news articles Â»
+And the overall season is looking under threat. We're in the bottom part of the ladder now. BUT we're 2 games away from 2nd place.
+AFL Ladder
+Team
+W
+D
+L
+For
+Against
+Stk
+Chg
+Pts
+%
+West Coast
+7
+0
+2
+809
+663
+1L
+-
+28
+122.02
+Geelong
+6
+0
+3
+1079
+712
+4W
+U1
+24
+151.54
+Adelaide
+6
+0
+3
+755
+673
+3W
+U1
+24
+112.18
+Hawthorn
+6
+0
+3
+802
+715
+2W
+U1
+24
+112.17
+Collingwood
+6
+0
+3
+860
+798
+1W
+U2
+24
+107.77
+Kangaroos
+6
+0
+3
+912
+858
+6W
+-
+24
+106.29
+Port Adelaide
+6
+0
+3
+824
+785
+2L
+D5
+24
+104.97
+Sydney
+5
+0
+4
+794
+688
+2W
+U1
+20
+115.41
+Essendon
+5
+0
+4
+937
+869
+2W
+U1
+20
+107.83
+Western Bulldogs
+5
+0
+4
+859
+897
+1L
+D2
+20
+95.76
+Fremantle
+4
+0
+5
+823
+842
+1W
+U2
+16
+97.74
+Brisbane Lions
+4
+0
+5
+778
+823
+3L
+D1
+16
+94.53
+St Kilda
+4
+0
+5
+691
+751
+2L
+D1
+16
+92.01
+Carlton
+2
+0
+7
+880
+1114
+6L
+-
+8
+78.99
+Melbourne
+0
+0
+9
+680
+968
+9L
+-
+0
+70.25
+Richmond
+0
+0
+9
+750
+1077
+9L
+-
+0
+69.64
+Next week, we meet the Cats who are now second on the ladder and who we have had a recent "rivalry"
+Since 1980
+All
+Games
+Last 5
+Games
+Highest
+Score
+Lowest
+Score
+Biggest
+Win
+St Kilda
+15
+2
+177
+27
+71
+Geelong
+33
+3
+228
+55
+122
+Go Saints!!!!
+7:52:59 PM
+comment [
+]
+trackback [
+]
+G!
+© Copyright 
+     2007
+     Frank Arrigo.
+A Geek Microsoft Blogger
+Last update: 
+     5/07/2007; 11:41:04 AM
+     .

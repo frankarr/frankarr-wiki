@@ -1,0 +1,117 @@
+---
+title: "Ready for Community Launch?"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/ready-for-community-launch"
+date: "2005-11-15"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+Ready for Community Launch?
+** Updated the Adelaide Venue **
+All the boys are excited about the upcoming tour -
+Andrew Coates
+,
+Dave Glover
+,
+Michael Kleef
+and
+Dave "Mo" Lemphers
+all have a story to tell about it.
+Here's where the team will be and when:
+Date
+Event
+Time
+Location
+Registration
+21-11-05
+Adelaide Community Launch
+18:00-21:00
+Adelaide Innovation CentreLevel 2 Santos House91 King William StADELAIDE SA 5000
+Register
+22-11-05
+Adelaide Business Launch
+10:00-17:45
+The Adelaide Hilton233 Victoria Square ADELAIDE SA 5000
+Register
+23-11-05
+Melbourne Community Launch
+18:00-21:00
+Microsoft Melbourne9th floor644 Chapel StreetMelbourne VIC 3141
+Register
+24-11-05
+Melbourne Business Launch
+10:00-17:45
+Sofitel Melbourne25 Collins StreetMelbourne Vic 3000
+Register
+28-11-05
+Sydney Community Launch
+18:00-21:00
+Microsoft Sydney1 Epping RdNORTH RYDE NSW 2113
+Register
+29-11-05
+Sydney Business LaunchDay 1 of
+VSLive!
+10:00-17:45
+Hilton Sydney488 George StreetSydney NSW 2000
+Register
+30-11-05
+Canberra Community Launch
+18:00-21:00
+Microsoft CanberraLevel 244 Sydney AvenueBarton ACT 2600
+Register
+1-12-05
+Canberra Business Launch
+10:00-17:45
+National Convention Centre31 Constitution AvenueCanberra City ACT 2601
+Register
+5-12-05
+Perth Community Launch
+18:00-21:00
+Microsoft PerthQV1 BuildingLevel 14 250 St George TerracePerth WA 6000
+Register
+6-12-05
+Perth Business Launch
+10:00-17:45
+Duxton Perth1 St Georges TerracePERTH WA 6000
+Register
+7-12-05
+Brisbane Community Launch
+18:00-21:00
+Microsoft Brisbane1 Eagle Street9th FloorWaterfront PlaceBrisbane QLD 4000
+Register
+8-12-05
+Brisbane Business Launch
+10:00-17:45
+Brisbane Convention and Exhibition CentreCnr Merivale and Glenelg StreetsSOUTH BANK QLD 4101
+Register
+12-12-05
+Hobart Community Launch
+18:00-21:00
+The Old WoolstoreMarrino Room1 Macquarie StreetHobart Tasmania 7000
+Register
+I am going to be on the road for most of this. I just wont get down to Hobart this time around -sorry Tassie folks.
+[ Currently Playing : What's the Matter With You - Split Enz - Extravaganza Disc 2 (03:31) ]
+Comments
+Anonymous
+November 16, 2005
+Adelaide Convention Centre? Or the Hilton Adelaide Hotel?
+Not even sure I'll be there yet, but I'd want to turn up to the right venue...
+Anonymous
+November 16, 2005
+Rob - well spotted. that will teach me for simply copying from another person's post
+Anonymous
+November 17, 2005
+AHA! - Thats why Andy and the MCS team in Adelaide 'didnt know' about the event at the Convention Centre I was talking about!!
+Anonymous
+November 17, 2005
+Cool. Looking forward to seeing you in Melbourne Frank!
+Additional resources
+Last updated on
+2005-11-15

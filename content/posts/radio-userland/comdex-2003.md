@@ -1,0 +1,196 @@
+---
+title: "Comdex 2003"
+platform: "radio-userland"
+era: "microsoft"
+source_url: "http://radio-weblogs.com/0124955/2003/11/17.html#a191"
+date: "2003-11-17"
+tags:
+  - "My Organization"
+  - "My Friends"
+  - "Random"
+  - "My Friends"
+  - "My Profession"
+  - "Family"
+---
+
+Monday, 17 November 2003
+Comdex 2003
+Comdex
+time already!
+It's seems to have come from nowhere.
+BillG has had his
+keynote
+already. The
+transcript
+is posted and a
+webcast
+is online! It's all about
+The Era of Seamless Computing
+.
+Time to check out the
+virtual pressroom
+and even read the
+critical reviews
+. And this is cool -
+Google News on Comdex 2003.
+[listening to: New Sensation -
+INXS
+]
+10:13:32 PM
+comment [
+]
+trackback [
+]
+G!
+
+My Organization
+SSW Rules to be better
+I've been pokling around the
+SSW
+site and found
+all the rules
+.
+Management
+1.
+Rules to Successful Projects
+* Popular *
+2.
+Rules to Managing Software Consultants
+3.
+Rules to Better Teams
+Code & Application Design
+4.
+Rules to Better Code
+5.
+Rules to Better Access Databases
+6.
+Rules to Better SQL Server Databases
+7.
+SQL Server Design Standards
+8.
+Rules to Better .NET Projects
+9.
+The Best Third Party Tools
+User Interface
+10.
+Rules to Better Websites
+11.
+Rules to Better Interfaces
+Naming Conventions
+12.
+SQL Server Object Naming Conventions
+13.
+SQL Server Index Naming Conventions
+14.
+SQL Server Relationship Naming Conventions
+15.
+SQL Server Stored Procedure Naming Conventions
+16.
+.NET Object Naming Conventions
+17.
+Stored Procedure Formatting Standards
+Communication
+18.
+Rules to Better Email
+* Popular *
+19.
+Rules to Better Instant Messenger
+Marketing
+20.
+Rules to Better Google Rankings
+* Popular *
+21.
+Rules to Better Outbound Calls
+22.
+Rules to Better Inbound Calls
+23.
+Rules to Better Marketing
+24.
+Rules to Better Branding
+Networking
+25.
+Rules to Better Windows 2003
+26.
+Rules to Better ISA Server
+Where are the other rules - like
+Rules to Better Marriage
+,
+Rules to Using Water Wisely
+, or
+Rules for Better Eating
+Good one
+Adam
+!
+[listening to: Voodoo Dreams/Voodoo -
+Les Baxter
+]
+12:22:31 PM
+comment [
+]
+trackback [
+]
+G!
+
+My Friends
+
+Random
+Rules for a better web site
+I received the latest newsletter for
+SSW
+which open with the following intro :
+The Cutting Edge
+I believe that you should design a web site to look good for IE5.5 and above. I am not saying totally forget about Netscape but dont spend much time or money on it. The reason is that only 3-4% of users surf the web with Netscape. The problem stems from the limitations of different web browsers. The big Netscape and Internet Explorer debate still continues but the reality is that Netscape just cannot provide many of the features that Internet Explorer can.
+More
+This got me thinking about the whole
+browser war
+. To be honest, I think it's time to move on -- it's not just about the browsers. This
+debate
+is
+raging
+at the
+moment
+on a
+number of sites
+.
+[listening to: Hound Dog -
+Elvis Presley
+]
+12:00:18 PM
+comment [
+]
+trackback [
+]
+G!
+
+My Friends
+
+My Profession
+Santa comes to St Ives
+Big Event on Sunday. Santa came to our
+local shopping village
+.
+The kids were so excited.
+So were their parents!
+Lots of
+photos
+were taken!
+Gosh, Christmas is almost here -
+38 days until Christmas Eve!
+[listening to: Santa Claus Is Comin' to Town/White Christmas -
+Jimmy McGriff
+]
+10:52:36 AM
+comment [
+]
+trackback [
+]
+G!
+
+Family
+© Copyright 
+     2006
+     Frank Arrigo.
+A Geek Microsoft Blogger
+Last update: 
+     8/07/2006; 9:51:26 AM
+     .

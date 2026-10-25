@@ -1,0 +1,50 @@
+---
+title: "Introducing Microsoft Visual Basic Power Packs"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/introducing-microsoft-visual-basic-power-packs"
+date: "2006-09-20"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+Introducing Microsoft Visual Basic Power Packs
+Cool news for VB Programmers
+Introducing Microsoft Visual Basic 2005 Power Packs
+Today, we are announcing the availability of two
+Visual Basic 2005 Power Packs
+.
+Visual Basic 2005 Power Packs are free Add-Ins, Controls, Components, Tools or Samples for you to use with Visual Basic 2005 to make developing great applications even easier!
+Microsoft Interop Forms Toolkit 1.0
+This toolkit is aimed at simplifying the use of Visual Basic.NET WinForms within a Visual Basic 6 application. The toolkit is targeted specifically at providing tools and guidance for performing a phased migration of a VB6 forms-based application to VB.NET. The goal of a phased migration is a production release at the end of each phase that has both VB6 and .NET forms running in the same VB6 .exe process.
+Microsoft PrintForm Component 1.0
+The PrintForm component is designed to bring back the ability to easily print a Windows Form. With this the new PrintForm component you can once again layout the Windows Form exactly as you want it and allow your users to print the form as a quick report.
+About the Visual Basic Power Pack Team
+We are dedicated to working closely with you, members of the Visual Basic community, and are driven by your feedback to determine which features are the most important to build. The current plan is to release new Power Packs as frequently as possible to fulfill your needs and keep Visual Basic 2005 the most productive development tool for building business applications. To this end we have also set up the Microsoft Connect site to gather your feedback and suggestions. Do you have a great idea for a new Power Pack? Let us know by submitting your suggestions and voting for your favorite ideas at
+https://connect.microsoft.com/vbasic
+.
+As you can see from this connect site we have some pretty exciting things planned for the very near future like a new Line and Shape control and a new Data Repeater control. Please let us know we are on track by voting and giving us feedback.
+Thanks again for helping us deliver great additions to Visual Basic 2005!
+The Visual Basic Power Pack Team
+[
+Current Listening to
+:
+All These Things That I've Done
+by
+The Killers
+from
+Hot Fuss [Limited Edition]
+]
+Comments
+Anonymous
+September 30, 2006
+PingBack from
+http://blogs.msdn.com/frankarr/archive/2006/10/01/778707.aspx
+Additional resources
+Last updated on
+2006-09-20

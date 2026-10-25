@@ -1,0 +1,219 @@
+---
+title: "TechTalkBlogs : +126 days"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/techtalkblogs-126-days"
+date: "2006-06-29"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+TechTalkBlogs : +126 days
+We're at the end of financial year and
+TechTalkBlogs
+, has been around for
+126 days
+.
+I didn't do a healtch check last week. It's time to move from a weekly snapshot to a monthly one. The system is chugging along nicely now - time to let go of the reins just a little.
+Here's this final weekly view of
+TechTalkBlog's
+System Summary (notice how I rotated the table)
+Days Alive
+ActiveFeeds
+FeedItems
+TotalVotes
+New Feeds
+New Items
+New Votes
+24-Feb-06
+0
+0
+0
+0
+0
+0
+0
+27-Feb-06
+3
+183
+1,174
+762
+183
+1,174
+762
+06-Mar-06
+10
+196
+1,486
+1,068
+13
+312
+306
+13-Mar-06
+17
+214
+1,805
+883
+18
+319
+-185
+20-Mar-06
+24
+218
+2,290
+989
+4
+485
+106
+27-Mar-06
+31
+219
+3,030
+1,178
+1
+740
+189
+03-Apr-06
+38
+222
+3,329
+1,331
+3
+299
+153
+10-Apr-06
+45
+223
+4,052
+1,398
+1
+723
+67
+03-May-06
+68
+245
+5,497
+1,633
+22
+1,445
+235
+09-May-06
+74
+248
+6,446
+1,663
+3
+949
+30
+18-May-06
+83
+248
+7,131
+1,781
+0
+685
+118
+25-May-06
+90
+254
+7,686
+1,851
+6
+555
+70
+01-Jun-06
+97
+255
+8,045
+1,798
+1
+359
+-53
+06-06-06
+102
+257
+8,468
+1,844
+2
+423
+46
+15-Jun-06
+111
+264
+9,291
+1,907
+7
+823
+63
+30-Jun-06
+126
+265
+10,262
+1,972
+1
+971
+65
+Starting next week, we're going to have a new guest blogger.
+Darren Neimke
+did an awesome job over the past few months and
+is passing the baton to our next guest
+Who will it be??
+Some folks are beginning to wonder
+Let me give some clues. The past 2 editors had some things in common :
+MVP
+Based in Canberra
+Well known Blogger
+Not a Microsoft Employee
+Member of the ausdotnet mailing list
+Member of the
+blogger list on TechTalkBlogs
+The next guest blogger will have
+some
+of these common traits
+All will be revealed Monday ... hehehehe
+Comments
+Anonymous
+June 29, 2006
+Actually, I'm pretty sure that Darren isn't on the ausdotnet mailing list :)
+Anonymous
+July 02, 2006
+I
+alluded to this last week, we will be introducing a new guest blogger on TechTalkBlogs.
+Well,...
+Anonymous
+July 30, 2006
+Wow, it's been a
+month since I looked at the TechTalkBlog stats. It's been alive for
+157 days....
+Anonymous
+August 30, 2006
+So TechTalkBlogs has been alive for 188 days, that's half a year! I am so happy to see this little thing...
+Anonymous
+September 29, 2006
+TechTalkBlogs continues to thrive. It has now been alive for 218 days.  Just&amp;nbsp;look how it's grown...
+Anonymous
+November 02, 2006
+TechTalkBlogs continues to grow and grow. I missed my regualr end of month status report, but I have
+Anonymous
+December 03, 2006
+TechTalkBlogs , my little baby, is fast approaching it's first birthday. I missed my regular end of month
+Anonymous
+December 03, 2006
+TechTalkBlogs , my little baby, is fast approaching it's first birthday. I missed my regular end of month
+Anonymous
+January 01, 2007
+TechTalkBlogs continues to grow. Not long to go for it's 1st birthday. How's this for an interesting
+Anonymous
+January 31, 2007
+It's so exciting, TechTalkBlogs is almost one year old. It's like the engine that could. System Summary
+Anonymous
+March 08, 2007
+I am such a bad parent. My little baby celebrated it's first birthday, and I didn't take the time to
+Additional resources
+Last updated on
+2006-06-29

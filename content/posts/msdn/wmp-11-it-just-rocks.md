@@ -1,0 +1,93 @@
+---
+title: "WMP 11 : It Just Rocks"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/wmp-11-it-just-rocks"
+date: "2006-05-17"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+WMP 11 : It Just Rocks
+I grabbed
+the
+beta of Windows Media Player 11
+last night and gave it a spin.
+It just looks beautiful. The library is just so useful now, and creating
+playlists is a piece of cake!
+Even the reviews in the press are positive :
+Ten
+reasons to love Windows Media Player 11 (CNET)
+.
+The
+Windows Media Ecosystem (CNET)
+.
+Windows Media Player 11
+Review (WinSuperSite)
+.
+Windows Media
+Player 11 (PC World)
+.
+I still remember launching Windows Media Player 7 way back in 2000. Things
+have definitely changed since then!
+Now I need to get my hands on to an
+iRiver
+Clix
+[ Currently Playing : Role Model
+[*] - Eminem - Curtain Call: The Hits [Deluxe Edition] Disc 2 (03:25) ]
+Comments
+Anonymous
+May 17, 2006
+PingBack from
+http://www.makeyougohmm.com/20060517/3321/
+Anonymous
+May 17, 2006
+Hey Frank, do you know if there's going to be something like "Urge", but for us Aussies?
+Anonymous
+May 17, 2006
+Local URGE service?
+it would be nice to see.
+i'm not across any of the local plans, but i am sure there will be something in the works for us aussies
+Anonymous
+May 17, 2006
+The comment has been removed
+Anonymous
+May 17, 2006
+each to his own Geoff.
+Anonymous
+May 17, 2006
+The comment has been removed
+Anonymous
+May 17, 2006
+The comment has been removed
+Anonymous
+May 17, 2006
+Does this update do anything for MCE2005's atrocious performance when accessing music? I noticed that the CNET review referred to WMPs improvement in that area, noting that 10K+ MP3 libraries are now the norm rather than the exception. If WMP11 is installed, does MCE use its code in place of WMP10s?
+Anonymous
+May 17, 2006
+The comment has been removed
+Anonymous
+May 26, 2006
+lots of good info on credit at
+http://www.credit-facts.org/sitemap.aspx
+33
+Anonymous
+October 13, 2007
+PingBack from
+http://eminem.wpbloggers.com/?p=579
+Anonymous
+January 01, 2008
+PingBack from
+http://music.247blogging.info/?p=4023
+Anonymous
+June 13, 2009
+PingBack from
+http://outdoordecoration.info/story.php?id=775
+Additional resources
+Last updated on
+2006-05-17

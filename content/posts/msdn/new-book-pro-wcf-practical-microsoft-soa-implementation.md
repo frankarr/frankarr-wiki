@@ -1,0 +1,60 @@
+---
+title: "New Book - Pro WCF: Practical Microsoft SOA Implementation"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/new-book-pro-wcf-practical-microsoft-soa-implementation"
+date: "2006-06-14"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+New Book - Pro WCF: Practical Microsoft SOA Implementation
+Prolific author, Solutions Architect,  Cricket fan, and all round good
+guy,
+Chris Peiris
+has a new book
+coming out -
+Pro
+WCF: Practical Microsoft SOA Implementation
+:
+Pro WCF: Practical Microsoft SOA
+Implementation
+Part of Microsoft's radical new WinFX API is the Indigo foundation,
+more formally known as the Windows Communication Foundation, or WCF. Pro WCF:
+Practical Microsoft SOA Implementation is a complete guide to WCF from the SOA
+architecture perspective and shows you why WCF is important to web service
+development and architecture.
+The book covers the unified programming model, reliable messaging,
+security, the peer-to-peer programming model, and more. You'll also learn how
+to move your current DCOM and .NET remoting applications to WCF, and how to
+integrate those applications with new WCF-based applications. You' ll want to
+get ahold of a copy because it
+Contains a comprehensive WCF programming model
+Explains how queue management and reliable messaging work in WCF
+Discusses implementing transaction support in WCF
+Shows how to make WCF services interoperable with other SOA
+offerings
+Thoroughly covers WCF security topics and concerns
+I had a coffee with
+Chris
+in
+Canberra last year, when he was about to start the book. He showed me the
+outline. I think I still have the outline, but it's packed into one of the many
+boxes under my desk.
+It should motivate me to get my book written, but I'm not so dedicated. In
+fact, I'm pretty lazy. I'll leave the book writing to those with talent.
+[ Currently Playing : Walkin' on
+the Sun - Smash Mouth - Fush Yu Mang (03:27) ]
+Comments
+Anonymous
+June 15, 2006
+PingBack from
+http://soadigest.com/index.php/2006/06/15/new-book-pro-wcf-practical-microsoft-soa-implementation/
+Additional resources
+Last updated on
+2006-06-14

@@ -1,0 +1,22 @@
+---
+title: "THERE was movement at the station for the word had passed around"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/there-was-movement-at-the-station-for-the-word-had-passed-around"
+date: "2006-12-04"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+THERE was movement at the station for the word had passed around
+What does
+Banjo Patterson
+know??
+Additional resources
+Last updated on
+2006-12-04

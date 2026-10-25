@@ -1,0 +1,64 @@
+---
+title: "ASP.NET Site of the Day -- Quickflix"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/asp-net-site-of-the-day-quickflix"
+date: "2004-04-05"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+ASP.NET Site of the Day -- Quickflix
+A new DVD rental site has entered the market -
+Quickflix
+Some of the good things about the development:
+Most Application blocks with heavy reliance on Patterns from the MS site.
+Windows 2003 and SQL 2000 with SQL Reporting Services
+Finished in 6 weeks. The original time budget was 16 weeks.
+Doubling customer base each month.
+Web service integration with J2EE partners
+Largest DVD online rental company
+Give it a try!
+Comments
+Anonymous
+April 05, 2004
+I signed up for the free trial, and was unimpressed.
+Not at the service (fine) or the range (good) but just at the turnaround time... shipping as they do out of Perth, you're looking at a one-week turnaround per DVD -- say you have a disc ship on Monday, you get it on Wednesday, watch it Wednesday night, catch Thursday's post, and they don't receipt it (and ship the next one) until the next Monday.
+And if you're not able to watch it the night you get it (Wednesday in this example), well, it blows out even further.
+I'm sure this is fine for people in Perth, but for us East-coasters it's just impractical. Perhaps they need to look at the feature that some other similar services have where you can log in to the site and say 'I've sent this one back' and they'll ship the next one, even before they get the first one back.
+Anonymous
+April 05, 2004
+Holy expenses!!!
+Anonymous
+April 05, 2004
+Not impressed, no cross browser site ...
+Anonymous
+April 05, 2004
+The comment has been removed
+Anonymous
+April 06, 2004
+The comment has been removed
+Anonymous
+January 03, 2008
+PingBack from
+http://actors.247blogging.info/?p=2110
+Anonymous
+June 08, 2009
+PingBack from
+http://insomniacuresite.info/story.php?id=5904
+Anonymous
+June 08, 2009
+PingBack from
+http://cellulitecreamsite.info/story.php?id=9296
+Anonymous
+June 13, 2009
+PingBack from
+http://quickdietsite.info/story.php?id=9634
+Additional resources
+Last updated on
+2004-04-05

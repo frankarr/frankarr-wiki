@@ -1,0 +1,168 @@
+---
+title: "On This Day : June 16"
+platform: "radio-userland"
+era: "microsoft"
+source_url: "http://radio-weblogs.com/0124955/2006/06/16.html#a1164"
+date: "2006-06-16"
+tags:
+  - "Geek"
+  - "Random"
+  - "My Hobbies"
+  - "My Interests"
+---
+
+Friday, 16 June 2006
+On This Day : June 16
+June 16
+:
+Bloomsday
+in
+Dublin
+,
+Ireland
+;
+Youth Day
+in
+South Africa
+1487
+- The
+Battle of Stoke Field
+, the final
+battle
+of the
+Wars of the Roses
+, was fought.
+1745
+- During
+King George's War
+,
+British colonial
+forces led by
+William Pepperrell
+captured the
+French
+stronghold
+at
+Fortress Louisbourg
+on
+Cape Breton Island
+after a six-week
+siege
+.
+1846
+-
+Pius IX
+was
+elected pope
+, beginning the
+longest reign
+of all
+popes
+since the days of the
+apostles
+.
+1963
+-
+Soviet
+cosmonaut
+Valentina Tereshkova
+(
+pictured
+) became the first woman in
+space
+.
+1976
+-
+Police
+in
+Soweto
+,
+South Africa
+opened fire on schoolchildren
+protesting
+against the imposition of
+Afrikaans
+as a
+medium of instruction
+in
+township
+schools
+, triggering a series of nationwide demonstrations,
+strikes
+,
+riots
+and
+violence
+.
+[listening to: Danke Schoen -
+Wayne Newton
+]
+11:54:26 PM
+comment [
+]
+trackback [
+]
+G!
+
+Geek
+
+Random
+Saints Destroyed by Crows
+The Saints had their biggest loss of the season tonight. The crows were just too good. The crows were a machine - well drilled, well executed. The Saints were a shambles.
+And I was there live to witness this carnage
+.
+I felt good going to the game. It had been 2 seasons since I had witnessed a loss.
+I'm going to be miserable for a while. My tipping is going to suck this week too.
+ST KILDA:
+2.1, 3.7, 5.10, 8.12 (60)
+ADELAIDE:
+5.3, 10.7, 13.12, 18.15 (123)
+GOALS  St Kilda:
+Riewoldt 2, Milne 2, Goddard, Gehrig, McQualter, Ackland
+Adelaide:
+Hentschel 3, Ricciuto 2, Thompson 2, McGregor 2, Biglands 2, Reilly 2, Bode, Goodwin, Stevens, McLeod, Shirley
+BEST  St Kilda:
+Goddard, Baker, Ball, Peckett, S Fisher
+Adelaide:
+Goodwin, Massie, Edwards, Stevens, McLeod, Mattner, Johncock, Shirley, Reilly
+INJURIES  St Kilda:
+Harvey (hamstring), Hudghton (knee)
+Adelaide:
+Nil
+CHANGES - Adelaide: Burton (hamstring) replaced in selected side by Vince
+REPORTS -
+Nil
+UMPIRES -
+Vozzo, Meredith, McInerney
+CROWD -
+34,170 at Telstra Dome
+Ruthless Crows destroy Saints
+FOX SPORTS, Australia
+ADELAIDE clinically steam-rolled St Kilda by 63 points at Telstra Dome tonight, leaving the Saints barely hanging in the top eight, let alone looking like premiership contenders.
+Crows crush Saints
+sportal.com.au
+McLeod wait-and-see on surgery
+Advertiser Adelaide
+Crows destroy Saints by 63 points
+Sydney Morning Herald
+all 6 related »
+[listening to: Ain't That a Kick in the Head -
+Dean Martin
+]
+11:00:36 PM
+comment [
+]
+trackback [
+]
+G!
+
+My Hobbies
+
+My Interests
+© Copyright 
+     2006
+     Frank Arrigo.
+A Geek Microsoft Blogger
+Last update: 
+     8/07/2006; 10:42:28 AM
+     .

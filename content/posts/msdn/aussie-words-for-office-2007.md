@@ -1,0 +1,86 @@
+---
+title: "Aussie words for Office 2007"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/aussie-words-for-office-2007"
+date: "2006-05-13"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+Aussie words for Office 2007
+Just spotted this poll on the
+Microsoft Australia home page
+What
+are the great Aussie Words
+For the first time ever Microsoft Australia is nominating typical
+Aussie words to be included in the next version of Office.
+These Aussie words will be determined by the most popular choice as
+voted by people just like you and a panel of experts. These people include:
+Adam Spencer (Radio Host), Peter FitzSimons (Sports Writer) Dr Ruth Wajnryb
+(Linguist, Researcher and Writer), David Blair (a founding member of the
+Editorial Committee of the Macquarie Dictionary) and Microsoft Australia's
+Director for Information Worker - Tony Wilkinson.
+Current voting results:
+The words you get to vote on are
+A. Jackaroo
+B. Uluru
+C. Ugg
+D. Dag
+E. Dinky-di
+F. Bogan
+G. Sheila
+H. G'day
+I. Ute
+J. Sanga
+K. Wuss
+L. Cooee
+M. Phar Lap
+N. Bradman
+O. Ridgy-didge
+P. Sickie
+Q. Dob
+R. Galah
+S. Woomera
+T. Ironman
+U. Waratah
+V. Bonza
+W. Rogaine
+X. Motza
+Y. Cockie
+Z. Trackies
+Most are Dinky-Di, but Rogaine?  That's not an Aussie word. Which Galah
+put that in?? What a Bogan!!!
+Vote now for your top 5.
+[ Currently Playing : You're Not
+from Brighton - Fatboy Slim - You've Come a Long Way, Baby (05:21) ]
+Comments
+Anonymous
+May 13, 2006
+hopefully the "g'day" will have a "world" after it too
+Anonymous
+May 14, 2006
+The comment has been removed
+Anonymous
+June 07, 2006
+I've been using Blogbeat for a while
+now, to
+give me some insights into my
+blog stats.
+It's...
+Anonymous
+June 01, 2009
+PingBack from
+http://paidsurveyshub.info/story.php?id=71537
+Anonymous
+June 08, 2009
+PingBack from
+http://toenailfungusite.info/story.php?id=8338
+Additional resources
+Last updated on
+2006-05-13

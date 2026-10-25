@@ -1,0 +1,60 @@
+---
+title: "Event: Microsoft Hosting Days - SaaS for ISVs, Hosters and DynamicsPartners"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/event-microsoft-hosting-days-saas-for-isvs-hosters-and-dynamicspartners"
+date: "2007-01-22"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+Event: Microsoft Hosting Days - SaaS for ISVs, Hosters and DynamicsPartners
+Sydney â Tuesday 13 February 2007, Microsoft Sydney
+Melbourne â Wednesday 21 February 2007, Microsoft Melbourne
+Brisbane â Tuesday 27 February 2007, Microsoft Brisbane
+Register now for the Microsoft Hosting Day and learn how to capitalize on the growing demand for software-as-a-service (SaaS).
+This full day seminar will give you the knowledge and tools you need to expand your business whether you are a
+Pure Hoster, Telco, Independent Software Vendor (ISV), Reseller (VAR), System Integrator or Microsoft Dynamics Partner.
+The Microsoft Hosting Day is an annual event that offers a great opportunity to meet Microsoft professionals and partners of the hosting ecosystem.
+This
+FREE seminar
+will cover:
+â¢ The latest news about the
+growing opportunities for SaaS
+on Windows technology
+â¢ A wide range of business opportunities available with Microsoft Hosting solutions, including Windows-based Hosting for Applications, Hosted Messaging and Collaboration, Hosted Dynamics and Hosted CRM
+â¢ Aligning your business with Microsoftâs product roadmap â so you can maximize benefits from the planned testing, release and availability of Microsoft products and services, especially with
+SharePoint 3.0 and IIS 7.0
+â¢ Using
+best practices to sell SaaS
+offers or business-class e-mail to small and medium-sized businesses.
+The more services you provide, the more customers you will attract and retain.
+Windows-based hosting allows you to create value-added offerings and this seminar will tell you how.
+For ISVs and Microsoft Dynamics Partners offering or planning to offer software-as-a-service (SaaS), we will cover the following:
+â¢ How to take advantage of the Microsoft Service Provider License Agreement (SPLA)
+â¢ How to capitalize on the growing demand for SaaS
+â¢ The latest news about opportunities for SaaS on Windows
+â¢ SaaS offers that will help you grow business opportunities
+Places are limited, so register for the Microsoft Hosting Day today!
+We look forward to seeing you there.
+Sincerely,
+The Microsoft Hosting Team
+microsoft.com/hosting
+Â© 2007 Microsoft Corporation. All Rights Reserved.
+Published with
+BlogMailr
+Comments
+Anonymous
+January 22, 2007
+Well - the trend for the heavy technologies are more or less set. SaaS isn't going to be presented to
+Anonymous
+January 28, 2007
+No Adelaide either... :-(
+Additional resources
+Last updated on
+2007-01-22

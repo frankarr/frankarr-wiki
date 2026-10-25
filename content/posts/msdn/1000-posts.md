@@ -1,0 +1,87 @@
+---
+title: "1,000 Posts"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/1000-posts"
+date: "2006-07-28"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+1,000 Posts
+Drumroll please.
+This is my 1,000 post on
+https://blogs.msdn.com/frankarr/
+My 1st
+post here was on Dec 3 2003
+. Thats
+968
+days ago!
+That's an average of at least on post per day.
+The graph below shows my 'monthly' output.
+That big dip in the middle is when I was off work.
+My top 6 months where I exceeded 50 posts per month were
+Month
+Posts
+Mar-04
+67
+Jun-06
+64
+May-06
+63
+Dec-03
+63
+Jul-06
+57
+Sep-05
+51
+So, 1,000 posts down. Goodness knows how many to come,
+[ Currently Playing : Distant Sun -
+Crowded House - Recurring Dream: The Very Best of Crowded House (03:50) ]
+Comments
+Anonymous
+July 27, 2006
+Congrats Franky, here's to another 1K!
+Anonymous
+July 28, 2006
+w00t! Congrats!
+Anonymous
+July 28, 2006
+The comment has been removed
+Anonymous
+July 28, 2006
+nah, i like it old school
+i was going to do it with ink in onenote on a graph paper template, but i thought better of it
+Anonymous
+July 28, 2006
+I have been running this blog now for a little over 3 and a half years, and after reading this post,...
+Anonymous
+July 28, 2006
+Concrats!
+Does it hurt your social live? :)
+Anonymous
+July 30, 2006
+Congrats!  This must make you an official publication.
+Anonymous
+August 28, 2006
+Last month, I celebrated my 1,000 Posts&amp;nbsp;and Today marks my 1,000th day of blogging on
+http://blogs.msdn.com/
+...
+Anonymous
+January 09, 2008
+Wow, just had a look at my control panel to free some comments, and realized I had hit 500 posts. So,
+Anonymous
+January 09, 2008
+Wow, just had a look at my control panel to free some comments, and realized I had hit 500 posts. So
+Anonymous
+January 09, 2008
+PingBack from
+http://msdnrss.thecoderblogs.com/2008/01/10/500-posts-wow/
+Additional resources
+Last updated on
+2006-07-28

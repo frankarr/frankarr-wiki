@@ -1,0 +1,99 @@
+---
+title: "A bunch of photos from Flickr"
+platform: "radio-userland"
+era: "microsoft"
+source_url: "http://radio-weblogs.com/0124955/2005/02/03.html#a784"
+date: "2005-02-03"
+tags:
+  - "Family"
+  - "Geek"
+  - "Family"
+  - "Geek"
+---
+
+Thursday, 3 February 2005
+A bunch of photos from Flickr
+What follows is the code to display 10 random photos from my Flickr account. If no images appear, you can see my
+flickr photo slide show
+or how about just photos of
+brice
+[listening to: Mi Bebé Masoquista -
+Fatboy Slim
+]
+11:30:32 PM
+comment [
+]
+trackback [
+]
+G!
+
+Family
+
+Geek
+Asperger's Syndrome, Bullies and the harsh reality
+Saw this in The SMH today...
+Redlands school stabbing charges dismissed
+A magistrate today cited mental health laws when dismissing criminal charges against a 15-year-old teenager accused of stabbing a fellow student at a Sydney private school.
+A 13-year-old was stabbed in the back while in the playground of the exclusive SCECGS Redlands school, on Sydney's north shore, on November 19 last year.
+The victim, then a Year 8 student, was hospitalised but released the next day.
+The 15-year-old was charged with maliciously wounding the 13-year-old, maliciously inflicting grievous bodily harm and having custody of a knife in a school.
+He pleaded not guilty to all charges when he appeared in Bidura Children's Court last December.
+The case returned to Bidura today but Magistrate Paul Mulroney dismissed the charges under the Mental Health Act.
+Mr Mulroney released the boy into the care of his parents and ordered the teen, who suffers from the developmental disorder Asperger's Syndrome, continue receiving therapy and assessment.
+Sufferers of Asperger's Syndrome often experience impaired social interaction, due to their inability to understand social behaviour.
+My eldest son
+Antony
+has been
+diagnosed with Asperger's
+and he experienced a terrible time at
+primary school
+in which he was bullied constantly. In his final year he lunged at a bully with a pair of scissors, in a final act of desperation - just like the boy mentioned in the article. We dealt with the issue amongst ourselves, but in retrospect we should have taken it further as it would have forced
+the school
+to have their bullying programs reviewed.
+Oh, there is a happy ending here. Antony is attending
+North Sydney Boys High School
+and he LOVES it and there is no problems with Bullies. It seems High School is more accepting of those who march to a different beat.
+[listening to: Talking Bout My Baby -
+Fatboy Slim
+]
+9:10:25 PM
+comment [
+]
+trackback [
+]
+G!
+
+Family
+Orkut Update : Feb 2005
+It has been a long time since I updated my Orkut Stats -
+November
+in fact!
+My
+Orkut
+network continues to grow.
+I am now connected to
+3,975,578
+people through
+100
+friends, with
+15
+fans.
+I need more fans - come on people! Especially those who asked me to invite them to Orkut. Show me the love!
+[listening to: 5th Set -
+Spiderbait
+]
+8:58:58 AM
+comment [
+]
+trackback [
+]
+G!
+
+Geek
+© Copyright 
+     2006
+     Frank Arrigo.
+A Geek Microsoft Blogger
+Last update: 
+     8/07/2006; 10:20:33 AM
+     .

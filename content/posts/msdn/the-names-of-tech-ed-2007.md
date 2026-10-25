@@ -1,0 +1,103 @@
+---
+title: "The Names of Tech.Ed 2007"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/the-names-of-tech-ed-2007"
+date: "2007-07-13"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+The Names of Tech.Ed 2007
+I've been poking around in the registration data, as I have done for past Tech.Eds
+Here's a look at the top 10 names of registered attendees, with a comparison of the past 2 years as well.
+2007
+2006
+2005
+1
+David
+David
+David
+2
+Andrew
+Michael
+Andrew
+3
+Peter
+Andrew
+Michael
+4
+Paul
+Peter
+Paul
+5
+John
+John
+Peter
+6
+Michael
+Mark
+John
+7
+Chris
+Paul
+Mark
+8
+Scott
+Chris
+Chris
+9
+Mark
+James
+Craig
+10
+Matthew
+Richard
+Robert
+Scott and Matthew are the big movers this year.
+Technorati tags:
+Tech.Ed
+,
+TechEd
+Comments
+Anonymous
+July 13, 2007
+Now I know why Microsoft calls their presenters "Evangelists", the top ten attendees have such Biblical names.
+It would be nice to see a list of the top-ten female names also.
+Anonymous
+July 13, 2007
+And not a girl's name in the list...
+sigh
+Know of any competitions to win tickets to Tech.Ed ? I'm willing to belly dance if need be...
+Anonymous
+July 13, 2007
+Looks like the apostles are strong as ever..
+Anonymous
+July 14, 2007
+More data surfing. On Friday, I looked at the Names of Tech.Ed 2007 I had a few comments for the top
+Anonymous
+July 14, 2007
+More data surfing. On Friday, I looked at the Names of Tech.Ed 2007 I had a few comments for the top
+Anonymous
+July 17, 2007
+More data surfing. So far, we have looked at the Names of Tech.Ed 2007 and the male/female distribution
+Anonymous
+July 17, 2007
+More data surfing. So far, we have looked at the Names of Tech.Ed 2007 and the male/female distribution
+Anonymous
+August 08, 2007
+I got an email from a Tech.Ed attendee this week listing the Tech.Ed Parties (and believe it or not,
+Anonymous
+August 08, 2007
+I got an email from a Tech.Ed attendee this week listing the Tech.Ed Parties (and believe it or not,
+Anonymous
+June 03, 2009
+We opened the TechEd registration flood gates a couple if weeks ago and I've just been having a look
+Additional resources
+Last updated on
+2007-07-13

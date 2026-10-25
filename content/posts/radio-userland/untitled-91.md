@@ -1,0 +1,175 @@
+---
+title: "Untitled"
+platform: "radio-userland"
+era: "microsoft"
+source_url: "http://radio-weblogs.com/0124955/2003/12/27.html#a322"
+date: "2003-12-27"
+tags:
+  - "TV"
+  - "My Interests"
+  - "My Interests"
+  - "My Interests"
+  - "My Interests"
+  - "Random"
+---
+
+Saturday, 27 December 2003
+Kramer Cracks in "Seinfeld" Feud (E! Online)
+. E! Online - Michael Richards, the beloved, wacky star of the much-Emmyd comedy series has broken ranks with costars Jason Alexander and Julia Louis-Dreyfus and decided to participate in an upcoming DVD about the show. [
+Yahoo! News - Most Viewed
+]
+Fantastic - Seinfeld DVD coming soon!
+[listening to: I'm Cool -
+Reel Big Fish
+]
+10:31:48 PM
+comment [
+]
+trackback [
+]
+
+TV
+ABC Sport - Cricket - Hayden, Ponting lead Aussie recovery
+A much better day for the Aussies.
+"
+In-form batsmen Matthew Hayden and Ricky Ponting both hammered centuries as Australia raced to 3 for 317 at stumps, 49 runs behind India's first innings total after two days of the third Test at the MCG. Needing to win to have any chance of snaffling the Border-Gavaskar trophy from the tourists' grasp, Australia bowled India out for 366 earlier in the day in a fightback of admirable proportions. The bowlers stepped up with 6 for 16 as India collapsed from their lofty overnight perch of 4 for 329, and then Hayden (136) and Ponting (125 not out) rammed home the advantage. Damien Martyn (7 not out) will resume on day three with Ponting. Hayden and Ponting shared in a 234-run stand for the second wicket, after the early dismissal of Justin Langer (14) had the world champions on the back foot.
+" [
+more
+]
+[listening to: Cheer Up -
+Reel Big Fish
+]
+9:51:40 PM
+comment [
+]
+trackback [
+]
+G!
+
+My Interests
+Top Movies for 2003
+Nice
+article
+in the
+SMH
+about the top 20 movies for the year. I've got most of them on
+DVD
+!
+Movie and Box office during 2003
+Finding Nemo
+($37 million) *
+The Matrix Reloaded
+($33.5m) *
+The Two Towers
+($30m) *
+Pirates of the Caribbean
+($25m)
+Bruce Almighty
+($20.5m) *
+Chicago
+($19m) *
+Terminator 3
+($19m) *
+Charlie's Angels: Full Throttle
+($19m) *
+The Matrix Revolutions
+($18m)
+X-Men 2
+($16.5m)
+8 Mile
+($16.5m)
+The Return of the King
+($16m est.)
+Catch Me If You Can
+($15m) *
+Daddy Day Care
+($15m) *
+Two Weeks Notice
+($15m) *
+2 Fast 2 Furious
+($14m)
+American Pie: The Wedding
+($13m)
+Johnny English
+($12.5m) *
+The Italian Job
+($11m)
+How to Lose a Guy in 10 Days
+($11m) *
+These were the top 5 Aussie movies. Pretty disappointing really.
+Ned Kelly
+($8.5m)
+Japanese Story
+($4m)
+Fat Pizza
+($3.5m)
+Bad Eggs
+($2.5m)
+Gettin' Square
+($2m)
+[listening to: Under 21 -
+Save Ferris
+]
+2:26:25 PM
+comment [
+]
+trackback [
+]
+G!
+
+My Interests
+Australia run through India on second morning
+Australia needed only an hour and ten minutes on the second day to complete their recovery in the third Test. They took six wickets for just 37 runs as India, resuming at 329 for 4, were bowled out for 366.
+[
+more
+]
+[listening to: Nobody But Me -
+Save Ferris
+]
+1:43:28 PM
+comment [
+]
+trackback [
+]
+G!
+
+My Interests
+FOX SPORTS | India all out for 366 (December 27, 2003)
+"
+INDIA has been dismissed for 366 in its first innings on day two of the third cricket Test against Australia at the MCG.
+"
+A bit of a collapse really - from 329/4 overnight, they lost 6 wickets for 37 runs.
+[listening to: Come On Eileen -
+Save Ferris
+]
+12:37:27 PM
+comment [
+]
+trackback [
+]
+G!
+
+My Interests
+NEWS.com.au | Swedish baby baked in oven (December 26, 2003)
+A special kind of christmas lunch?
+"
+POLICE have arrested a mother for allegedly baking her five-month-old baby in an oven, seriously burning the infant, media and officials said today. The child received second-degree burns all over his body during the incident last weekend, and was in stable condition in a Gothenburg hospital, a clinic spokeswoman said.
+"
+[listening to: Sell Out -
+Reel Big Fish
+]
+11:56:18 AM
+comment [
+]
+trackback [
+]
+G!
+
+Random
+© Copyright 
+     2006
+     Frank Arrigo.
+A Geek Microsoft Blogger
+Last update: 
+     8/07/2006; 9:55:12 AM
+     .

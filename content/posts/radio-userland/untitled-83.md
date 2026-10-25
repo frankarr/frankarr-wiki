@@ -1,0 +1,349 @@
+---
+title: "Untitled"
+platform: "radio-userland"
+era: "microsoft"
+source_url: "http://radio-weblogs.com/0124955/2003/12/23.html#a312"
+date: "2003-12-23"
+tags:
+  - "Random"
+  - "Family"
+  - "Random"
+  - "Family"
+  - "Family"
+  - "Random"
+  - "Family"
+---
+
+Tuesday, 23 December 2003
+The Twelve Days of Blogging
+Too funny
+(The only problem is a lot of the links dont work anymore, as this piece was written in 1999.)
+On the first day I was
+blogging
+, my
+true love
+mailed to
+me
+: a link about
+Mahir Cagri
+.
+On my second day of
+blogging
+, a
+Deja
+search revealed: two
+dancing hamsters
+and a link about
+Mahir Cagri
+.
+By the third day I was
+blogging
+, there for all to see, were three quick
+Epinions
+, two
+dancing hamsters
+and a link about
+Mahir Cagri
+.
+On my fourth day of
+blogging
+, a reader sent to me: four
+Pitas
+pages, three quick
+Epinions
+, two
+dancing hamsters
+and a link about
+Mahir Cagri
+.
+After five days of
+blogging
+, I began to need: FIVE
+MOUNTAIN DEWS
+!!! (ba-dum-bum-bum), four
+Pitas
+pages, three quick
+Epinions
+, two
+dancing hamsters
+and a link about
+Mahir Cagri
+.
+On my sixth day of
+blogging
+, I studied
+PHP
+, with six
+Manila
+zealots
+, FIVE
+MOUNTAIN DEWS
+!!! (ba-dum-bum-bum), four
+Pitas
+pages, three quick
+Epinions
+, two
+dancing hamsters
+and a link about
+Mahir Cagri
+.
+On my seventh day of
+blogging
+,
+Robot Wisdom
+linked to me, with seven
+mini-banners
+, six
+Manila
+zealots
+, FIVE
+MOUNTAIN DEWS
+!!! (ba-dum-bum-bum), four
+Pitas
+pages, three quick
+Epinions
+, two
+dancing hamsters
+and a link about
+Mahir Cagri
+.
+On my eighth day of
+blogging
+, I stole from
+PeterMe
+eight
+Webpardy
+queries, seven
+mini-banners
+, six
+Manila
+zealots
+, FIVE
+MOUNTAIN DEWS
+!!! (ba-dum-bum-bum), four
+Pitas
+pages, three quick
+Epinions
+, two
+dancing hamsters
+and a link about
+Mahir Cagri
+.
+On my ninth day of
+blogging
+, I started my first meme, jumping nine
+Beebo
+ratings, eight
+Webpardy
+queries, seven
+mini-banners
+, six
+Manila
+zealots
+, FIVE
+MOUNTAIN DEWS
+!!! (ba-dum-bum-bum), four
+Pitas
+pages, three quick
+Epinions
+, two
+dancing hamsters
+and a link about
+Mahir Cagri
+.
+On my tenth day of
+blogging
+, I began to see ten
+profit models
+, nine
+Beebo
+ratings, eight
+Webpardy
+queries, seven
+mini-banners
+, six
+Manila
+zealots
+, FIVE
+MOUNTAIN DEWS
+!!! (ba-dum-bum-bum), four
+Pitas
+pages, three quick
+Epinions
+, two
+dancing hamsters
+and a link about
+Mahir Cagri
+.
+On my eleventh day of
+blogging
+, at
+CamCon in N-Y-C
+, I saw eleven fellow
+bloggers
+, ten
+profit models
+, nine
+Beebo
+ratings, eight
+Webpardy
+queries, seven
+mini-banners
+, six
+Manila
+zealots
+, FIVE
+MOUNTAIN DEWS
+!!! (ba-dum-bum-bum), four
+Pitas
+pages, three quick
+Epinions
+, two
+dancing hamsters
+and a link about
+Mahir Cagri
+.
+On my twelfth day of
+blogging
+, the
+LinkWatcher
+decreed, I'd made twelve "
+suspect
+" updates, eleven fellow
+bloggers
+, ten
+profit models
+, nine
+Beebo
+ratings, eight
+Webpardy
+queries, seven
+mini-banners
+, six
+Manila
+zealots
+, FIVE
+MOUNTAIN DEWS
+!!! (ba-dum-bum-bum), four
+Pitas
+pages, three quick
+Epinions
+, two
+dancing hamsters
+and a link about
+Mahir Cagri
+.
+[listening to: Al I Want for Christmas (Is My Two Front Teeth) -
+King Cole Trio
+]
+4:50:26 PM
+comment [
+]
+trackback [
+]
+G!
+
+Random
+QuikTrak
+When I was arranging the insurance for my
+new car
+, my
+insurance company
+recommended I install
+QuikTrak
+. They would discount my policy if I had this service.
+So, I found out some
+information
+-
+QuikTrak Networks Limited is a telecommunications company that specialises in providing solutions for locating and tracking vehicles, people, and mobile assets. Specific product solutions include: Motor vehicle security, Fleet management and security, Plant & Equipment security, and Personal security.
+Sounds ok - so I booked an installation.
+Finally, it is now installed, so I should feel safe now. This system has
+saved
+lots of cars so far.
+So, now I have my bases covered -
+silver car
+with
+quiktrak
+.
+[listening to: The Merriest -
+June Christy
+]
+4:31:02 PM
+comment [
+]
+trackback [
+]
+G!
+
+Family
+
+Random
+Rita's Birthday Photo
+Nice shot of my sister
+Rita
+and her 2 gorgeous girls Allegra and
+Luisa
+(and Rita's friend Becky).
+This photo was taken on
+Rita's birthday, when she turned 37
+!
+Nice
+flowers and balloon
+. Who sent you those ;)
+Must be some considerate, thoughtful, kind, generous
+person
+.
+[listening to: Little Saint Nick -
+The Beach Boys
+]
+2:28:50 PM
+comment [
+]
+trackback [
+]
+G!
+
+Family
+I am 1337
+Antony
+sent me a message today. He said that he was 1337.
+A quick search found this
+reference
+So, my little fella thinks he's an elite
+hax0rz
+, huh. Actually, he's a
+lamer
+but with potential.
+[listening to: Cool -
+Martin Denny
+]
+9:06:21 AM
+comment [
+]
+trackback [
+]
+G!
+
+Family
+Urgent Letter
+I got a
+Nigerian Banker Letter
+today. I've lost track of how many of these I have received.
+Maybe I shld do what the guy at
+419 Eater
+did.
+[listening to: Unsent Letter -
+MGF
+]
+9:02:04 AM
+comment [
+]
+trackback [
+]
+G!
+
+Random
+Police surround house after hold-up.
+we were going to go to hornsby to do some shopping, but we changed our plans. if we had gone down there, we would have been in the middle of this. yikes!
+"
+Police have cordoned off a number of streets around a house at St Clair in western Sydney to try and catch two gunmen involved in a bank robbery at Hornsby in the city's north t

@@ -1,0 +1,67 @@
+---
+title: "Wonderful WPF Apps : UniveRSS - a 3D Vista RSS Reader"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/wonderful-wpf-apps-universs-a-3d-vista-rss-reader"
+date: "2006-11-27"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+Wonderful WPF Apps : UniveRSS - a 3D Vista RSS Reader
+My brothers & sister in EMEA have been busy.  They have launched an curious application called
+UniveRSS
+.
+UniveRSS
+is a 3D RSS feed reader for Windows Vista. It leverages the
+Windows Presentation Foundation
+and provides a stunning way of visualizing RSS feeds and their content. It introduces a full-screen 3D universe where galaxies represent the folders of your RSS feed directory, and the stars are represented by the spinning cubes that hold the feed information. Size and position of the feed cubes indicate how many unread items they contain.
+It installs as a click-once application, which is a nice touch.
+Give it a try - it's quite an interesting way to look at your feed universe.
+Technorati tags:
+UniveRSS
+,
+WPF
+[
+Current Listening to
+:
+Pride (In the Name of Love)
+by
+U2
+from
+18 Singles [Bonus Track]
+]
+Comments
+Anonymous
+November 27, 2006
+PingBack from
+http://mdavey.wordpress.com/2006/11/28/wpf-universs/
+Anonymous
+November 28, 2006
+The comment has been removed
+Anonymous
+December 08, 2006
+I finally was able to logon to my BlogBeat account this weekend, following a PEBKAC sitution. Normally,
+Anonymous
+December 31, 2006
+As is usual for this time of the year, we look back a bit. Here's my top 20 posts for December 2006 .
+Anonymous
+December 31, 2006
+Here's something I havent featued before, the top 20 referrers to articles on my blog. I sense a theme
+Anonymous
+February 01, 2007
+TaDa!, top 20 posts for January 2007 . Old posts continue to be popular. My Elfamorphosis Windows Vista
+Anonymous
+May 30, 2008
+My brothers &amp;amp; sister in EMEA have been busy. They have launched an curious application called UniveRSS . UniveRSS is a 3D RSS feed reader for Windows Vista. It leverages the Windows Presentation Foundation and provides a stunning way of visualizin
+Anonymous
+June 04, 2008
+My brothers &amp;amp; sister in EMEA have been busy. They have launched an curious application called UniveRSS . UniveRSS is a 3D RSS feed reader for Windows Vista. It leverages the Windows Presentation Foundation and provides a stunning way of visualizin
+Additional resources
+Last updated on
+2006-11-27

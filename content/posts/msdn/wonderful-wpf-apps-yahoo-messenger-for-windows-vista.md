@@ -1,0 +1,73 @@
+---
+title: "Wonderful WPF Apps : Yahoo! Messenger for Windows Vista"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/wonderful-wpf-apps-yahoo-messenger-for-windows-vista"
+date: "2007-01-09"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+Wonderful WPF Apps : Yahoo! Messenger for Windows Vista
+Shane Morris
+(and
+others
+) point to the
+Yahoo! Messenger on WPF!
+demo featured
+on 10,
+which was shown at CES.
+Michael Coates
+has done a stellar job at bringing all the news together about this in a series of recent posts
+Next-Generation Yahoo Messenger
+More on that cool Yahoo Messenger, built in WPF
+The New Yahoo Messenger
+Yahoo Messenger on Windows Vista
+Watch the video preview
+and sign up to give it a try when it's ready.
+Built from the ground up specifically for Microsoft Windows Vista, this all-new version combines the reliable and easy-to-use features you've always loved from Yahoo! Messenger with the cutting-edge experience of this new operating system.
+Instant message, voice, webcam video, and more
+Use the integrated Yahoo! Messenger Sidebar gadget to keep up with the friends that matter most
+Also add Windows Liveâ¢ Messenger friends to your contact list to see when they're online and IM them
+Keep conversations organized by dragging and dropping them into one tabbed window
+Brand new emoticons, program icons and alert sounds
+Instantly change the look and feel of your Yahoo! Messenger interface
+Automatic groups are created in your contact list based on your Yahoo! interests (i.e. Yahoo! Sports Fantasy Football league)
+Technorati tags:
+Shane Morris
+,
+WPF
+,
+Yahoo Messenger
+,
+CES 2007
+Comments
+Anonymous
+January 09, 2007
+Saw this the other day on The WPF Blog (
+http://thewpfblog.com/?p=76
+), and it looks really well made.
+Now to wait and see if there's going to be a WPF version of Windows Live Messenger?
+Anonymous
+January 09, 2007
+Yahoo Messenger fatto con WPF
+Anonymous
+January 09, 2007
+The comment has been removed
+Anonymous
+January 09, 2007
+darren -
+what makes you think msn isnt doing this. (note i said msn)
+from where i sit, ms is a platform company. i want to see platform adoption. so seeing y! do something with wpf is awesome.
+kudo to y!
+Anonymous
+February 01, 2007
+TaDa!, top 20 posts for January 2007 . Old posts continue to be popular. My Elfamorphosis Windows Vista
+Additional resources
+Last updated on
+2007-01-09

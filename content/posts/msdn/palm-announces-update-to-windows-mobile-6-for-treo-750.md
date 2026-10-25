@@ -1,0 +1,70 @@
+---
+title: "Palm Announces Update to Windows Mobile 6 for Treo 750"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/palm-announces-update-to-windows-mobile-6-for-treo-750"
+date: "2007-03-28"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+Palm Announces Update to Windows Mobile 6 for Treo 750
+I've said it before, and I'll say it again -
+I love my Palm Treo 750 !
+It has been a faithful servant for almost 2 months. It has been a good replacement for my former love,
+my iMate K-JAM
+.
+Today, I saw the news
+Palm Announces Update to Windows Mobile 6 Coming for Treo 750 Smartphone
+.
+Kewl.
+Finally I can get to play with
+Windows Mobile 6
+Microsoft Reveals New Windows Mobile 6 Smartphone Software, Improves Worldâs Fastest-Growing Mobile Operating System
+Information Management Made Easier
+Users of the Microsoft Office system on the PC â of which there are nearly 400 million worldwide â will feel right at home with the new mobile versions of Outlook, Word, Excel and PowerPoint available for Windows Mobile 6 powered devices. Windows Mobile 6 addresses extensive user feedback and makes information management easier and more convenient through the following improvements:
+Better-looking e-mail.
+Users view e-mail the way it was intended with its original pictures, tables and formatting, whether from a corporate e-mail server such as Exchange Server 2007, Web-based accounts such as Windows Live Hotmail or Yahoo! Mail, or a wide range of other service providers.
+Ease of viewing and editing of Office system documents.
+The new Office Mobile suite, built for all Windows Mobile powered devices, gives users a truly familiar and powerful experience with rich viewing and editing capabilities, without having to worry about the deletion of critical formatting and images.
+E-mail management and setup with fewer clicks.
+Nine new one-click options have been added, including Reply All, setting a flag, moving a message to a subfolder, and, of course, Delete. Users can set an automatic out-of-office reply while on the road when using a Windows Mobile 6 powered device and Exchange Server 2007.
+Synchronization with Windows Vista.
+Windows Vistaâ¢ and the Windows Mobile Device Center take the guesswork out of managing a device and swapping music, pictures, movies and Outlook information between PC and the device.
+Smart calendar bar.
+This innovative new feature gives users the ability to understand at a glance the day or week ahead and quickly determine open time on their schedules. With Exchange Server 2007, they can see who is attending a meeting and forward or reply to meeting requests.
+Web search, e-mail, instant messaging (IM) and blogging all together.
+Windows Live for Windows Mobile will provide customers with a rich set of services including Windows Live Hotmail, Windows Live Messenger, Live Search and Windows Live Spaces, uniquely designed to work with Windows Mobile software. Users can also find all their contacts in one unified list and see presence information on their Windows Live Messenger contacts.
+Contacts with context.
+Call history is now placed where it belongs, in each individual contact card, so people spend less time searching and more time communicating.
+Now I need to work out how to get my phone updated!
+Technorati tags:
+Palm Treo 750
+,
+Windows Mobile 6
+Comments
+Anonymous
+March 27, 2007
+once you work this out, can you tell me. Save me a day of shenanigans
+Anonymous
+March 28, 2007
+Oh if only i had a new phone i too could share in the Frank Arr moment of loving the Palm Treo..
+stares at his inferior Sony Z800i which is more of a brick then a phone
+..
+wonders if all the other geeks will make fun of him for having a 8th generation phone
+.
+Kids can be so cruel..
+Anonymous
+October 11, 2007
+Arrived today! Unboxed 10 minutes later! The HTC TyTN II (AKA : AT&amp;T Tilt, AT&amp;T 8925, T-Mobile
+Anonymous
+January 02, 2008
+When I started the year in 2007, I had one phone - my trusty I-Mate K-JAM Then I scored a Palm Treo 750
+Additional resources
+Last updated on
+2007-03-28

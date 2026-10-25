@@ -1,0 +1,97 @@
+---
+title: "G'day new visitors"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/gday-new-visitors"
+date: "2005-03-02"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+G'day new visitors
+If you have come to visit me following my sponsorship of
+G'day World from Demo@15
+, or
+from
+the recent article in The Bulletin on Business Blogging by Josh Gliddon
+, let
+me say G'day.
+I bet you are wondering who the hell I am, and why did I support
+those
+Wacky Australians
+who are producing
+G'Day World
+, as well as
+a number of other podcasts under the banner of
+The Podcast Network
+.
+First off,
+Cam
+and
+Mick
+are mates of mine. I introduced
+them which kinda helped launch their brilliant new career.
+They
+interviewed me in a rather infamous podcast recently
+.
+Secondly, I work at Microsoft in Australia. I head up a team of Evangelists,
+who work with different technical communities - Developer, Academic and IT
+Professional.
+All members
+of my team have been bitten by the blogging bug too
+. I am also the current
+editor of the
+Aussie
+MSDN Flash
+, a bi-weekly newsletter. I've been in the industry many years,
+and have
+a
+summary about me online
+, which needs to be updated.
+Thirdly, I am a pretty prolific blogger. Currently, I have 3 major blogs that
+I maintain.
+This one
+which is work
+related,
+a personal one
+and one
+on
+The Spoke
+.
+I have been interviewed a few times for my blogging, and have featured in
+The Bulletin
+twice recently  -
+once on
+podcasting
+and once on
+business
+blogging
+. And I have been asked to participate on
+a
+panel at an upcoming Business Blogging forum here in Sydney
+.
+Finally,
+I'm a
+dad
+- I have a
+lovely caring
+supportive wife
+and
+four
+wonderful kids
+. I am a
+mad
+passionate St.Kilda supporter
+and being online is addictive.
+[ Currently Playing : G'day World
+"DEMO@15" 2005-03-01 - Cameron Reilly - TPN - G'day World (01:09:33)
+]
+Comments
+Additional resources
+Last updated on
+2005-03-02

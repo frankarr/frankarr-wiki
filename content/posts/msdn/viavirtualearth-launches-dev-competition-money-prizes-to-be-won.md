@@ -1,0 +1,71 @@
+---
+title: "ViaVirtualEarth launches dev competition : money & prizes to be won"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/viavirtualearth-launches-dev-competition-money-prizes-to-be-won"
+date: "2005-09-09"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+ViaVirtualEarth launches dev competition : money & prizes to be won
+I got an IM from one of the
+ViaVirtualEarth
+team about a
+promotion they are running
+.
+Tatham Oddie says:
+<shamelessPlug>
+We' ve just launched our first competition on
+https://www.viavirtualearth.com/
+so if you're interested, jump in and write an app. We're giving away 25 sets of Streets & Trips with GPS, and USD$1000 cash.
+</shamelessPlug>
+What I want to know is - when will there be Australian Satellite Data integrated into
+Virtual Earth
+???
+[ Currently Playing : Shining Star - INXS - Live Baby Live (03:52) ]
+Comments
+Anonymous
+September 08, 2005
+I think this is what you are after:
+http://maps.google.com/maps?q=Sydney,+Australia&ll=-33.887571,151.201143&spn=66.932285,165.990234&t=k&hl=en
+;-)
+Anonymous
+September 08, 2005
+rofl
+yup, that's just what i mean.
+Anonymous
+September 09, 2005
+The comment has been removed
+Anonymous
+September 09, 2005
+The comment has been removed
+Anonymous
+September 09, 2005
+The comment has been removed
+Anonymous
+September 11, 2005
+The comment has been removed
+Anonymous
+September 12, 2005
+Dr
+Neil's star shone brightly today. Two interviews with him were posted today
+- one on Channel...
+Anonymous
+September 12, 2005
+Dr Neil's star shone brightly today. Two interviews with him were posted today - one on Channel 9 with...
+Anonymous
+September 15, 2005
+Dr Neil's star shone brightly today. Two interviews with him were posted today - one on Channel 9 with...
+Anonymous
+May 29, 2009
+PingBack from
+http://paidsurveyshub.info/story.php?title=frankarr-an-aussie-microsoft-blogger-viavirtualearth-launches-dev
+Additional resources
+Last updated on
+2005-09-09

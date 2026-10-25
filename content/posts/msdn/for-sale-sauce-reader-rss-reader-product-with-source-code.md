@@ -1,0 +1,65 @@
+---
+title: "For Sale : Sauce Reader RSS reader product with source code"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/for-sale-sauce-reader-rss-reader-product-with-source-code"
+date: "2005-09-21"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+For Sale : Sauce Reader RSS reader product with source code
+The locally developed Sauce Reader is for sale on ebay
+.
+I blogged about this app 12 months ago
+. Now,
+the source code is for sale
+.
+Introduction
+Sauce Reader is a powerful and highly regarded RSS reader and weblog posting application.
+Basic Facts
+Sauce Reader is an RSS reader and weblog editing software for Windows.
+You can download full working versions of
+Sauce Reader v1.10.exe
+or
+Sauce Reader v2.0.1.exe
+.
+Sauce Reader has many unique features including:
+Comment feed subscriptions and notifications of new items.
+Powerful weblog editing with full conflict resolution.
+IE toolbar integration for fast feed subscriptions.
+Integration with Google and MSN Desktop search.
+Windows messenger integration for sharing items in virtual feeds.
+Sauce Reader v1.x is completely written in C# .NET.
+Sauce Reader v2.x is completely written in Delphi.
+Included in sale
+Exclusive source code rights to Sauce Reader v1.x.
+Exclusive source code rights to Sauce Reader v2.x.
+Ownership and control of the Sauce Reader brand and domain name.
+[ Currently Playing : Take Your Mama - Scissor Sisters - Triple J Hottest 100 Volume 12 Disc 1 (04:32) ]
+Comments
+Anonymous
+September 20, 2005
+It's a little expensive is it not? I'm sure it's more economically viable for someone to write their own! ;)
+Anonymous
+September 21, 2005
+I agree, am I missing something here?  I mean, I can see two reasons to want this source code, personal education and commercial.
+As far as personal education goes, I do believe RSS Bandit is an open source project so, while you might learn something from saucereader I doubt it would justify a $10,000 purchase.
+As far as commercial, I don't see paying $10,000 for the code/rights to a project that (a) competes in a market where the software is free and (b) competes in a market that is (more than likely) about to become obsolete because of browser integration.
+I'm just baffled by this (though I'll surely be eating crow if it sells)
+Anonymous
+June 01, 2009
+PingBack from
+http://indoorgrillsrecipes.info/story.php?id=5285
+Anonymous
+June 16, 2009
+PingBack from
+http://lowcostcarinsurances.info/story.php?id=5279
+Additional resources
+Last updated on
+2005-09-21

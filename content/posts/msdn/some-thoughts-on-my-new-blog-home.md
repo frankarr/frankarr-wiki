@@ -1,0 +1,57 @@
+---
+title: "Some thoughts on my new blog home"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/some-thoughts-on-my-new-blog-home"
+date: "2005-04-03"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+Some thoughts on my new blog home
+I've had a good look around the new place and it has a lot of nifty features, such as blog search and moderation. It also seems to be lacking stuff that was pretty neat with .Text.
+Josh has put together a good summary
+For me, the things I find missing/different are:
+Timezone settings. I want my posts to reflect *MY* timezone
+Stripping of SCRIPT tags in the news sections. I had a bunch of things that don't work anymore.
+User interface to manage links is funky. I can get used to the new one I guess
+Presentation of links isn't in Alphabetical order anymore. I have to manually set the order of the links. Yuk
+Quick stats on posts, links and trackbacks is gone. I liked that summary. Oh well.
+Articles are all presented in full, not just headlines. Makes the page load so much slower. Yuk.
+Marvin3 skin layout is different. I can live with this, time for a change of scenery anyway.
+Anyways, thanks to the team who did the transfer. It was a big undertaking and it seems to have gone smoothly.
+[ Currently Playing : Black Betty - Spiderbait - Triple J Hottest 100 Volume 12 Disc 1 (03:26) ]
+Comments
+Anonymous
+April 03, 2005
+Hey Frank,
+Have you checked all postbacks from your comments ?  I think you'll find they no longer actually link out, and the postback author is not listed either.
+The comments feed is also reporting authors as anonymous, e.g:
+http://blogs.msdn.com/frankarr/commentrss.aspx?PostID=399516
+:(
+Anonymous
+April 03, 2005
+thx bill,
+yeah, thats a bit of a bummer, but to be expected with the new comment moderation system.
+onwards we go...
+Anonymous
+April 03, 2005
+The comment has been removed
+Anonymous
+April 20, 2005
+I pre-purchased a copy of Community Server before it launch in March, but I'm still running my .Text blog.  The lack of podcasting support is a bit of a bummer.
+However, if you want to see some amazing mods done to Community Server, check out <a href="
+http://dbvt.com">Dave
+Burke's site</a> because he's done some amazing integration of the Gallery product in Community Server and the Blog product.
+Anonymous
+May 29, 2009
+PingBack from
+http://paidsurveyshub.info/story.php?title=frankarr-an-aussie-microsoft-blogger-some-thoughts-on-my-new-blog-home
+Additional resources
+Last updated on
+2005-04-03

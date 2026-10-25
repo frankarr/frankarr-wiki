@@ -1,0 +1,55 @@
+---
+title: "Lots More Stories about New Licensing Program"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/lots-more-stories-about-new-licensing-program"
+date: "2003-12-04"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+Lots More Stories about New Licensing Program
+Associated Press
+December 3, 2003, 9:41 PM
+Microsoft to broaden patent licensing
+By Helen Jung
+https://www.usatoday.com/tech/techinvestor/techcorporatenews/2003-12-03-ms-patents_x.htm
+- Microsoft said Wednesday it will open its portfolio of patented technology for use by academic researchers and make it easier for companies â including competitors â to license its intellectual property. The company said the changes are designed to respond to other technology companies who have wanted Microsoft to license its patented technology. Other companies, including IBM, have long made their intellectual property available.
+eWEEK
+December 3, 2003, 7:00 PM ET
+Microsoft Plays Intellectual Property Licensing Catch-Up
+By Mary Jo Foley, Microsoft Watch and Darryl K. Taft, eWEEK
+https://www.eweek.com/print_article/0,3048,a=113851,00.asp
+- Microsoft on Wednesday debuted its new, streamlined intellectual-property (IP) licensing strategy with the announcement that it is now offering, for a fee, its file allocation table (FAT) file system and ClearType font-rendering technologies to any interested licensees. At the same time, the Redmond software company also launched a one-stop IP licensing Web site, where it displays the various software and specifications it is offering to license under various royalty- and royalty-free plans. Currently listed, in addition to FAT and ClearType, are Microsoft's Office 2003 XML schemas (the bulk of which are set to go public this Friday) and a number of standards specifications, including broadband Sockets; WS-Security; and Business Process Execution Language for Web Services, or BPEL, 1.1.
+Financial Times
+December 3, 2003, 18:57
+Microsoft alters its IP licensing
+By Richard Waters
+https://news.ft.com/servlet/ContentServer?pagename=FT.com/StoryFT/FullStory&c=StoryFT&cid=1069493697684&p=1012571727242
+- Microsoft has overhauled the way it licenses intellectual property to other companies, setting the stage for what it claimed would be easier access to its technology. However, the changes do not mark any fundamental shift in access to the source code behind the Windows operating system - an issue that has been fought over during the company's antitrust battles.
+New York Times
+December 4, 2003
+Microsoft Eases Policy on Licensing Its Technology
+By Steve Lohr
+https://www.nytimes.com/2003/12/04/technology/04soft.html
+- Microsoft announced yesterday that it would adopt a more liberal policy for licensing its intellectual property, opening the doors to its storehouse of patents and copyrights to outsiders. The initiative is another step in Microsoft's effort to improve relations with other companies and to show regulators in the United States and Europe that it is a responsible company rather than a predatory monopolist.
+Seattle Post-Intelligencer
+December 4, 2003
+Microsoft to share tech secrets -- but some materal still off limits
+By Todd Bishop
+https://seattlepi.nwsource.com/business/150983_msftlicensing04.html
+- Departing from its longtime practice, Microsoft Corp. plans to give others in the computer industry much greater access to the technological secrets the company has historically kept under lock and key. Microsoft said yesterday that it is opening a wide range of intellectual property -- including patents, copyrights and trade secrets -- for possible licensing by other companies through negotiations and through licensing programs established around specific products.
+Seattle Times
+December 4, 2003, 12:00 A.M.
+Microsoft eases its rules for access to technology
+By Kim Peterson
+https://seattletimes.nwsource.com/html/businesstechnology/2001806897_microsoft04.html
+- Microsoft said yesterday it would begin licensing more of its copyrights, trade secrets and technical knowledge to companies â perhaps even competitors â in an effort to further collaboration in the technology industry. Though company executives wouldn't admit it, the move could also boost Microsoft's standing with antitrust regulators in the United States and in Europe, where the company's business practices are under investigation.
+Additional resources
+Last updated on
+2003-12-04

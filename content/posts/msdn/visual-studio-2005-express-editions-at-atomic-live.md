@@ -1,0 +1,88 @@
+---
+title: "Visual Studio 2005 Express Editions at Atomic Live"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/visual-studio-2005-express-editions-at-atomic-live"
+date: "2005-12-11"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+Visual Studio 2005 Express Editions at Atomic Live
+We had a small kick off for the
+Visual Studio 2005 Express Editions
+at
+Atomic Live 2005
+.
+Dan Fernandez
+came down to do a few sessions, together with
+Dave Glover
+Our awesome
+Student Ambassadors
+,
+Scott Savage
+&
+Geomayra Silva
+, gave us a hand on the booth..
+Scott even took photos
+. Thx for your support guys.
+During the course of the day, I met lots of  "Atomicans" with an interest in coding, whether to put up a webpage, or moding half life, and they were surprised to see Microsoft at the event giving away developer tool. I even had a chat with a few 1337 h4x0r, and I had no ph33r.
+For the benefit of the folks who missed my pitch from the expo floor, here's the scoop on how to get your hands on Express.
+Download Visual Studio Express
+You can download Visual Studio Express from the links below:
+Visual Web Developer 2005 Express
+Visual Basic 2005 Express
+Visual C# 2005 Express
+Visual C++ 2005 Express
+Visual J# 2005 Express
+SQL Server Express
+Express is free for one year
+Until November 7, 2006, we are promotionally discounting the
+downloadable versions of Express to free
+. This doesn' t mean that the product turns off after a year, but rather that as long as you download the product before November 7, 2006, you can get it for free and you can use it forever.
+Rewards for Registering
+The other big news announced at the Visual Studio launch is the availability of the Visual Studio Express DIY Kit, which is
+a set of benefits
+you get for registering Express and includes:
+250 royalty-free stock photography images from Corbis
+Free Windows Icons from IconBuffet
+Free eBooks including: Microsoft Visual Web Developer 2005 Express Edition: Build a Web Site Now, Microsoft Visual Basic 2005 Express Edition: Build a Program Now!, and Microsoft Visual C# 2005 Express Edition: Build a Program Now!
+3rd party components from VSIP partners
+And we have more benefits coming soon
+Want More Information?
+Take a tour of the newly revamped
+Visual Studio Express Edition
+Web site, read the
+Frequently Asked Questions
+, and as always, please tell us what you think :)
+We hope you enjoy Visual Studio Express as much as we do!
+Sincerely,
+The Visual Studio Express Team
+[ Currently Playing : Every Planet We Reach Is Dead - Gorillaz - Demon Days (04:53) ]
+Comments
+Anonymous
+December 10, 2005
+I thought that the Express editions were going to be always free. What happened to that?
+Also, we are just humble volunteers, not Student Ambassadors...
+Anonymous
+December 11, 2005
+Hey Kieran...
+SSE (Sql Server Express) is always going to be the Express IDE's have always been (free for a year ;) and ~$50 if you want the physical disc + booklet.
+Also Frank... you didn't mention the free 30 days ASP .Net 2.0 web hosting with SQL 2005 support that you get if you register VWD... I'm hosting my app from the NZ launch here
+http://blueskippy-1.at.vwdhosting.net
+:)
+Anonymous
+December 13, 2005
+The comment has been removed
+Anonymous
+January 01, 2006
+DOWNLOAD of Windows Vista build 5270:
+http://windows.czweb.org/491_HTTP_DOWNLOAD_of_Windows_Vista_build_5270
+Additional resources
+Last updated on
+2005-12-11

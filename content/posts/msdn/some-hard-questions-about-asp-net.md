@@ -1,0 +1,146 @@
+---
+title: "Some hard questions about ASP.NET"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/some-hard-questions-about-asp-net"
+date: "2005-12-21"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+Some hard questions about ASP.NET
+My
+ASP.NET post from last week
+generated a few comments
+, but this one from cankles (which by the way links back to
+https://www.builderau.com.au/
+- is that you Brendan Chase??? ) asks a few good questions that deserve answers:
+Monday, December 19, 2005 8:18 PM by
+cankles
+# re: We *HEART* ASP.NET
+There would probably be more if ASP.NET 2 worked on non-windows servers. Would be interesting to do a price comparison between running Windows servers with ASP.NET 2 and PHP on Linux.
+Also, how about Ruby on Rails vs ASP.NET 2.0?
+So cankles, let me try to answer these 2 hard hitting questions
+price comparison between running Windows servers with ASP.NET 2 and PHP on Linux
+We have really great story here, which doesn't get told often.
+Have you heard of
+SPLA
+?  Not many folks have.
+SPLA
+, or
+Service Provider Licencing Agreement
+, provides a pricing model tailored for hosted applications. It is a pay-as-you-go model, which means you don't have to pay upfront.  What does this look like, well
+Windows Server 2003 Web Edition
+is about A$20 per processor per month under
+SPLA
+.
+Windows Standard
+is about A$30 and
+Enterprise
+about A$40.
+SQL Server 2005 Workgroup
+is about $80 per proc per month under
+SPLA
+.
+SQL Standard
+about A$320 per proc and
+Enterprise
+just over $1,000 per proc per month. (I know the branding police are going to be angry with me, but I'll go with it)
+Key with
+SPLA
+is the fact that one install of Windows / SQL can be shared by numerous businesses web sites running on a single server.  We call it "multi-tenancy" and it's unique to
+SPLA
+in terms of licensing programs at Microsoft.  All other licensing programs would necessiate the end customer of the web site licensing SQL Server and Windows Server and then asking the Hoster to run the software on the customers behalf.
+Finally,
+we have a number of case studies for why Windows is a great platform for hosting
+and
+best practices & guidance for Hosters to build out infrastructure to obtain the best TCO
+.
+Ruby on Rails vs ASP.NET 2.0
+As Wikipedia tells us
+- "
+Ruby on Rails
+, often called
+RoR
+or just
+Rails
+, is an
+open source
+web application framework
+written in
+Ruby
+that closely follows the
+Model-View-Controller
+(MVC) architecture.
+"
+MVC? We can do MVC using ASP.NET.
+The design pattern has been on MSDN for ages
+.
+There's even an article on BuilderAU on this very topic
+Now there are plenty of discussions happening online debating ASP.NET v RoR
+, with people far more qualified than myself. I just wanted to draw your attention to the fact that there are a number of "RoR" implementations on ASP.NET, such as
+the Castle Project's Monorail
+. There's also a good post by
+Andres Aguiar
+which tries to use the components of ASP.NET, such as
+Build Providers and DLinQ
+to create something "
+RubyOnRails-esque"
+. But I reckon
+Joel Spolsky
+put's it best -
+What's all the fuss about Ruby On Rails?
+Now, I'm sure these answers will raise more questions and to be honest I am fine about that, because now we're part of the conversation too. That's a good thing!
+[ Currently Playing : Christmas Time in Hell - Marc Shaiman - Mr. Hankey's Christmas Classics (02:16) ]
+Comments
+Anonymous
+December 20, 2005
+Of course, Mono's had an ASP.NET server running, and the Phalanger project (PHP for .NET) runs web portals.
+The nay-sayers against .NET just don't do their homework.
+Anonymous
+December 20, 2005
+The problem is that $20 per month (or whatever) is
+exactly
+$20 more than you'd pay if you were using Linsux or MySQL or PHP or what have you.
+While the prices are certainly good in this segment (as far as I can see, dunno what it takes to qualify), the question is whether or not the added value that you get in terms of the toolset and platform are worth those $20. Of course I happen to think they are, but many people simply don't. IOW, it makes really no sense to argue price points with open sores.
+Anonymous
+December 20, 2005
+Speaking of comment Frank,
+Does your blog have a RSS feed of comments?
+I find that comment feeds are a great way to keep up with commentry.
+Grant
+Anonymous
+December 20, 2005
+Grant
+unfortunatly, there is no feed on comments
+however, you can subscribe to comments on individual posts and get comments via email. not perfect, but it works
+Anonymous
+December 21, 2005
+Klaus,
+While this is definitely not the place for a "freeware vs commercialware" discussion, let's not forget the phrase "free as in beer" vs "free as in software".
+And many studies have proven that a $20/m Microsoft solution is much much cheaper than a $0/m *nix solution.
+Anonymous
+December 22, 2005
+The comment has been removed
+Anonymous
+December 28, 2005
+A very good mate of mine Scott Farrell of IC Consulting took me aside 18 months ago at a very critical time we were developing when my team was fighting over PHP versus Java versus RoR.  He said something pretty simple: What do your clients want, what is the Industry looking for?  I often reply to anyone now, Listen I don't care if its written in CRAYON, Does it work?  Does it work well?  Is the client Happy?
+We have done a lot of work in php, and a lot in RoR and we have one client that is ASP that if it makes business sense we may look into migrating them into our RoR social software engine, or we may develop a solution in .net it depends on the business case. We are more agile with RoR, all our tools are RoR so everything we develop inhouse in is Ruby (biased link here:)
+http://www.onlamp.com/pub/a/onlamp/2005/01/20/rails.html
+IBM has some interesting stuff going on in RoR,
+http://www-128.ibm.com/developerworks/library/j-ruby/?ca=dgr-lnxw01RubyOffRails
+Cheers,
+Kevin Leversee
+Ps> Frank anyone I should chat with while I am in Silicon Valley or SF...?
+Anonymous
+June 08, 2009
+PingBack from
+http://toenailfungusite.info/story.php?id=528
+Additional resources
+Last updated on
+2005-12-21

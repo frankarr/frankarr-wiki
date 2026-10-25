@@ -1,0 +1,160 @@
+---
+title: "A Principius for the Rest of Us"
+platform: "radio-userland"
+era: "microsoft"
+source_url: "http://radio-weblogs.com/0124955/2005/01/17.html#a770"
+date: "2005-01-17"
+tags:
+  - "Geek"
+  - "My Friends"
+  - "Random"
+  - "Random"
+  - "Random"
+  - "Random"
+---
+
+Monday, 17 January 2005
+A Principius for the Rest of Us
+Mick Stanic
+(he of
+Splatt
+and
+G'Day World
+fame)
+quit his job before Christmas
+.
+He has started his new company
+- it has a
+website
+and everything.
+Now Mick, I don't know about the name
+Principius
+- sounds too much like
+Festivus
+.
+Anyway, good luck with the business mate!
+[listening to: Can't Get Enough of You Baby -
+Smash Mouth
+]
+9:10:42 PM
+comment [
+]
+trackback [
+]
+G!
+
+Geek
+
+My Friends
+
+Random
+More Quizzes & Blogthings
+You Are the Enthusiast
+7
+You are outgoing and playful - always seeing the happy side to life. You're enthusiastic and excitable. You love anything new. Multi-talented, you do many things well... and find success easy. You prefer to keep things light with others. Opening up is hard for you.
+What number are you?
+FRANKARRIGO
+F
+is for
+Flexible
+R
+is for
+Revolutionary
+A
+is for
+Arty
+N
+is for
+Naughty
+K
+is for
+Kinky
+A
+is for
+Abstract
+R
+is for
+Revolutionary
+R
+is for
+Rich
+I
+is for
+Important
+G
+is for
+Genius
+O
+is for
+Odd
+What Does Your Name Mean?
+[listening to: Mi Bebé Masoquista -
+Fatboy Slim
+]
+3:28:21 PM
+comment [
+]
+trackback [
+]
+G!
+
+Random
+Stupid Quiz Time
+What else to do on a lazy Monday afternoon, but take an online quiz or three. Thanks to
+Geoff for the pointers
+.
+So, here goes....
+Your Dominant Intelligence is Logical-Mathematical Intelligence
+You are great at finding patterns and relationships between things. Always curious about how things work, you love to set up experiments. You need for the world to make sense - and are good at making sense of it. You have a head for numbers and math ... and you can solve almost any logic puzzle. You would make a great scientist, engineer, computer programmer, researcher, accountant, or mathematician.
+What Kind of Intelligence Do You Have?
+You Are 8 Years Old
+8
+Under 12: You are a kid at heart. You still have an optimistic life view - and you look at the world with awe. 13-19: You are a teenager at heart. You question authority and are still trying to find your place in this world. 20-29: You are a twentysomething at heart. You feel excited about what's to come... love, work, and new experiences. 30-39: You are a thirtysomething at heart. You've had a taste of success and true love, but you want more! 40+: You are a mature adult. You've been through most of the ups and downs of life already. Now you get to sit back and relax.
+What Age Do You Act?
+Your Boobies' Names Are:
+Betty and Veronica
+Get your own Boobie Names
+Your Porn Star Name is:
+Private Dick
+Get your own Porn Star Name
+Your Penis Name is:
+Little Juan
+Get your own Penis Name
+It's Not Sex. It's ... :
+Filling the Creme Doughnut
+Get your own Sex Name
+Your Hippie Dude Name is:
+Polaris
+Get your own Hippie Dude Name
+[listening to: Don't Let the Man Get You Down -
+Fatboy Slim
+]
+3:22:43 PM
+comment [
+]
+trackback [
+]
+G!
+
+Random
+Thought for the day
+Don't use shampoo when you really want to use body wash.
+I made that mistake.
+[listening to: Don't Let the Man Get You Down -
+Fatboy Slim
+]
+3:07:44 PM
+comment [
+]
+trackback [
+]
+G!
+
+Random
+© Copyright 
+     2006
+     Frank Arrigo.
+A Geek Microsoft Blogger
+Last update: 
+     8/07/2006; 10:19:50 AM
+     .

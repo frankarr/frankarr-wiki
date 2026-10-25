@@ -1,0 +1,88 @@
+---
+title: "Overwhelming"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/overwhelming"
+date: "2007-07-10"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+Overwhelming
+Yesterday, I got a chance to get most of the team up on stage and do some demos as part of the Microsoft Australia FY08 company meeting.
+The guys did a killer job in a segment I called "90 Seconds of Fame", in which we staged our own mini
+webjam
+, but rather than 3 minutes, I gave each person half that time - 90 seconds. We added an SMS voting element and took advantage of an app
+Dave Glover
+had written a while back
+The guys show virtual earth mashups,
+photosynth
+,
+popfly
+,
+cavemen
+,
+wpf apps
+,
+expression blend
+and
+silverlight
+to name just a few of the things.
+It was a real proud moment to see the team perform on the big stage. A definite feel good moment for me.
+Big shout out to
+Dave Glover
+,
+Andrew Coates
+,
+Charles Sterling
+,
+Scott Barnes
+,
+David Lemphers
+,
+Nigel Watson
+,
+Michael Kordahi
+,
+Michael Kleef
+and
+Shane Morris
+who did a wonderful job with their demos.
+Jeff Alexander
+also has his 90 seconds of fame earlier in the day
+with his Windows Server 2008 demos.
+We also let the whole company know
+my news
+.  I guess not everyone in Microsoft Australia reads my blog.
+Speaking of
+'my news
+', it's been overwhelming the comments, emails, blog posts, articles in the paper, direct messages on twitter, etc I had received from people. I definitely feel a lot of love. Definitely makes me feel appreciated, which is always nice. To the folks who have taken the time to contact me , a big thank you. I will get around to get back to each and everyone of you over the next few days.
+Technorati tags:
+Frank Arrigo
+,
+Blogging
+Comments
+Anonymous
+July 10, 2007
+DPE's evangelists rockz! Hope the rest of the company can try to understand the difference this group is contributing in preparing and retaining its customers' interest in Microsoft products.
+Customers are not a number on an .XLS but people with individual motivation factors. That's people ready business.
+Anonymous
+July 11, 2007
+Frank I'm sure you will be missed, and those guys will continue a legacy you have every right to feel proud of. On a personal note I was unaware that your boys were Aspies, if the move to Seattle makes that easier then all the better. I have an Aspie Son (8yo) and a Daughter (3yo) who is starting to sort things in shopping aisles we are still hoping she is just being helpful. I will seek you out with a beer in my hand at TechEd. For those who want to self diagnose
+http://www.geocities.com/autistry/YMBAAI.html
+I resemble most of the things in that.
+Take Care.
+Anonymous
+July 13, 2007
+Hey Frank - you can add my belated but hearty congrats to the collection! Nice work.
+Anonymous
+July 19, 2007
+The comment has been removed
+Additional resources
+Last updated on
+2007-07-10

@@ -1,0 +1,59 @@
+---
+title: "Latest Favourite RSS Reader for my Pocket PC"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/latest-favourite-rss-reader-for-my-pocket-pc"
+date: "2004-08-10"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+Latest Favourite RSS Reader for my Pocket PC
+I raved about
+RSS Sync
+a few months ago, which is an RSS reader I am using on my
+XDA II
+.
+Dave Glover
+introduced me to another one a few weeks back - an app called
+Egress
+.
+Egress is a application which can display your favorite RSS feeds directly on your PocketPC.
+Features
+Supports RSS (.09, .91, .92 and 2.0), RDF (1.0), and ATOM (0.3)
+Supports landscape orientation using PocketPC 2003SE
+Integrates with Today
+Caches and displays inline images
+Background download of feeds
+Supports HTTP proxies
+Configurable item retention
+Configurable news feed storage location
+Configurable fonts and colors
+Supports alternate web browsers
+Supports Radio Userland style automatic subscription (Web page coffee mug icon)
+I've been using a few weeks and I really really like it. This is now my RSS reader of choice on my XDA II.
+Comments
+Anonymous
+August 10, 2004
+Thanks!  I just got a pocket pc and I was looking for a good reader for it.  I'll try this out now!
+Anonymous
+August 10, 2004
+Frank, over at Weblogs.ASP.NET mentions a new PocketPC application called Egress. Egress supports all RSS / Atom formats, landscape mode, Today integration, background downloading, and a few other cool features....
+Anonymous
+August 10, 2004
+i don't have a pocket pc....but if i did this would be worth a download...
+-Mathew Nolton
+Anonymous
+August 31, 2004
+..and if you want a PocketPC .Text blog writer have a look here:
+http://dotnetjunkies.com/WebLog/kevdaly/archive/2004/08/29/23589.aspx
+Works well on my XDAII.
+Paul
+Additional resources
+Last updated on
+2004-08-10

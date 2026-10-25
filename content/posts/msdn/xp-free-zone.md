@@ -1,0 +1,68 @@
+---
+title: "XP Free Zone"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/xp-free-zone"
+date: "2006-11-14"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+XP Free Zone
+All my machines are now running Windows Vista RTM.
+My office is now an XP Free Zone
+UPDATE: Folks on TechNet Plus and MSDN programs will get the first look at the RTM of Office 2007 and Vista soon. Office 2007 is available from 13th of November and Vista is available from the 18th of November
+Technorati tags:
+Windows Vista
+Comments
+Anonymous
+November 14, 2006
+It'd be great if we could action get our hands on RTM. :)
+Well, we can via BitTorrent but the legit channels are behind the times as usual.
+Anonymous
+November 14, 2006
+I will be looking forward to get my copy in a few days time ;)
+Anonymous
+November 15, 2006
+Vista Business is available on the MVLS website already but we don't have clients in our Volume license. aaargh. If only i could remember our MSDN login details
+Anonymous
+November 15, 2006
+Vista Business is available on the MVLS website already but we don't have clients in our Volume license. aaargh. If only i could remember our MSDN login details
+Anonymous
+November 20, 2006
+did you do clean installs Frank, or upgrades over the top of XP?
+Anonymous
+November 20, 2006
+Good question Stuart
+For my system at home, I upgraded from Vista RC1
+For my systems at work
+Toshiba A7 : format & clean install
+Motion LS800 : format & clean install
+Toshiba M200 : upgrade from WinXP SP2
+Anonymous
+November 20, 2006
+Frank
+This has been a overwhelming month of releases from Micrsosoft which makes me feel like I'm in a mall filled with toy shops, I don't quite know which WINDOW to peer into first, Office 2007, IE 7, SharePoint, .Net ...
+One caution however is that it is wise to look at the "Clock Gadget" prior to waking up the wife to share the excitement of a new find :)
+Craig Hubbard
+Anonymous
+November 20, 2006
+Frank and Stuart
+I performed an upgrade from XP/SP2 however first noticed that I had to remove some incompatible third party products like Nero.
+After the upgrade I was concerned that my Logitech products i.e. QuickCam, keyboard features etc not longer worked, later I found that Logitech at this time have no mention of support or support plans (at least visible on their site)
+So in my case I have not moved to Vista at this time on my highly dependant workstation.
+On reflection it is worth checking any third party product sites for devices that you rely on prior to upgrade (IMHO), time will hopefully resolve this issue.
+The resulting upgrade on an machine that previously failed in beta had been successful.
+cheers
+Craig Hubbard
+Anonymous
+December 08, 2006
+I finally was able to logon to my BlogBeat account this weekend, following a PEBKAC sitution. Normally,
+Additional resources
+Last updated on
+2006-11-14

@@ -1,0 +1,54 @@
+---
+title: "Sydney .NET User Group - 15 September 2004"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/sydney-net-user-group-15-september-2004"
+date: "2004-09-10"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+Sydney .NET User Group - 15 September 2004
+I got a reminder for the upcoming
+Sydney .NET User Group Meeting
+. This one looks interesting.
+Special Speaker
+Gideon Schaller
+, from Microsoft in Redmond USA, will be joining us this month to talk about:
+The implementation of the XML Index in Yukon.
+SQL Server 2000 has always supported XML as a data format, but without any equivalent to SQL for querying the data. That will change with Yukon, which includes the W3C's XML Query Language. It's a bit like SQL but works vastly different because of the radical difference between relational data and XML's hierarchical structure.
+As XML usage grows for both data-centric and document-centric applications, introducing native support for XML data in relational databases brings significant benefits. It provides a more mature platform for the XML data model and serves as the basis for interoperability between relational and XML data. Whereas query processing on XML data shredded into one or more relational tables is well understood, it provides limited support for the XML data model. XML data can be persisted as a byte sequence (BLOB) in columns of tables to support the XML model more faithfully. This introduces new challenges for query processing such as the ability to index the XML blob for good query performance.
+This talk includes novel techniques for indexing XML data in the upcoming version of Microsoft SQL Server, and how it ties into the relational framework for query processing.
+This session will cover:
+Background on XML support in Microsoft SQL Server 2005
+Indexing XML data
+Primary XML indexes
+Secondary XML indexes
+Storage, algebrization, and optimization of XML Index.
+ABOUT Gideon
+Gideon has been at Microsoft for 9 years. He joined Microsoft in 1995 after working for several years at Borland Intl on Paradox for DOS. He worked for a few years on the display engine for IE4 and IE5, and then moved to join the initial team that started WebData.
+In WebData Gideon lead the development team that introduced the XML support to SQL 2000. Later in Yukon with two other developers he moved to the engine to start the XMLDB initiative (introducing a new XML Data type into server). Currently Gideon and his team lead, as part of the Engine Execution team, owns ES (Expression Services) SQLCLR and XML Runtime in Yukon.
+Wednesday 15th September. 6:00 pm at Microsoft, 1 Epping Road North Ryde
+See You There!!
+|
+Sorry I can't make it
+Comments
+Anonymous
+September 10, 2004
+Hey Frank,
+Do you know if this guy is going to any other places too? Like, say, canberra? :)
+--Geoff
+Anonymous
+September 10, 2004
+Dunno
+he's not part of our MSDN updates
+maybe as part of the SQL SERVER User Group
+http://www.sqlserver.com.au/
+Additional resources
+Last updated on
+2004-09-10

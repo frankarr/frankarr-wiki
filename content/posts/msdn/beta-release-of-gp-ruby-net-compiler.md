@@ -1,0 +1,49 @@
+---
+title: "Beta Release of GP Ruby.NET Compiler"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/beta-release-of-gp-ruby-net-compiler"
+date: "2006-06-20"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+Beta Release of GP Ruby.NET Compiler
+Got this email from Wayne yesterday. Excellent News. Great to see
+this project
+moving along, and it looks like
+it has a new name too
+-----Original Message-----
+From: Wayne Kelly
+Sent: Tuesday, 20 June 2006 4:19 PM
+To: Frank Arrigo
+Subject: Announcing Beta Release of GP Ruby.NET Compiler
+We are pleased to announce the preliminary Beta release of the Gardens Point Ruby.NET compiler. Note: this is not just a Ruby/.NET bridge, nor a Ruby Interpreter implemented on .NET, but a true .NET compiler. The compiler can be used to statically compile a Ruby source file into a verifiable .NET v2.0 assembly or it can be used to directly execute a Ruby source file (compile, load and execute). Our implementation is not yet fully complete, but it is the only Ruby compiler that we know of for either the .NET or JVM platforms that is able to pass all 871 tests in the samples/test.rb installation test suite of Ruby 1.8.2.
+Complete source code of our system can be downloaded from:
+https://plas.fit.qut.edu.au/Ruby.NET/Download.aspx
+Please note, that we have so far made no attempt to optimize the performance of our system or to provide any support for interoperability with .NET programs written in other languages. We have chosen instead to initially focus on the challenging task of achieving complete semantic compatibility with the standard Ruby interpreter. Once this is achieved we will move on to those other challenges.
+To achieve full semantic compatibility, many sections of our runtime library implementation mirrors the structure of the Ruby 1.8.2 interpreter code. We thank Matz and his colleagues for making their source code available under such a liberal license that enables works such as ours. We similarly, make our system freely available under a similarly liberal open-source license. We are seeking keen Ruby and .NET programmers to assist with further testing and development (see our web site for further details).
+We look forward to your feedback ...
+Cheers, Wayne.
+(For the GP Ruby.NET development team).
+----------------------------------------------------------------------------
+Comments
+Anonymous
+February 09, 2007
+It's always nice to find little treasures in the inbox, especially one that is part of a continuing story
+Anonymous
+February 09, 2007
+PingBack from
+http://www.do-ict.nl/2007/02/10/new-release-of-rubynet-compiler/
+Anonymous
+May 31, 2009
+PingBack from
+http://portablegreenhousesite.info/story.php?id=13052
+Additional resources
+Last updated on
+2006-06-20

@@ -1,0 +1,56 @@
+---
+title: "SLP Services â Where are they now?"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/slp-services-where-are-they-now"
+date: "2010-06-11"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+SLP Services â Where are they now?
+I had written about Software Licensing and Protection (SLP) Services a few years back
+when it was still a Microsoft product.
+About a year ago,
+the product was picked up by startup company
+based in Dublin, called
+InishTech
+, which would take the
+Software Licensing and Protection (SLP) Services
+to the world.
+I kept in touch with these guys, since I always felt it was a cool piece of technology. Plus, I have a soft spot for startups.
+I got an email just this morning from my friends at
+InishTech
+which made me smile.
+Provance Looks to InishTech to Provide a Licensing Solution for their System Center Management Packs
+Provance selects InishTechâs Software Licensing and Protection Services as best of breed for licensing and code protection for the Provance IT Asset Management Pack Solution.
+Dublin, Ireland and Gatineau, Quebec, Canada June 11, 2010 ââ
+Provance, the leading provider of IT Asset Management solutions for Microsoft System Center, launched their new IT Asset Management Pack for System Center Service Manager 2010 in April. As part of the solution, Provance require the ability to protect their code and intellectual property, license software with flexible configurations and business models, and track the performance and profitability of products. To fill that need, they selected InishTechâs SLP Services, saving development time and focusing precious resources on their core product offering.
+âWherever possible, Provance collaborates with best of breed technology partners to allow us to develop better products and get to market more quickly,â said Gord Watts, Provance Vice President Product Development. âThe complete, turnkey technology and service that InishTech provides lets us focus our development effort and confidently delegate our software licensing and protection to the experts.â
+The SLP Service provides Provance with a fully managed Product Licensing and Management solution that provides greater flexibility in licensing and protects their core IP. Using SLPS allows Provance to concentrate on delivering the best products and solutions to the market without the distraction, development and maintenance and infrastructure overhead of maintaining a complex licensing system. This means a faster time to market, too.
+Provance customized the System Center Service Manger Console to include SLP Services APIâs to manage and upgrade licenses at the customerâs site. This way, to change the scope of the license, the customer uses a familiar tool to perform that. SLP Services APIâs are also used to query licenses installed by the customer. Installation includes both server and console installation. This custom integration of SLP Services into the Provance Console was accomplished by 2 people in 2 months. This integration of licensing into the relative complex client/server nature of Provanceâs solution demonstrates the power of the Provance architecture and ease of integration of SLP Services.
+Licenses are time-based or based on the number of assets managed. Customers of Provance now have seamless integration of the licensing with the console. Provance now has the ability now to evolve their licensing dynamically over time.
+According to Aidan Gallagher, CEO of InishTech, âProvance is a recognized leader in the provision of System Center solutionsâ. âProvance has a history of understanding their customersâ needs and providing solutions that have tangible business benefits to their clients. We are delighted to be part of that solution and look forward to helping Provance grow their business models in a proactive way with flexible licensing.â
+âSystem Center is a strategic and growing business area for Microsoft. SLPS is ideally suited for use in the System Centre solution environment and we expect to see considerable growth in our business in this areaâ.
+About Provance
+For over 12 years Provanceâ¢ IT Asset Management software has been used by mid- to large sized enterprises and government organizations to drive down IT costs, increase service management efficiency, and reduce security and compliance risks. The new Provance IT Asset Management Pack is a Process Management Pack that runs within MicrosoftÂ® System Center Service Manager 2010. It complements the Incident, Problem and Change Management capabilities of Service Manager with powerful IT Asset Life Cycle Management and Software Asset Management. Supporting ITILÂ® and the Microsoft Operations Framework, Provance strengthens the IT effectiveness of companies at every level of the Microsoft Core Infrastructure Optimization model. A Microsoft Gold Certified Partner, Provance holds the Microsoft Systems Management Competency and is a member of the Microsoft System Center Alliance. For further information, please visit
+https://www.Provance.com
+About InishTech
+Founded in 2009, InishTech provides Software Developers and Product Managers globally with code protection and license management solutions that protect their most valuable asset and enable their customers to deploy and use their products in the most flexible manner possible. InishTechâs Software Licensing and Protection (SLP) Services provides ISVs with a choice of either a managed service or in-house server that is both easy to deploy and simple to integrate with back office systems. For further information, please visit
+https://www.inishtech.com
+.
+Great to see companies adopting this solution to provide licensing and code protection.
+Technorati Tags:
+SLPS
+,
+Software Licensing and Protection Services
+,
+Inishtech
+Additional resources
+Last updated on
+2010-06-11

@@ -1,0 +1,27 @@
+---
+title: "Ahoy"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/ahoy"
+date: "2006-09-18"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+Ahoy
+Tomorrow be the day
+Comments
+Anonymous
+September 18, 2006
+The comment has been removed
+Anonymous
+September 18, 2006
+The comment has been removed
+Additional resources
+Last updated on
+2006-09-18

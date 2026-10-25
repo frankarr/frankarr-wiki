@@ -1,0 +1,100 @@
+---
+title: "Got My Latest Gadget : iRiver Clix"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/got-my-latest-gadget-iriver-clix"
+date: "2006-08-02"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+Got My Latest Gadget : iRiver Clix
+I sent my dear wife down to the local
+DSE
+on a errand for me today.
+When she got to the store, the guys there were busy unpacking a bunch of
+boxes and weren't ready to sell this to her and told her to come back in a few
+hours! A customer with money ready to buy and the sales dudes saying go
+away. Doesn't seem right.
+Anyways, she went down to get me this
+iRiver
+Clix 2GB
+My kids are now fighting me for it.
+It's a wonderful little device. Kudos to all involved.
+Tip o'the hat to
+Sean Alexander
+for
+alerting me to it's local availability
+[ Currently Playing : One Step
+Closer - U2 - How to Dismantle an Atomic Bomb (03:51) ]
+Comments
+Anonymous
+August 02, 2006
+The comment has been removed
+Anonymous
+August 02, 2006
+The comment has been removed
+Anonymous
+August 02, 2006
+It's good that it supports the Ogg file type (and presumably the Vorbis codec), but unfortunate that it doesn't support the Theora codec for video, since pretty much every other video codec is patent-encumbered.
+Anonymous
+August 02, 2006
+The comment has been removed
+Anonymous
+August 02, 2006
+Frank, I picked up one from DSE myself yesterday. Walked in said I wants my precious and away I went.
+The big selling point for me was the built in FM Radio as I ride a motorbike it is good to have music and radio.
+Another feature is the built in mic for recording, which is great if you have a meeting and you don't want to write exhaustive notes, you can just review after.
+Anonymous
+August 02, 2006
+The comment has been removed
+Anonymous
+August 03, 2006
+Yeah, mp4 videos are very annoying. Can the latest version of VLC play them? If so, try going to File->Wizard... it's a bit hidden, but it can convert it to other codecs. I recommend the Vorbis and Theora codecs.
+There needs to be a concerted push against proprietary file formats, codecs, and protocols. Microsoft really needs to lead the way, here.
+Anonymous
+August 03, 2006
+James, do you really think Microsoft (aka the kings of proprietary formats) will lead the way on going open standards?
+MS has spent way to much R&D and marketing money on getting WMF and Windows Media technology out into the maket place. I can only understand to well why they wouldn't want to embrance open standards.
+Anonymous
+August 03, 2006
+Tom, that's really a question for frankarr...
+(no, I don't seriously think that - but I do think that they should, and I think proprietary standards are always anti-competitive)
+Anonymous
+August 04, 2006
+Thanks for the the Tip o' the hat Frank :).  James- we helped iRiver make sure properly encoded MP4 files will sync, even with Windows Media Player 11 and did the deals to get MP3 encoding into the player.  Choice is a good thing.  iRiver has a link to additional tools for compressing video (e.g. iriverter) I'll try to do a post on this soon.
+FWIW: The SOC (System on a Chip) the Clix is based on doesn't support WMV. ;)
+Anonymous
+August 04, 2006
+I strongly agree that choice is a good thing. That's why file formats, codecs, and protocols that anyone is allowed to implement (without needing to license software patents) are extremely important. It is also why everyone should make a concerted effort to reject any proprietary file formats, codecs, or protocols.
+When a software developer can be sued just for implementing a media player that plays MPEG files, or WMV files, innovation suffers. It's increasingly the case that innovation comes from small companies that can't afford to license patents. Having accepted formats that can be implemented without licensing patents is good for everyone except companies that would rather avoid competition.
+Anonymous
+August 04, 2006
+I've been putting some stuff onto my new toy,
+the iRiver Clix.
+I put on some of my
+favourite music,...
+Anonymous
+August 31, 2006
+As I did last month, I looked back on BlogBeat for my top 20 posts for the month of August. Not surprisingly...
+Anonymous
+September 28, 2006
+The zunatics have issued a press release about Zune's launch date and price: November 14 in the U.S....
+Anonymous
+October 05, 2006
+I just bought my Dad an iRiver Clix for his birthday. I've been waiting to buy it for a few weeks...
+Anonymous
+October 18, 2006
+Those who know me, know I love my gadgets. I got myself a iRiver Clix recently and it quickly became
+Anonymous
+May 29, 2009
+PingBack from
+http://paidsurveyshub.info/story.php?title=frankarr-an-aussie-microsoft-blogger-got-my-latest-gadget-iriver-clix
+Additional resources
+Last updated on
+2006-08-02

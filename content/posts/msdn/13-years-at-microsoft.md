@@ -1,0 +1,115 @@
+---
+title: "13 Years at Microsoft"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/13-years-at-microsoft"
+date: "2004-05-20"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+13 Years at Microsoft
+I've just celebrated my 13 year anniversary at Microsoft. It's been a fun journey.
+I've been really lucky, as I have done lots of different things, been exposed to different parts of the business, and seen it from different parts of the world. I have been very fortunate to work with some amazing people within Microsoft, as well as some outstanding organisations & people outside of Microsoft.
+Quicky chronology:
+May 1991
+Sep 1993
+Microsoft Canberra, working as a Systems Engineer
+Sep 1993
+Aug 1994
+Microsoft Corp, @ Executive Briefing Center
+Aug 1994
+Oct 1995
+Microsoft Corp, in the Advanced Technology Group, working on Interactive TV
+Nov 1995
+May 1997
+Microsoft Australia, MSN Technical Director
+Jun 1997
+Jun 1999
+ninemsn CTO
+Jun 1999
+May 2001
+Microsoft Region, Digital Media dude
+May 2001
+now
+Microsoft Australia, Developer Evangelism
+If you want more details, you can look
+here
+, as well as stuff said in the
+press
+.
+[Now Playing: Meat Loaf - Bat out of Hell [Australia Bonus Tracks] - For Crying Out Loud (08:55)]
+Comments
+Anonymous
+May 21, 2004
+Congratulations Frank  :)
+Wow, you've certainly been in the news Frank!
+Maybe we'll see an article in the news someday about you and St Kilda.
+Anonymous
+May 21, 2004
+Congratulations mate. You're doing a great job.
+Anonymous
+May 21, 2004
+Congratulations mate. You're doing a great job.
+Anonymous
+May 24, 2004
+Congrats! Your professional journey is very encouraging!
+Anonymous
+June 22, 2004
+Congratulations Frank,
+Us melbournians do it right!!
+Good luck with your new position. :)
+Anonymous
+June 22, 2004
+Keep it up mate!, You are doing a wonderful job. I wish all the best with you new position.
+Anonymous
+May 19, 2005
+My first post for a very long time, as I have been recovering
+from surgery.
+Today is the anniversary...
+Anonymous
+May 20, 2008
+1991 was a big year for me. I got married. I bought a house. My first child was born AND I joined Microsoft
+Anonymous
+May 20, 2009
+1991 was a big year for me. I got married. I bought a house. My first child was born AND I joined Microsoft
+Anonymous
+May 20, 2009
+PingBack from
+http://www.codedstyle.com/dix-huit-ans-aujourdhui-18-pounds-6/
+Anonymous
+May 20, 2009
+PingBack from
+http://www.codedstyle.com/dix-huit-ans-aujourdhui-18-pounds-3/
+Anonymous
+May 20, 2009
+PingBack from
+http://www.codedstyle.com/dix-huit-ans-aujourdhui-18-pounds/
+Anonymous
+May 20, 2009
+PingBack from
+http://www.charged.co.za/software-technology/dix-huit-ans-aujourdhui-18-pounds
+Anonymous
+May 26, 2009
+PingBack from
+http://www.codedstyle.com/dix-huit-ans-aujourdhui-18-pounds-2/
+Anonymous
+May 26, 2009
+PingBack from
+http://www.codedstyle.com/dix-huit-ans-aujourdhui-18-pounds-4/
+Anonymous
+May 26, 2009
+PingBack from
+http://www.codedstyle.com/dix-huit-ans-aujourdhui-18-pounds-5/
+Anonymous
+June 09, 2009
+PingBack from
+http://www.charged.co.za/software-technology/dix-huit-ans-aujourdhui-18-pounds-2
+Additional resources
+Last updated on
+2004-05-20

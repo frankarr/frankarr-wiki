@@ -1,0 +1,47 @@
+---
+title: "10552 songs and itâs still half full (or half empty)"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/10552-songs-and-its-still-half-full-or-half-empty"
+date: "2008-10-10"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+10552 songs and itâs still half full (or half empty)
+The following tweet
+came across my screen yesterday and it made me thinkâ¦
+I also looked and found an article from a few years back -
+Most MP3 players 'barely half full'
+which said
+The average user fills only 58 per cent of their music player, leaving the average player with more than 4GB of free space
+Curious, I check out my current music player â a
+Zune 120gb
+which I recently picked up. The stats show I am about 49% full, which means I have another 60GB available. Thatâs what I call an
+infinite digital jukebox
+!
+Speaking of Zune â hereâs
+my zune profile
+and zune card
+Technorati Tags:
+Zune
+Comments
+Anonymous
+October 10, 2008
+I'm impressed you've got 60 gigs full. Do you REALLY listen to all of that or is it there because you might want to? I guess w/ 60 gigs you have that option. I have a 30gig player and it's only about 30% full. I'd consider myself an avid music listener/fan, but I suppose I really like a certain genre that isn't able to fill a full 30 gigs (let alone 120).
+I know there are a ton of people out there who can fill a terabyte but I just think I'd never even consider listening to some of it.
+Anonymous
+October 10, 2008
+PingBack from
+http://www.easycoded.com/10552-songs-and-it%e2%80%99s-still-half-full-or-half-empty/
+Anonymous
+October 10, 2008
+I don't know about that - I guess it all depends on the capacity of the player. When I had a 160Gb iPod I would have agreed with you, in that I used most of the capacity for storing backups of my CDs (not in playable format), but now I have an iPhone, I find it's close to full almost all of the time.
+Additional resources
+Last updated on
+2008-10-10

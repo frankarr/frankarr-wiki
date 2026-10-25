@@ -1,0 +1,34 @@
+---
+title: "Latest email from Michael Moore"
+platform: "radio-userland"
+era: "microsoft"
+source_url: "http://radio-weblogs.com/0124955/2004/09/09.html#a678"
+date: "2004-09-09"
+tags:
+  - "My Interests"
+  - "Random"
+---
+
+Thursday, 9 September 2004
+Latest email from Michael Moore
+I really liked Fahrenheit 9/11. It was a terrific movie. I still havent taken Moira to see it, which makes her mad at me.
+I got the latest email from Michael Moore today and I felt compelled to post it.
+Why I Will Not Seek a Best Documentary Oscar
+(I'm giving it up in the hopes more voters can see "Fahrenheit 9/11")
+9/6/04
+Dear Friends,
+I had dinner recently with a well-known pollster who had often worked for Republicans. He told me that when he went to see "Fahrenheit 9/11" he got sodistraught he twice had to go out in the lobby and pace during the movie.
+"The Bush White House left open a huge void when it came to explaining the war to the American people," he told me. "And your film has filled that void -- and now there is no way to defeat it. It is the atomic bomb of this campaign."
+He told me how he had conducted an informal poll with "Fahrenheit 9/11" audiences in three different cities and the results were all the same. "Essentially, 80% of the people going IN to see your movie are already likely Kerry voters and the movie has galvanized them in a way you rarely see Democrats galvanized.
+"But, here's the bad news for Bush: Though 80% going IN to your movie are Kerry voters, 100% of those COMING OUT of your movie are Kerry voters. You can't come out of this movie and say, 'I am absolutely and enthusiastically voting for George W. Bush.'"
+His findings are similar to those in other polls conducted around the country. In Pennsylvania, a Keystone poll showed that 4% of Kerry's support has come from people who decided to vote for him AFTER seeing "Fahrenheit 9/11" -- and in an election that will be very close, 4% is a landslide. A Harris poll found that 44% of Republicans who see the film give it a "positive" rating. Another poll, to be released this week, shows a 21-point shift in Bush's approval rating, after just one viewing of the movie, among audiences of undecideds who were shown "Fahrenheit 9/11" in Ohio.
+My pollster friend told me that he believes if Kerry wins, "Fahrenheit 9/11" will be one of the top three reasons for his election. Kerry's only problem, he said, is how many people will actually be able to see it before election day. The less that see it, the better for Bush.
+But 20 million people have already seen it -- and the Gallup poll said that 56% of the American public has seen or plans to see "Fahrenheit 9/11" either in the theater or on home video. The DVD and home video of our film, thanks to our distributors listening to our pleas to release it before November, will be in the stores on October 5. This is very good news.
+But can it also be shown on TV? I brought this possibility up in this week's
+Rolling Stone interview
+. Our contract with our DVD distributor says no, it cannot. I have asked them to show it just once, perhaps the night before the election. So far, no deal. But I haven't given up trying.
+The only problem with my desire to get this movie in front of as many Americans as possible is that, should it air on TV, I will NOT be eligible to submit "Fahrenheit 9/11" for Academy Award consideration for Best Documentary. Academy rules forbid the airing of a documentary on television within nine months of its theatrical release (fiction films do not have the same restriction).
+Although I have no assurance from our home video distributor that they would allow a one-time television broadcast -- and the chances are they probably won't -- I have decided it is more important to take that risk and hope against hope that I can persuade someone to put it on TV, even if it's the night before the election.
+Therefore, I have decided not to submit "Fahrenheit 9/11" for consideration for the Best Documentary Oscar. If there is even the remotest of chances that I can get this film seen by a few million more Americans before election day, then that is more important to me than winning another documentary Oscar. I have already won a Best Documentary statue. Having a second one would be nice, but not as nice as getting this country back in the hands of the majority.
+The deadline to submit the film for the documentary Oscar was last Wednesday. I told my crew who worked on the film, let's let someone else have that Oscar. We have already helped to ignite the biggest year ever for nonfiction films. Last week, 1 out of every 5 films playing in movie theaters across America was a documentary! That is simply unheard of. There have been so many great nonfiction films this year, why not step aside and share what we have with someone else? Remove the 800-pound gorilla from that Oscar category and let the five films who get nominated have all the attention they deserve (instead of the focus being on a film that has already had more than its share of attention).
+I've read a lot about "Fahrenheit" being a "sure bet" for the documentary Oscar this year. I don't believe anything is truly a "sure bet." And, in the end, I think sometimes it's good for your s

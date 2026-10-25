@@ -1,0 +1,74 @@
+---
+title: "Virtual Earth Seminar : Sydney 2/4/07 and Melbourne 3/4/07"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/virtual-earth-seminar-sydney-2407-and-melbourne-3407"
+date: "2007-03-20"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+Virtual Earth Seminar : Sydney 2/4/07 and Melbourne 3/4/07
+Your invitation to attend a Virtual Earth Seminar, including a masterclass with Johannes Kebeck!
+Never before has it been so easy to track your assets, find your customers, manage your mobile sales force & engineers or make sure your customers find you before they find a competitor! If you run a business, these events will give you a real insight into how map-enabling your business applications can help you create customer satisfaction and optimise your organisation. If you are a technologist youâll be amazed at just how easy it is to access and integrate Virtual Earth into your environment.
+To register please
+RSVP
+to
+i-halam at microsoft.com
+with your company name, email address & telephone number
+Monday 2nd April 2007, 1 Epping Road, North Ryde, Sydney NSW 2113
+12:00 - 13.00
+Registrations, Lunch
+13:00 - 13:30
+Welcome & Introduction to Virtual Earth - Jennifer Forsythe, Microsoft
+13:30 - 15:00
+Virtual Earth in Australia - Laurie Edwards , Map Data Sciences. Introduction to Map Data Sciences and 2 case studies from Virtual Earth Innovators
+15:00 â 15:30
+Break
+15:30 â 16:30
+Virtual Earth Demonstrations â Johannes Kebeck, Microsoft
+16:30 â 17:30
+Virtual Earth MasterClass â Tips and Tricks for developers â Johannes Kebeck, Microsoft
+17:30
+Questions and close
+Tuesday 3rd April 2007 at Level 5, 4 Freshwater Place, Southbank, Melbourne Vic 3006.
+12:00 - 13.00
+Registrations, Lunch
+13:00 - 13:30
+Welcome & Introduction to Virtual Earth - Jennifer Forsythe, Microsoft
+13:30 - 15:00
+Virtual Earth in Australia - Laurie Edwards , Map Data Sciences. Introduction to Map Data Sciences and 2 case studies from Virtual Earth Innovators
+15:00 â 15:30
+Break
+15:30 â 16:30
+Virtual Earth Demonstrations â Johannes Kebeck, Microsoft
+16:30 â 17:30
+Virtual Earth MasterClass â Tips and Tricks for developers â Johannes Kebeck, Microsoft
+17:30
+Questions and close
+Technorati tags:
+Virtual Earth
+,
+Microsoft Australia
+Comments
+Anonymous
+March 20, 2007
+Not in Brisbane...I must be living in the wrong city :( - Bronwen
+Anonymous
+March 21, 2007
+Bronwen won't be comming but i have booked a flight down to Sydney for the 2nd April.
+If anyone wants to share a cab out to North Ryde follow my link....
+Anonymous
+March 23, 2007
+I'll be attending this training just for kicks... and it looks like John from Soul Solutions will be
+Anonymous
+April 03, 2007
+We're all mad about twitter at the moment - well I am anyways . Inspired by the awesome Twittervision
+Additional resources
+Last updated on
+2007-03-20

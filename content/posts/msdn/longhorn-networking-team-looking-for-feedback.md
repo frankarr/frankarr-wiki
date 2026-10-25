@@ -1,0 +1,29 @@
+---
+title: "Longhorn Networking team looking for feedback"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/longhorn-networking-team-looking-for-feedback"
+date: "2005-04-20"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+Longhorn Networking team looking for feedback
+I've got the following email from the longhorn team looking for some feedback.....
+I am trying to collect customer input on some networking features Microsoft is considering in Longhorn that I thought you might want to pass on to some of your blog readers. If you think the current project I am working on would be of interest to your blog readers, I would love it if you could post my survey link. If you don't think this would be of interest to your readers that's ok.
+The Microsoft network product team is investigating ways of resolving peer-to-peer connectivity problems in Longhorn, and we would like to get customer feedback to help validate some of the design proposals.
+Today, there are many situations where users are unable to run such functions as remote assistance, voice/video conversations, and many other peer-to-peer functions because of firewalls, NATs and other network configuration problems. Our goal is to build networking technology into the operating system that will overcome many of these problems, allowing these peer-to-peer scenarios to "just work".
+This survey outlines some of the proposals for resolving these connectivity problems, and asks for feedback on them. We would love to get the opinions from a wide range of users, and markets (e.g.consumers, large IT departments, etc) since this would have implications for everyone.
+Sounds like a good thing to do, if you would like to participate here's the
+survey link
+.
+[ Currently Playing : Sunset (Bird of Prey) - Fatboy Slim - Halfway Between the Gutter and the Stars (06:50) ]
+Comments
+Additional resources
+Last updated on
+2005-04-20

@@ -1,0 +1,91 @@
+---
+title: "Ready, Set, Download : Windows Vista Beta 1 on MSDN"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/ready-set-download-windows-vista-beta-1-on-msdn"
+date: "2005-07-27"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+Ready, Set, Download : Windows Vista Beta 1 on MSDN
+You've
+seen the news
+, now download the bits from MSDN Subscriber Downloads and TechNet Downloads ...
+https://www.microsoft.com/technet/windowsvista/default.mspx
+And while you are downloading, have a look at the
+Windows Vista Dev Center on MSDN
+or watch the
+interview with Chris Jones on Channel 9
+[ Currently Playing : Prove My Love - Violent Femmes - Viva Wisconsin (02:54) ]
+Comments
+Anonymous
+August 03, 2005
+Hey do you have vista? i dont have msdn but i really want Vista :( do you think you could help modelmaker91@gmail.com
+Anonymous
+August 05, 2005
+I don't have MSDN Subscriber ID, too. Could you help me, doanvuonghoang@yahoo.com?
+Thank you very much!
+Anonymous
+August 05, 2005
+same thing here sent anser to super-schaf@gmx.ch
+Anonymous
+August 06, 2005
+please send me information for download
+i d'ont have msdn subscrition but i need a vista download for test my software
+please
+please
+please
+:)
+Anonymous
+August 07, 2005
+goto appledocs.com and download it!
+cheers!
+Anonymous
+September 04, 2005
+I find Unofficial Download page of Windows Vista Beta 1 here:
+http://windows.czweb.org/show_article.php?id_article=28
+Anonymous
+April 03, 2006
+I'm still exploring the data provided by BlogBeat. Yes, I have subscribed to the service,
+as I...
+Anonymous
+April 10, 2006
+Last
+week I looked at my top 5 posts&amp;nbsp;as reported by BlogBeat
+Now, I've expanded this to the...
+Anonymous
+June 07, 2006
+I've been using Blogbeat for a while
+now, to
+give me some insights into my
+blog stats.
+It's...
+Anonymous
+August 03, 2006
+Had a quick look on BlogBeat to see my top
+20&amp;nbsp;posts from last month.
+Really surprising to...
+Anonymous
+August 31, 2006
+As I did last month, I looked back on BlogBeat for my top 20 posts for the month of August. Not surprisingly...
+Anonymous
+November 02, 2006
+As I do each month , let's look back on BlogBeat for my top 20 posts for the month of October . October
+Anonymous
+December 08, 2006
+I finally was able to logon to my BlogBeat account this weekend, following a PEBKAC sitution. Normally,
+Anonymous
+December 31, 2006
+As is usual for this time of the year, we look back a bit. Here's my top 20 posts for December 2006 .
+Anonymous
+February 01, 2007
+TaDa!, top 20 posts for January 2007 . Old posts continue to be popular. My Elfamorphosis Windows Vista
+Additional resources
+Last updated on
+2005-07-27

@@ -1,0 +1,91 @@
+---
+title: "Hello to attendees of Frocomm's 2nd Annual Public Relations & Corporate Communications Summit"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/hello-to-attendees-of-frocomms-2nd-annual-public-relations-corporate-communications-summit"
+date: "2007-05-03"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+Hello to attendees of Frocomm's 2nd Annual Public Relations & Corporate Communications Summit
+The title says it all. Welcome if you were an attendee of Frocomm's
+2nd Annual Public Relations & Corporate Communications Summit
+and were inspired by
+my panel session
+to come search me out and see what this is all about.
+So, have a look around.
+Find out more about me
+See who is on my team
+Find out about the time I was interview by
+Business Sunday
+, or how about
+The Bulletin
+,
+Computerworld
+,
+The Australian,
+Human Capital Magazine
+,
+the AFR
+,
+MIS Magazine
+.
+Watch me on a panel talking about Business Blogging from March 2005
+(note what I was wearing back then)
+Have a read of some of my past posts from
+February 2006 (43)
+, or
+August 2005 (43)
+or
+March 2005 (29)
+Check out my
+Twitterings.
+Don't know about Twitter - have a read of these articles from
+Time
+or
+MSNBC
+If this tickles your fancy,
+subscribe to my feed
+It's good to have you join the conversation
+Technorati tags:
+Blogging
+,
+Frank Arrigo
+,
+Frocomm
+,
+Public Relations
+,
+Corporate Communications
+[
+Current Listening to
+:
+Khe Sanh
+by
+Cold Chisel
+from
+The Best of Cold Chisel
+]
+Comments
+Anonymous
+May 03, 2007
+Did you need to send your Armani suit to the dry cleaner to get the champagne stains out?
+;)
+Anonymous
+December 10, 2007
+Last week I was in Texas , facilitating a workshop on Evangelism Excellence. It was an internal audience
+Anonymous
+December 10, 2007
+Last week I was in Texas , facilitating a workshop on Evangelism Excellence. It was an internal audience
+Anonymous
+December 10, 2007
+Last week I was in Texas , facilitating a workshop on Evangelism Excellence. It was an internal audience
+Additional resources
+Last updated on
+2007-05-03

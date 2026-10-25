@@ -1,0 +1,36 @@
+---
+title: "Thinkgeek have some great new products for April"
+platform: "radio-userland"
+era: "microsoft"
+source_url: "http://radio-weblogs.com/0124955/2006/04/01.html#a1049"
+date: "2006-04-01"
+tags:
+  - "Geek"
+  - "My Hobbies"
+---
+
+Saturday, 1 April 2006
+Thinkgeek have some great new products for April
+Got the latest Thinkgeek newsletter - some new items for
+APRIL
+What's New @ ThinkGeek !!
+The iZilla - Digital Media Monster
+Tromping through the streets of downtown Tokyo, crunching tiny white audio players underfoot comes the iZilla. If you've been looking to step up to a hungry-man sized portable media player with incredible tech powers, this is it. The iZilla offers a whopping two terabytes of storage and has a built-in slot loading turntable for ripping audio direct from vinyl. Take the iZilla with you anywhere. It's like having an entire home entertainment system in a handy 30 pound white briefcase.
+http://www.thinkgeek.com/stuff/41/izilla.shtml
+The USB Desktop Tanning Center
+ThinkGeek has long pondered the fate of geeks who live their entire lives indoors with pale, blotchy skin. Just like you. We knew we could never motivate you to get off the computer in some half-witted attempt to go kayaking or to have a spring picnic. There simply is not enough time for World of Warcraft as it is, and we fully understand. So, we figured if we can't get you to interact with sunlight, we would do the next best thing and bring the sun to you. 400 watts of Ultraviolet bliss easily attaches on either side of your monitor and is USB powered! Now you can frag until the cows come home and still work on a deliciously amber tan all because ThinkGeek had the vision, power and ingenuity to make your world a brighter happy place. Get golden here:
+http://www.thinkgeek.com/stuff/41/usbtanner.shtml
+Grow Your Own 1up Mushroom Kit
+Mario's dream is finally here. His insurance was running out because of all his hand injuries - hitting bricks and blocks is tough, you know. But the pain and hospital visits were worth it every time he found an elusive 1up Mushroom. Now, Mario can rest easy and so can you. All you need to add is potting soil and water, and you'll have everything you need to grow your very own 1up Mushroom. And the best part is - it really works! Really. Grow in the included sewer-pipe-shaped flower pot, and you'll have the greatest conversation piece ever. Just keep it nearby; you never know when Bowser or Wario will attack, and you'll need an extra life.
+http://www.thinkgeek.com/stuff/41/1upmushroom.shtml
+Wireless Extension Cords
+Workplace safety is a key element to worker happiness. And a happy worker is a productive worker. Extension cords can be a real work hazard, snaking across the floor and tripping you. Not only are they dangerous, but the accidents can be quite embarrassing. Make your workplace safer - use Wireless Extension Cords (WECs). Using the latest in microwave energy transmission technology, the WECs "beam" power right where you need it. Broadcasting in the 7.2GHz range, the WECs will not interfere with wireless networks, phones, or Bluetooth components. Be sure to heed all the warnings in the instruction manual; the microwaves used are relatively safe, but you don't want to cook your computer (or coworkers) by mistake.
+http://www.thinkgeek.com/stuff/41/wec.shtml
+The Screened Sphorb - The future, again.
+Only once in a lifetime does a product come along that redefines the barriers and sets all the boundaries back to a starting place. A product that gives more than it takes and gives back even more. Just imagine what the world would be like without the Screened Sphorb and that world would not be unlike anything you can even think to imagine thinking about. Imagine that and you'll start to see why critics are calling the Screened Sphorb a product that not only offers more time profit than any product ever, but also features aspects that make it easier and easier to ascribe to the lay person without having to compromise a single screen. Now that's revolutionary. Winner of multiple awards including "mind numbingly best", we reveal the aesthetically stunning and paradigm shift enabling, amazing, Screened Sphorb. Exclusively available at ThinkGeek:
+http://www.thinkgeek.com/stuff/41/screenedsphorb.shtml
+Buzzaire - Metered Dose Caffeine Inhaler
+We like caffeine. It helps us wake up in the morning, stay alert during the day, and stay even more alert during the night. Caffeine keeps us rocking, coding, fragging, and partying well past normal human tolerance. Here at ThinkGeek, we sell caffeinated liquids (drinks, syrups) and solids (mints, gums). But something was missing; there was a state of matter not caffeinated: gas. Until now! Welcome to the first commercially available caffeinated inhaler. One puff and you'll have about two cups of coffee's worth of caffeine zooming through your blood stream. Because it's inhaled, it will start working a lot faster than caffeine delivery systems that need to be digested. Breathe in and perk up! And yes, we know about the fourth state of matter: plasma...just wait until we unveil the world's first caffeinated desktop star (later this year):
+http://www.thinkgeek.com/stuff/41/buzzaire.shtml
+5:00:34 PM
+comm

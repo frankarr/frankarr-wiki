@@ -1,0 +1,52 @@
+---
+title: "Lookout and Microsoft MSN teaming up"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/lookout-and-microsoft-msn-teaming-up"
+date: "2004-07-16"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+Lookout and Microsoft MSN teaming up
+This arrived in my inbox this morning. All I can say is Wow!
+-----Original Message-----
+From: Lookout Support
+Sent: Friday, 16 July 2004 5:10 AM
+To: Frank Arrigo
+Subject: Lookout and Microsoft MSN teaming up
+Hi, Lookout Users,
+We wanted to send you a status note about what is happening with Lookout.
+You may have already read the news on our website or in the press. Over the last year, Lookout has grown from a hobby project into a real product. It is still gaining momentum rapidly, and we've been delighted to read all the success stories from people using Lookout. A lot of this success has come from all the great help that we've had from all the users willing to sacrifice life and limb to help us test this product. Thank you so much for all your support, we hope you are recovering smoothly from your beta wounds!
+As of today, Lookout is being officially drafted from a minor-league, small software company into the majors. Eric and I are very excited to announce that Microsoft has purchased Lookout. The next generation of Lookout will be an enhanced product with a lot more power. We look forward to leveraging the strengths of Microsoft and MSN in making a great product and hope to infuse some of our own "Lookout culture" into MSN products as well. This should be a great thing for everyone.
+Some of you may have concerns about Lookout losing its feel as it moves into a larger company. Hopefully it helps to know that Eric and I are not worried about that. We've met the MSN team, and they are very good, extremely smart people. So, actually, to the contrary, we're excited to be part of Microsoft. Joining Microsoft allows us to take Lookout in directions that we never could have gone alone.
+At the same time, we hope to maintain close relationships with you as much as we can, and we hope to continue to build software that is simple, elegant, and just plain works. Your input will still be as necessary as it was in order to bring forward great products. So, as we go through this transition, please let us know what you think! You can still contact us with any comments, questions, concerns, rants, or raves at lookout@lookoutsoft.com.
+And, please don't worry, if you have become dependant on Lookout and don't want to change, you certainly don't have to. You can continue to use Lookout just as you always have for as long as you want.
+Finally, if you do decide that you don't want to be contacted by MSN regarding Lookout updates or related products and services, you can opt-out.
+Your privacy is of utmost concern to us, and you can read our new privacy statement, which is consistent with our previous policy and explains how we may use your personal information going forward here:
+https://www.lookoutsoft.com/Lookout/privacy.html
+. To remove yourself, just send an email to optout@lookoutsoft.com We hope to continue working with you, so please don't click that link! But, if you must, we understand.
+Thanks again for everything you've done, we appreciate all your help.
+Mike, Eric, and the Microsoft MSN Team
+Comments
+Anonymous
+July 15, 2004
+Microsoft buys Lookout
+Anonymous
+July 16, 2004
+For those of us who never heard of Lookout - what is it?
+Anonymous
+July 20, 2004
+Frank
+They could have choosen a more original name - we have had this product name for 4 years now....
+http://www.greghughes.net/rant/PermaLink,guid,0ff995c7-28ca-4880-a848-135b5d173f58.aspx
+Adam
+www.ssw.com.au
+Additional resources
+Last updated on
+2004-07-16

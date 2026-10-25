@@ -1,0 +1,268 @@
+---
+title: "AFL Round 11 2007 : Results"
+platform: "radio-userland"
+era: "microsoft"
+source_url: "http://radio-weblogs.com/0124955/2007/06/11.html#a1500"
+date: "2007-06-11"
+---
+
+Monday, 11 June 2007
+AFL Round 11 2007 : Results
+Oh what another unforgettable round in relation to be my tips. Just got 3 right.
+Week 11
+(Tip ratio)
+Home
+Draw
+Away
+(Tip ratio)
+(21%)
+Bombers
+(15.5 95)
+Eagles
+(14.10 94)
+(79%)
+(66%)
+Hawks
+(9.12 66)
+Swans
+(11.9 75)
+(34%)
+(45%)
+Blues
+(22.9 141)
+Power
+(14.18 102)
+(55%)
+(54%)
+Lions
+(10.12 72)
+Bulldogs
+(13.17 95)
+(46%)
+(40%)
+Crows
+(9.8 62)
+Cats
+(9.15 69)
+(60%)
+(43%)
+Saints
+(8.10 58)
+Kangaroos
+(11.14 80)
+(57%)
+(92%)
+Dockers
+(18.15 123)
+Tigers
+(15.12 102)
+(8%)
+(23%)
+Demons
+(13.16 94)
+Magpies
+(11.15 81)
+(77%)
+The Saints had another disappointing result.
+Mike Sheehan says the The Saints are coming apart
+Real Footy
+St Kilda's
+bad week has only one remedy
+Real Footy, Australia -
+11 hours ago
+HAVING attacked and lost in his public relations war with Grant Thomas last week, Rod Butterss and the
+St Kilda
+administration went into defensive shut down mode yesterday.
+St Kilda
+wilts as Kangaroos cruise
+The Age
+Kangaroos 80
+St Kilda
+58
+Sky News Australia
+all 70 news articles Â»
+4 losses in a row and they are sitting in 14th place on the ladder.
+Team
+W
+D
+L
+For
+Agn
+Stk
+Chg
+Pts
+%
+Geelong
+8
+0
+3
+1273
+839
+6W
+U1
+32
+151.73
+West Coast
+8
+0
+3
+1024
+813
+1L
+D1
+32
+125.95
+Hawthorn
+7
+0
+4
+977
+865
+1L
+-
+28
+112.95
+Essendon
+7
+0
+4
+1106
+1036
+4W
+U2
+28
+106.76
+Collingwood
+7
+0
+4
+1044
+986
+1L
+D1
+28
+105.88
+Kangaroos
+7
+0
+4
+1047
+1037
+1W
+U2
+28
+100.96
+Sydney
+6
+0
+5
+942
+828
+1W
+U2
+24
+113.77
+Adelaide
+6
+0
+5
+889
+831
+2L
+D3
+24
+106.98
+Western Bulldogs
+6
+0
+5
+1082
+1107
+1W
+U1
+24
+97.74
+Port Adelaide
+6
+0
+5
+1001
+1035
+4L
+D3
+24
+96.71
+Fremantle
+5
+0
+6
+1040
+1047
+1W
+U1
+20
+99.33
+Brisbane Lions
+4
+1
+6
+923
+991
+1L
+D1
+18
+93.14
+Carlton
+4
+0
+7
+1159
+1344
+2W
+U1
+16
+86.24
+St Kilda
+4
+0
+7
+814
+956
+4L
+D1
+16
+85.15
+Melbourne
+2
+0
+9
+863
+1121
+2W
+-
+8
+76.98
+Richmond
+0
+1
+10
+925
+1273
+1L
+-
+2
+72.66
+Season over?
+5:08:22 PM
+comment [
+]
+trackback [
+]
+G!
+© Copyright 
+     2007
+     Frank Arrigo.
+A Geek Microsoft Blogger
+Last update: 
+     5/07/2007; 11:42:05 AM
+     .

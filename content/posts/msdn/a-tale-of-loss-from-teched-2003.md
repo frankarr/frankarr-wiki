@@ -1,0 +1,113 @@
+---
+title: "A tale of loss from TechEd 2003"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/a-tale-of-loss-from-teched-2003"
+date: "2004-07-31"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+A tale of loss from TechEd 2003
+Last year,
+TechEd was held in Brisbane
+, at the Convention Center.
+I have tradionally worn a lovely LOUD
+Mambo
+Hawaiian shirt, which was yellow with red roses, similar to the one that is
+for sale on Ebay
+. This shirt is no longer available and it is considered a collector's item -
+as are all the LOUD mambo shirts
+Well, at last year's
+TechEd party
+(held at
+Family nightclub
+), one of the attendees asked me if he could wear my shirt. Foolishly I let him wear it. Next thing I know this dude has run away and I am missing a shirt. I have no idea who he was, and I haven't seen him since.
+So, if anyone sees someone at
+TechEd 2004
+with
+*MY*
+Mambo
+shirt - grab him and please let me know. I want my shirt back!
+Comments
+Anonymous
+July 31, 2004
+I too want a shirt like that!
+How about gifting one to me.See my blog which has some useful info in it for all visitors.
+and yes do check
+http://freshnews.org
+a favorite website of mine.
+Anonymous
+August 01, 2004
+The comment has been removed
+Anonymous
+August 02, 2004
+Good luck for getting your shirt back. You can have 'wanted' signs up there.
+Anonymous
+August 09, 2005
+You may be familiar with the
+story of my missing Mambo shirt from Tech.Ed 2003&amp;nbsp;which was held...
+Anonymous
+August 09, 2005
+You may be familiar with the story of my missing Mambo shirt from Tech.Ed 2003&amp;nbsp;which was held in...
+Anonymous
+August 19, 2005
+You may be familiar with the story of my missing Mambo shirt from Tech.Ed 2003&amp;nbsp;which was held in...
+Anonymous
+September 01, 2005
+Well things are winding down, down here, and I feel the need to cover some loose ends.
+First, the...
+Anonymous
+August 08, 2007
+I got an email from a Tech.Ed attendee this week listing the Tech.Ed Parties (and believe it or not,
+Anonymous
+August 08, 2007
+PingBack from
+http://msdnrss.thecoderblogs.com/2007/08/09/teched-australia-parties/
+Anonymous
+August 08, 2007
+I got an email from a Tech.Ed attendee this week listing the Tech.Ed Parties (and believe it or not,
+Anonymous
+August 11, 2007
+The comment has been removed
+Anonymous
+August 11, 2007
+The comment has been removed
+Anonymous
+August 11, 2007
+PingBack from
+http://msdnrss.thecoderblogs.com/2007/08/11/whirlwind-couple-of-days/
+Anonymous
+March 02, 2008
+Getting the last of my stuff sorted before heading down to Las Vegas for Mix08 . Trying to decide if
+Anonymous
+March 02, 2008
+Getting the last of my stuff sorted before heading down to Las Vegas for Mix08 . Trying to decide if
+Anonymous
+March 02, 2008
+PingBack from
+http://msdnrss.thecoderblogs.com/2008/03/02/getting-ready-for-mix/
+Anonymous
+March 28, 2008
+PingBack from
+http://frankthefrank.info/entry.php?id=kwws%3d22eorjv1jrwgrwqhw1frp2iudqnduu2dufklyh2533723%3a2642535%3b891dvs%7b
+Anonymous
+June 09, 2009
+PingBack from
+http://greenteafatburner.info/story.php?id=4419
+Anonymous
+June 16, 2009
+PingBack from
+http://lowcostcarinsurances.info/story.php?id=5339
+Anonymous
+June 18, 2009
+PingBack from
+http://barstoolsite.info/story.php?id=5585
+Additional resources
+Last updated on
+2004-07-31

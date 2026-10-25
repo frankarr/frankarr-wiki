@@ -1,0 +1,125 @@
+---
+title: "techtalkblogs - a better way to join the conversation"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/techtalkblogs-a-better-way-to-join-the-conversation"
+date: "2006-02-24"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+techtalkblogs - a better way to join the conversation
+2 years ago,
+I put a call
+out to start the aussie .net blogger list
+.
+This was a
+OPML file
+that I maintained
+and I kept this information as a blogroll on my blog as
+well.
+We hit
+100 members
+recently
+and it have subsequently
+grown to
+123 members
+, but it has always been a manual process. People email me, and
+when I get around to it, I update the OPML.
+There must be a better way.
+Well, there is, and it's called
+TechTalkBlogs
+.
+This project has been a dream of mine for a while. It provides a single
+aggregated view of all the local bloggers in the OPML, as well as the ability
+for bloggers to add/remove them selves from the list. I love it. No longer do I
+have to manual edit an OPML file in notepad again!
+This gives us a a way to see the most up to date and interesting news items
+from around the local technology & blogging community. We have also included
+the Kiwi .NET Bloggers OPML
+, (
+as
+maintained by Nic Wise
+) so it's a truly ANZ community.  As of this
+evening, there were
+173
+active feeds.
+The site has a neat feature to the aggregated feed
+- a "
+Thumbs Up
+".  If you see something you find
+interesting, go ahead and give it big Aussie thumbs up by clicking on the
+"
+Thumbs Up
+" Icon.  When you give a
+Thumbs
+Up
+, you are helping the community by helping
+TechTalkBlogs
+work out what
+are the most interesting stories floating around the blogosphere.
+There is another part of the site, in which we have a guest blogger talking
+about particular topics. We are kicking off with
+Rocky Heckman
+, an Australian Security MVP, in
+which he will comment on security related issues (since we are about to
+undertake
+the upcoming
+Security Seminars
+) and keep an eye on conversation happening in the
+aggregated feed. Over the coming weeks/months, we will have other guest bloggers
+covering topics such as Windows Vista,  Atlas, and other topics of
+interest.
+I also have lots of ideas to extend this. I can see it now, tags, folksonomy,
+feeds by category/tag, geotagging of feeds, maps, lists of top blog posters,
+mashups, etc, etc, etc. I'm getting ahead of myself
+So, want to know what the local IT Community is talking about?  Go to
+techtalkblogs
+. Have your say, join the
+conversation!
+[ Currently Playing : How High -
+Madonna - Confessions on a Dance Floor (04:40) ]
+Comments
+Anonymous
+February 24, 2006
+Hi Frank - this is so cool.
+Anonymous
+February 26, 2006
+Thanks Frank! I promise to make it a hit! With so many blogs to keep track of it can be hard to remember all the URLs.  For example the one in Frank's post here to my blog. :-) it's actually
+http://www.rockyh.net
+:-)
+Thanks!
+Anonymous
+February 27, 2006
+Frank Arrigo has been working on a cool little project Down Under. It's called TalkTechBlogs.
+&quot;This...
+Anonymous
+February 27, 2006
+The comment has been removed
+Anonymous
+May 17, 2006
+Time to check in on the health of TechTalkBlogs. It's been alive 83
+days. Feb 24 was
+when I first...
+Anonymous
+June 30, 2006
+July 1 marks the start of the new financial year. It's like the start of a
+new season in footy. We...
+Anonymous
+June 30, 2006
+July 1 marks the start of the new financial year. It's like the start of a
+new season in footy. We...
+Anonymous
+August 18, 2006
+I got an email from Mark Cohen reminding me to update my blog roll with his new blog url. I haven't really...
+Anonymous
+March 08, 2007
+I am such a bad parent. My little baby celebrated it's first birthday, and I didn't take the time to
+Additional resources
+Last updated on
+2006-02-24

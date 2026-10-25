@@ -1,0 +1,104 @@
+---
+title: "Shiver Me Timbers"
+platform: "radio-userland"
+era: "microsoft"
+source_url: "http://radio-weblogs.com/0124955/2006/09/18.html#a1372"
+date: "2006-09-18"
+tags:
+  - "Random"
+  - "My Hobbies"
+  - "Random"
+---
+
+Monday, 18 September 2006
+Shiver Me Timbers
+Tomorrow's the day
+In anticipation, here's the top 10 pickup lines
+10 . Avast, me proud beauty! Wanna know why my Roger is so Jolly?
+9. Have ya ever met a man with a real yardarm?
+8. Come on up and see me urchins.
+7. Yes, that is a hornpipe in my pocket and I am happy to see you.
+6. I'd love to drop anchor in your lagoon.
+5. Pardon me, but would ya mind if fired me cannon through your porthole?
+4. How'd you like to scrape the barnacles off of me rudder?
+3. Ya know, darlin, Im 97 percent chum free.
+2. Well blow me down?
+And the number one pickup line for use on International Talk Like a Pirate Day is
+1. Prepare to be boarded.
+8:04:45 PM
+comment [
+]
+trackback [
+]
+G!
+
+Random
+Saints news continuing
+The Saints continue to feature in the news, including a scatching report card.
+sportal.com.au
+2006 report card: St Kilda
+AFL, Australia -
+42 minutes ago
+What went right: St Kilda made its third consecutive finals series this season, which was only the second time in the club's history that it had achieved this feat.
+Saints first considered sacking Thomas two years ago
+The Age
+Thomas' position shaky for years
+The Age
+Roos offers Thomas support
+Townsville Bulletin
+The Australian
+-
+sportal.com.au
+all 10 news articles »
+Harvey to play on for St Kilda
+Sydney Morning Herald, Australia -
+14 Sep 2006
+The 35-year-old club games record-holder, who has played 340 games for the Saints since 1988, told club officials on Thursday he would continue playing.
+Footballing heaven
+Courier Mail, Australia -
+16 Sep 2006
+THE St Kilda coaching job, vacant after the shock sacking of Grant Thomas on Tuesday, is the best to come on to the AFL market in eight years.
+Rendell considering Saints job
+RealFooty
+Our man at headquarters
+RealFooty
+all 3 news articles »
+Sacked Thomas urges commitment to Saints
+The Age, Australia -
+14 Sep 2006
+Grant Thomas has urged his loyal players to commit their futures to the AFL club to prevent it from imploding. Contract extensions with several Saints players have been jeopardised by the St Kilda board's
+...
+[listening to: Change Your Mind -
+The Killers
+]
+1:32:44 PM
+comment [
+]
+trackback [
+]
+G!
+
+My Hobbies
+Quiz: Are You a Slacker?
+You Are 72% Slacker
+You are pretty much a slacker. Sure you may have a job or car, but only through luck and charm.
+So stop slacking! (And stop turning your underwear inside out instead of washing it!)
+Are You a Slacker?
+[listening to: Change Your Mind -
+The Killers
+]
+11:50:00 AM
+comment [
+]
+trackback [
+]
+G!
+
+Random
+© Copyright 
+     2006
+     Frank Arrigo.
+A Geek Microsoft Blogger
+Last update: 
+     1/10/2006; 5:08:50 PM
+     .

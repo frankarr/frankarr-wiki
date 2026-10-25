@@ -1,0 +1,42 @@
+---
+title: "NYT: Chocolate, âPart of a Balanced Dietâ?"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/nyt-chocolate-part-of-a-balanced-diet"
+date: "2008-06-02"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+NYT: Chocolate, âPart of a Balanced Dietâ?
+Excerpt from
+New York Times
+Article:
+Chocolate, âPart of a Balanced Dietâ?
+https://thelede.blogs.nytimes.com/2008/06/02/chocolate-part-of-a-balanced-diet/index.html
+In a British newspaper today, a 37-year-old man claimed to have settled into an extraordinary lust for Mars chocolate bars. A 12-bar-a-day habit, which began 17 years ago, is fortified with orange juice and vitamins, Keith Sorrell claimed. Far from some dire plea, Anne Sidnell of the British Nutrition Foundation offered a surprisingly evenhanded assessment. "He seems to get enough vitamin C and the bars could provide enough calcium and protein," she told The Sun. "But he's missing out on fiber, which will have an effect as he ages." The company offered another surprise, warning against such extreme loyalty to their product while also making clear that some was clearly warranted. "We encourage people to enjoy chocolate as part of a balanced diet," a spokesperson said. Chocolate? Part of a balanced diet? The assertion is vague enough to be true, of course. And Mars Inc. happens to be the chocolate company that is crusading to find ways to prove its product is healthier than widely assumed. Two years ago, the company unveiled CocoaVia, a chocolate bar rich in flavanols, a natural chemical that has antioxidant properties. The product line was expanded a year later, not that there was any doubt that Mars officials were very serious about the idea of healthy chocolate. From a New York Times article in 2005: "Heart disease is the No. 1 killer in the world, and chocolate is the No. 1 favorite ingredient in the world," said Jim Cass, Mars's vice president of marketing. "When you put those two giant macro trends together, we know this is a big idea." While boldly recommending two servings of CocoaVia a day, Mars officials were also aware that they had a steep hill to climb in winning over consumers. Here are two revealing quotes from a 2004 piece in The New York Times magazine titled Eat Chocolate, Live Longer?: As Carl Keen, at U.C. Davis, put it: "If Mars were some sort of juice company, they would find this far easier to market, but they're in a difficult position because they're a confectionary company. The marketing here is much, much more difficult than if they were selling a fruit or a vegetable." [Harold Schmitz, chief science officer of Mars], too, has no illusions about what's ahead. "Nutrition is already controversial," he said, "and you can imagine that chocolate nutrition is about 1,000 times more controversial." Nevertheless, the company is aggressively pushing forward by funding independent studies on the health properties of chocolate. "Mars has become the world leader in cocoa science," one official recently told The Pioneer Press. Last week, people lined up in London to join a Mars-sponsored study that asked them to "eat a bar of chocolate daily for a year, guilt-free and all in the name of science," as one paper put it. Indeed, Mr. Schmitz said in a recent interview that more than 100 peer-reviewed papers had been published on chocolate with financial help from Mars. Last week, one of the studies sparked promising headlines for diabetics who love chocolate. Flavanols may increase circulation, scientists said, though more research was needed before any final conclusions. Mars may have smiled at the result, but it came with a note of caution from the study's author to diabetics to stay away from the chocolate for now. "This research focuses on what's at the true heart of the discussion on "healthy chocolate," Malte Kelm said in a news release. "It's about cocoa flavanols, the naturally occurring compounds in cocoa." Aside from the scientific questions that remain, there's a supply problem as well. The product in stores -- and in the pockets and cabinets of Britain's chief chocoholic, Mr. Sorrell -- contains far less flavanols than in the stuff in the labs at the moment.
+MY COMMENT:
+mmmmm chocolate
+To download the Times Reader, click
+here
+.
+Comments
+Anonymous
+June 02, 2008
+PingBack from
+http://www.travel-hilarity.com/airline_travel/?p=4946
+Anonymous
+June 02, 2008
+Nothing wrong with cocoa - it's the sugar and the hydrogenated fat that's the problem with candy bars, right? Maybe I missed it, but I didn't see any of these two culprits mentioned in the article.
+Anonymous
+June 13, 2008
+So the guy eats lots of Mars bars.  Everyone knows there's no problem with that.
+It's just the saturated fats in the deep-fried Mars bars that'll do the ol' heart in.
+Additional resources
+Last updated on
+2008-06-02

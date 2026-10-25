@@ -1,0 +1,69 @@
+---
+title: "Election Day 2008 : A Cool Silverlight App"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/election-day-2008-a-cool-silverlight-app"
+date: "2007-11-06"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+Election Day 2008 : A Cool Silverlight App
+Today is Election Day.
+It's not the
+BIG
+presendential election day - that's next year.
+As an Australian, the US election model is quite strange. All I know about the process is what I learnt from TV like
+The West Wing
+and
+Commander in Chief
+, as well as a bunch of movies like
+Primary Colors
+,
+The American President
+,
+Being There
+,
+Wag the Dog
+,
+Head of State
+,
+Dave
+, and
+Man of the Year
+.
+So, I was delighted to stumble upon
+a fun Election 2008 app
+by
+Novera
+which uses Silverlight 1.0, AJAX, ASP.NET, and Virtual Earth. It provides biographies, images, links, and feeds for presidential candidates.
+It's hard to believe we are nearing yet another presidential election. Love them or hate them, candidates are throwing their hat into the ring in their pursuit of presidential bliss. The race for the presidency is big news in the states and keeps the media and the masses occupied, but there is also big news in the developer world that we occupy. That news is the release of Microsoft's new web technology, Silverlight. While there is a lot of chatter and anticipation about Silverlight 1.1, we couldn't wait to kick the tires and see what we could accomplish with Silverlight 1.0.
+The Election 2008 demo application is the result of having a lot of fun with this new technology. The best part about Silverlight is that it fits so well with other technologies such as ASP.NET, Microsoft AJAX, and Virtual Earth. Along the way we even discovered a love for JavaScript! The real beauty of Silverlight is that it provides an easy platform for developing new and interesting UI 'gadgets', and allows you to redefine how users interact with your application. It will be a lot of fun to see what kind of apps are created in the years to come.
+This application provides biographies, images, links, feeds, and various data for the candidates. You can get an introduction to who's who and navigate their info quickly. A good portion of the data is obtained dynamically, and only data which could not be gathered dynamically is static. We will update the static data from time to time, but don't expect it to always be accurate! This is, of course, merely a demo application, created to see what we could accomplish with Silverlight. Did I mention we're not endorsing any particular candidate? Seriously, this is just for fun
+Nice one.
+There is a
+Federal election happening in Australia
+soon - I wonder if there are similar apps out there for Australians?
+Technorati Tags:
+Silverlight
+,
+Election 2008
+,
+Novera
+Comments
+Anonymous
+November 06, 2007
+PingBack from
+http://msdnrss.thecoderblogs.com/2007/11/06/election-day-2008-a-cool-silverlight-app/
+Anonymous
+November 08, 2007
+Google Maps has an interesting one, not as pretty as the Silverlight one though.
+http://www.google.com.au/election2007/
+Additional resources
+Last updated on
+2007-11-06

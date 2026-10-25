@@ -1,0 +1,36 @@
+---
+title: "eXtreme Programming Techniques for .NET Developers"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/extreme-programming-techniques-for-net-developers"
+date: "2005-09-22"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+eXtreme Programming Techniques for .NET Developers
+Dr Neil
+will be back in Australia soon (for those you who are curious check out
+where Dr Neil is
+), to deliver his popular
+eXtreme Programming Techniques for .NET Developers,
+in conjunction with the good folks from
+dotNET Solutions
+.
+MSDN Connection and dotNET solutions are bringing Dr. Neil Roodyn, leading .NET and XP mentor and author of eXtreme .NET, to a training venue near you. We are touring throughout Australia and New Zealand during October and November with an updated one day and a new advanced two day training session on eXtreme .NET. The cost for the one day session is AU$450 (inc GST) while the two day event is AU$850 (inc GST). As it is sponsored by MSDN Connection, members get a $50 discount if they quote their MSDN Connection membership number.
+Introductory eXtreme Programming Techniques for .NET Developers
+This one day course is designed to show developers and team leaders how to incorporate eXtreme Programming (XP) practices with .NET-connected technologies to create high-quality, low-cost code to build better software. This practical, realistic course systematically covers key elements of XP methodology in the specific context of the Microsoft .NET Framework, Visual Studio .NET, Visual C#, and related Microsoft .NET-enabled applications.
+Advanced eXtreme Programming Techniques for .NET Developers
+This two day course is designed to teach developers and team leaders how to take further advantage of eXtreme Programming (XP) practices with .NET-connected technologies. This practical, realistic course will help you to turbo-charge your development process. Over the two days Dr. Neil Roodyn will take a deep look at planning, team-play, advanced test-driven development, software architecture, code design, and much more. The introductory one day course is a prerequisite to this course.
+Further details can be found at
+https://www.dotnetsolutions.com.au/xp.aspx
+. Dr Neilâs presentations were sold out earlier this year so ensure you book early to avoid disappointment.
+[ Currently Playing : Sleepwalking - Ben Lee - Breathing Tornados (03:48) ]
+Additional resources
+Last updated on
+2005-09-22

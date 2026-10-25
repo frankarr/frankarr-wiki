@@ -1,0 +1,67 @@
+---
+title: "Twitter Continues to Rule My Attention"
+platform: "radio-userland"
+era: "microsoft"
+source_url: "http://radio-weblogs.com/0124955/2007/05/26.html#a1495"
+date: "2007-05-26"
+---
+
+Saturday, 26 May 2007
+Twitter Continues to Rule My Attention
+Part of the reason I haven't been blogging here is
+Twitter
+.
+I've said it before.
+My twitter stats tonight
+300 Friends
+187 Followers
+1915 Updates
+Pretty cool. I've done more twitters than posts on this blog.
+That says it all for me
+8:00:46 PM
+comment [
+]
+trackback [
+]
+G!
+4 Years On
+Wow!
+It's been 4 years since I started playing with radio.
+Almost 1500 posts. Countless comments. It's been fun.
+However I'm considering not renewing, since I barely blog here anymore. I have a few weeks to decide
+-----Original Message-----
+From:
+customerservice@userland.com
+[
+mailto:customerservice@userland.com
+]
+Sent: Wednesday, 23 May 2007 6:16 AM
+To: Frank Arrigo
+Subject: Radio UserLand Renewal Reminder
+Greetings from the community server for Radio UserLand 8. This is a reminder that your Radio UserLand serial number will expire soon.
+This is the first automatic email you'll receive. You will receive four more renewal-reminder emails, one at 15 days before your serial number expires, one at two days before, one the day before, and then finally when your serial number has actually expired.
+At any time you can visit the UserLand store [1] to renew your license for $39.95, so that you can continue to receive software updates and store content on UserLand's community server.
+You have 30 days remaining in your Radio UserLand license for the D30W-5N14-790Z serial number.
+If you have any questions or concerns, please review the Radio UserLand website [2], or post questions on the mail list [3], or discussion group [4]; or simply respond to this email.
+And thanks from all of us at UserLand for using Radio UserLand. We sincerely hope you like it and use it well.
+[1]
+http://radio.userland.com/howToRenew
+[2]
+http://radio.userland.com/
+[3]
+http://groups.yahoo.com/group/radio-userland/
+[4]
+http://radio.userland.com/discuss/
+7:56:07 PM
+comment [
+]
+trackback [
+]
+G!
+© Copyright 
+     2007
+     Frank Arrigo.
+A Geek Microsoft Blogger
+Last update: 
+     3/06/2007; 8:05:48 PM
+     .

@@ -1,0 +1,90 @@
+---
+title: "Busy Busy Busy"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/busy-busy-busy"
+date: "2006-03-30"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+Busy Busy Busy
+You may have noticed my blogging frequency is down at the moment. There's a
+good reason for that.
+I have recently had some new people join my little team, taking my
+direct reports up to
+12
+(and one open head, but more about that
+later). We had
+a person
+leave the
+team, which enabled us to rearrange the structure and voila!
+So, I am now responsible for all the Technical Evangelism within our group -
+Anna
+recently posted that she was joining the team
+My team now looks like this:
+(DE) Developer Evangelists
+4
+Andrew Coates
+|
+Charles Sterling
+|
+Dave Glover
+|
+David Lemphers
+(AE) Architect Evangelists
+3
+Anna Liu
+|
+Nigel Watson
+| Nils Van Boxsel
+(ITE) IT Pro Evangelists
+2
+Jeff Alexander
+|
+Michael Kleef
+(ISV DE) ISV Developer Evangelists
+2
+David Sajfar | Shuk Chan
+(ITA) IT Pro Architects Advisors
+1
+Darryl Chantry
+So, why so busy?
+Well, at this time of the year, Microsoft goes through a process called the
+Mid Year Career Development Discussion
+, where we
+checkpoint on progress for the year, and then we spend a bit of time looking at
+an individual's career development plan. For me, it's been a time to get to know
+my team better (especially the newer members), what their goals and aspirations
+are, and then  put in place some development plans to help them get
+there.
+To do this properly takes time. Hence, a reduction in my blogging frequency.
+But, I'll be back!
+[ Currently Playing : Fig Jam -
+Butterfingers - Triple J Hottest 100 Volume 13 (03:34) ]
+Comments
+Anonymous
+March 30, 2006
+Frank Arrigo just announced our new&amp;nbsp;team structure, so far&amp;nbsp;it's been great fun being part of...
+Anonymous
+April 03, 2006
+Freaky times... just had my Mid Year Review at the ATO this week. My current career path is to talk about all things Microsoft. In the near future, I will be talking about Virtual Server 2005 R2 which I found out will be free from Microsoft upon RTM.
+Out of curiosity, how come there are so many evangelists?
+Anonymous
+May 19, 2006
+Today is the anniversary of when I started my career at Microsoft - 15
+years!
+As I
+said last year,...
+Anonymous
+June 30, 2006
+July 1 marks the start of the new financial year. It's like the start of a
+new season in footy. We...
+Additional resources
+Last updated on
+2006-03-30

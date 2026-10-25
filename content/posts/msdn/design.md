@@ -1,0 +1,70 @@
+---
+title: "Design"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/design"
+date: "2009-07-17"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+Design
+Iâm still getting used to summer in the middle of the year. To me summer is associated with the end of the calendar year, with Christmas, with New Year celebrations, playing in the pool and
+lots of Cricket
+.
+The other thing Iâm struggling with is the long break the kids get from school. They have almost 3 months off. Thatâs just insane! On a related point, thereâs a whole chapter on this topic of summer vacation in
+Malcolm Gladwellâs
+book
+Outliers
+, but I digressâ¦â¦
+I spent a week in Ireland with my family recently.  It was a chance for Moira to retrace her family roots, and for me to get âoff the gridâ and spend some quality time with my kids.
+We
+wandered around castles
+,
+got lost in a maze
+,
+explored really old buildings
+,
+became vikings for an afternoon
+,
+visited pubs
+,
+discovered a dolman
+and basically
+chillaxed
+. The surprising thing is that in every town we stopped in, from
+Stephen's Green in Dublin
+to The Workhouse Square at
+MacDonagh Junction in Kilkenny
+and lots of places in between, we were able to find free Wi-Fi. Even where we stayed at
+Croan Cottages
+in Dunnamaggan!
+Iâve got another trip coming up to â
+Hotlanta
+â for our annual MGX gathering.  It will be great to catch up with folks from all over the world, including my old Aussie team!
+This will be
+my 4th trip to Atlanta
+and following my recent Ireland adventures, Iâm kinda inspired to go visit the
+Georgia Guidestones
+which were featured in a recent Wired article
+American Stonehenge: Monumental Instructions for the Post-Apocalypse
+or I could just go to
+The Varsity
+for an M.K. Dog and Strings.
+Now, Iâm sure youâre wondering what the title has to do with this post. Itâs a clue for those playing a game -
+DPE/MGX Hint
+: What does the âDâ in STEM-D Stand for?
+Technorati Tags:
+Ireland
+,
+Atlanta
+,
+MGX
+Additional resources
+Last updated on
+2009-07-17

@@ -1,0 +1,81 @@
+---
+title: "Browsers used by visitors yestedray"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/browsers-used-by-visitors-yestedray"
+date: "2006-04-05"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+Browsers used by visitors yestedray
+Last night I posted
+operation
+systems used by visitors to my blog
+. In the comments, someone asked for
+Browser breakdown, so I turned to
+Blogbeat
+,
+picked a day (Yesterday April 5) and here is the breakdown. I've rolled up some
+of the numbers for ease of comparison.
+IE6
+542
+61%
+FireFox (various flavours)
+248
+28%
+IE7
+57
+6%
+Desktop (dont know this one)
+19
+2%
+OPERA (various flavours)
+14
+2%
+Mozilla (various flavours)
+8
+1%
+IE5
+3
+0%
+Firefox represents just over a quarter of all traffic, and if you clump
+Firefox, Mozilla and Opera together - that accounts for almost a third of all
+traffic.
+Good to see IE7 out in the wild.
+I wonder what DESKTOP is?
+[ Currently Playing : My Enemy -
+Cog - Triple J Hottest 100 Volume 13 (03:31)
+]
+Comments
+Anonymous
+April 05, 2006
+Do realize that the IE numbers can not be fully trusted. Many RSS readers embed IE to download and render content. One popular example is SharpReader, which is my primary RSS reader. I do not care to via my RSS feeds in FF or IE7. My "indirect" usage of IE via SharpReader is not by choice.
+Anonymous
+April 05, 2006
+Frank,
+With 74 mac users, I am surprised not to see safari in the browser list.
+Bruce
+Anonymous
+April 05, 2006
+F
+Anonymous
+April 05, 2006
+F
+Anonymous
+April 06, 2006
+Could Desktop be google desktop search (unless it uses some embedded browser to gather content)??
+The latest version allows aggregation of RSS content (automagically picks up RSS feeds on websites visited).
+Anonymous
+July 03, 2006
+I
+looked at the browsers visiting my blog a few months back
+Time to revisit -&amp;nbsp;here's a breakdown...
+Additional resources
+Last updated on
+2006-04-05

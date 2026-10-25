@@ -1,0 +1,51 @@
+---
+title: "Wonderful WPF Apps: Notescraps"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/wonderful-wpf-apps-notescraps"
+date: "2007-02-13"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+Wonderful WPF Apps: Notescraps
+Tim Sneath
+is doing
+a series of posts about great WPF applications
+, and his
+#8
+caught my eye
+Great WPF Applications #8: NoteScraps
+I love this little application: it's a joyous example of how the subtle use of WPF can add greatly to an application experience.
+NoteScraps
+is a handy little tool for jotting down little nuggets of unstructured information - when you're on the phone and someone needs to give you a reference number or an email address, when you're just jotting down a short list of to-do items, when you're just scribbling down a quick reminder. You can launch it with a keyboard shortcut or directly from the system tray, and then you simply start typing to create your note.
+This application is 100% WPF and managed code: you can
+download a shareware version
+from their website, or just
+watch a Camtasia demonstration
+of how its used.
+Here are a couple of things that I really like about the way the application is done:
+The notes are slightly rotated - not enough to make reading awkward, but just enough to add a more casual look to the application;
+The notes size to content: there's no manual management to be done for the layout;
+As you type characters into the Find field,the notes that don't contain the search text snap out of the way and the others animate back together in an appealing manner: the animation really helps you see what's going on in an inductive manner. It just feels polished.
+Try it out - it's a fun little app!
+I did try it out and I loved it too. So much that I forked out my cash and became a registered user
+Technorati tags:
+WPF
+,
+Notescraps
+Comments
+Anonymous
+February 13, 2007
+Frank, I tried this as well and thought it was quite good. Only problem I found was it was very hard to delete a note.
+You have multiple ways to add one, but no remove button, no right click remove.
+After turning the brain on I deleted the content in a note and the note removed itself.
+Maybe the author(s) will work on the usability via feedback and version 2 RC1 build 6500 will be a rock solid product and then will get my money.
+Additional resources
+Last updated on
+2007-02-13

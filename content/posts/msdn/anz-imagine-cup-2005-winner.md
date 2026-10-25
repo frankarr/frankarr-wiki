@@ -1,0 +1,62 @@
+---
+title: "ANZ Imagine Cup 2005 winner"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/anz-imagine-cup-2005-winner"
+date: "2005-07-10"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+ANZ Imagine Cup 2005 winner
+During
+the MEDC event in Sydney
+, I was
+one of the judges for the Image Cup finals
+.
+The winning team was Team Doug
+, with âColleâ, which makes it easy to create and share flash cards, provides automated and intelligent training and allows for collaboration in distributed and close-proximity environments for learning a foreign language.
+Doug got some coverage last week in the local newspaper
+, which was good to see!
+Why do I mention this now? Well, I forgot to blog about it earlier, even though
+Doug
+and
+his former teammate Richard did
+, and
+since Scoble is talking about Imagine Cup winners
+, I thought it appropriate to add our wonderful news to the blogosphere too. Did I mention
+Doug was a member of the team which represented Australia at the Imagine Cup final last year too
+?
+[ Currently Playing : Sway [Ralphi's Dark Rhumba Dub] - Michael BublÃ© - Spider-Man Theme (08:46) ]
+Comments
+Anonymous
+July 31, 2005
+Our ANZ
+representative at the Imagine
+Cup was knocked out of the
+competition last night Oh well...
+Anonymous
+July 31, 2005
+Our ANZ representative at the Imagine Cup was knocked out of the competition last night Oh well - Good...
+Anonymous
+June 14, 2006
+Tomorrow (Friday June 16, 2006) I have the honour of being on the judging
+panel for this year's Australian...
+Anonymous
+November 01, 2006
+Douglas Stockwell , Former Aussie Imagine Cup Winner and all round uber geek, has released his WPF based
+Anonymous
+June 26, 2007
+One of the side events held during Remix was the judging of the Australian finals for the Imagine Cup
+Anonymous
+July 03, 2008
+digg_url = "
+http://blogs.msdn.com/frankarr/archive/2008/07/03/imagine-cup-team-soak-students-saving-the-world-for-a-rainy-day.aspx";digg_title
+Additional resources
+Last updated on
+2005-07-10

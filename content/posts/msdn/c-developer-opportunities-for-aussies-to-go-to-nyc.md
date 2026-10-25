@@ -1,0 +1,78 @@
+---
+title: "C# Developer Opportunities for Aussies to go to NYC"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/c-developer-opportunities-for-aussies-to-go-to-nyc"
+date: "2006-03-16"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+C# Developer Opportunities for Aussies to go to NYC
+I got an email about a fantastic opportunity for Aussie developers (to take
+advantage of the
+E-3 Visa
+)
+who want to spend time in the
+Big Apple
+working on cutting
+edge stuff:
+Based in New York City, we are looking to expand our staff of
+senior-level software engineers. Our clients include some of the world's
+largest financial institutions. We engage on technically challenging projects
+that compel us to continually evolve our skills, both individually and
+collectively.
+Our ideal candidate has the following attributes:
+* At least 5-10 years of professional software development experience,
+including using C# and .NET.
+* Java/J2EE/C++ experience considered desirable but not
+required
+* Strong grasp of software design patterns and effective development
+methodologies
+* Demonstrated experience writing commercial-grade software
+applications with a preference for thick-client apps over web-based
+apps
+* Deep understanding of multithreaded, real-time, and event-driven
+software architectures
+* Driven to produce software of the highest quality through
+self-discipline, clear and engaged communication, and attention to
+detail
+* BS in Computer Science or equivalent experience
+To be accepted for this position you will need to have a deep software
+background. Web experience and basic server side scripting are not sufficient.
+Our interview process is rigorous, and will test your knowledge of software
+architecture, implementation skills, understanding of process and
+communication abilities.
+We offer a highly competitive salary, full health benefits and a
+performance-based cash+equity bonus plan, as well as a truly great place to
+work. We value our people, and are committed to providing a respectful work
+environment with challenges appropriate to your experience and
+aptitude.
+To qualify for this position, you will need to be a US citizen, hold a
+US working visa, or be an Australian cititzen. You will also need to be
+willing to relocate to New York City.
+If you are interested in the role,
+drop me an email
+and I
+will pass your details on.
+*
+Disclosure
+* - I am not receiving any fees or
+rewards in relation to this. It just
+Karma
+[ Currently Playing : Perhaps
+Vampires Is A Bit Strong But... - Arctic Monkeys - Whatever People Say I Am,
+That's What I'm Not (04:29) ]
+Comments
+Anonymous
+June 07, 2009
+PingBack from
+http://weakbladder.info/story.php?id=512
+Additional resources
+Last updated on
+2006-03-16

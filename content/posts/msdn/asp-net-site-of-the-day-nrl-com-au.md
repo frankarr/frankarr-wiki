@@ -1,0 +1,110 @@
+---
+title: "ASP.NET Site of the Day - NRL.COM.AU"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/asp-net-site-of-the-day-nrl-com-au"
+date: "2006-03-10"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+ASP.NET Site of the Day - NRL.COM.AU
+The
+NRL
+season kicks off tonight, and I thought I would let you know that the
+Official NRL site
+is an
+ASP.NET
+site, built using
+DNN
+. (But not ASP.NET v2)
+Some of you may know that I am an one-eyed
+AFL
+fan (and my team is
+St Kilda
+). but on this occassion I will make an exception and talk about the
+NRL
+.
+When I lived in Canberra, I was a pseudo
+Raider's supporter
+, but now, I don't know which team to really care about. I have no real affinity with any of these teams -
+Broncos
+,
+Bulldogs
+,
+Raiders
+,
+Cowboys
+,
+Sea Eagles
+,
+Storm
+,
+Knights
+,
+Eels
+,
+Panthers
+,
+Sharks
+,
+Rabbitohs
+,
+Dragons
+,
+Roosters
+,
+Warriors
+,
+Wests Tigers
+or
+Titans
+Who should I support? Should I continue to not care? What a dilema.
+[ Currently Playing : Cry! Cry! Cry! - Johnny Cash - The Legend of Johnny Cash (02:24) ]
+Comments
+Anonymous
+March 09, 2006
+go the warriors they need to get those competition points back after their salary cap debarkal.
+Anonymous
+March 10, 2006
+NRL.com.au is not much of an advertisement for Microsoft or anyone, Frank. It has been down for much of the launch weekend, and many league fans on the forums are complaining about it being way too slow. Not to mention that there has been allegations that users' email addresses have been made public due to login problems. Not your fault, I know.
+Anonymous
+March 10, 2006
+NRL.com.au is not much of an advertisement for Microsoft or anyone, Frank. It has been down for much of the launch weekend, and many league fans on the forums are complaining about it being way too slow. Not to mention that there has been allegations that users' email addresses have been made public due to login problems. Not your fault, I know.
+Anonymous
+March 16, 2006
+Hi Frank,
+The site is actually DNN 4.0.2 which is ASP Net 2.0.
+Cheers
+Philip
+Anonymous
+March 16, 2006
+We worked over the weekend to get these issues sorted out and now the site runs very well.  Its nice and quick and has heaps of good info on it.  looks great too!!
+this is currently the highest trafficked DNN site in the world and it holding up very well i think.
+Anonymous
+September 25, 2007
+&lt;disclaimer&gt;If it's not obvious from the content, I have a personal interest in this post&lt;/disclaimer&gt;
+Anonymous
+September 25, 2007
+PingBack from
+http://msdnrss.thecoderblogs.com/2007/09/26/recognising-talent/
+Anonymous
+September 26, 2007
+PingBack from
+http://dpe.beyondthebrowser.net/dpe/?p=267
+Anonymous
+June 09, 2009
+PingBack from
+http://hairgrowthproducts.info/story.php?id=3387
+Anonymous
+June 14, 2009
+PingBack from
+http://cutebirdbaths.info/story.php?id=2858
+Additional resources
+Last updated on
+2006-03-10

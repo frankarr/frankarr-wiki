@@ -1,0 +1,55 @@
+---
+title: "Star Cross Geek Bloggers - or How I Almost Meetup With The Scobleizer"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/star-cross-geek-bloggers-or-how-i-almost-meetup-with-the-scobleizer"
+date: "2005-07-24"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+Star Cross Geek Bloggers - or How I Almost Meetup With The Scobleizer
+Yesterday (Saturday) was the final day of
+MGB
+(my summary of events is coming soon).
+Robert Scoble
+was
+in Atlanta presenting a session
+and
+then was heading out to a local Geek Dinner he arranged
+.
+I tried to setup a time to meet him during the day, but we were in seperate parts of the
+Gorgia World Congress Center
+- which is huge, by the way (
+Some fun facts
+-
+Including meeting rooms, galleries, exhibit halls, kitchens and storerooms, there are more than 90 acres of floor area (3.9 million square feet) on multiple levels throughout the GWCC. The 33,000-square-foot Thomas Murphy Ballroom is on a level equal to that of an 11-story building. The GWCC Building C entrance lobby is over 1,000 feet long, 80 feet wide and over 90 feet high, making it large enough to hold the Titanic (882 feet long, 92 feet 6 inches wide, and 60 feet 6 inches from the waterline to the main deck
+). So huge that we were unable to cross paths. Incredible but true - we were in the same building. We swapped emails to synchronize our schedules, but it didn't work out.
+So, the day wrapped up and I headed out to
+Six Flags Over Georgia
+with my colleagues to go to the MGB attendee party - which included a performance by
+Jet
+(the Aussie rock n' rollers who's debut single was used by Apple in a worldwide campaign to advertised the iPod - yes, the irony was not lost by me). It was an awesome concert and I'll put my thoughts down about the party later, too.
+When I got back to my room I had a note from Robert that he went to the party too and that I should have come to the dinner. Yes Robert, you're right, I should have gone to the
+geek dinner in Atlanta
+. Do'h!
+The note also said he was leaving town at 8am. and it's now 830am. I've missed my chance to say G'day, and so today I go home a little sad.
+UPDATE: The stars have aligned and we have scheduled a time to meet. :)
+[ Currently Playing : Look What You've Done - Jet - New Music Live from The Panel (03:38) ]
+Comments
+Anonymous
+July 24, 2005
+So, I am sitting in the CNN
+Center Plaza in Atlanta (My
+Location on Virtual Earth), drinking a...
+Anonymous
+July 24, 2005
+So, I am sitting in the CNN Center Plaza in Atlanta (My Location on Virtual Earth), drinking a tall Americano...
+Additional resources
+Last updated on
+2005-07-24

@@ -1,0 +1,72 @@
+---
+title: "Untitled"
+platform: "radio-userland"
+era: "microsoft"
+source_url: "http://radio-weblogs.com/0124955/2004/03/12.html#a422"
+date: "2004-03-12"
+tags:
+  - "Random"
+  - "My Interests"
+  - "My Interests"
+---
+
+Friday, 12 March 2004
+Yahoo! News - Krispy Kreme Planning a Low-Sugar Doughnut
+Should we be excited or sad or suspicious??
+Krispy Kreme Doughnuts, long known for its high-calorie treats, says it plans to offer a low-sugar doughnut to attract dieters and diabetics.
+more
+7:28:28 PM
+comment [
+]
+trackback [
+]
+G!
+
+Random
+Warne spins Aussies to win
+Shane Warne claimed his 500th Test wicket as Australia bowled Sri Lanka out for 154 to win the first cricket Test by 197 runs at Galle today.
+Warne became the second bowler in Test cricket history to take 500 wickets, following just world record holder Courtney Walsh into the elite 500-club.
+Warne, who was banned from all cricket and stranded on 491 scalps while he served a 12-month doping suspension, has been back in the sport for just over a month.
+But in his first Test since his suspension he has returned as good as ever, taking 5-116 in Sri Lanka's first innings and another five-wicket haul in the second.
+With Australia closing in on victory in the first Test, Warne claimed victim No.500 when Sri Lankan captain Hashan Tillakaratne skied a catch to Andrew Symonds.
+Warne was mobbed by his team-mates and saluted the crowd.
+[
+more
+]
+[listening to: Nature Boy -
+David Bowie
+]
+7:21:09 PM
+comment [
+]
+trackback [
+]
+G!
+
+My Interests
+A ton and a tear for Lehmann
+The scoresheet makes no mention of Darren Lehmann's skyward glance, the tears flowing for a lost friend. And numbers alone will never reveal Damien Martyn's excitement and relief upon ending a two-year jinx in the shadows of Galle's 17th-century fort.
+Instead, raw data shows that both batsmen scored vital, match-turning centuries on the fourth day of the first Test, guiding Australia to 8(dec)-512 in the second innings and a 348-run lead entering the final three sessions. The emotions that accompanied each individual feat? Those can't be related numerically.
+Having overcome injury, though not the death of close friend David Hookes, Lehmann led all Australian batsmen with a well crafted 63 in the first innings, despite a five-month absence from the international arena. His second innings began less convincingly - dropped second ball by Tillakaratne Dilshan.
+But upon settling at the crease, Lehmann confirmed his status as Australia's premier player of spin, defying the likes of Muttiah Muralitharan, Kumar Dharmasena and Upul Chandana to raise his fourth Test century on a dusty, slow wicket. Immediately he looked to the heavens, eyes welling with emotion.
+[
+more
+]
+[listening to: Lady Marmalade -
+Christina Aguilera
+]
+11:42:12 AM
+comment [
+]
+trackback [
+]
+G!
+
+My Interests
+© Copyright 
+     2006
+     Frank Arrigo.
+A Geek Microsoft Blogger
+Last update: 
+     8/07/2006; 10:01:54 AM
+     .

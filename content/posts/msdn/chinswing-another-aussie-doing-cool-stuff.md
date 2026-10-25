@@ -1,0 +1,59 @@
+---
+title: "Chinswing : Another Aussie Doing Cool Stuff"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/chinswing-another-aussie-doing-cool-stuff"
+date: "2006-12-10"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+Chinswing : Another Aussie Doing Cool Stuff
+I got the following email on the weekend from a reader.
+-----Original Message-----
+From: samuel lai
+Sent: Sunday, 10 December 2006 8:44 PM
+To: Frank Arrigo
+Subject: (frankarr - an aussie microsoft blogger) : Thought you might be interested in this ASPX site
+Importance: High
+Hi Frank,
+First of all, love your blog. I'm still learning .NET 2.0 at the moment after finally getting my hands on it thanks to you.
+I know you sometimes profile ASPX sites on your blog, and I came across one mentioned on the TechCrunch blog. I thought it might be of special interest to you seeing as its a web startup based in Melbourne, Australia. I'm not in anyway affiliated with them, just thought they were doing a good job with the startup and you'd enjoy seeing Microsoft products being used in the wild.
+Anyway, the site is
+https://www.chinswing.com/
+. A quick search on your blog doesn't seem to come up with any results, so if you've profiled them already, disregard this email.
+Keep it up,
+Sam
+So
+Chinswing
+, is an Aussie startup which provides a very intersting service - a global message board where anyone can add voice messages to ongoing topical discussions.
+Sam mentions that it featured on TechCrunch recently -
+Chinswing Brings Audio to Discussion Boards
+You need to download a client side application (written using
+Microsoft .Net Framework 2.0)
+and voila!
+I like the little green character - reminds me of
+Slimer
+from the
+Ghostbusters
+Technorati tags:
+Chinswing
+,
+TechCrunch
+,
+ASP.NET
+,
+.NET Framework
+Comments
+Anonymous
+March 10, 2008
+PingBack from
+http://skykid.wordpress.com/2006/12/29/chinswing-audio-forum-and-much-more/
+Additional resources
+Last updated on
+2006-12-10

@@ -1,0 +1,67 @@
+---
+title: "SMH : Ten to offer program downloads"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/smh-ten-to-offer-program-downloads"
+date: "2006-12-06"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+SMH : Ten to offer program downloads
+Intriguing story on The SMH this evening
+Ten to offer program downloads
+Network Ten will begin making entire television programs available for download immediately after they air from early in the new year.
+So many questions....
+What format
+What platform
+Which programs
+Will it be free or is it paid
+What download technology
+Will there be any DRM involved
+Support for Windows Media Center
+Technorati tags:
+TV
+,
+Downloads
+,
+Network Ten
+Comments
+Anonymous
+December 05, 2006
+The comment has been removed
+Anonymous
+December 06, 2006
+and now 7 wastes no time.
+http://www.smh.com.au/news/technology/yahoo7-to-offer-latest-tv-shows-online/2006/12/06/1165081019196.html
+Anonymous
+December 06, 2006
+I bet they choose Real Audio or DIVX just to be different...
+Anonymous
+December 06, 2006
+I wouldn't say that was 7 per se - that's the kind of venture (ReelTime) that I've been waiting for for a while - show the traditional networks that they HAVE to be agile if they want to move forward.
+Now, it looks like it's going to happen.
+Win for consumers I say.
+Anonymous
+December 06, 2006
+Ten have been doing it for a while through bigpond (at least for Tripping Over)
+Anonymous
+December 07, 2006
+I am cross posting my latest Blog Clippings to TTB - you can visit my blog if you want to see the first...
+Anonymous
+December 31, 2006
+As is usual for this time of the year, we look back a bit. Here's my top 20 posts for December 2006 .
+Anonymous
+December 31, 2006
+As is usual for this time of the year, we look back a bit. Here's my top 20 posts for December 2006 .
+Anonymous
+December 31, 2006
+Here's something I havent featued before, the top 20 referrers to articles on my blog. I sense a theme
+Additional resources
+Last updated on
+2006-12-06

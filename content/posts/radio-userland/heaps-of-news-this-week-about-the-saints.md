@@ -1,0 +1,265 @@
+---
+title: "Heaps of news this week about the Saints"
+platform: "radio-userland"
+era: "microsoft"
+source_url: "http://radio-weblogs.com/0124955/2006/06/09.html#a1146"
+date: "2006-06-09"
+tags:
+  - "My Hobbies"
+  - "My Interests"
+  - "My Interests"
+  - "TV"
+  - "My Interests"
+  - "Random"
+---
+
+Friday, 9 June 2006
+Heaps of news this week about the Saints
+Rix on debut as
+St
+Kilda
+goes tall
+The Age, Australia
+ST
+KILDA
+has bitten the bullet and gone with three ruckmen for its SCG clash against
+Sydney
+tomorrow night, selecting Michael Rix to make his AFL debut.
+...
+Saints stocks thin on ground
+FOX SPORTS
+Saints belong in top group: coach
+The Age
+Swans v Saints
+sportal.com.au
+all 12 related »
+RealFooty
+Football and the dollar divide
+The Age, Australia
+...
+next highest spender,
+Sydney
+($888,000). In 2005, the Lions spent nearly three times that of the Kangaroos ($453,000) on fitness/medical. ¦
+St
+Kilda
+ran the
+...
+Roos wants less lethargy from Swans
+The Age
+all 9 related »
+What the papers say...
+AFL, Australia
+...
+Age hasn't stopped
+St
+Kilda
+ruckman Michael Rix, who will make his debut for the Saints against
+Sydney
+at the SCG on Saturday night.
+...
+RealFooty
+Missing pieces in Saints' puzzle
+Sydney Morning Herald, Australia
+...
+a lukewarm 5-5 record, and drawn to play top-four teams
+Sydney
+, Adelaide and
+...
+Part of the critical analysis of
+St
+Kilda
+is that they have struggled in the ruck.
+...
+Injured Kosi says bump should stay
+Sydney Morning Herald
+all 16 related »
+10:51:36 PM
+comment [
+]
+trackback [
+]
+G!
+
+My Hobbies
+
+My Interests
+FIFA World Cup 2006
+The 2006
+FIFA World Cup
+kicks off tonight. Wondering who the past winners were, I went to my favorite information source,
+Wikipedia
+The Last 10 Series
+Year
+Winner
+Runner Up
+Score
+2002
+Brazil
+Germany
+2 - 0
+1998
+France
+Brazil
+3 - 0
+1994
+Brazil
+Italy
+3 - 2
+1990
+West Germany
+Argentina
+1 - 0
+1986
+Argentina
+West Germany
+3 - 2
+1982
+Italy
+West Germany
+3 - 1
+1978
+Argentina
+Netherlands
+3 - 1
+1974
+West Germany
+Netherlands
+2 - 1
+1970
+Brazil
+Italy
+4 - 1
+1966
+England
+West Germany
+4 - 2
+World Cup summaries
+&
+Successful national teams
+Don't forget about
+Microsoft Football (Soccer) Scoreboard Gadget for World Cup 2006
+Overview
+Follow your favorite teams and players during the FIFA World Cup tournament with Microsoft Soccer Scoreboard. This fun program allows you to access all the latest tournament news and information with the click of a button! Live game data allow you to monitor your favorite teams progress in real-time. Want more? Check out your team's fixture (schedule), standing, and news as they advance through the tournament. If you are a soccer fan, don't miss a minute of the action.
+Download Microsoft Soccer Scoreboard today!
+Customize your experience with RSS
+Do you have a favorite web news feed? Microsoft Soccer Scoreboard acts as a RSS reader. Enter your favorite sports-related RSS feed into the application and watch it display the news headlines all on its own.
+All times local
+The Microsoft Soccer Scoreboard displays all dates and times according to your Windows XP'
+s time zone setting. No more calculating start times only to find out you are off by an hour or more.
+Available in multiple languages
+Microsoft Football Scoreboard is available in Chinese (Simplified and Traditional), Czech, Dutch, English, French, German, Italian, Korean, Polish, Portuguese, Portuguese (Brazil), Russian, Spanish, Spanish (Latin America), Swedish, and Ukrainian.
+10:22:25 PM
+comment [
+]
+trackback [
+]
+G!
+
+My Interests
+
+TV
+Puns aplently thanks to Cars
+Jason Kotte
+muses
+Media races to make the perfect Cars pun
+.
+It's so true - just look at this effort from The SMH -
+Pixar's latest movie puts wheel emotion into its cutting-edge animation
+.
+What a punny pun. Wheel Emotion! LOL
+Here's a bunch more:
+Christian Science Monitor
+Start your engines: 
+Cars
+ races past silly script to an
+...
+Boston Herald, United States -
+3 hours ago
+...
+flat-footed or, more correctly, flat-tired than such Pixar triumphs as Finding Nemo, The Incredibles and Monsters, Inc., 
+Cars
+ isnta
+...
+Pixar's joy ride finally stalls with '
+Cars
+'
+Christian Science Monitor
+all 7 related »
+East Valley Tribune
+Classic '
+Cars
+' finds the soul in the machines
+USA Today -
+4 hours ago
+By Claudia Puig, USA TODAY.
+Cars
+lionizes the lure of the open road and the appeal of a simpler time in a way that is both technically impressive and touching.
+...
+These
+Cars
+run on puns
+Toronto Star
+Top Off the Fun Tank With
+Cars
+Wired News
+Hot wheels Pixar fuels its delightful "
+Cars
+" with lots of
+...
+Seattle Times
+Boston Globe
+-
+Chicago Tribune
+-
+all 147 related »
+Metro Toronto
+'
+Cars
+' is a joyous ride
+Seattle Post Intelligencer -
+7 hours ago
+And the buzz in the weeks since an advance trailer underwhelmed the ShoWest Convention has been that the studio's summer '06 offering, "
+Cars
+," might be the one
+...
+"
+Cars
+" to box office also-rans: Eat my dust
+Reuters
+Auto fan Lasseter puts his passion into '
+Cars
+'
+Indianapolis Star
+'
+Cars
+' to also-rans: Eat my dust
+Hollywood Reporter
+Forbes
+-
+Inside Bay Area
+-
+all 26 related »
+We're all off to see the movie this weekend
+6:16:40 PM
+comment [
+]
+trackback [
+]
+G!
+
+My Interests
+On This Day - June 9
+June 9
+:
+St. Colmcille's Day
+in
+Ireland
+68
+-
+Roman Emperor
+Nero
+(
+pictured
+) committed
+suicide
+a

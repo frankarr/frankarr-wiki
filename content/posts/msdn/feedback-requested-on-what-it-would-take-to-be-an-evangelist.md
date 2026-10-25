@@ -1,0 +1,53 @@
+---
+title: "Feedback requested on what it would take to be an Evangelist"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/feedback-requested-on-what-it-would-take-to-be-an-evangelist"
+date: "2005-02-20"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+Feedback requested on what it would take to be an Evangelist
+I got an email the other day from Matt who is interested in the
+current
+role we have open in Melbourne
+. I asked Matt if I could post his email to my
+blog, as he asks some good questions, so I will answer in subsequent posts.
+Mail from: frankarr - an aussie microsoft blogger
+Sender: Matt
+Trentini
+Heya Frank,
+I saw your recent posting about the position that
+Jason McConnell vacated. I don't think I've yet got the experience that you
+guys are looking for but it's the kind of role that I'd be considering in a
+couple of years time.
+I'm a C++ developer, and I'm passionate about
+software engineering as a discipline; developing _right_. I've been working at
+Agilent Technologies in Melbourne for four years which was my first job out of
+uni after studying a double degree in computer science and digital systems
+engineering. I keep abreast of technology in general and have also been doing
+some 'work on the side' architecting and part-implementing a .NET (ADO.NET,
+C#, Winforms, ASP.NET) based solution for a small startup consulting group. Anyways, if you're still reading, I'd like to get your opinion on how
+I'd best get the experience to fulfil a position like the one you advertised.
+Or perhaps I'm just too 'developer' for such a role? And if that's the case is
+there any hope for a dev like me to have a future in your company?
+Any
+feedback would be great!
+Thanks,
+Matt
+PS Great podcast
+with Mick & Cam the other day - you've had an interesting
+career!!
+[ Currently Playing : Fever - Kylie
+Minogue - Fever [Australia Bonus Track] (03:32)
+]
+Comments
+Additional resources
+Last updated on
+2005-02-20

@@ -1,0 +1,61 @@
+---
+title: "'The time has come,' the Walrus said, 'To talk of many things:\""
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/the-time-has-come-the-walrus-said-to-talk-of-many-things"
+date: "2013-09-05"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+'The time has come,' the Walrus said, 'To talk of many things:"
+Yes, the time has indeed come.
+After 22 years, 3 months, 2 weeks, 3 days, I've decided to leave Microsoft.
+Yes,  you've heard correct. It's time!
+My time with Microsoft started way back on 1991, in Canberra, as a Systems Engineer. I was the first technical guy in a small team of 4 people. I got to Canberra after I had followed a girl (who I had met in Melbourne) all the way to Canberra., That girl became my wife, and over the journey we've spent time in Seattle, Sydney, Seattle again and ultimately Melbourne, which is where I started. Funny that.
+The career summary looks a bit like this
+May 1991
+Sep 1993
+Microsoft Canberra, working as a Systems Engineer
+Sep 1993
+Aug 1994
+Microsoft  Corp, @ Executive Briefing Center
+Aug 1994
+Oct 1995
+Microsoft Corp, in the Advanced Technology Group, working on Interactive TV
+Nov 1995
+May 1997
+Microsoft Australia, MSN Technical Director
+Jun 1997
+Jun 1999
+ninemsn CTO
+Jun 1999
+May 2001
+MicrosofT Region, Digital Media dude
+May 2001
+Aug 2007
+Microsoft Australia, Developer & Platform Evangelism (DPE)
+Aug 2007
+May 2011
+Microsoft Corp, Director â DPE Field Community & Readiness
+May 2011
+Sep 2013
+Microsoft, Principle Technical Evangelist, WW Technical Evangelist  Role Owner
+Along the way we had 4 children who have grown up immersed in all things Microsoft - they all have their Nokia Lumias, and Windows 8 tablets, and love their XBOX, I donât think this will change in a hurry.
+And then, there's my other family - the awesome evangelists I hired, the communitymembers who helped spread the word of the Microsoft platform - from .net, hailstorm, silverlight, to windows phone, windows, windows azure, and everything else in between.
+Thank you all for making my Microsoft time very enjoyable and not feel like just a job.
+This week also sees TechEd on the Gold Coast - and while I am there, we recorded the 100th episode of
+FranklySpeaking
+with my good friends Andrew Coates and Michael Kordahi, where I speak with the guys about my time at Microsoft. I had fun recording the session
+I now have a chance to look around, smell the roses and find that next great job that isnt really a job which I can commit my heart and soul into, just like the last one.
+I wont be blogging here anymore - but you can find me at
+https://frankarr.com
+,
+Additional resources
+Last updated on
+2013-09-05

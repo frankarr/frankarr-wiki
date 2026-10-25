@@ -1,0 +1,76 @@
+---
+title: "Ross the New Boss"
+platform: "radio-userland"
+era: "microsoft"
+source_url: "http://radio-weblogs.com/0124955/2006/10/11.html#a1413"
+date: "2006-10-11"
+tags:
+  - "My Hobbies"
+---
+
+Wednesday, 11 October 2006
+Ross the New Boss
+New coach announced for the Saints. Finally the saga ends. Looks like a good dude.
+Bring on 2007!
+Lyon tips Silvagni for assistant job
+ABC Online, Australia -
+50 minutes ago
+New St Kilda coach Ross Lyon has indicated former Carlton star Stephen Silvagni could join the club as an assistant coach. Lyon's appointment as coach was made official today.
+sportal.com.au
+Lyon straight to work at St Kilda
+Sydney Morning Herald, Australia -
+8 hours ago
+New St Kilda coach Ross Lyon says he will be meeting immediately with recruiting manager John Beveridge to assess the Saints' list during trade week.
+St Kilda endorses Swan Lyon as its new senior coach
+The Age
+Lyon outlines future
+sportal.com.au
+Lyon marches in for Saints
+The Age
+Melbourne Herald Sun
+-
+The Australian
+all 33 news articles »
+sportal.com.au
+Birss moves to Saints
+sportal.com.au, Australia -
+2 hours ago
+St Kilda has claimed Western Bulldogs midfielder Shane Birss in a trade that will see the Saints give up their fourth round selection (No.59) in the NAB AFL Draft to the Dogs.
+Koschitzke on edge
+The West Australian
+all 2 news articles »
+Geelong Advertiser
+Lyon exits Swans to take reins at Saints
+The Australian, Australia -
+21 hours ago
+SYDNEY assistant coach Ross Lyon is today expected to be announced as the new senior coach of St Kilda, replacing the recently sacked Grant Thomas.
+Lions retain Bradshaw on three-year deal
+The Age
+Swan Lyon set for Saints
+Townsville Bulletin
+Brisbane re-signs Bradshaw
+Townsville Bulletin
+all 10 news articles »
+Saints revamp footy department
+AFL, Australia -
+4 hours ago
+St Kilda's football department will take on a different look in terms of both personnel and structure with the arrival of new coach Ross Lyon and the departures of assistants Matt Rendell and Mick McGuane, club president Rod Butterss confirmed on Wednesday
+...
+[listening to: Pancreas -
+Weird Al Yankovic
+]
+10:11:02 PM
+comment [
+]
+trackback [
+]
+G!
+
+My Hobbies
+© Copyright 
+     2006
+     Frank Arrigo.
+A Geek Microsoft Blogger
+Last update: 
+     7/11/2006; 9:07:01 PM
+     .

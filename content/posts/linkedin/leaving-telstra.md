@@ -1,0 +1,110 @@
+---
+title: "Leaving Telstra"
+platform: "linkedin"
+era: "microsoft"
+source_url: "https://frankarr.com/2017/12/13/leaving-telstra/"
+---
+
+Leaving Telstra
+
+
+
+
+
+
+
+
+
+
+Leaving Telstra
+
+
+Created on 2017-12-12 22:11
+
+
+Published on 2017-12-12 22:13
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+It's been 1430 days or thereabouts, since I 
+started my adventure with Telstra
+.
+
+
+First with 
+the API strategy,
+ then with the
+ Innovation Ecosystem System engagement within the CTO
+; not to mention my "side hustles" with 
+muru-d
+, 
+codeclub
+, 
+telstra foundation
+, 
+techfugees
+, 
+CSIRO ON:
+, 
+Austrade
+, countless hack events and I even 
+featured as a guest on a podcast
+
+
+I also got to meet some great people, work with some amazing folks, 
+inspire some young folks
+, and I got to 
+help bootstrap things
+ that will lead to great change. I really feel like there was a greater purpose to what we were doing.
+
+
+If I were to summarize the last 1430 days or so, it's would be about community, collaboration & cultural change, underpinned with a strong desire of "giving back", or as my dear friend 
+Annie Parker
+ keeps remind us all, we got to #payitforward.
+
+
+Now it's time to start a new adventure. Yes, that's right, time for a new avatar!
+
+
+I'll be joining the local 
+AWS 
+team in Melbourne. I'm heading back to the world of software, leading a team, made up of folks who love what they do, with a singular purpose, underpinned by a set of powerful leadership principles (if you haven't seen 
+Amazon Leadership Principles, check them out
+).
+
+
+Since I am still passionate about the Australian tech ecosystem. I want to see more of the likes of Envato, Red Bubble, Culture Amp, 99designs, Drawboard, spring up and go forward to take on the world. I also want to see more of the great research at our universities be unleashed onto the world and commercialised through programs such as 
+CSIRO's ON:
+, and university programs such as the delightfully named 
+TRaM (Translating Research at Melbourne)
+. And fortunately for me, I will still be in a position to be involved.
+
+
+Speaking of taking on the world,  I've been fortunate to have worked with 
+Austrade
+ by participating with the 
+Landing Pads
+ program. I have been a member of the assessment panel this past year, and it's been both an honour and a highlight to be part of the program. I even got to host a few info session about 
+Berlin
+ & 
+San Fran
+.
+
+
+Now, I always had an inkling I would be back with a Seattle based software company, and I'll be joining many of my former colleagues who have made the move from MSFT on the east side, to AWS on the west side - it’s just taken me a bit longer. I'll digress for a little story, 4 years ago right after leaving Microsoft, I did interview with AWS, but the Telstra offer came first. Fast forward 4 years, and when I got my recent AWS offer, the letter referenced my OLD address from 4 years ago.  Yes, I know!
+
+
+So, to recap - leaving Telstra. Starting at AWS.
+
+
+Onwards to 2018!

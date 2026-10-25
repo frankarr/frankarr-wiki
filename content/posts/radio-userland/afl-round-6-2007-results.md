@@ -1,0 +1,304 @@
+---
+title: "AFL Round 6 2007 : Results"
+platform: "radio-userland"
+era: "microsoft"
+source_url: "http://radio-weblogs.com/0124955/2007/05/06.html#a1490"
+date: "2007-05-06"
+---
+
+Sunday, 6 May 2007
+AFL Round 6 2007 : Results
+Another big round of games. A few surprising results. I picked 5 winners, which is better than last week BUT I am still coming last in my tipping comp.
+On the plus side, the Saints opened the round with a win and the continued their winning streak against the blues - nine in a row! I remember in the 80's when we would always get flogged by the blues, so this is sweet.
+Week 6
+(Tip ratio)
+Home
+Draw
+Away
+(Tip ratio)
+(70%)
+Saints
+(18.17 125)
+Blues
+(11.16 82)
+(30%)
+(78%)
+Bombers
+(15.6 96)
+Hawks
+(20.11 131)
+(22%)
+(93%)
+Eagles
+(10.17 77)
+Bulldogs
+(9.8 62)
+(7%)
+(18%)
+Kangaroos
+(16.15 111)
+Swans
+(14.11 95)
+(82%)
+(84%)
+Crows
+(9.8 62)
+Magpies
+(11.20 86)
+(16%)
+(74%)
+Lions
+(17.18 120)
+Dockers
+(0.15 75)
+(26%)
+(12%)
+Demons
+(9.17 71)
+Power
+(10.16 76)
+(88%)
+(25%)
+Tigers
+(9.11 65)
+Cats
+(35.12 222)
+(75%)
+AFL Ladder
+Team
+W
+D
+L
+For
+Against
+Stk
+Chg
+Pts
+%
+West Coast
+6
+0
+0
+538
+395
+6W
+-
+24
+136.20
+Port Adelaide
+5
+0
+1
+562
+476
+3W
+-
+20
+118.07
+Brisbane Lions
+4
+0
+2
+559
+476
+2W
+U3
+16
+117.44
+Collingwood
+4
+0
+2
+519
+481
+2W
+U3
+16
+107.90
+Hawthorn
+4
+0
+2
+551
+511
+1W
+U3
+16
+107.83
+Geelong
+3
+0
+3
+760
+513
+1W
+U4
+12
+148.15
+Sydney
+3
+0
+3
+505
+447
+1L
+D4
+12
+112.98
+Adelaide
+3
+0
+3
+451
+428
+2L
+D4
+12
+105.37
+Essendon
+3
+0
+3
+623
+605
+2L
+D4
+12
+102.98
+Kangaroos
+3
+0
+3
+569
+555
+3W
+U1
+12
+102.52
+St Kilda
+3
+0
+3
+495
+507
+1W
+U2
+12
+97.63
+Western Bulldogs
+3
+0
+3
+555
+589
+1L
+D3
+12
+94.23
+Fremantle
+2
+0
+4
+557
+613
+1L
+D1
+8
+90.86
+Carlton
+2
+0
+4
+569
+743
+3L
+-
+8
+76.58
+Melbourne
+0
+0
+6
+436
+640
+6L
+U1
+0
+68.13
+Richmond
+0
+0
+6
+501
+771
+6L
+D1
+0
+64.98
+News from the round
+sportal.com.au
+Saints
+push past Blues
+SportsAustralia.com, Australia -
+4 May 2007
+ST KILDA
+was able to fend off a surging Carlton at the Telstra Dome in a spirited affair by 43-points at the Telstra Dome on Friday night.
+Nervous wait for
+Saints
+Advertiser Adelaide
+Stifling
+Saints
+hold out Blues
+Fox Sports
+Blues swamped
+Advertiser Adelaide
+all 18 news articles Â»
+The Age
+St Kilda
+v Carlton
+Sky News Australia, Australia -
+4 May 2007
+Round 6 of the AFL is underway with the
+St Kilda Saints
+taking on the Carlton Blues at Melbourne's Telstra Dome.
+St Kilda
+put the first points on the board with a goal to Justin Koschitzke. Both sides are desperate for a win after some disappointing
+...
+AFL round 6
+Sky News Australia
+all 9 news articles Â»
+sportal.com.au
+Blues damned by flood
+Advertiser Adelaide, Australia -
+4 May 2007
+EXTREME flooding tactics enabled an undermanned
+St Kilda
+to frustrate a dangerous Carlton attack and notch a much-needed 43-point victory at Telstra Dome last night.
+Saints
+storm home to beat Blues in AFL
+The West Australian
+Lyon unfazed by taking on old boss Roos
+The Age
+all 13 news articles Â»
+sportal.com.au
+Saints
+took right approach
+sportal.com.au, Australia -
+4 May 2007
+St Kilda
+co-captain Nick Riewoldt has said he doesn't believe the
+Saints
+went overboard in taking
+8:19:47 PM
+comment [
+]
+trackback [
+]
+G!
+© Copyright 
+     2007
+     Frank Arrigo.
+A Geek Microsoft Blogger
+Last update: 
+     3/06/2007; 8:05:37 PM
+     .

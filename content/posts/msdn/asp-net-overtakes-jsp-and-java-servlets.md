@@ -1,0 +1,52 @@
+---
+title: "ASP.NET Overtakes JSP and Java Servlets"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/asp-net-overtakes-jsp-and-java-servlets"
+date: "2004-03-30"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+ASP.NET Overtakes JSP and Java Servlets
+Jim posted a note about this bit of news
+-
+ASP.NET overtakes JSP and Java Servlets
+. The graph is cool, but I wont be excited until that redline gets overtaken!!
+Comments
+Anonymous
+March 30, 2004
+Interesting stats, personally I think by the time ASP.NET Whidbey is out and about and released to the public ASP.NET will be in the lead.
+Anonymous
+March 30, 2004
+To be fair, those stats (or rather the common interpretation of the stats) have been widely rubbished by the java folks :-)
+Anonymous
+March 30, 2004
+This is also ignoring the bigger players in the market...
+I was surprised to find that PHP is on 1.3 million IP's and 15,054,623 Domains - according to netcraft anyway - that means it's compeltely outclassing everything in the graph in deployment.  JAVA, ASP.NET, Cold fusion are all small pie.
+Then again, ASP.NET is much quicker to develop in than PHP...
+Anonymous
+March 31, 2004
+Yeah, I was thinking when I read the comment that it's strange that PHP isn't mentioned at all. I guess it depends on how you think about it though, PHP is <i>installed</i> on many machines, but is it actually being used on those machines? I know that my domains certainly have it enabled, but I've never felt the urge to use it.
+I think language choice is less relevant with standardized interfaces like Web Services anyways, it's cool to finally have an interface which many languages finally implement interoperably.
+Anonymous
+March 31, 2004
+The comment has been removed
+Anonymous
+March 31, 2004
+mmmm ... a stat that ignores 80% servlet market ( struts, webwork, spring, ... ) Folks, nobody uses /servlet for mapping. How can this stat be credible if only looks for .jsp, .jhtml, .gsp, and /servlet ?
+Anonymous
+March 31, 2004
+arent 80% of all stats made up???
+Anonymous
+March 31, 2004
+I thought it was more like 68%?
+;)
+Additional resources
+Last updated on
+2004-03-30

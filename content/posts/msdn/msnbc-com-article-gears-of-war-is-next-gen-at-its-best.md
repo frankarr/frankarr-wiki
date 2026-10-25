@@ -1,0 +1,83 @@
+---
+title: "MSNBC.com Article: 'Gears of War' is next-gen at its best"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/msnbc-com-article-gears-of-war-is-next-gen-at-its-best"
+date: "2006-11-11"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+MSNBC.com Article: 'Gears of War' is next-gen at its best
+'Gears of War' is next-gen at its best
+"Gears of War," a third-person shooter by Epic Games, delivers the first true next-generation experience. The visuals match anything the PlayStation 3 has to offer this holiday season, and it's on a system that is both readily available and whose high end model costs $200 less than the top-tier PS3 package.
+https://www.msnbc.msn.com/id/15644342/from/ET/
+Comments
+Anonymous
+November 10, 2006
+my email is longwood12345@hotmail.com
+i can't post to the msdn forums for some reason.
+can you please look into this for me?
+Anonymous
+November 10, 2006
+my email is longwood12345@hotmail.com
+i can't post to the msdn forums for some reason.
+can you please look into this for me?
+Anonymous
+November 10, 2006
+My email is longwood12345@hotmail.com.
+I can't post to the MSDN forums because the site has so many problems.
+Can you please explain to me why the program below doesn't work?
+The program compiles fine, but I get "WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)" during the compile.
+I am using MS Visual Studio Prof 2005.
+Thank you.
+#include "stdafx.h"
+#include <afxinet.h>
+int _tmain(int argc, _TCHAR* argv[])
+{
+//assumes server, port, and URL names have been initialized
+CInternetSession session("My Session");
+CHttpConnection* pServer = NULL;
+CHttpFile* pFile = NULL;
+DWORD dwRet;
+char szBuff[1024];
+try
+{
+CString strServerName = "www.cnn.com";
+INTERNET_PORT nPort = 80;
+pServer = session.GetHttpConnection(strServerName, nPort);
+pFile = pServer->OpenRequest(CHttpConnection::HTTP_VERB_GET, "My Object"); //strObject);
+pFile->AddRequestHeaders(NULL); // szHeaders);
+pFile->SendRequest();
+pFile->QueryInfoStatusCode(dwRet);
+if (dwRet == HTTP_STATUS_OK)
+{
+UINT nRead = pFile->Read(szBuff, 1023);
+while (nRead > 0)
+{
+printf("%dn", nRead);
+printf("%sn", szBuff);
+//read file...
+}
+printf("got heren");
+}
+else
+printf("dwRed = %dn", dwRet);
+delete pFile;
+delete pServer;
+}
+catch (CInternetException* pEx)
+{
+//catch errors from WinInet
+}
+session.Close();
+return 0;
+}
+Additional resources
+Last updated on
+2006-11-11

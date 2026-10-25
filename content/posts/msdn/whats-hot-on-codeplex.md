@@ -1,0 +1,67 @@
+---
+title: "What's hot on Codeplex?"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/whats-hot-on-codeplex"
+date: "2007-05-13"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+What's hot on Codeplex?
+There are
+1456
+projects on
+Codeplex
+(as of Monday 14 May 2007)
+The 10 most popular
+:
+AJAX Control Toolkit
+The AJAX Control Toolkit is a collection of samples and components which make it easier than ever to build and consume rich client-side controls and extenders built on the Microsoft AJAX Library and ASP.NET 2.0 AJAX Extensions. The Toolkit provides both ready to go samples and a powerful SDK to simplify the creation and re-use of your own custom controls and extenders.
+SameDesk
+SameDesk is a virtual desktop environment where applications serving directly from different web servers can interact with each other locally at the browser across domain boundary, using a technique we named XDDE (Cross Domain Data Exchange). Resembling a traditional desktop GUI, SameDesk is also enhanced with browser-adapted innovations such as 2Â½ D, minimize-to-link, maximize-to-tab, and more.
+SubSonic: All your database are belong to us
+Ruby On Rails is propelling a new wave of programming - one that drives "Convention Over Configuration". This simple, elegant approach is attracting many developers who find the intricacies and complexity of Java and .NET to be daunting.
+SubSonic is our attempt to bring this simplicity to the .NET platform.
+See more here:
+https://www.wekeroad.com/actionpackintro.html
+*Note: This project used to be called the ASP.NET ActionPack, but was renamed.
+patterns & practices - Smart Client Guidance
+Welcome to the Community workspace of patterns & practices Smart Client offerings.
+patterns & practices â Enterprise Library
+The patterns & practices Enterprise Library is a library of application blocks designed to assist developers with common enterprise development challenges. Application blocks are a type of guidance, provided as source code that can be used "as is," extended, or modified by developers to use on enterprise development projects.
+IronPython
+IronPython is a new implementation of the Python programming language on the .NET Framework. It supports an interactive interpreter with fully dynamic compilation. It is well integrated with the rest of the framework and makes all .NET libraries easily available to Python programmers.
+SharpMap - OpenSource Map Engine for .NET 2.0
+SharpMap is a simple-to-use map renderer that renders GIS data for use in web and desktop applications, written in C# 2.0 and also comes with AJAX powered usercontrol as well as win-form controls.
+.NET Reflector Add-Ins
+Add-Ins for .NET Reflector
+patterns & practices - Web Client Software Factory
+The Web Client Software Factory is a guidance offering from Microsoft patterns & practices, to assist developers and architects with the design, development and deployment of Line of Business web applications using .NET.
+patterns & practices: Web Service Software Factory
+The Web Service Software Factory (also known as the Service Factory) is an integrated collection of tools, patterns, source code and prescriptive guidance. It is designed to help you quickly and consistently construct WCF and ASMX Web services that adhere to well known architecture and design patterns.
+Technorati tags:
+Codeplex
+,
+Microsoft
+[
+Current Listening to
+:
+The worrying kind (Sweden)
+by
+The Ark
+from
+Eurovision Song Contest 2007
+]
+Comments
+Anonymous
+May 14, 2007
+The AJAX Control toolkit is awesome value add for your web applications. I also hear there is a really cool Aussie dude who is on the toolkit team too :-)
+Additional resources
+Last updated on
+2007-05-13

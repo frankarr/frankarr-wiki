@@ -1,0 +1,168 @@
+---
+title: "Christopher Beaumont ; Still Life Paintings 2006 in Sydney"
+platform: "radio-userland"
+era: "microsoft"
+source_url: "http://radio-weblogs.com/0124955/2006/07/19.html#a1216"
+date: "2006-07-19"
+tags:
+  - "Family"
+  - "Geek"
+  - "Random"
+  - "My Hobbies"
+  - "My Interests"
+---
+
+Wednesday, 19 July 2006
+Christopher Beaumont ; Still Life Paintings 2006 in Sydney
+My brother in law, the oh so talented
+Christopher Beaumont
+, has an exhibition of his work opening in Sydney on Saturday 29th July 2006
+Have a look at his paintings
+@
+Eva Breuer Art Dealer
+- 83 Moncur Street, Woollahra NSW 2025
+Head over to
+www.chrisbeaumont.com
+for more details.
+[listening to: Lasagna -
+Weird Al Yankovic
+]
+10:45:55 PM
+comment [
+]
+trackback [
+]
+G!
+
+Family
+On This Day : Jul 19
+July 19
+:
+President's Day
+in
+Botswana
+711
+
+Roderic
+and the
+Visigoths
+in
+Iberia
+were defeated in the
+Battle of Guadalete
+by
+Moorish
+Umayyad
+invaders led by
+Tariq ibn-Ziyad
+.
+1553
+
+Lady Jane Grey
+was replaced by
+Mary I of England
+(
+pictured
+) as
+Queen of England
+after holding that title for just nine days.
+1848
+ The two-day
+Women's Rights Convention
+opened in
+Seneca Falls, New York
+,
+United States
+.
+1870
+
+France
+declared war on
+Prussia
+, starting the
+Franco-Prussian War
+.
+1947
+
+Burmese
+nationalist
+Aung San
+was
+assassinated
+.
+1979
+
+Sandinista
+rebels overthrew the US-backed
+government
+of the
+Somoza
+family in
+Nicaragua
+.
+[listening to: I Was Only Kidding -
+Weird Al Yankovic
+]
+9:23:59 PM
+comment [
+]
+trackback [
+]
+G!
+
+Geek
+
+Random
+Kosi Curse Keeps on Keeping on
+Sydney Morning Herald
+More bad news at tribunal for Kosi
+The Australian, Australia -
+17 Jul 2006
+INJURY plagued Justin Koschitzke is facing another hurdle before being able to resume at the elite level. The St Kilda star forward must first be cleared by the VFL tribunal before he can re-start his senior career.
+Koschitzke's AFL comeback halted by ban
+The Age
+Kosi faces another blow at tribunal
+The Age
+Another knock for Koschitzke, one match out
+RealFooty
+all 43 related »
+[listening to: Polkas on 45 -
+Weird Al Yankovic
+]
+9:21:48 PM
+comment [
+]
+trackback [
+]
+G!
+
+My Hobbies
+Book : Everything Bad is Good for You
+Over my little holiday, I spotted the following book -
+Everything Bad Is Good for You: How Today's Popular Culture Is Actually Making Us Smarter"
+As I am a big fan of popular culture, I just had to get it.
+So, what is it about :
+Drawing from fields as diverse as neuroscience, economics, and literary theory, Johnson argues that the junk culture we're so eager to dismiss is in fact making us more intelligent. A video game will never be a book, Johnson acknowledges, nor should it aspire to be -- and, in fact, video games, from Tetris to The Sims to Grand Theft Auto, have been shown to raise IQ scores and develop cognitive abilities that can't be learned from books. Likewise, successful television, when examined closely and taken seriously, reveals surprising narrative sophistication and intellectual demands.
+I found it a quck, easy to read, well argued little book.
+But not everyone agrees
+Oh, I've started reading the author's blog too -
+http://stevenberlinjohnson.com/
+. An interesting character
+[listening to: I Lost on Jeopardy -
+Weird Al Yankovic
+]
+7:45:54 PM
+comment [
+]
+trackback [
+]
+G!
+
+My Interests
+© Copyright 
+     2006
+     Frank Arrigo.
+A Geek Microsoft Blogger
+Last update: 
+     1/08/2006; 3:43:55 PM
+     .

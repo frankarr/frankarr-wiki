@@ -1,0 +1,124 @@
+---
+title: "Untitled"
+platform: "radio-userland"
+era: "microsoft"
+source_url: "http://radio-weblogs.com/0124955/2004/03/14.html#a436"
+date: "2004-03-14"
+tags:
+  - "My Hobbies"
+  - "My Hobbies"
+  - "Random"
+  - "My Hobbies"
+  - "My Hobbies"
+---
+
+Sunday, 14 March 2004
+Collection of St.Kilda Stories from HeraldSun
+Irony hits spot with Hamill
+ST KILDA will enter the season proper with the stifling burden of expectation after swamping brave Geelong with a five-goal final quarter at Telstra Dome last night.
+Pleasure with pain
+APOLOGIES to Lisa Marie Presley, but it was torture missing the Saints strut their stuff last night.
+Saints run down courageous Cats
+Magic night for Harvey
+IT was far from the predicted runaway win, but the Saints last night capped an electric month of football by claiming the Wizard Cup.
+Saints are Wizards
+New kids on block shine
+St Kilda 1.14.5 (98) bt
+Geelong 1.10.7 (76)
+THE Saints came marching home last night as the Wizard Cup heralded a new football season of high hopes for underdogs.
+Molly Meldrum: Pleasure with pain
+Wizard Cup final pictures
+Match report
+Kids add true grit to their armoury
+ST Kilda has added the most dangerous of all ingredients to its talent-laden line-up: the will to win when all seems lost.
+5:22:47 PM
+comment [
+]
+trackback [
+]
+G!
+
+My Hobbies
+Collection of St.Kilda Stories from realfooty
+Boy from Sin City is one happy Saint
+Lenny Hayes isn't bitter at being missed by Sydney.
+more
+Saints coach faces a big test this season
+The game of football, as we knew it, looked to be coming to an end on that Saturday night at Telstra Dome less than two years ago when Grant Thomas's young unfancied Saints defied the odds and drew with Sydney.
+more
+Harvey steals the show
+A rampant St Kilda staged a stunning final-quarter revival to win its first pre-season competition grand final since 1996 when it beat a gallant Geelong by 22 points at the Telstra Dome last night.
+more
+Saints run all the way to the dais
+St Kilda won the final of the pre-season competition last night by the sort of margin many had predicted, but not in the manner many had anticipated.
+more
+Gehrig, Saints have the final say
+The irony was inescapable, and almost cruel. For 95 per cent of the Wizard Cup grand final, Geelong's irrepressible full-back Matthew Scarlett was impassable.
+more
+5:16:22 PM
+comment [
+]
+trackback [
+]
+G!
+
+My Hobbies
+Foxtel Digital Debacle
+I spent all day
+Saturday
+at home waiting for the men from
+Foxtel
+to come and install the new
+Foxtel Digital
+service.
+We were expecting them between 12pm and 5pm.
+At 3.30pm I got a call from someone at
+Telstra
+saying that the installation was being cancelled and would be rescheduled to another time, but they couldn't tell me when and would get back to me within 2 business days.
+Weird.
+But it all made sense, when I saw a story in the
+smh
+-
+Foxtel digital roll out descends into chaos
+. A good old fashioned strike! An industrial dispute.
+Oh well, back to watching the replay of the
+Wizard Cup Grand Final
+.
+11:58:41 AM
+comment [
+]
+trackback [
+]
+G!
+
+Random
+Only a small step: Thomas
+St Kilda coach Grant Thomas says his sides triumph in the Wizard Home Loans Cup grand final on Saturday night is only a small step in the clubs bid to re-emerge as an AFL powerhouse.
+The Saints lifted only their second senior AFL trophy since their one and only premiership win back in 1966, by overrunning Geelong in the final quarter at Telstra Dome on Saturday night, and their first since victory in this same competition back in 1996.
+[
+more
+]
+11:30:12 AM
+comment [
+]
+trackback [
+]
+G!
+
+My Hobbies
+Winners are Grinners
+1:53:32 AM
+comment [
+]
+trackback [
+]
+G!
+
+My Hobbies
+© Copyright 
+     2006
+     Frank Arrigo.
+A Geek Microsoft Blogger
+Last update: 
+     8/07/2006; 10:02:56 AM
+     .

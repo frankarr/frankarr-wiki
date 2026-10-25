@@ -1,0 +1,233 @@
+---
+title: "Fox Footy Finished"
+platform: "radio-userland"
+era: "microsoft"
+source_url: "http://radio-weblogs.com/0124955/2006/08/26.html#a1321"
+date: "2006-08-26"
+tags:
+  - "My Hobbies"
+  - "TV"
+  - "Geek"
+  - "Geek"
+  - "My Hobbies"
+  - "My Interests"
+  - "Geek"
+---
+
+Saturday, 26 August 2006
+Fox Footy Finished
+This bit of news coming out of Melbourne has been quite sad for me, as an AFL fan based in Sydney.
+Kevin Taylor over at
+Footystats Diary
+says it all ;
+AFL is out of touch, and out of step
+AFL chief executive
+Andrew Demetriou
+is quoted in an AAP report today in
+The Age
+and confirms just how out of touch he is with reality  "Everyone has got a free-to-air television set, and for us to be going into NSW and Queensland on a Friday night will be fantastic and we're looking forward to it."
+Demetriou and his team may have gathered $780 million from the Seven-Ten consortium for a new TV broadcasting deal but are guilty of overseeing the death of the most important innovation for football  the Fox Footy channel.
+The impact from the disappearance of the Fox Footy channel is incalculable and people in the south are simply not aware of what Fox has meant to the game and those who live north of the River Murray.
+We were able to turn on at any time of any 24 hours and see our game being telecast, talked about, its history retold from vintage clips, but most of all it was its presence  which was not on the local radio, not in the local newspaper and not in the local TV newscast.
+The AFL are guilty of lacking commercial savvy to have been party to all of this going under their noses.
+And, to now come along with a proclamation befitting the great messiah of how wonderful it will be to see all eight games on free-to-air 
+WHEN
+...
+When will the shift workers in the early hours of the morning, or those in the rural areas  when will we see the replay of the Hawks-Kangaroo match?
+Not bloody likely Mr Demetriou, ever again.
+Farewell to Fox Footy and the dream that our game will ever be more than a curiosity piece outside of Melbourne.
+More news on this story...
+Border Mail
+Fox Footy's
+demise is irrelevant: Ten
+The Age, Australia -
+4 hours ago
+...
+all eight AFL games next year in a deal with Seven, but Ten was continuing to negotiate with Foxtel despite the imminent demise of the
+Fox Footy channel
+.
+...
+Footy channel
+axing piles pressure on broadcasters
+ABC Online
+Fans left howling after Foxtel pulls plug
+The Age
+Footy
+fans furious at Foxtel
+The Age
+Sydney Morning Herald
+-
+The Australian
+all 35 news articles »
+Fox Footy channel
+set to be switched off
+Sydney Morning Herald, Australia -
+22 Aug 2006
+While Foxtel is still trying to secure subscription rights beyond this year, it announced the
+Fox Footy channel
+would cease to exist.
+...
+Siren blows for Foxtel
+Footy
+The Age, Australia -
+23 Aug 2006
+...
+Oh yeah, and go EAGLES for the '06 Flag!! We should not forget why Foxtel is closing the
+Fox footy channel
+.
+...
+We need a
+channel
+like
+Fox Footy
+.
+...
+Ten and Seven shut Foxtel out of
+footy
+Sydney Morning Herald, Australia -
+23 Aug 2006
+...
+new rights partners Seven and Ten and its pay TV provider reached a new low yesterday when Foxtel announced the closure of the
+Fox Footy Channel
+and partially
+...
+No more
+Fox Footy
+sportal.com.au, Australia -
+23 Aug 2006
+Foxtel will close the its AFL-only
+Fox Footy Channel
+at the end of the season because of the uncertainty over pay-TV rights to televise AFL football from next
+...
+Our man at headquarters
+RealFooty, Australia -
+20 hours ago
+Settled in for a quality night of television, with
+Channel
+Seven showing all these
+...
+exasperated, then asked: "Do you realise the whole future of
+Fox Footy
+is at
+...
+Broadcasters brawl as Foxtel axes AFL
+The Age, Australia -
+23 Aug 2006
+...
+The big initial losers were about 50 staff at the
+Fox Footy channel
+, whose working futures are now uncertain, and AFL fans, who will lose their 24-hour service
+...
+Coaches concerned over
+Fox
+demise
+AFL, Australia -
+23 Aug 2006
+Western Bulldogs coach Rodney Eade and St Kilda coach Grant Thomas have both expressed their disappointment over the demise of
+Fox Footy Channel
+ Eade going
+...
+[listening to: Zombie -
+The Cranberries
+]
+8:52:50 PM
+comment [
+]
+trackback [
+]
+G!
+
+My Hobbies
+
+TV
+On This Day : Aug 26
+August 26
+:
+1071
+-
+Seljuk Turks
+led by
+Alp Arslan
+captured
+Byzantine Emperor
+Romanus IV
+in the
+Battle of Manzikert
+.
+1346
+-
+Hundred Years' War
+: The military supremacy of the
+English longbow
+over the French combination of
+crossbow
+and armoured
+knights
+was established in the
+Battle of Crécy
+.
+1789
+-
+French Revolution
+: The
+Declaration of the Rights of Man and of the Citizen
+was approved by the
+National Constituent Assembly
+at
+Versailles
+.
+1839
+- The
+slave
+-held
+Amistad
+landed off
+Long Island
+in the
+U.S. state
+of
+New York
+.
+1883
+- The
+volcanic
+eruption of
+Krakatoa
+(pictured)
+generated disastrous
+tsunamis
+, destroying many settlements on
+Java
+and
+Sumatra
+in
+Indonesia
+and killing 36,000 people.
+[listening to: Zombie -
+The Cranberries
+]
+8:46:17 PM
+comment [
+]
+trackback [
+]
+G!
+
+Geek
+flickr toy : cool!
+Found a link to
+fd's FlickrToys
+I like the
+profile widget
+[listening to: Mike Teavee -
+Original Soundtrack
+]
+2:23:34 PM
+comment [
+]
+trackback [
+]
+G!
+
+Geek
+Saints dominate the Dogs 142-

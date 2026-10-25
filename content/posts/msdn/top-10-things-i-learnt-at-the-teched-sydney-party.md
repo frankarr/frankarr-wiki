@@ -1,0 +1,85 @@
+---
+title: "Top 10 Things I learnt at the TechEd Sydney Party"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/top-10-things-i-learnt-at-the-teched-sydney-party"
+date: "2006-08-24"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+Top 10 Things I learnt at the TechEd Sydney Party
+Speaking about the TechEd Party
+, I learnt a few things during the evening:
+Apparently "I am the man".
+TechEd has been awesome
+Never play XBOX360 with a rugby league player
+Folks told me I did a good job with the opening keynote
+There are men, but "I am the man"
+Water is always the best option
+Don't eat and talk at the same time.
+Wash your hands *before* offering to say G'day
+Don't stand in the front row of the stage when there are XBOX Cheerleaders performing
+Sydney nightclub bouncers are the dumbest, rudest, most arrogant people in the world. Especially those from the Home Nightclub - I mean don't they read blogs.  More later......
+[
+Current Listening to
+:
+Infatuation
+-
+Rod Stewart
+]
+Comments
+Anonymous
+August 24, 2006
+I never thought I hear an Aussie say this: "Water is always the best option"
+Are you sure you're Australian? ;-)
+Anonymous
+August 25, 2006
+Alex,
+after seeing the statistics of the amount of liquid that was drunk over the 3 days of Tech.Ed, you will understand where this is coming from.
+Something on the order of 20,000 bottles of soft drink & water, and a whopping 40,000 bottles of beer (there are no extra zeros in these numbers!).
+Knowing how I felt Friday morning (and most of the day), I will have to agree with Frank on this one.  Water (especially on Fridays) is absolutely the best option  :-)
+Anonymous
+August 25, 2006
+The comment has been removed
+Anonymous
+August 26, 2006
+I was too busy chatting up the footy players, to actually realise that there was cheersleaders there... I swear i was the life of the whole party!!! Email me at kerrielucas@big.net.au
+Anonymous
+August 28, 2006
+Whats the deal with the XBOX cheerleaders?
+Anonymous
+August 29, 2006
+So how much was the actual total we drank (in $ or Litres) at the Home Niteclub. i know i sure did my part!
+Anonymous
+August 29, 2006
+Number 9.Don't stand in the front row of the stage when there are XBOX Cheerleaders performing
+Yes the front row of the stage is probably the worst place, and the front row of the Audience is the best :D
+Mmmm XBOX360 cheer girls.....
+Anonymous
+August 31, 2006
+As I did last month, I looked back on BlogBeat for my top 20 posts for the month of August. Not surprisingly...
+Anonymous
+June 08, 2009
+PingBack from
+http://toenailfungusite.info/story.php?id=6691
+Anonymous
+June 09, 2009
+PingBack from
+http://insomniacuresite.info/story.php?id=5978
+Anonymous
+June 15, 2009
+PingBack from
+http://workfromhomecareer.info/story.php?id=28357
+Anonymous
+June 18, 2009
+PingBack from
+http://barstoolsite.info/story.php?id=5560
+Additional resources
+Last updated on
+2006-08-24

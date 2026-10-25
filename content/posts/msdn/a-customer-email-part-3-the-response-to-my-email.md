@@ -1,0 +1,80 @@
+---
+title: "A customer email : Part 3: The response to my email"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/a-customer-email-part-3-the-response-to-my-email"
+date: "2005-02-10"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+A customer email : Part 3: The response to my email
+I've been posting a conversation I am having with a member of the community, who happens to be a
+Microsoft Certified Trainer
+(MCT), and who had a few issues with Microsoft.
+Initially
+I posted an email I received
+, then
+I posted my reply
+, and now what follows is the response back to me...
+-----Original Message-----
+From: Stephen Russell
+To: Frank Arrigo
+Hi Frank.
+Sorry if my first contact with you has come across as negative. But over
+the last few months, I've been having some "issues" with Microsoft dev
+courseware and getting little/no support from them. So when I got an MSDN
+flash which says how great everything is, I had to let off some steam.
+Thanks for not flaming me back ... though I deserved it ... :-)
+I note that your current role is dev platform evangelism in Australia, and
+that you liaise with customers and universities. But I note that you don't
+mention MCSD MCT's and CPLS's? Given that I'm one of the few MCTs training
+dev courses in Sydney, it's a pity we've not met along the way.
+But this is indicative of the poor communication between MS and CPLS's in
+Australia, in my opinion. I've always felt that I've been operating in a
+vacuum, with little or no support from MS Australia. Every week we MCT's
+are pushing the dev products, but getting no help from MS. All we get is
+buggy, badly written courseware. When we point out the problems, nothing
+happens. And we don't even get discounts on the software -- we have to pay
+full retail, whereas Linux-using professors and students get it for "free"
+(details provided on request).
+This might all be my fault, of course, but I've never felt I had any
+channel into MS to get support. The few times that I've had to interact
+with MS were not pleasant or encouraging. You would have thought that when
+I became an MCSD trainer a few years back, someone like you might have
+contacted me saying "Welcome! How can we help you?"
+Don't get me wrong. I'm not totally anti-MS. I like a lot of the new MS dev
+products. .NET, VS2003, BTS2004 -- they're great products. Not perfect, of
+course, but more than competitive. My main issues at the moment are the
+lack of quality control with the supporting courseware. Hence the Bcc I
+sent you.
+As for publishing my e-mails, I won't stop you. Admittedly, my first e-mail
+was very rude and blunt, so I don't mind if you tone it down a bit by
+editing out the bits that might incriminate me ... :-)
+Thanks.
+Cheers,
+Steve.
+PS. You do know that "evangelist" is a pejorative, right?
+S.
+[ Currently Playing : Got to Be Certain - Kylie Minogue - Ultimate Kylie Disc 1 (03:20) ]
+Comments
+Anonymous
+February 10, 2005
+Oh, to be fair, I've been reading Frank's blog for sometime now.  I have rung him once or twice and received a personal email from him and others in his team.
+I have always found these guys to give freely of their time, extreamly helpfull and always keeping me up to date.
+I'm not too sure what sort of support Stephen would like.  There is a plethora of information out there on .net in Australia.  User groups, email lists, blogs etc. etc.
+Stephen, are you going to the usergroups?  In a perfect world, what would you like Microsoft to do?
+Anonymous
+February 10, 2005
+My concern is the whole concept that someone could be teaching such classes and yet be so unaware of the available resources. Does Stephen participate in email lists, blogs, newsgroups, user groups, etc. etc.? Dev trainers should not expect to be kept up to date in their technical areas via the CPLS program. You would hope they'd be active in the development community independent of their employment, for their own preparation.
+Anonymous
+February 10, 2005
+The comment has been removed
+Additional resources
+Last updated on
+2005-02-10

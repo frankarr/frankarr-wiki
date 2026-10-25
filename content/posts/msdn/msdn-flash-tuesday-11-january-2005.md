@@ -1,0 +1,90 @@
+---
+title: "MSDN Flash - Tuesday, 11 January, 2005"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/msdn-flash-tuesday-11-january-2005"
+date: "2005-01-24"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+MSDN Flash - Tuesday, 11 January, 2005
+Visit the Microsoft Australia MSDN site
+|
+Sign up for other newsletters
+|
+Unsubscribe
+|
+Update your profile
+Happy New Year from the MSDN Flash team
+We're off to a flying start
+Dear ReadersIf you've made a New Year's Resolution to improve your skills this year, you've come to the right place. We have some fantastic events and content lined up for you throughout 2005, and we're off to a great start this month.As the Product Manager for Developer Tools here in Australia, I'm delighted to bring you the best tools, the latest updates and some invaluable resources. So you can continue to build on your skills as a developer and really get ahead.Our first event for the year, the
+promises to be a highlight for 2005. It offers you in-depth coverage of the skills, processes and technologies you need to address security threats. The MSDN track will focus on how you can leverage
+to produce better quality code, and includes an introduction to programming with
+.If you're like me, you're keen to get your hands on the latest books for developers. I highly recommend the recently released
+mmmmm
+by Dr.Neil Roodyn, a good friend of mine. With hands-on examples to help make you a better coder (and a focus on .NET), it's a handy resource for your book shelf. You can read more about it and pick up your copy at
+.Chatting online with peers is also a good way to brush up your skills. By joining a
+or a newsgroup, you can keep your ear to the ground and learn some time-saving tricks while you're at it. One of my favourites is the Dotnet Stanski newsgroup. It's a very active online community that I've really enjoyed being a part of. To subscribe, send "subscribe dotnet Your Name" in the body of the email to:
+.Finally, the local MSDN resources are invaluable for up-to-the-minute news. To help make it easier for you to find the information you need, we're currently overhauling the
+This is the place to sign up to the
+developer recognition program. As a member, you'll receive breaking news in your inbox about available resources (such as the BETA 2 of Visual Studio Team System due out this quarter) events, a bi-monthly copy of MSDN Magazine and a host of other great benefits.As you probably know, our first issue of MSDN Magazine for Australia and New Zealand launched last year. Volume 2 is out now and has a major focus on security. If you can't make it to the Microsoft Security Summit, this issue is a must read!Wishing you happy coding for 2005.
+Finula Crowe
+Product Manager - Developer Tools
+Featured Articles
+The extraordinary Microsoft Fingerprint Reader lets you quickly log on to your computer and your favourite websites with the touch of your finger, without the hassles of remembering passwords. You can even switch between users without closing programs and files, and still keep your content personal.
+one of these extraordinary products or other Microsoft hardware.
+The end of 2004 signalled the end of the support life cycle for Microsoft Windows NT 4.0 Server. Microsoft followed through on previously announced plans to retire public and technical support and security updates on 31 December. The support life cycle for Microsoft Windows NT 4.0 Workstation ended 30 June 2004. Microsoft retired support for these products because the technology is now outdated and can potentially expose customers to security risks. Microsoft recommends that customers who are still running Windows NT 4.0 begin migrations to newer, more secure Microsoft operating system products as soon as possible; those who have already upgraded to Windows Server 2003 are reporting improved security, lower total cost of ownership (TCO) and increased productivity. With all these business benefits, you'll never look back.Microsoft has assembled a range of tools, information and resources to help smooth your migration path, and support your business-critical applications during migration. Gain savings in time, money and resources. Discover the increased productivity, greater security and a lower TCO that flows from your move to Windows Server 2003.
+If you subscribe to MSDN Connection, you should have received your complimentary copy of Volume 2 of MSDN Australia's new magazine. For those who don't know about this, it's a bi-monthly publication designed to provide Software Developers with insiders' views on the latest technology, as well as local developer community news. If you're not an MSDN Connection member, be sure to sign up at
+Alternatively, you can purchase a copy of MSDN Magazine at your local news stand.
+Training and Events
+If you'd like to sharpen your skills at the Microsoft Security Summit 2005 then you better be quick. You only have a few weeks left before registrations close. This year's Summit includes an extensive examination of the 'Visual Studio Team System' and the major advantages it will give you across all application development life cycle stages, plus topics as wide-ranging as 'Source Control and Work Item Tracking', 'Tools for Quality Code' and a discussion of 'Yukon'. It's running in Sydney, Melbourne, Brisbane, Adelaide, Canberra and Perth. Best of all, there is no charge to attend so you and your team can attend one session, or all of them. Places are strictly limited and registration closes in February for most events so
+.
+The Microsoft Office 2003 Research Service lets you search for books at amazon.com and quickly locate the information you need without leaving the Microsoft Office 2003 application you're working in. By using a custom research service, you can copy text from search results to an application, insert selected text, look up subsequent terms, link to related Web pages, filter results, use smart tag actions and much more.
+Run Access applications? Faced with the decision to upgrade or migrate to Microsoft SQL Server and/or Microsoft .NET technology? This two-day, hands-on workshop with Adam Cogan will help you understand your options and how to proceed with confidence. Learn to convert Access applications to be more reliable and scalable. Make your applications easier to back up, easier to put on the Web and easier to scale to an Enterprise level. For better access to Microsoft Access,
+Fresh from the Web
+What applications can you build with the eBay API and SDK? What's the life cycle of an eBay auction? How do you build an eBay business?
+to find out how the eBay platform provides developers with an excellent opportunity to test new ideas and create valuable solutions.
+Here you can download a preview of the reference documentation for Microsoft SharePointPSSearch, the SQL Syntax used for Microsoft SharePointPSSearch Full Text Search.
+Intersoft's WebInput.NET is designed for those jobs that require high interactivity and productivity. It is a rich, multi-purpose user interface input control that targets ASP.NET web development, which enables you to easily format data, mask data, validate data and highlight data. The WebInput.NET component is built on Intersoft's Component Framework, named WebUI.NET and has been specially optimised for Microsoft Visual Studio technology.
+.
+Case studies, KB Articles and How to's
+â¢
+â¢
+â¢
+â¢
+â¢
+â¢
+â¢
+â¢
+Tuesday, 11 January, 2005
+In this Issue:
+Special Offers, Training and Events
+â¢
+Get Recognised: Join the MSDN Connection
+By developers, for developers, MSDN Connection is Australia's peer-based recognition program.
+â¢
+MSDN User Groups
+Why not share your ideas with one of our user groups run nation wide.
+â¢
+TechNet Special Interest Groups
+â¢
+Upgrade to the Visual Studio .NET Professional Special Edition for Only $948 (RRP)
+â¢
+Imagine Cup 2005
+â¢
+Product Updates
+Stay up-to-date with downloadable Visual Studio .NET and .NET Framework product updates and related enhancements.
+â¢
+Service Packs
+Find critical service packs to keep your system updated with the latest fixes and product enhancements.
+â¢
+Most Popular Developer Downloads
+1.
+2.
+3

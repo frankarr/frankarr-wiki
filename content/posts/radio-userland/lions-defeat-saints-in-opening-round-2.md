@@ -1,0 +1,45 @@
+---
+title: "Lions defeat Saints in Opening Round"
+platform: "radio-userland"
+era: "microsoft"
+source_url: "http://radio-weblogs.com/0124955/2005/03/24.html#a832"
+date: "2005-03-24"
+tags:
+  - "My Hobbies"
+---
+
+Thursday, 24 March 2005
+Lions defeat Saints in Opening Round
+Looks like
+the pundits got it wrong
+FULL TIME-
+BRISBANE LIONS 18-8- 116 to ST KILDA 13-15- 93
+[listening to: Rock & Roll Music [Live] -
+Mental as Anything
+]
+11:34:56 PM
+comment [
+]
+trackback [
+]
+G!
+
+My Hobbies
+THE 2005 AFL SEASON IS AWAY : AFL Preview
+For the past few years, I have subscribing to an email newletter that provides a preview of the upcoming AFL Round. This is one of hidden treasures out there and I am going to share it with my readers. I hope the author of the newsletter doesn't mind
+THE 2005 AFL SEASON IS AWAY
+The Wizard Cup has come and gone and West Coast lost to Blues But now its time for season proper, goodbye to cricket news.
+Change room smells of liniment, BO, sweat, Deep Heat The atmosphere when youre at the game it just cannot be beat.
+Hard ball gets, effective kicks, depressed fractured cheeks, Handball stats, inside 50s, we take it week to week.
+Coaches fuming, hungry players, some off the rookie list, Magpie jokes and Carlton dreams and players getting
+pi@@ed.Sheedys
+age and Hirdys courage and Lloydys prep for goal, The injured list, the Brownlow votes, Powers flag on pole, Lethal Leigh and Rocket Eade, the Tigers now have Terry, An extended contract for Dockers coach has made him pretty merry.
+Whoosha has the Eagles ready for the fray But any team can win the match on any given day.
+Cold hot pies in the outer on a bleak day at the G.
+And the men in white still cop abuse when handin out a free The Telstra Dome with open roof (when closed its not the same) Construction at the MCG to prepare for Commonwealth games.
+Ahh Footy season, footy season, weve got it bloody wrong When theres 12 months in a year and the seasons 6 months long!
+Gday football followers country wide! Crikey its great to be back with you talkin, breathin and livin footy. Another season full of dreams for players, coaches and supporters is upon us and it has been refreshing to have a pure, scandal free start to the home and away rounds (unlike rugby again). Im fully prepared for the AFL this year with Foxtel reconnected and broadband up and running so I can keep my finger on the pulse with the most up to date news and results. Its a shame the AFL has to ignore ground roots footy and the game itself while it fights the good fight for us supporters against the television stations free to air and pay TV to ensure it gets a squillion dollars for the televising rights so the AFL can continue to prop up the weaker teams. I reckon just stop all TV coverage, force the supporters back to watching the games live at the ground (thatll get the attention of the caterers at the grounds who seem to have some perverted sense of humour that encourages them to promote hungry queues longer than a Bernie Quinlan torp!) and bring back The Winners on the ABC (replayed on Fox). Even bring back Drew Morphett to host the show!! It would be centimetre perfect!
+Its pointless going into great depth about which team fared well at the draft, new recruits, old recruits, injury lists, coaching changes, club spa nights, end of season trips, pay increases, captain changes, uniform changes and even mentioning Eddie Maguires name. You, the astute football follower, barracker and sports afficionado know it all. And, none of it helps you when it comes to the all-important footy tipping, does it? How many of you have hung your head in shame and utter frustration when the admin secretary, a recently arrived immigrant from Ethiopia or Iraq, (or even worse a soccer loving Pom) picks the 8 correct one week and either wins the tipping comp or comes in 50 spots higher than you at the end of the year? A painful but common enough occurrence I tell you. No, this previewer will provide you with some daring selections and useless stats and arguments to back those tips. Its then up to you to follow or.be damned.
+Have a great 22 weeks and may your team win this weekend, unless it is playing mine
+Brisbane V St Kilda Thursday night at the Gabba
+Dare I say it so early in the season? A blockbuster game if you look at the form of these two teams last year. What can we expect with the tried and true formula adopted by the Lions under the experienced tutelage of Matthews up against the brash and sometimes left field innovations of Grant Thomas at the Saints? Reiwoldt gets the captaincy at the Saints and this boy will last in that position for the next 5 years, mark my words. Theres lots to like about Nick who is already heading the mark taking stats for the league at the tender age of 22 and can kick goals and think footy in everything he does. Brisbane are looking that bit older but theres plenty of experience there and lets not forget those 3 premierships and 5 grand final appearances. Great credentials. The game is at the Gabba and that has to be worth something but I reckon the Saints hunger for success might see them across the line in this game. They won the first 10 straight

@@ -1,0 +1,528 @@
+---
+title: "Saints : Season  2005 Review"
+platform: "radio-userland"
+era: "microsoft"
+source_url: "http://radio-weblogs.com/0124955/2005/09/05.html#a905"
+date: "2005-09-05"
+tags:
+  - "My Hobbies"
+  - "My Hobbies"
+  - "Random"
+---
+
+Monday, 5 September 2005
+Saints : Season  2005 Review
+Here's the summary of the Saints Season in 2005
+Rnd
+Home Team
+Away Team
+Ground
+Date
+R1
+Brisbane Lions
+4.1
+10.5
+14.5
+18.8
+(
+116
+)
+dftd
+St Kilda
+2.4
+6.6
+12.11
+13.15
+(
+93
+)
+Gabba
+Mar 24 (Thu 7:40pm)
+Details
+R2
+St Kilda
+1.0
+5.4
+6.6
+8.11
+(
+59
+)
+dftd
+Fremantle
+1.3
+6.3
+7.7
+8.10
+(
+58
+)
+Aurora Stadium
+Apr 3 (Sun 1:10pm)
+Details
+R3
+St Kilda
+3.3
+7.5
+12.7
+14.9
+(
+93
+)
+lost to
+Kangaroos
+2.2
+6.3
+10.7
+15.10
+(
+100
+)
+Telstra Dome
+Apr 9 (Sat 2:10pm)
+Details
+R4
+St Kilda
+7.2
+9.4
+16.9
+23.13
+(
+151
+)
+dftd
+Melbourne
+5.6
+9.11
+13.13
+15.14
+(
+104
+)
+Telstra Dome
+Apr 17 (Sun 2:10pm)
+Details
+R5
+St Kilda
+8.2
+13.5
+18.11
+22.15
+(
+147
+)
+dftd
+Richmond
+3.4
+5.8
+8.10
+11.13
+(
+79
+)
+Telstra Dome
+Apr 24 (Sun 5:10pm)
+Details
+R6
+Collingwood
+2.5
+6.6
+8.11
+10.11
+(
+71
+)
+lost to
+St Kilda
+1.4
+8.7
+12.9
+16.13
+(
+109
+)
+Melbourne Cricket Ground
+May 1 (Sun 2:10pm)
+Details
+R7
+Geelong
+4.1
+7.5
+11.8
+18.11
+(
+119
+)
+dftd
+St Kilda
+5.2
+10.6
+13.9
+15.11
+(
+101
+)
+Telstra Dome
+May 7 (Sat 2:10pm)
+Details
+R8
+West Coast
+4.3
+9.5
+11.7
+13.10
+(
+88
+)
+dftd
+St Kilda
+1.2
+2.4
+4.7
+7.10
+(
+52
+)
+Subiaco
+May 14 (Sat 4:10pm)
+Details
+R9
+St Kilda
+5.2
+5.4
+8.6
+8.9
+(
+57
+)
+lost to
+Adelaide
+1.2
+7.3
+13.7
+15.13
+(
+103
+)
+Telstra Dome
+May 20 (Fri 7:40pm)
+Details
+R10
+St Kilda
+4.1
+5.6
+9.8
+15.11
+(
+101
+)
+dftd
+Sydney
+1.0
+3.1
+6.6
+8.10
+(
+58
+)
+Telstra Dome
+May 28 (Sat 7:10pm)
+Details
+R11
+St Kilda
+3.2
+6.6
+10.11
+11.15
+(
+81
+)
+lost to
+Port Adelaide
+7.3
+13.4
+15.5
+16.8
+(
+104
+)
+Aurora Stadium
+Jun 5 (Sun 1:10pm)
+Details
+R12
+Hawthorn
+1.3
+4.4
+5.4
+8.6
+(
+54
+)
+lost to
+St Kilda
+5.2
+8.6
+13.8
+15.10
+(
+100
+)
+Melbourne Cricket Ground
+Jun 11 (Sat 2:10pm)
+Details
+R13
+Essendon
+4.3
+9.3
+14.4
+19.5
+(
+119
+)
+dftd
+St Kilda
+3.2
+6.5
+11.8
+16.8
+(
+104
+)
+Telstra Dome
+Jun 24 (Fri 7:40pm)
+Details
+R14
+Western Bulldogs
+2.3
+6.4
+10.5
+15.8
+(
+98
+)
+lost to
+St Kilda
+5.3
+8.8
+13.13
+17.14
+(
+116
+)
+Melbourne Cricket Ground
+Jul 3 (Sun 2:10pm)
+Details
+R15
+St Kilda
+2.2
+7.5
+15.12
+23.15
+(
+153
+)
+dftd
+Carlton
+2.2
+4.4
+6.4
+11.7
+(
+73
+)
+Telstra Dome
+Jul 10 (Sun 2:10pm)
+Details
+R16
+Richmond
+3.2
+4.4
+4.6
+5.7
+(
+37
+)
+lost to
+St Kilda
+1.4
+6.5
+9.8
+16.10
+(
+106
+)
+Melbourne Cricket Ground
+Jul 16 (Sat 2:10pm)
+Details
+R17
+St Kilda
+4.4
+9.8
+15.14
+21.17
+(
+143
+)
+dftd
+Collingwood
+2.4
+3.6
+8.8
+10.10
+(
+70
+)
+Telstra Dome
+Jul 22 (Fri 7:40pm)
+Details
+R18
+Melbourne
+5.3
+7.6
+11.6
+13.10
+(
+88
+)
+lost to
+St Kilda
+8.3
+13.6
+23.12
+27.14
+(
+176
+)
+Melbourne Cricket Ground
+Jul 30 (Sat 2:10pm)
+Details
+R19
+St Kilda
+5.1
+7.7
+9.14
+13.18
+(
+96
+)
+dftd
+Geelong
+4.2
+6.3
+7.5
+8.7
+(
+55
+)
+Telstra Dome
+Aug 5 (Fri 7:40pm)
+Details
+R20
+Kangaroos
+3.1
+6.2
+9.5
+13.7
+(
+85
+)
+lost to
+St Kilda
+5.2
+11.6
+12.8
+16.12
+(
+108
+)
+Telstra Dome
+Aug 13 (Sat 2:10pm)
+Details
+R21
+Fremantle
+5.2
+7.2
+8.6
+12.8
+(
+80
+)
+dftd
+St Kilda
+4.2
+9.3
+11.4
+11.9
+(
+75
+)
+Subiaco
+Aug 19 (Fri 8:40pm)
+Details
+R22
+St Kilda
+5.4
+14.8
+20.16
+28.18
+(
+186
+)
+dftd
+Brisbane Lions
+2.2
+5.3
+6.5
+7.5
+(
+47
+)
+Telstra Dome
+Aug 27 (Sat 7:10pm)
+Details
+9:24:10 PM
+comment [
+]
+trackback [
+]
+G!
+
+My Hobbies
+Keeping a lid on it
+The Saints won their first final
+on the weekend. It was
+an awesome display againts the crows
+. They have a week off awaiting the result between Sydney & Geelong
+The Saints are
+now favorites for the flag
+. I'm trying to restrain myself. It's difficult not to be excited.
+9:20:25 PM
+comment [
+]
+trackback [
+]
+G!
+
+My Hobbies
+Quiz: The Birth Order Predictor
+You Are Likely a First Born
+At your darkest moments, you feel guilty. At work and school, you do best when you're researching. When you love someone, you tend to agree with them often. In friendship, you are considerate and compromising. Your ideal careers are: business, research, counseling, promotion, and speaking. You will leave your mark on the world with discoveries, new information, and teaching people to dream.
+The Birth Order Predictor
+[listening to: The Golden Ticket/Factory -
+Danny Elfman
+]
+12:04:03 AM
+comment [
+]
+trackback [
+]
+G!
+
+Random
+© Copyright 
+     2006
+     Frank Arrigo.
+A Geek Microsoft Blogger
+Last update: 
+     8/07/2006; 10:27:25 AM
+     .

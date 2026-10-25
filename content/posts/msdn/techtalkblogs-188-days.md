@@ -1,0 +1,98 @@
+---
+title: "TechTalkBlogs: +188 Days"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/techtalkblogs-188-days"
+date: "2006-08-31"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+TechTalkBlogs: +188 Days
+So TechTalkBlogs has been alive for 188 days, that's half a year! I am so happy to see this little thing continue to grow.
+Just look how it's grown over the past month
+System Summary
+Aug 31
+Jul 31
+Jun 30
+Feb 27
+Days Alive:
+188
+157
+126
+3
+Active Feeds:
+282
+270
+265
+183
+Feed Items:
+14,967
+12,315
+10,262
+1,174
+Votes:
+2,426
+2,071
+1,972
+762
+Top 10 posters to TTB
+Frank Arrigo
+/
+Frankarr
+Darren Rowse
+ERIC LAM
+Library clips
+Ben Barren
+RootPrompt.org
+Cameron Reilly
+The Blog of Dave5
+Juha's hairy and dangly tech bits
+The Techsploder
+Mitch Denny
+It's the usual suspects
+[
+Current Listening to
+:
+Lovely Day
+-
+Donavon Frankenreiter
+]
+Comments
+Anonymous
+August 30, 2006
+The comment has been removed
+Anonymous
+August 30, 2006
+no worries mate
+changes applied to my post and to techtalkblogs
+cheers
+Anonymous
+September 10, 2006
+The comment has been removed
+Anonymous
+September 29, 2006
+TechTalkBlogs continues to thrive. It has now been alive for 218 days.  Just&amp;nbsp;look how it's grown...
+Anonymous
+November 02, 2006
+TechTalkBlogs continues to grow and grow. I missed my regualr end of month status report, but I have
+Anonymous
+December 03, 2006
+TechTalkBlogs , my little baby, is fast approaching it's first birthday. I missed my regular end of month
+Anonymous
+January 01, 2007
+TechTalkBlogs continues to grow. Not long to go for it's 1st birthday. How's this for an interesting
+Anonymous
+January 31, 2007
+It's so exciting, TechTalkBlogs is almost one year old. It's like the engine that could. System Summary
+Anonymous
+March 08, 2007
+I am such a bad parent. My little baby celebrated it's first birthday, and I didn't take the time to
+Additional resources
+Last updated on
+2006-08-31

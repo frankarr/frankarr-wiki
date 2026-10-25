@@ -1,0 +1,60 @@
+---
+title: "1st MSDN Flash for 2006 is out"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/1st-msdn-flash-for-2006-is-out"
+date: "2006-01-19"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+1st MSDN Flash for 2006 is out
+The first MSDN Flash of the year has just gone out. We have a guest editor, Finula Crowe, for this edition.
+I was off on holidays
+until this week
+and Finula kindly stepped in to get this out. Thanks Fin!!!
+Ready for Another Great Year?
+Hey MSDN Flashers,Happy New Year and welcome to our first edition of the MSDN Flash for 2006! It's been a while now since I last took the reins as Guest Editor and since then we've shared a number of activities with you. First up, thanks to everyone who attended our
+Ready Launch Tour
+, with the release of
+Microsoft Visual Studio 2005
+,
+SQL Server 2005
+, and announcing
+BizTalk Server 2006
+. It was a pleasure to meet many of you at the Microsoft booth. Much of the feedback you gave us has shown that this suite of products is proving to be as well-received as we'd hoped. If you didn't get a chance to attend the launch, make sure you watch our
+online Webcasts of the keynote speech and key sessions
+. There are many other Visual Studio resources available, as well as offers from our launch partners, which you can find on the
+Ready Launch portal
+. For sales, licensing and product-related enquiries, contact
+Arabind Coomaraswamy at Microsoft on +61 2 9870 2372
+, email
+v-arcoom@microsoft.com
+or call the MSDN customer service center on 13 20 58. If you're into gaming and were in Sydney on Thursday, 8 December 05, I'm sure you would have attended
+Atomic Live
+. There we launched the
+Visual Studio Express products
+which are free to download until 7 November 2006. The team and I spent the day at the Visual Studio 2005 stand talking to developers and gaming enthusiasts. Some of the things we spoke about included:
+how to develop Web sites
+using Microsoft tools,
+how to write cool games
+;
+where to have my Web site hosted
+;
+how to add AJAX support to ASP.NET
+; and
+where to find out about all the cool Microsoft Web Technologies
+.In the coming weeks, you'll hear announcements about more activities that can help you continue to develop your skills, do more with less and become involved in the Developer community in Australia. One to note is complimentary training being held in Melbourne on Microsoft SQL Server 2005 and Visual Studio 2005.
+Check out Frank's Blog
+for more information on this one. Hurry! Places are limited and dates are set for next week.Until next time, happy coding and please let us know what you need by emailing us at
+ausflash@microsoft.com
+. Warm Regards, Finula CroweProduct ManagerDeveloper Tools, Australia
+[ Currently Playing : Sorry - Madonna - Confessions on a Dance Floor (04:43) ]
+Additional resources
+Last updated on
+2006-01-19

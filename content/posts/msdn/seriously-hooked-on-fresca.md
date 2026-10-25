@@ -1,0 +1,82 @@
+---
+title: "Seriously hooked on Fresca"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/seriously-hooked-on-fresca"
+date: "2008-01-29"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+Seriously hooked on Fresca
+Ok, I'm going to admit it.  I've been keeping it quiet for a while, but it's time I came clean.
+I have a serious addiction to
+Fresca
+- that "distinctively crisp, moderately smooth, intriguingly citrus, totally refreshing soda".
+In this land of
+Starbucks
+, you would have thought I would be addicted to coffee - turns out that's not the case.
+I do have my morning
+CaffÃ¨ Americano
+, with a
+shot of suger-free vanilla
+, but the thing that keeps me going through out the day is my
+Fresca
+.
+I just can't explain the addiction, but I'm hooked.
+Maybe it's because the drink is as old as me, or maybe it's the
+phenylalanine
+, or maybe it's something I couldn't get back in Australia which makes it all the more desirable?
+It could just be
+Fresca
+means "fresh" in
+Portuguese
+,
+Spanish
+and
+Italian
+. and that appeals to me
+Who knows.
+One thing is certain - I am going to get a
+fresca
+now. cheers
+Technorati Tags:
+Fresca
+,
+Frank Arrigo
+Comments
+Anonymous
+January 29, 2008
+PingBack from
+http://msdnrss.thecoderblogs.com/2008/01/29/
+Anonymous
+January 29, 2008
+Hmmm, so a can of Fresca trumps your CaffÃ¨ Americano?  Well I'm keen to give a Fresca a go.  I'll keep you posted :)
+Anonymous
+January 29, 2008
+sounds like Solo without the calories...
+... reading up on phenylalanine... it sounds like it would make sense to limit the number of cans per day of that stuff. As I read on one medical web site: "too much Phenylalanine acts as a neurotoxin and excites the neurons in the brain to the point of cellular death."
+might have to go back to coffee and risk a heart attack instead... ;-)
+Anonymous
+January 30, 2008
+tom - you scare me.
+and it's nothing like solo. fresca is more grapefruit flavour than lemon
+Anonymous
+February 05, 2008
+hey... a man's got to have a vice... at least yours is legal and free...
+Anonymous
+February 06, 2008
+Hi Frank,
+Your addiction to this particular soda can be traced back to the colorscheme and design used to paint the cans.
+There's a subliminal reference to Microsoft colors and products and although I cannot obtain such Soda here in the Netherlands, I'm now also craving for one.. Yee! ;P
+Anonymous
+March 31, 2008
+Back in January, I admitted my addiction to Fresca . That was the last day I had a sip of that &quot;distinctively
+Additional resources
+Last updated on
+2008-01-29

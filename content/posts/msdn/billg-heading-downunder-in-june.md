@@ -1,0 +1,65 @@
+---
+title: "Billg heading Downunder in June"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/billg-heading-downunder-in-june"
+date: "2004-06-09"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+Billg heading Downunder in June
+The press has been abuze about an upcoming visit by BillG to Sydney. This is
+my favorite one.
+Prime
+Minister to welcome Bill Gates to Australia
+Sandra Rossi,
+Computerworld
+Microsoft chairman Bill Gates is making a visit to Australia later this
+month and will participate in a joint press conference with the Prime Minister
+John Howard.
+The visit just happens to coincide with an election year in Australia
+and an "invitation-only" tech briefing will be held prior to the staged media
+announcement.
+According to the invitation, Gates will speak about Microsoft' s
+technology strategy and the company' s ongoing commitment to customers through
+research, development, and the role of innovation in the evolution of
+Microsoft technology and will also launch Microsoft's community assistance
+program dubbed "Unlimited Potential".
+The program aims to provide people with access to computer technology,
+education and training irrespective of age or circumstances. It has been
+developed in partnership with the Smith Family, Australian Seniors Computing
+Clubs, WorkVentures and the Inspire Foundation.
+Selected media get to participate in the tech briefing before the press
+conference but these invites are strictly limited, non-transferable and each
+participant is allowed only one question, making it a carefully managed and
+staged event for all concerned.
+While it could safely be assumed Gates will take the opportunity to
+discuss Microsoft's future as a supplier to government when he has the Prime
+Minister's ear, a company spokesperson said "I cannot talk about his agenda,
+meetings or appointments".
+The spokesperson was also unwilling to confirm whether the subject of
+Linux is likely to be on the agenda or if Gates will address the issue of open
+source emerging as a viable alternative to Microsoft in government and the
+enterprise. She did not know if Gates would be meeting local customers.
+Predictably, the spokesperson, was also unwilling to 'speculate' as to
+whether the US-Australia Free Trade Agreement will be discussed during the
+visit.
+More news on this later......
+[Now Playing: Baha Men - Rat Race [Soundtrack] - Rat Race (03:35)]
+Comments
+Anonymous
+June 27, 2008
+Lots has been written about Bill Gates leaving Microsoft today and the Microsoft.COM home page says it
+Anonymous
+June 09, 2009
+PingBack from
+http://cellulitecreamsite.info/story.php?id=6065
+Additional resources
+Last updated on
+2004-06-09

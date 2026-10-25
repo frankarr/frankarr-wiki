@@ -1,0 +1,171 @@
+---
+title: "Untitled"
+platform: "radio-userland"
+era: "microsoft"
+source_url: "http://radio-weblogs.com/0124955/2004/05/23.html#a546"
+date: "2004-05-23"
+tags:
+  - "My Hobbies"
+  - "My Hobbies"
+  - "My Hobbies"
+  - "My Hobbies"
+  - "My Hobbies"
+  - "My Hobbies"
+  - "My Hobbies"
+  - "My Hobbies"
+  - "My Hobbies"
+  - "My Hobbies"
+---
+
+Sunday, 23 May 2004
+Thommo bolts lid on flag favourite
+ST
+KILDA's
+streak has taken another step into history-making territory, but coach Grant Thomas last night slammed the lid shut on any celebrations.
+...
+11:36:14 PM
+comment [
+]
+trackback [
+]
+G!
+
+My Hobbies
+Nick Riewoldt flies high
+11:19:18 PM
+comment [
+]
+trackback [
+]
+G!
+
+My Hobbies
+Super seven
+Super seven:
+Brent Guerra celebrates one of his seven goals during the Saints' 101-point demolition of the Eagles at Tesltra Dome in Round 9
+7:45:55 PM
+comment [
+]
+trackback [
+]
+G!
+
+My Hobbies
+Saint Fraser Gehrig tangles with Quinten Lynch.
+7:42:56 PM
+comment [
+]
+trackback [
+]
+G!
+
+My Hobbies
+Saints cruise to big win
+6:44:12 PM
+comment [
+]
+trackback [
+]
+G!
+
+My Hobbies
+Saints juggernaut rolls over Eagles
+The Saints took the game 26.13 (169) to 9.14 (68).
+St Kilda were in a different class to the Eagles, taking control of the game from the first bounce.
+Brent Guerra led the goal-scorers with seven while Fraser Gehrig notched five.
+Aaron Hamill and Stephen Milne each kicked four goals.
+The shared nature of St Kilda's goal scoring typifies the teamwork coach Grant Thomas has been trying to achieve over the past few seasons and which is now bearing fruit.
+Brownlow medal favourite Nick Riewoldt had a solid game with two goals, 27 disposals and 15 marks.
+His excellent form continues, despite attracting growing attention in defence from opposition teams.
+Eagles captain Ben Cousins and star midfielder Chris Judd did their best to stem the raging Saints tide, leading their side in kicks and disposals.
+But it was to no avail.
+The Eagles have won only three games this season and their finals aspirations are slipping away rapidly.
+They are now in 13th position on the AFL ladder, only one win ahead of Hawthorn, Adelaide and Collingwood.
+6:42:06 PM
+comment [
+]
+trackback [
+]
+G!
+
+My Hobbies
+Awesome Saints crush Eagles
+St Kilda has achieved its greatest start to any AFL season and equalled its record for most successive wins in its 107 year history after annihilating the West Coast Eagles at Telstra Dome on Sunday. In another awesome performance the 2004 Wizard Cup winners made it nine straight to start the season after beating the Eagles 26.13 (169) to 9.14 (68).
+[
+more
+]
+5:22:56 PM
+comment [
+]
+trackback [
+]
+G!
+
+My Hobbies
+Sainters!!!!!
+5:20:47 PM
+comment [
+]
+trackback [
+]
+G!
+
+My Hobbies
+Slick Saints roll on
+St Kilda has continued its unbeaten start to 2004 with an easy 101-point win over the West Coast Eagles at Telstra Dome.
+The Saints were never really threatened throughout the contest, their forwards proving too strong for a wafer-thin West Coast defence.
+Their goal-kicking power was just overwhelming. Led by former Port Adelaide player Brent Guerra with seven, the Saints posted a season-high 26.13 (169), easily surpassing last week's effort against Collingwood. By contrast, West Coast could only manage 9.14 (68). [
+more
+]
+5:16:49 PM
+comment [
+]
+trackback [
+]
+G!
+
+My Hobbies
+High-flying Saints cruise to big win
+WITH its all-star attack purring like a well-oiled machine, St Kilda cruised to a 101-point point victory over a desperately disappointing West Coast in the AFL match at Telstra Dome today.
+5:13:58 PM
+comment [
+]
+trackback [
+]
+G!
+
+My Hobbies
+Fahrenheit 9/11' Wins Cannes' Top Prize (AP).
+AP - American filmmaker Michael Moore's "Fahrenheit 9/11," a scathing indictment of White House actions after the Sept. 11 attacks, won the top prize Saturday at the Cannes Film Festival. [
+Yahoo! News - Most Viewed
+]
+How amazing, yet not surprising. I can't wait to see this movie
+5:09:26 PM
+comment [
+]
+trackback [
+]
+G!
+
+Random
+Saints win by 101 points over WCE
+St Kilda  26.13 (169)
+Guerra 7, Gehrig 5, Milne, Hamill 4, Riewoldt 2
+West Coast  9.14 (68)
+Matera, Sampi, Gaspar 2
+The Saints led by 41 points at half-time and kicked 13 goals to 3 in the 2nd half to remain unbeaten aftethe first 9 rounds. They also equal their winning streak record from 1997.
+5:04:13 PM
+comment [
+]
+trackback [
+]
+G!
+
+My Hobbies
+© Copyright 
+     2006
+     Frank Arrigo.
+A Geek Microsoft Blogger
+Last update: 
+     8/07/2006; 10:05:35 AM
+     .

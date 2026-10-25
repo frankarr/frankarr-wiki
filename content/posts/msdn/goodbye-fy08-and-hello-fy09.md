@@ -1,0 +1,60 @@
+---
+title: "Goodbye FY08 and Hello FY09"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/goodbye-fy08-and-hello-fy09"
+date: "2008-07-01"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+Goodbye FY08 and Hello FY09
+Itâs that time of year - The old financial year ends and a new financial year begins.
+Itâs the time we look back and reflect on what happened and then look forward to the upcoming new year activities.
+I would say FY08 was a
+*BIG*
+year for me as
+I picked up the family and moved from Sydney to Seattle to start a new job
+.
+My job has gone from being in a âpublicâ facing role to an âinternalâ facing role.
+One of the more visible changes has been the frequent of my blogging
+Even my tweeting appears to be on the decline
+Quelle horror!
+Now, I havenât been the only one who made the trip from Down Under.
+Since I made the move, 4 members of
+my old team
+have also accepted new jobs :
+Charles Sterling
+,
+Scott Barnes
+,
+David Lemphers
+and most recently,
+Michael Kleef
+The big question - Whoâs next?
+Technorati Tags:
+FY08
+,
+FY09
+,
+Frank Arrigo
+Comments
+Anonymous
+July 01, 2008
+LOL, ahh, you're little caravan of horrors turns yet another corner into FY09!!!
+Anonymous
+July 02, 2008
+Hi Frank...was amused by this blogpost because since I began championing internal blogging and evangelising social media inside the company, my external blogging has all but dried up!  I think that our internal blogbabies are beginning to crawl, and walk now...but the company is yet to wade into the world wide blogosphere publicly!  So...a long way to go yet!
+Even though you're tweeting less, its always quality stuff...and I enjoy them! Thanks
+Anonymous
+July 03, 2008
+I'm not from your old team, but I've made the move too :)
+I'll be living down the road from you soon on Central Ave.
+Additional resources
+Last updated on
+2008-07-01

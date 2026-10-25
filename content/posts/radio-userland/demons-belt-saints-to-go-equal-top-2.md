@@ -1,0 +1,100 @@
+---
+title: "Demons belt Saints to go equal-top"
+platform: "radio-userland"
+era: "microsoft"
+source_url: "http://radio-weblogs.com/0124955/2004/07/11.html#a609"
+date: "2004-07-11"
+tags:
+  - "My Hobbies"
+  - "My Hobbies"
+  - "My Hobbies"
+  - "My Hobbies"
+---
+
+Sunday, 11 July 2004
+Demons belt Saints to go equal-top
+MELBOURNE 4.1 11.3 17.6 23.8 (146) defeated ST KILDA 4.2 8.6 11.8 13.11 (89)
+Goals: Melbourne:
+B Holland 4, D Neitz 3, B Green 3, C Bruce 3, T Johnstone 2, P Vardy 2, R Robertson 2, B McLean, P Read, A Davey, J White.
+St Kilda:
+N Riewoldt 9, A Hamill, A Thompson, R Harvey, S Milne.
+Best: Melbourne:
+C Bruce, B Green, J White, B Holland, T Johnstone, C Heffernan.
+St Kilda:
+N Riewoldt, R Harvey, L Ball, N Dal Santo.
+Umpires:
+M Vozzo, D Margetts, C Rowe.
+Crowd:
+54,409 at the MCG.
+Melbourne created a four-team jam at the top of the AFL ladder when it beat St Kilda by 57 points at the MCG today.  [
+more..
+]
+[listening to: I'm Looking Through You -
+The Wallflowers
+]
+6:10:57 PM
+comment [
+]
+trackback [
+]
+G!
+
+My Hobbies
+Demons shrug Saints aside
+Melbourne has stamped itself as Victoria's best premiership hope in 2004 as St Kilda's woes worsened at the MCG on Sunday despite a magnificent individual performance from Nick Riewoldt.
+Riewoldt, playing full-forward in the absence of the suspended Fraser Gehrig, booted a career best nine goals but it was not enough to stop the Saints crashing to their fourth loss in five games as Melbourne won 23.8 (146) to 13.11 (89) in front of 54,409 fans.
+The Saints, who were three games clear on top of the ladder after winning a club record ten successive games to start the season, now find themselves ahead of Brisbane, Port Adelaide and Melbourne by percentage only and on current form they are the worst of the top four teams.
+more...
+[listening to: Beware the Groove [Score] [Score] -
+John Debney
+]
+6:08:27 PM
+comment [
+]
+trackback [
+]
+G!
+
+My Hobbies
+Riewoldt outstanding in defeat
+A magnificent individual performance from Nick Riewoldt was not enough to carry the day for the Saints who went down by 57 points to Melbourne at the MCG on Sunday. Riewoldt, playing full-forward in the absence of the suspended Fraser Gehrig, booted a career best nine goals as Melbourne won 23.8 (146) to 13.11 (89) in front of 54,409 fans.
+[more...]
+[listening to: Children of the Revolution -
+Bono
+]
+5:49:49 PM
+comment [
+]
+trackback [
+]
+G!
+
+My Hobbies
+Saints slump again
+Grrrrr.........
+"St Kilda suffered its
+fourth
+loss in
+five
+matches as Melbourne ran out 57-point winners in the AFL round 15 match-up between the two sides at the MCG on Sunday afternoon. The Demons kicked six goals to two in a final quarter charge to seal the win by
+23.8 (146) to 13.11 (89).
+The loss weakened the Saints' hold at the top of the table as Melbourne, Port Adelaide and defending premiers Brisbane moved level with them on 44 points. But the Saints retained a slender grip on the top spot on percentages. The loss came despite the best efforts of Nick Riewoldt, who kicked a massive nine majors for the Saints in a losing cause. Ben Holland had four for the Demons while Cameron Bruce, Brad Green and David Neitz each scored three. Melbourne had booted seven goals to four in the second quarter to open up a 15-point lead at half-time. The Saints next face an away game to Richmond, while Melbourne has the Western Bulldogs at home.
+"
+[listening to: This Music -
+Big Brovaz
+]
+5:46:31 PM
+comment [
+]
+trackback [
+]
+G!
+
+My Hobbies
+© Copyright 
+     2006
+     Frank Arrigo.
+A Geek Microsoft Blogger
+Last update: 
+     8/07/2006; 10:07:59 AM
+     .

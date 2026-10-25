@@ -1,0 +1,64 @@
+---
+title: "The Students are taking over TechTalkBlogs"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/the-students-are-taking-over-techtalkblogs"
+date: "2006-09-07"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+The Students are taking over TechTalkBlogs
+I have finally gotten around to getting our new
+TechTalkBlogs
+guest bloggers their account details.
+For the next few weeks we are going to have
+the Australian Student Partners
+take over
+TechTalkBlogs
+.
+What will they blog about? Who knows, I told them to write about anything they feel like. I will be interesting to see what evolves.
+So, head over to
+TechTalkBlogs
+and see what Long Zheng, Scott Savage, Ken Soedjatmiko, Steven George, Marty Gnanananthan and their spiritual leader, Bernard Oh have to say.
+[
+Current Listening to
+:
+Swim With Me
+-
+The Wiggles
+]
+Comments
+Anonymous
+September 07, 2006
+Frank officially announced this afternoon that the Australian Student Partners have taken over TalkTechBlogs...
+Anonymous
+September 07, 2006
+Hi Frank
+Interesting choice of music you had on there ;)
+I sometimes get to work after dropping my boy at daycare and realise I've driven the last few kms listening to The Wiggles or Barney, but you've taken it to a whole new level ;)
+Mark
+Anonymous
+September 07, 2006
+Just wrote my first guest blog post &quot;Berno.text=&quot;Hello World&quot; &quot;on TechTalk Blog. TechTalk Blog is...
+Anonymous
+September 07, 2006
+Frank officially announced this afternoon that the Australian Student Partners have taken over TalkTechBlogs...
+Anonymous
+September 27, 2006
+Earlier this month, we invited our students partners to be guest bloggers on TechTalkBlogs.  They started...
+Anonymous
+October 17, 2006
+The Student Partners did a fine job as guest editors over on TechTalkBlogs over the past 6 weeks. Big
+Anonymous
+June 16, 2009
+PingBack from
+http://topalternativedating.info/story.php?id=13691
+Additional resources
+Last updated on
+2006-09-07

@@ -1,0 +1,465 @@
+---
+title: "Untitled"
+platform: "radio-userland"
+era: "microsoft"
+source_url: "http://radio-weblogs.com/0124955/2006/04/13.html#a1064"
+date: "2006-04-13"
+tags:
+  - "My Hobbies"
+  - "My Interests"
+  - "My Hobbies"
+  - "Family"
+  - "Health"
+---
+
+Thursday, 13 April 2006
+Saints Maul Lions
+Great result! The boys looked hungry.
+It's a shame the lions got a few easy goals right at the end - I was looking forward to a 10 goal win!!
+ST KILDA:
+7.3, 10.6, 16.9, 19.10 (124)
+BRISBANE LIONS:
+4.2, 4.7, 8.11, 12.15 (87)
+GOALS - ST KILDA:
+Riewoldt 5, Milne 3, Gehrig 2, Fiora, Goddard, Blake, Fisher, Montagna, Ackland, Schwarze, Maguire, Hamill
+BRISBANE LIONS:
+Brown 2, Brennan 2, Charman 2, Power 2, Stiller, Akermanis, Rischitelli, Leppitsch
+BEST - St Kilda:
+Dal Santo, Hayes, Riewoldt, Montagna, Fisher, Baker, Thompson
+Brisbane Lions:
+Voss, Charman, Brennan, Leppitsch
+INJURIES - St Kilda:
+Gehrig (hamstring), Harvey (hamstring)
+Brisbane Lions:
+Leppitsch (ankle)
+CHANGES ? St Kilda:
+-
+Brisbane Lions:
+-
+REPORTS -
+-
+UMPIRES -
+Vozzo, Rosebury, Ellis
+CROWD -
+35,760 at Telstra Dome
+Riewoldt stars as Saints down Lions
+ABC Online, Australia
+Nick Riewoldt buried the mental demons from his brutal treatment at the hands of the Brisbane Lions last year as his five goals helped St Kilda to a 37-point
+...
+Saints tame Lions
+SportsAustralia.com, Australia
+St Kilda has shown some signs that their indestructible best is not far away with a commanding 37-point victory over a limp Brisbane outfit at Telstra Dome
+...
+Saints easily brush aside Lions
+Melbourne Herald Sun, Australia
+ALL week the Brisbane Lions spoke of revenge, but tonight a rampant St Kilda outfit looked the part and cruised to victory. The
+...
+Motivation does Lions no good
+FOX SPORTS, Australia
+By Adam Cooper. ALL week the Brisbane Lions spoke of revenge, but tonight a rampant St Kilda outfit looked the part and cruised to victory.
+...
+Motivation does Lions no good
+The Age, Australia
+All week the Brisbane Lions spoke of revenge, but tonight a rampant St Kilda outfit looked the part and cruised to victory. The
+...
+10:46:15 PM
+comment [
+]
+trackback [
+]
+G!
+
+My Hobbies
+Aussies prevail over Bangladesh in 1st Test
+After getting a huge shock in the first test against Banglasdesh, the Aussie team have won by 3 wickets! Talk about a
+great escape
+Scorecard
+Test no. 1797
+Australia in Bangladesh Test Series - 1st Test
+Bangladesh v Australia
+2005/06 season
+Played at
+Narayanganj Osmani Stadium, Fatullah
+, on 9,10,11,12,13 April 2006 (5-day match)
+Result
+Australia won by 3 wickets
+Bangladesh 1st innings
+R
+B
+4s
+6s
+SR
+Javed Omar
+lbw b Gillespie
+27
+40
+6
+0
+67.50
+Shahriar Nafees
+b MacGill
+138
+189
+19
+0
+73.01
+Habibul Bashar
+c Lee b MacGill
+76
+113
+11
+0
+67.25
+Rajin Saleh
+c sub b MacGill
+67
+203
+6
+0
+33.00
+Mohammad Ashraful
+lbw b Gillespie
+29
+28
+4
+0
+103.57
+Aftab Ahmed
+c Hayden b MacGill
+29
+54
+3
+0
+53.70
+Khaled Mashud
+st
+Gilchrist b MacGill
+17
+63
+0
+0
+26.98
+Mohammad Rafique
+b MacGill
+6
+25
+0
+0
+24.00
+Mashrafe Mortaza
+lbw b MacGill
+6
+23
+0
+0
+26.08
+Shahadat Hossain
+not out
+3
+9
+0
+0
+33.33
+Enamul Haque jnr
+c Hayden b MacGill
+0
+5
+0
+0
+0.00
+Extras
+(lb 16, w 2, nb 11)
+29
+Total
+(all out; 123.3 overs)
+427
+Fall of wickets
+1-51 (Javed Omar, 10.5 ov)
+,
+2-238 (Habibul Bashar, 50.4 ov)
+,
+3-265 (Shahriar Nafees, 60.2 ov)
+,
+4-295 (Mohammad Ashraful, 66.3 ov)
+,
+5-351 (Aftab Ahmed, 85.2 ov)
+,
+6-398 (Khaled Mashud, 107.5 ov)
+,
+7-416 (Mohammad Rafique, 117.2 ov)
+,
+8-417 (Rajin Saleh, 117.6 ov)
+,
+9-424 (Mashrafe Mortaza, 121.6 ov)
+,
+10-427 (Enamul Haque, 123.3 ov)
+Bowling
+O
+M
+R
+W
+Econ
+B Lee
+19
+5
+68
+0
+3.57
+(7nb)
+SR Clark
+25
+4
+69
+0
+2.75
+(3nb, 1w)
+JN Gillespie
+23
+7
+47
+2
+2.04
+(1nb)
+SK Warne
+20
+1
+112
+0
+5.59
+SCG MacGill
+33.3
+2
+108
+8
+3.22
+(1w)
+MJ Clarke
+3
+0
+7
+0
+2.33
+Australia 1st innings
+R
+B
+4s
+6s
+SR
+ML Hayden
+lbw b Mashrafe Mortaza
+6
+12
+0
+0
+50.00
+MEK Hussey
+b Mohammad Rafique
+23
+65
+2
+0
+35.38
+RT Ponting
+lbw b Shahadat Hossain
+21
+32
+3
+0
+65.62
+DR Martyn
+b Mohammad Rafique
+4
+11
+1
+0
+36.36
+MJ Clarke
+b Enamul Haque
+19
+50
+2
+0
+38.00
+AC Gilchrist
+c Shahadat Hossain b Mohammad Rafique
+144
+212
+14
+6
+67.92
+SK Warne
+c
+Khaled Mashud b Enamul Haque
+6
+29
+0
+0
+20.68
+B Lee
+lbw b Mashrafe Mortaza
+15
+50
+2
+0
+30.00
+JN Gillespie
+b Mohammad Rafique
+26
+88
+2
+0
+29.54
+SR Clark
+lbw b Mohammad Rafique
+0
+20
+0
+0
+0.00
+SCG MacGill
+not out
+0
+5
+0
+0
+0.00
+Extras
+(lb 4, nb 1)
+5
+Total
+(all out; 95.2 overs)
+269
+Fall of wickets
+1-6 (Hayden, 2.2 ov)
+,
+2-43 (Ponting, 11.3 ov)
+,
+3-50 (Martyn, 14.4 ov)
+,
+4-61 (Hussey, 24.2 ov)
+,
+5-79 (Clarke, 31.2 ov)
+,
+6-93 (Warne, 37.6 ov)
+,
+7-156 (Lee, 56.3 ov)
+,
+8-229 (Gillespie, 83.2 ov)
+,
+9-268 (Clark, 93.3 ov)
+,
+10-269 (Gilchrist, 95.2 ov)
+Bowling
+O
+M
+R
+W
+Econ
+Mashrafe Mortaza
+22
+3
+56
+2
+2.54
+Shahadat Hossain
+14
+2
+48
+1
+3.42
+Mohammad Rafique
+32.2
+9
+62
+5
+1.91
+Enamul Haque jnr
+25
+4
+83
+2
+3.31
+(1nb)
+Mohammad Ashraful
+1
+0
+11
+0
+11.00
+Rajin Saleh
+1
+0
+5
+0
+5.00
+Bangladesh 2nd innings
+R
+B
+4s
+6s
+SR
+Javed Omar
+c
+Gilchrist b Gillespie
+18
+21
+2
+0
+85.71
+Shahriar Nafees
+b Lee
+33
+38
+7
+0
+86.84
+Habibul Bashar
+run out (Clarke)
+7
+17
+1
+0
+41.17
+Rajin Saleh
+c Hayden b Gillespie
+33
+118
+2
+0
+27.96
+Mohammad Ashraful
+lbw b Clark
+4
+14
+0
+0
+28.57
+Aftab Ahmed
+lbw b MacGill
+17
+56
+2
+0
+30.35
+Khaled Mashud
+b Gillespie
+0
+11
+0
+0
+0.00
+Mohammad Rafique
+lbw b Warne
+14
+18
+3
+0
+77.77
+Enamul Haque jnr
+lbw b Warne
+0
+3
+0
+0
+0.00
+Mashrafe M

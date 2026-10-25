@@ -1,0 +1,169 @@
+---
+title: "15 years at Microsoft"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/15-years-at-microsoft"
+date: "2006-05-19"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+15 years at Microsoft
+Today is the anniversary of when I started my career at Microsoft - 15 years!
+As I said last year
+, I've been really lucky, as I have done lots of different things, been exposed to different parts of the business, and seen it from different parts of the world. I have been very fortunate to work with some amazing people within Microsoft, as well as some outstanding organisations & people outside of Microsoft.
+Quicky chronology:
+May 1991
+Sep 1993
+Microsoft Canberra, working as a Systems Engineer
+Sep 1993
+Aug 1994
+Microsoft Corp, @ Executive Briefing Center
+Aug 1994
+Oct 1995
+Microsoft Corp, in the Advanced Technology Group, working on Interactive TV
+Nov 1995
+May 1997
+Microsoft Australia, MSN Technical Director
+Jun 1997
+Jun 1999
+ninemsn CTO
+Jun 1999
+May 2001
+Microsoft Region, Digital Media dude
+May 2001
+now
+Microsoft Australia, Developer & Platform Evangelism
+For more details, you can look
+here
+, as well as read some of the stuff I've said in the
+press
+.
+During the week I got an email from the President of Microsoft International - Jean-Philippe Courtois
+CONGRATULATIONS!
+- 15 years at Microsoft -
+Dear Frank,
+This is a special month - you have been with Microsoft for 15 Years! I wanted to take this opportunity to express my personal gratitude for your contribution and your continued commitment.
+As an important member of the Microsoft team you have helped the company grow and deliver innovative products from Windows 95 to the Xbox 360. You have been, and continue to be, an integral part of our success.
+Looking back since 1991 we've significantly expanded our portfolio of products and have grown to be a company with more than 60.000 employees. Today, I see so much future potential for the company. Every day, I'm continually impressed by the great work and progress we're making.
+I want to thank you for your hard work and innovation, for your willingness to take on big challenges, and for your commitment to driving real value for our customers.
+Microsoft is a great company because of you, and Im proud to be part of it with you. I sincerely hope you will celebrate this special occasion with your team.
+Best Regards,
+Jean-Philippe Courtois
+President, Microsoft International Senior Vice President, Microsoft Corporation
+"YOU WIN IN LIFE WITH PEOPLE"
+I also got nice little award.
+So where to now for me?
+I'm looking after all the technical folks within the team
+and
+the team is growing
+. The challenges are growing too, as Microsoft faces a series of strong challenges.
+The future looks bright. I'm really bullish on
+Windows Vista
+I took home a recent build and I am amazed watching my kids playing with it. They tell me that they love it. My eldest has been a Firefox fan, but he's loving the combo of
+Vista and IE7
+.  He wants to upgrade
+all the PCs in the house
+. My kids are a good barometer. I have a feeling that
+the folks who go along to Innovation 2006
+will be impressed.
+So 15 years down. Lot's more ahead
+[ Currently Playing : Super Star (Turkey) - A. Sibel Tuzun - Eurovision Song Contest-Athens 2006 (03:01) ]
+Comments
+Anonymous
+May 19, 2006
+Dear Frank,
+Your passion and drive for our customers, users and Microsoft technologies are viral (Web 2.0, hey!). These values are very evident esp in your team of evangelists.
+As a former Student Ambassador and now MSFT intern in the same group as you, it is a privilege to work along side to you. You're my role model.
+Cheers to many more meaningful and engaging years in MSFT.
+Anonymous
+May 19, 2006
+geez berno - you're making me blush.
+thx for the kind words
+Anonymous
+May 19, 2006
+Congratulations Frank! That's 15 pounds (or should I say 7 kilograms)of chocolate, isn't it?
+Anonymous
+May 19, 2006
+Congratulations! There's definitely so much innovation going on now and a lot more to achieve in computing. All the Best for the years ahead!
+Just came across this blog from
+http://www.microsoft.com/communities/blogs/PortalHome.mspx
+and thought I'd shout out a HI!
+If you like computer problem cartoons, drop by
+http://spaces.msn.com/sillygloop
+sometime.
+Anonymous
+May 19, 2006
+PingBack from
+http://www.centplus.com/microsofts-official-hacked-360-responsejust-part-of-microsofts-official-response/
+Anonymous
+May 20, 2006
+PingBack from
+http://www.centplus.com/666the-devil-is-in-the-details-try-to-follow-the/
+Anonymous
+May 20, 2006
+Congrats mate! 15 years at a place like MSFT is a LONG time. I'm impressed that you still have the passion and purity of vision after all this time.
+Anonymous
+May 20, 2006
+Congrats Frank. How would you sum up last 15 years, did the time fly?
+Anonymous
+May 20, 2006
+deepak
+i would say that the time has flown by.
+ive been lucky that i have done a few different and interesting things which have kept it fresh along the way
+i still love it
+Anonymous
+May 20, 2006
+Hi Frank - congratulations, thats a top effort mate. You are one of the people that have given Microsoft a human face. Keep it up!
+Anonymous
+May 21, 2006
+Congrats Frank. :) You should blog about some of your favourite moments from over the years.
+Anonymous
+May 28, 2006
+Congrats Franky! That little ornament they gave you looks like the crystal palace from Superman! Remember where Clarke had to go and speak to his father? Freaky :)
+Anonymous
+November 02, 2006
+As I do each month , let's look back on BlogBeat for my top 20 posts for the month of October . October
+Anonymous
+November 09, 2006
+Hugh MacLeod's recent Microsoft Poster is quite timely considering all the stuff coming out over the
+Anonymous
+January 05, 2007
+Here's something totally unexpected. I top the list of Links to MSDN Bloggers from Robert Scoble's Link
+Anonymous
+May 19, 2007
+Today is the anniversary of when I started my career at Microsoft - 16 years! Here's some ways to represent
+Anonymous
+May 12, 2008
+PingBack from
+http://judith.formedianews.info/my15years.html
+Anonymous
+May 20, 2008
+1991 was a big year for me. I got married. I bought a house. My first child was born AND I joined Microsoft
+Anonymous
+May 20, 2009
+1991 was a big year for me. &#160; I got married. &#160; I bought a house. My first child was born AND
+Anonymous
+May 20, 2009
+PingBack from
+http://www.charged.co.za/software-technology/dix-huit-ans-aujourdhui-18-pounds
+Anonymous
+May 26, 2009
+PingBack from
+http://www.codedstyle.com/dix-huit-ans-aujourdhui-18-pounds-2/
+Anonymous
+May 26, 2009
+PingBack from
+http://www.codedstyle.com/dix-huit-ans-aujourdhui-18-pounds-3/
+Anonymous
+May 26, 2009
+PingBack from
+http://www.codedstyle.com/dix-huit-ans-aujourdhui-18-pounds-5/
+Additional resources
+Last updated on
+2006-05-19

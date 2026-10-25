@@ -1,0 +1,84 @@
+---
+title: "Avalon developer preview ships on MSDN"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/avalon-developer-preview-ships-on-msdn"
+date: "2004-11-22"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+Avalon developer preview ships on MSDN
+Chris Anderson
+, who is an architect
+on the Avalon team, announced
+on
+Friday that Avalon has shipped
+a new
+developer
+preview to MSDN subscribers
+.What is really really cool is
+that
+Avalon
+is going to ship on Windows XP, Windows 2003, AND Longhorn.
+From
+the
+MSDN developer center
+...
+"Avalon" is the code name for Microsoft's unified presentation subsystem
+for Windows. It consists of a display engine and a managed-code framework.
+"Avalon" unifies how Windows creates, displays, and manipulates documents,
+media, and user interfaces, which enables developers and designers to create
+visually-stunning, differentiated user experiences that improve customer
+connection.
+The "Avalon" Engine.
+The "Avalon" engine unifies the way
+developers and designers experience documents, media, and UI, providing a
+single runtime for browser-based experiences, forms-based applications,
+graphics, video, audio, and documents. "Avalon" is built on top of DirectX,
+which enables it to unleash the full power of the graphics hardware present
+in modern computers, and is engineered to exploit advances in hardware
+moving forward. For example, the "Avalon" vector-based rendering engine
+enables applications to scale to take advantage of high-dpi monitors without
+requiring extra work on the part of the developer or user. Similarly, when
+"Avalon" detects a video card that supports hardware acceleration, it takes
+advantage of it.
+The "Avalon" Framework.
+The "Avalon" framework delivers solutions
+for media, user interface design, and documents that go well beyond what
+developers have today. "Avalon" is designed for extensibility, enabling
+developers to create their own controls on top of the "Avalon" engine from
+scratch or by subclassing existing "Avalon" controls. Central to the
+"Avalon" framework are controls for shapes, documents, images, video,
+animation, 3D, and
+panels
+, in which to place controls and content.
+These
+primitives
+provide the building blocks for developing next
+generation user experiences.
+XAML.
+"Avalon" also introduces
+XAML
+, a markup language to
+declaratively represent user interface for Windows applications, improving
+the richness of the tools with which developers and designers can compose
+and repurpose UI. For Web developers, XAML provides a familiar UI
+description paradigm. XAML also enables the separation of UI design from the
+underlying code, enabling developers and designers to work more closely
+together.
+[ Currently Playing : Summer - Alien Ant Farm
+- ANThology (04:16) ]
+Comments
+Anonymous
+June 08, 2009
+PingBack from
+http://quickdietsite.info/story.php?id=10877
+Additional resources
+Last updated on
+2004-11-22

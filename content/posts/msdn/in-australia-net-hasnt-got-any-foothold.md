@@ -1,0 +1,84 @@
+---
+title: "In Australia, .NET hasn't got any foothold ????"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/in-australia-net-hasnt-got-any-foothold"
+date: "2007-06-12"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+In Australia, .NET hasn't got any foothold ????
+There's been
+lots of talk in the blogosphere
+in relation to a recent post by
+Martin Fowler
+entitled -
+RubyMicrosoft
+. (** link fixed)
+I don't want to get into the whole "
+AlphaGeek
+s are
+moving away
+from the Microsoft platform" debate, but there is one comment by Martin that I want to respond to.
+Martin writes ....
+In Australia, .NET hasn't got any foothold at all amongst our clients. I'm not sure what to make of this data. We aren't so big to be a statistically valid sample on our own. But it's a useful data point nonetheless particularly since we like to think our clients are the "alpha IT shops".
+Martin,
+Did you know
+the Australian Architecture Forum 2007
+is on in a few weeks and Thoughtworks is a sponsor of the event
+Did you know ThoughtWorks is a member of
+Australia.NET
+clusters together with
+over 650 other companies that use .NET in Australia
+. The client list from Thoughtworks in Australia includes companies like AMP, ANZ bank, Coca Cola, Westpac, all with significant .NET deployments.
+Did you know
+ReMix is sold out
+. I'm sure there are some folks coming for a stickybeak including the Alpha Geeks.
+I'll leave it there.
+If anyone from "alpha IT shops" in Australia have an opinion - it would be nice to hear too
+Technorati tags:
+Martin Fowler
+,
+Frank Arrigo
+,
+.NET
+,
+Thoughtworks
+Comments
+Anonymous
+June 12, 2007
+PingBack from
+http://testsubdomain.netmoviehost.com/in-australia-net-hasnt-got-any-foothold/
+Anonymous
+June 12, 2007
+http://blog.projectxtech.com/2007/05/01/silverlight-is-web-20-finally-here/
+Anonymous
+June 12, 2007
+The company I work for, whilst not an "IT Shop" (whatever that means) - is a very large company, and we do use .NET, including on large projects.
+We're not using a single platform though - we use different products, from different vendors, based on what was available, and the best fit at the time.
+We've definitely got more than a foothold in .NET. Primarily we use .NET for WebApps, but we also have a healthy set of .NET desktop/pda applications. Some were developed in-house, some provided by external vendors.
+I won't say who I work for (I don't speak for them, I speak from personal knowledge and experience) - but suffice to say, we're in the top 100 companies in Australia.
+Anonymous
+June 12, 2007
+Oh, and Frank - your URL for Martin's post is wrong :) Should be
+http://www.martinfowler.com/bliki/RubyMicrosoft.html
+Anonymous
+June 12, 2007
+the link is actually
+http://www.martinfowler.com/bliki/RubyMicrosoft.html
+btw
+Anonymous
+June 12, 2007
+This article from Martin backs up a discussion I had with a Sydney ThoughtWorker not too long ago who mentioned that nearly 40% of US projects are in Ruby (backed up in Martin's article I think). They also mentioned that the majority of their Australia projects are Java. In fact there was practically no work in .Net in Brisbane at all. I don't think this is indicative of the market in general; this was Martin's reflection of statistics relating to ThoughtWorks alone. Perhaps the real mistake in his statement was that ThoughtWorks' clients were Alpha IT shops? As a .Net developer, its hard for me to measure the market of other languages.
+Anonymous
+June 13, 2007
+Lately i&#39;ve seen a lot of &quot;hysterics&quot; from the Open-Source community about Ruby and how
+Additional resources
+Last updated on
+2007-06-12

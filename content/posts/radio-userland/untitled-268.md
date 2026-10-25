@@ -1,0 +1,57 @@
+---
+title: "Untitled"
+platform: "radio-userland"
+era: "microsoft"
+source_url: "http://radio-weblogs.com/0124955/2006/02/08.html#a993"
+date: "2006-02-08"
+tags:
+  - "Geek"
+---
+
+Wednesday, 8 February 2006
+The Ricky Gervais Show and World Records
+I have been a big fan of the
+The Ricky Gervais Show
+.
+So far there have been 10 episodes, with 2 more to come before the end of the series on Guardian Unlimited
+.
+It has been attracting a lot of mainstream media attention, including this recent story "
+The Cult of Karl
+". There is also a
+hilarious entry in Wikipedia about Karl
+Last night, as I was listening to the latest episode again, I wandered over to
+Ricky Gervais' website
+and spotted this story
+Ricky Gervais 'surfs' into the Guinness World Records book
+.
+Ricky Gervais and his team were today awarded the Guinness World Record for the most downloaded podcast, gaining an average of 261,670 downloads per episode of 'The Ricky Gervais Show' during its first month.
+The podcast has been available since December on the Guardian Unlimited website (www.guardian.co.uk) and hosted by the Positive Internet Company to cope with the very high anticipated download levels. Although the podcast was always sure to be hugely popular, actual downloads massively exceeded expectations but still went ahead without any technical hitches.
+Far from simply presenting highlights of previously recorded material, the weekly podcast shows were entirely new material consisting of random and highly amusing discussions between Ricky, and his friends Karl Pilkington and Stephen Merchant.
+The official certificate was presented to Ricky and the team by Craig Glenday, editor of Guinness World Records at the Guardian Offices this afternoon.
+Ricky Gervais said, "Steve and Karl wanted to charge for the podcast. Just a pound they said. I said no. We've had nearly 3 million downloads so far. It's difficult doing a show with two people who won't talk to me now".
+The record will be a contester for the 2007 edition of Guinness World Records, out in the autumn. Craig Glenday, editor of Guinness World Records says; "People say that there's nothing new under the sun, that there's nothing left to discover and no records left to be set. But this new podcasting achievement shows that there's always scope for record breaking, and we're pleased to welcome Ricky and his team to the Guinness World Records hall of fame. It's got a certain ring to it: Amundsen, Armstrong, Hillary... Gervais."
+Part of me isn't surprised, but I am sure the boys from
+The Podcast Network
+have had as many downloads.
+It would be really cool to see
+Cameron
+,
+Mick
+and the rest of the team in the
+Guinness Book of World Records
+- much like this dude :
+11:21:22 AM
+comment [
+]
+trackback [
+]
+G!
+
+Geek
+© Copyright 
+     2006
+     Frank Arrigo.
+A Geek Microsoft Blogger
+Last update: 
+     8/07/2006; 10:34:59 AM
+     .

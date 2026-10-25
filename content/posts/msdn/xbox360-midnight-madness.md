@@ -1,0 +1,71 @@
+---
+title: "xbox360 midnight madness"
+platform: "msdn"
+era: "microsoft"
+source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/xbox360-midnight-madness"
+date: "2006-03-22"
+---
+
+Note
+signing in
+or
+changing directories
+.
+changing directories
+.
+xbox360 midnight madness
+tonight at 12:01 the xbox360 goes on sale.
+my eldest has convinced me to take him to the midnight madness event at the pitt st mall, and pick up a console.
+off we go - hope it doesn't rain
+Comments
+Anonymous
+March 21, 2006
+Abstract The purpose this research were to compare with achievement students in Thai subject (Thai 101)... Example Cobranded University Search Google University Search Customers have complete control over the
+header and footer html. Create the Header HTML to fit the look & feel of your site.
+http://www.google.com/ig?hl=en
+https://services.google.com/publicservice/preview?AwpId=6fd53f1e2534ad2a
+E-mail : rungsun_kk@yahoo.com
+http://www.geocities.com/rungsun_kk
+Anonymous
+March 22, 2006
+Frank,
+Where's the review??
+Anonymous
+March 22, 2006
+review?
+it's coming
+here's a photo of me in the queue
+http://www.xbox.com.au/snaps/PhotoView.aspx?eventcode=98&begintime=&endtime=&currphoto=3261
+Anonymous
+March 22, 2006
+PingBack from
+http://mike.brisgeek.com/2006/03/23/xbox360-black-screen-of-death/
+Anonymous
+March 22, 2006
+Nice photo, Frank. (Photo 37 of 106) But there's a better one at
+http://www.xbox.com.au/snaps/PhotoView.aspx?eventcode=98&begintime=&endtime=&currphoto=3265
+(Photo 36 of 106)
+I presume you were standing somewhere near the group of people in that photo?
+Anonymous
+March 23, 2006
+Was good to see you there despite the rain - thanks for the support and hope you're enjoying the console!
+Anonymous
+March 23, 2006
+Was good to see you there despite the rain! Thanks for the support and hope you're enjoying the console!
+Anonymous
+March 23, 2006
+We survived Midnight
+Madness. We picked up our console and went home to play
+The gamer card has some...
+Anonymous
+April 10, 2006
+Last
+week I looked at my top 5 posts&amp;nbsp;as reported by BlogBeat
+Now, I've expanded this to the...
+Anonymous
+June 17, 2009
+PingBack from
+http://patioumbrellasource.info/story.php?id=1994
+Additional resources
+Last updated on
+2006-03-22
