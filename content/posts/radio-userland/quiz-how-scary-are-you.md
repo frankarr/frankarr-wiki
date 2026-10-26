@@ -8,4 +8,4 @@ tags:
   - "Random"
 ---
 
-Sunday, 19 March 2006 Quiz: How Scary Are You? You Are Creepy Serial killers would run away from you in a flash. How Scary Are You? 8:04:08 PM comment [ ] trackback [ ] G!  Random © Copyright 2006 Frank Arrigo. A Geek Microsoft Blogger Last update: 8/07/2006; 10:36:52 AM.
+Sunday, 19 March 2006 Quiz: How Scary Are You? You Are Creepy Serial killers would run away from you in a flash. How Scary Are You? 8:04:08 PM

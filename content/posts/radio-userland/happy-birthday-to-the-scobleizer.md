@@ -32,4 +32,4 @@ Pinky: Oh, how I like my cheeses Cheese from around the world Cheese is the tast
 
 Around this great big world Around this big cheese world Around this great big world Around this big -- cheese -- world!
 
-Pinky: Mmm... yummy! Narf! [listening to: Ain't No Mystery - Smash Mouth ] 12:06:25 PM comment [ ] trackback [ ] G!  Geek On The Pod - An Australian Podcast Well, I got ready , waited my turn and I finally had my interview. It was fun - I can really talk some crap :) Thankyou Cam and Mick , for your very Australian Podcast . I can't wait to hear the finished product. Did I mention tht G'day World is a unique Australian Podcast [listening to: Maybe Tomorrow - Stereophonics ] 11:23:39 AM comment [ ] trackback [ ] G!  Geek  My Friends © Copyright 2006 Frank Arrigo. A Geek Microsoft Blogger Last update: 8/07/2006; 10:19:52 AM.
+Pinky: Mmm... yummy! Narf! [listening to: Ain't No Mystery - Smash Mouth ] 12:06:25 PM

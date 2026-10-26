@@ -6,4 +6,4 @@ source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/post-via-e
 date: "2006-11-07"
 ---
 
-Post Via Email Using BlogMailr â https://www.blogmailr.com to post to my blog via email Published with BlogMailr Additional resources Last updated on 2006-11-07
+Post Via Email Using BlogMailr – https://www.blogmailr.com to post to my blog via email Published with BlogMailr

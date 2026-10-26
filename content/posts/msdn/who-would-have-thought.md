@@ -6,4 +6,4 @@ source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/who-would-
 date: "2007-03-07"
 ---
 
-Who would have thought.... Published with BlogMailr Additional resources Last updated on 2007-03-07
+Who would have thought.... Published with BlogMailr

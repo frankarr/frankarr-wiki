@@ -6,4 +6,4 @@ source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/xda-post-s
 date: "2003-12-09"
 ---
 
-xda post success! woohoo! [posted from frankarr's xda] Comments Additional resources Last updated on 2003-12-09
+xda post success! woohoo! [posted from frankarr's xda] Comments

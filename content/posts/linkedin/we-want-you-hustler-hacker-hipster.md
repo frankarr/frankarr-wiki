@@ -3,6 +3,7 @@ title: "We Want You! Hustler, Hacker, Hipster"
 platform: "linkedin"
 era: "microsoft"
 source_url: "https://frankarr.com/2016/12/05/we-want-you-hustler-hacker-hipster/"
+date: "2016-12-05"
 ---
 
 We Want You! Hustler, Hacker, Hipster

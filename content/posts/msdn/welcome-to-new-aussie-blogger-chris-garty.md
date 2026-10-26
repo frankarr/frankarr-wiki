@@ -6,4 +6,4 @@ source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/welcome-to
 date: "2004-02-11"
 ---
 
-Welcome to new Aussie Blogger - Chris Garty A new addition to the Aussie blogger list - Chris Garty . I look forward to hearing what's happening in his world. And yes, I have added him to the aussie .net developer OPML Welcome Chris! Comments Additional resources Last updated on 2004-02-11
+Welcome to new Aussie Blogger - Chris Garty A new addition to the Aussie blogger list - Chris Garty . I look forward to hearing what's happening in his world. And yes, I have added him to the aussie .net developer OPML Welcome Chris! Comments

@@ -6,4 +6,4 @@ source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/comments-f
 date: "2004-03-01"
 ---
 
-Comments from Brisbane Security Summit Ok, Daniel Pollard has posted his comments on the Security Summit in Brisbane. Looks like it hit the mark. Comments Additional resources Last updated on 2004-03-01
+Comments from Brisbane Security Summit Ok, Daniel Pollard has posted his comments on the Security Summit in Brisbane. Looks like it hit the mark. Comments

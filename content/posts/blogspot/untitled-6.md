@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Richmond v Fremantle, July 2005"
 platform: "blogspot"
 era: "microsoft"
 source_url: "https://frankarr.blogspot.com/2005/07/"

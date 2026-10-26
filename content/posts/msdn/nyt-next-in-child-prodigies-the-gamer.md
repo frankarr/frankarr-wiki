@@ -6,4 +6,4 @@ source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/nyt-next-i
 date: "2007-06-17"
 ---
 
-NYT: Next in Child Prodigies - the Gamer Excerpt from New York Times Article: Next in Child Prodigies â the Gamer https://www.nytimes.com/2007/06/17/weekinreview/17slat.html LIKE a lot of parents, Iâve always thought the phrase âchild prodigyâ had a nice ring to it. MY COMMENT: rigoâs dream job To download the Times Reader, click here. Published with BlogMailr Additional resources Last updated on 2007-06-17
+NYT: Next in Child Prodigies - the Gamer Excerpt from New York Times Article: Next in Child Prodigies — the Gamer https://www.nytimes.com/2007/06/17/weekinreview/17slat.html LIKE a lot of parents, I’ve always thought the phrase “child prodigy” had a nice ring to it. MY COMMENT: rigo’s dream job To download the Times Reader, click here. Published with BlogMailr

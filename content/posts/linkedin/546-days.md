@@ -3,6 +3,7 @@ title: "546 Days"
 platform: "linkedin"
 era: "microsoft"
 source_url: "https://frankarr.com/2015/07/13/546-days/"
+date: "2015-07-13"
 ---
 
 546 Days 

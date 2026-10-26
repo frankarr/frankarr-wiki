@@ -3,7 +3,7 @@ title: "COMPUTER VIRUS ALERT"
 platform: "blogspot"
 era: "microsoft"
 source_url: "https://frankarr.blogspot.com/2003/09/computer-virus-alert.html"
-date: "Saturday, "
+date: "2003-09-01"
 ---
 
 New email bug spreading fast An Internet virus posing as a security update from Microsoft had been spreading quickly through e-mail, security experts said today. more

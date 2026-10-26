@@ -6,4 +6,4 @@ source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/i-can-has-
 date: "2007-08-03"
 ---
 
-I Can Has LOLCats ? This afternoon, I spotted the following on the screens at work thanks Tanya and Joe for the nice gesture Technorati tags: Frank Arrigo, LOLCat Comments Anonymous August 02, 2007 LULZ Additional resources Last updated on 2007-08-03
+I Can Has LOLCats ? This afternoon, I spotted the following on the screens at work thanks Tanya and Joe for the nice gesture Technorati tags: Frank Arrigo, LOLCat Comments Anonymous August 02, 2007 LULZ

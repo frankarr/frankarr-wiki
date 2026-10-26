@@ -8,4 +8,4 @@ tags:
   - "My Hobbies"
 ---
 
-Friday, 27 August 2004 Brunton Ave 5.26 pm, Saturday September 27 1997 9:02:16 PM comment [ ] trackback [ ] G!  My Hobbies © Copyright 2006 Frank Arrigo. A Geek Microsoft Blogger Last update: 8/07/2006; 10:09:57 AM.
+Friday, 27 August 2004 Brunton Ave 5.26 pm, Saturday September 27 1997 9:02:16 PM

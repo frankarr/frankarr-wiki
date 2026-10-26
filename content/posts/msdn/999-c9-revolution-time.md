@@ -6,4 +6,4 @@ source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/999-c9-rev
 date: "2009-09-09"
 ---
 
-9/9/9 = C9 revolution time? Additional resources Last updated on 2009-09-09
+9/9/9 = C9 revolution time?

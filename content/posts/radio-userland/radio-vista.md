@@ -8,4 +8,4 @@ tags:
   - "Geek"
 ---
 
-Wednesday, 15 November 2006 RADIO & Vista I've upgraded all my machines to Vista RTM. Radio Userland is working happily under Vista Cool! 11:03:27 PM comment [ ] trackback [ ] G!  Geek © Copyright 2006 Frank Arrigo. A Geek Microsoft Blogger Last update: 2/12/2006; 8:59:31 PM.
+Wednesday, 15 November 2006 RADIO & Vista I've upgraded all my machines to Vista RTM. Radio Userland is working happily under Vista Cool! 11:03:27 PM

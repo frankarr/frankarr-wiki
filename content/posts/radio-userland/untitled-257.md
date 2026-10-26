@@ -9,4 +9,4 @@ tags:
   - "Random"
 ---
 
-Friday, 5 November 2004 No Need to Click Here - I'm just claiming my feed at Feedster 1:57:19 PM comment [ ] trackback [ ]  Random Which Family Guy Character Are you? Peter Try the quiz yourself 1:33:06 PM comment [ ] trackback [ ] G!  Random © Copyright 2006 Frank Arrigo. A Geek Microsoft Blogger Last update: 8/07/2006; 10:12:36 AM.
+Friday, 5 November 2004 No Need to Click Here - I'm just claiming my feed at Feedster 1:57:19 PM

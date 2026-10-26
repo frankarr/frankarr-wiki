@@ -6,4 +6,4 @@ source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/sounding-o
 date: "2005-03-25"
 ---
 
-Sounding Off Interview is Posted The interview I did with Sean Kaye has been posted. I'm downloading it now and will be listening to it soon, followed by all the other podcasts in my 'to listen' queue. Good thing I have a 4 day break. [ Currently Playing : Forgotten Years - Midnight Oil - 20,000 Watt R.S.L.: Greatest Hits (04:21) ] Additional resources Last updated on 2005-03-25
+Sounding Off Interview is Posted The interview I did with Sean Kaye has been posted. I'm downloading it now and will be listening to it soon, followed by all the other podcasts in my 'to listen' queue. Good thing I have a 4 day break. [ Currently Playing : Forgotten Years - Midnight Oil - 20,000 Watt R.S.L.: Greatest Hits (04:21) ]

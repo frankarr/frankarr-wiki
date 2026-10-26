@@ -3,6 +3,7 @@ title: "Leaving Telstra"
 platform: "linkedin"
 era: "microsoft"
 source_url: "https://frankarr.com/2017/12/13/leaving-telstra/"
+date: "2017-12-13"
 ---
 
 Leaving Telstra

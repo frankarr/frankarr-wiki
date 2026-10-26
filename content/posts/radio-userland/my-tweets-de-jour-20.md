@@ -8,4 +8,4 @@ tags:
   - "Geek"
 ---
 
-Saturday, November 24, 2007 My Tweets De Jour #20 13:23 taking my little ones to see Enchanted. still feeling thankful # 18:50 in a tryptophan coma # Automatically shipped by LoudTwitter 7:03:35 PM comment [ ] trackback [ ] G!  Geek © Copyright 2007 Frank Arrigo. A Geek Microsoft Blogger Last update: 12/1/2007; 9:19:32 AM.
+Saturday, November 24, 2007 My Tweets De Jour #20 13:23 taking my little ones to see Enchanted. still feeling thankful # 18:50 in a tryptophan coma # Automatically shipped by LoudTwitter 7:03:35 PM

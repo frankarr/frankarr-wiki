@@ -3,6 +3,7 @@ title: "500 (aka D) days"
 platform: "linkedin"
 era: "microsoft"
 source_url: "https://frankarr.com/2019/05/23/500-aka-d-days/"
+date: "2019-05-23"
 ---
 
 500 (aka D) days

@@ -8,4 +8,4 @@ tags:
   - "Random"
 ---
 
-Friday, 10 December 2004 Frank as a South Park Character I always wondered what I would look like as a South Park Character. ** UPDATE ** :  New Link to make your own here [listening to: The Twelve Days of Christmas - The Seekers ] 8:11:49 PM comment [ ] trackback [ ] G!  Random © Copyright 2006 Frank Arrigo. A Geek Microsoft Blogger Last update: 8/07/2006; 10:13:59 AM.
+Friday, 10 December 2004 Frank as a South Park Character I always wondered what I would look like as a South Park Character. ** UPDATE ** :  New Link to make your own here [listening to: The Twelve Days of Christmas - The Seekers ] 8:11:49 PM

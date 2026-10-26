@@ -9,4 +9,4 @@ tags:
   - "My Interests"
 ---
 
-Thursday, 1 June 2006 news about upcoming Saints V Demons The Age Saints still strong: Daniher sportal.com.au, Australia - 30 May 2006 Melbourne coach Neale Daniher expects the Saints to be as hard and competitive as ever ... It was a bad loss with Lenny (Hayes) out, but St Kilda probably haven ... Hayes absence won't derail title bid, vows Thomas Sydney Morning Herald Hayes knee blow heads heavy toll Australian all 17 related » 8:16:04 PM comment [ ] trackback [ ] G!  My Hobbies  My Interests © Copyright 2006 Frank Arrigo. A Geek Microsoft Blogger Last update: 8/07/2006; 10:41:16 AM.
+Thursday, 1 June 2006 news about upcoming Saints V Demons The Age Saints still strong: Daniher sportal.com.au, Australia - 30 May 2006 Melbourne coach Neale Daniher expects the Saints to be as hard and competitive as ever ... It was a bad loss with Lenny (Hayes) out, but St Kilda probably haven ... Hayes absence won't derail title bid, vows Thomas Sydney Morning Herald Hayes knee blow heads heavy toll Australian all 17 related » 8:16:04 PM

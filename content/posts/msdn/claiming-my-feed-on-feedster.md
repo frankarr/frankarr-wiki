@@ -6,4 +6,4 @@ source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/claiming-m
 date: "2004-11-05"
 ---
 
-Claiming my feed on feedster No Need to Click Here - I'm just claiming my feed at Feedster Additional resources Last updated on 2004-11-05
+Claiming my feed on feedster No Need to Click Here - I'm just claiming my feed at Feedster

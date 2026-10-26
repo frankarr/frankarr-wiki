@@ -6,4 +6,4 @@ source_url: "https://learn.microsoft.com/en-us/archive/blogs/frankarr/msdn-austr
 date: "2006-07-27"
 ---
 
-MSDN Australia News and Events : Now in a blog A new blog has appeared - MSDN Australia News and Events I wonder what that will be about? [ Currently Playing : Four Seasons in One Day - Crowded House - Recurring Dream: The Very Best of Crowded House (02:48) ] Additional resources Last updated on 2006-07-27
+MSDN Australia News and Events : Now in a blog A new blog has appeared - MSDN Australia News and Events I wonder what that will be about? [ Currently Playing : Four Seasons in One Day - Crowded House - Recurring Dream: The Very Best of Crowded House (02:48) ]

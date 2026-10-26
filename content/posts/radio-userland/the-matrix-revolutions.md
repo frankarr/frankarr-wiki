@@ -8,4 +8,4 @@ tags:
   - "My Interests"
 ---
 
-Tuesday, 11 November 2003 Matrix Revolutions' Ends Week on Top (AP) . AP - The Matrix Revolutions finished off the sci-fi saga in a downward spiral, taking in $48.5 million domestically over opening weekend, barely half the haul of its predecessor last spring. [ Yahoo! News - Entertainment ] [listening to: Angel - Madonna ] 10:41:20 AM comment [ ] trackback [ ]  My Interests © Copyright 2006 Frank Arrigo. A Geek Microsoft Blogger Last update: 8/07/2006; 9:50:33 AM.
+Tuesday, 11 November 2003 Matrix Revolutions' Ends Week on Top (AP) . AP - The Matrix Revolutions finished off the sci-fi saga in a downward spiral, taking in $48.5 million domestically over opening weekend, barely half the haul of its predecessor last spring. [ Yahoo! News - Entertainment ] [listening to: Angel - Madonna ] 10:41:20 AM

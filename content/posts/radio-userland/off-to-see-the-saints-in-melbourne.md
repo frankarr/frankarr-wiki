@@ -9,4 +9,4 @@ tags:
   - "My Hobbies"
 ---
 
-Friday, 13 August 2004 off to see the saints in melbourne I'm heading down the Melbourne this weekend with my big boy Billy to see the Saints play the Kangaroos at Telstra Dome on Sunday , This is a surprise trip for Billy- my gift to him for his birthday. The good news is that Round 20 is a Designated Home Game even though it is an away game for the Saints I wont get a chance to post until I get back from Melbourne on Sunday evening! 6:34:12 PM comment [ ] trackback [ ] G!  Family  My Hobbies © Copyright 2006 Frank Arrigo. A Geek Microsoft Blogger Last update: 8/07/2006; 10:09:47 AM.
+Friday, 13 August 2004 off to see the saints in melbourne I'm heading down the Melbourne this weekend with my big boy Billy to see the Saints play the Kangaroos at Telstra Dome on Sunday , This is a surprise trip for Billy- my gift to him for his birthday. The good news is that Round 20 is a Designated Home Game even though it is an away game for the Saints I wont get a chance to post until I get back from Melbourne on Sunday evening! 6:34:12 PM
