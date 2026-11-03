@@ -2,7 +2,9 @@
 
 **Frank Arrigo — Digital Archive Wiki (2003–2026)**
 
-A public archive of everything Frank Arrigo wrote across the web over 40+ years in Australian technology. 4,000+ posts. One place. Work in Progress 🚧
+A public archive of everything Frank Arrigo wrote across the web over 40+ years in Australian technology. 4,000+ posts. One place. 
+
+Work in Progress 🚧
 
 🌐 **[wiki.frankarr.com](https://wiki.frankarr.com)**
 
