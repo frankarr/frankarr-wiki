@@ -3,7 +3,7 @@ title: "first post"
 platform: "blogspot"
 era: "microsoft"
 source_url: "https://frankarr.blogspot.com/2003/06/first-post.html"
-date: "Sunday, Ju"
+date: "2003-06-29"
 ---
 
 heres my 1st blogger post thanks to the new google toolbar

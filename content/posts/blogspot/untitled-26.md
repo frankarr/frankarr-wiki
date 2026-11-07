@@ -3,7 +3,7 @@ title: "taking advantage of exceptionally sunny sunday. going to a harvest festi
 platform: "blogspot"
 era: "microsoft"
 source_url: "https://frankarr.blogspot.com/2008/09/taking-advantage-of-exceptionally-sunny.html"
-date: "Monday, Se"
+date: "2008-09-29"
 ---
 
 taking advantage of exceptionally sunny sunday. going to a harvest festival
